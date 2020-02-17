@@ -95,7 +95,7 @@ class Control extends React.Component<ControlProps, ControlState> {
   }
 
   render() {
-    return(
+    return (
       <ControlWrapper>
         <Span padding="1em"> Number of Taxis to Display: </Span>
         <InputWrapper>

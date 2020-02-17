@@ -3,7 +3,7 @@ import { combineEpics } from 'redux-observable';
 import getTaxiListEpic from './control-epic';
 
 const epics = combineEpics(
-  ...getTaxiListEpic
+  // ...getTaxiListEpic
 );
 
 export default epics;

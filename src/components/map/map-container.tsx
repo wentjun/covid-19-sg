@@ -8,18 +8,16 @@ import Map from './map';
 
 type Action = ActionType<typeof actions>;
 
-interface OwnProps {
-}
-
 const mapStateToProps = (state: RootState) => ({
   loading: !state.map.ready,
   latitude: state.map.latitude,
   longitude: state.map.longitude,
   zoom: state.map.zoom,
-  taxiLocations: state.map.taxiLocations
+  taxiLocations: state.map.taxiLocations,
+  clusterData: state.map.clusterData
 });
 
-const mapDispatchToProps = (dispatch: Dispatch<Action>, props: OwnProps) => bindActionCreators({
+const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({
   mapReady: () => actions.mapReady(),
   updateCurrentLocation: (longitude: number, latitude: number) => actions.updateCurrentLocation(longitude, latitude)
 }, dispatch);

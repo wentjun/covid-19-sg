@@ -36,12 +36,13 @@
     ]
   },
   "devDependencies": {
-    "@types/react-redux": "^7.1.7",
+    "@types/geojson": "^7946.0.7",
     "@types/jest": "25.1.2",
     "@types/mapbox-gl": "1.7.0",
     "@types/node": "13.7.1",
     "@types/react": "16.9.19",
     "@types/react-dom": "16.9.5",
+    "@types/react-redux": "^7.1.7",
     "@types/styled-components": "^4.4.3",
     "redux-devtools": "^3.5.0",
     "tslint": "^6.0.0",

@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.809796, 1.257736]
+      },
+      "properties": {
+        "id": "case-1",
+        "title": "Case 1",
+        "confirmed": "2020-01-23",
+        "discharged": null,
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-first-case-of-wuhan-virus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.858465, 1.307610]
+      },
+      "properties": {
+        "id": "case-2",
+        "title": "Case 2",
+        "confirmed": "2020-01-24",
+        "discharged": "2020-02-07",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.809796, 1.257736]
+      },
+      "properties": {
+        "id": "case-3",
+        "title": "Case 3",
+        "confirmed": "2020-01-24",
+        "discharged": null,
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.820195, 1.252415]
+      },
+      "properties": {
+        "id": "case-4",
+        "title": "Case 4",
+        "confirmed": "2020-01-25",
+        "discharged": "2020-02-12",
+        "hospital": "Sengkang General Hospital",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.900648, 1.308570]
+      },
+      "properties": {
+        "id": "case-5",
+        "title": "Case 5",
+        "confirmed": "2020-01-27",
+        "discharged": null,
+        "hospital": "National Centre for Infectious Diseases",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.945253, 1.371061]
+      },
+      "properties": {
+        "id": "case-6",
+        "title": "Case 6",
+        "confirmed": "2020-01-27",
+        "discharged": null,
+        "hospital": "Changi General Hospital",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.860595, 1.283346]
+      },
+      "properties": {
+        "id": "case-7",
+        "title": "Case 7",
+        "confirmed": "2020-01-27",
+        "discharged": "2020-02-04",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.877308, 1.350397]
+      },
+      "properties": {
+        "id": "case-8",
+        "title": "Case 8",
+        "confirmed": "2020-01-29",
+        "discharged": null,
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.877308, 1.350397]
+      },
+      "properties": {
+        "id": "case-9",
+        "title": "Case 9",
+        "confirmed": "2020-01-29",
+        "discharged": null,
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.863305, 1.271200]
+      },
+      "properties": {
+        "id": "case-10",
+        "title": "Case 10",
+        "confirmed": "2020-01-29",
+        "discharged": "2020-02-09",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556"
+      }
+    }
+  ]
+}
