@@ -1,7 +1,7 @@
-import { ActionType, getType } from 'typesafe-actions';
+import { ActionType, getType } from "typesafe-actions";
 
-import * as actions from '../actions';
-import { TaxiResponse } from '../../shared/models/taxi-response';
+import * as actions from "../actions";
+import { TaxiResponse } from "../../shared/models/taxi-response";
 
 type Action = ActionType<typeof actions>;
 
@@ -13,17 +13,18 @@ export interface MapState {
   readonly taxiLocations?: TaxiResponse;
 }
 
-const initialState = {
+const initialState: MapState = {
   ready: false,
-  latitude: 51.5049375,
-  longitude: -0.0964509,
-  zoom: 14
+  latitude: 1.3550417673789497,
+  longitude: 103.81799604387754,
+  zoom: 9.8
 };
 
-export const mapReducer = (state: MapState = initialState, action: Action): MapState => {
-
+export const mapReducer = (
+  state: MapState = initialState,
+  action: Action
+): MapState => {
   switch (action.type) {
-
     case getType(actions.mapReady):
       return {
         ...state,
@@ -35,12 +36,6 @@ export const mapReducer = (state: MapState = initialState, action: Action): MapS
         ...state,
         latitude: action.payload.latitude,
         longitude: action.payload.longitude
-      };
-
-    case getType(actions.updateTaxiLocations):
-      return {
-        ...state,
-        taxiLocations: action.payload
       };
 
     default:

@@ -12,13 +12,13 @@ interface OwnProps {
 }
 
 const mapStateToProps = (state: RootState) => ({
-  taxiCount: state.control.taxiCount,
-  pickupEta: state.control.pickupEta,
-  errorMessage: state.control.errorMessage
+  // taxiCount: state.control.taxiCount,
+  // pickupEta: state.control.pickupEta,
+  // errorMessage: state.control.errorMessage
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>, props: OwnProps) => bindActionCreators({
-  setTaxiCount: (taxiCount: string) => actions.setTaxiCount(taxiCount),
+  // setTaxiCount: (taxiCount: string) => actions.setTaxiCount(taxiCount),
   mapReady: () => actions.mapReady()
 }, dispatch);
 

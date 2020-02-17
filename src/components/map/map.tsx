@@ -1,9 +1,9 @@
-import mapboxgl, { MapMouseEvent } from 'mapbox-gl';
-import React from 'react';
-import styled from 'styled-components';
+import mapboxgl, { MapMouseEvent } from "mapbox-gl";
+import React from "react";
+import styled from "styled-components";
 
-import { TaxiResponse } from '../../shared/models/taxi-response';
-import { Symbols } from './symbols';
+import { TaxiResponse } from "../../shared/models/taxi-response";
+import { Symbols } from "./symbols";
 
 export interface MapProps {
   mapReady: () => void;
@@ -14,8 +14,7 @@ export interface MapProps {
   taxiLocations?: TaxiResponse;
 }
 
-interface MapState {
-}
+interface MapState {}
 
 const MapWrapper = styled.div`
   width: 75vw;
@@ -33,7 +32,8 @@ const MapContainer = styled.div`
   height: inherit;
 `;
 
-mapboxgl.accessToken = 'pk.eyJ1Ijoid2VudGp1biIsImEiOiJjandmODc5cngwcDJjNDNwYjhtOXZqejVtIn0.1l6XNJgy4pkY7TWEV58pVQ';
+mapboxgl.accessToken =
+  "pk.eyJ1Ijoid2VudGp1biIsImEiOiJjandmODc5cngwcDJjNDNwYjhtOXZqejVtIn0.1l6XNJgy4pkY7TWEV58pVQ";
 
 class Map extends React.Component<MapProps, MapState> {
   private mapContainer: any;
@@ -60,17 +60,17 @@ class Map extends React.Component<MapProps, MapState> {
     this.map = new mapboxgl.Map({
       center: [longitude, latitude],
       container: this.mapContainer,
-      style: 'mapbox://styles/mapbox/streets-v9',
+      style: "mapbox://styles/mapbox/streets-v9",
       zoom
     });
     // add zoom and rotation controls to the map.
     this.map.addControl(new mapboxgl.NavigationControl());
     // disable default "double click to zoom" behaviour
     this.map.doubleClickZoom.disable();
-    this.map.on('load', () => {
+    this.map.on("load", () => {
       this.props.mapReady();
-      this.loadCurrentLocationMarker();
-      this.loadTaxiMarkersLayer();
+      // this.loadCurrentLocationMarker();
+      // this.loadTaxiMarkersLayer();
     });
     // set center on double click event location
     this.updateCurrentLocationMarker();
@@ -78,39 +78,44 @@ class Map extends React.Component<MapProps, MapState> {
 
   loadCurrentLocationMarker() {
     const { longitude, latitude } = this.props;
-    this.map.loadImage(Symbols.currentLocationMarker, (error: any, image: HTMLElement) => {
+    this.map.loadImage(
+      Symbols.currentLocationMarker,
+      (error: any, image: HTMLElement) => {
         if (error) {
           throw error;
         }
-        this.map.addImage('currentLocationMarker', image);
+        this.map.addImage("currentLocationMarker", image);
 
-        this.map.addSource('currentLocationSource', {
-          type: 'geojson',
+        this.map.addSource("currentLocationSource", {
+          type: "geojson",
           data: {
-            type: 'FeatureCollection',
-            features: [{
-              type: 'Feature',
-              geometry: {
-                type: 'Point',
-                coordinates: [longitude, latitude]
+            type: "FeatureCollection",
+            features: [
+              {
+                type: "Feature",
+                geometry: {
+                  type: "Point",
+                  coordinates: [longitude, latitude]
+                }
               }
-            }]
+            ]
           }
         });
         this.map.addLayer({
-          id: 'currentLocationLayer',
-          type: 'symbol',
+          id: "currentLocationLayer",
+          type: "symbol",
           layout: {
-            'icon-image': 'currentLocationMarker',
-            'icon-size': 0.4
+            "icon-image": "currentLocationMarker",
+            "icon-size": 0.4
           },
-          source: 'currentLocationSource'
+          source: "currentLocationSource"
         });
-      });
+      }
+    );
   }
 
   updateCurrentLocationMarker() {
-    this.map.on('dblclick', (e: MapMouseEvent)  => {
+    this.map.on("dblclick", (e: MapMouseEvent) => {
       const { lng, lat } = e.lngLat;
       this.props.updateCurrentLocation(lng, lat);
       this.map.flyTo({
@@ -118,18 +123,22 @@ class Map extends React.Component<MapProps, MapState> {
         speed: 0.6,
         zoom: 14
       });
-      const getCurrentLocationSource = this.map.getSource('currentLocationSource');
+      const getCurrentLocationSource = this.map.getSource(
+        "currentLocationSource"
+      );
       const { latitude, longitude } = this.props;
       if (getCurrentLocationSource && latitude && longitude) {
         const updatedGeoJson = {
-          type: 'FeatureCollection',
-          features: [{
-            type: 'Feature',
-            geometry: {
-              type: 'Point',
-              coordinates: [longitude, latitude]
+          type: "FeatureCollection",
+          features: [
+            {
+              type: "Feature",
+              geometry: {
+                type: "Point",
+                coordinates: [longitude, latitude]
+              }
             }
-          }]
+          ]
         };
         getCurrentLocationSource.setData(updatedGeoJson);
       }
@@ -138,35 +147,35 @@ class Map extends React.Component<MapProps, MapState> {
 
   loadTaxiMarkersLayer() {
     this.map.loadImage(Symbols.taxiMarker, (error: any, image: HTMLElement) => {
-        if (error) {
-          throw error;
-        }
-        this.map.addImage('taxiMarker', image);
+      if (error) {
+        throw error;
+      }
+      this.map.addImage("taxiMarker", image);
 
-        this.map.addSource('taxiSource', {
-          type: 'geojson',
-          data: {
-            type: 'FeatureCollection',
-            features: []
-          }
-        });
-        this.map.addLayer({
-          id: 'taxiLayer',
-          type: 'symbol',
-          layout: {
-            'icon-image': 'taxiMarker',
-            'icon-size': 0.5,
-            'icon-rotate': ['get', 'rotate']
-          },
-          source: 'taxiSource'
-        });
-        // ensure current location layer will have higher z-index priority over taxi layer
-        this.map.moveLayer('currentLocationLayer');
+      this.map.addSource("taxiSource", {
+        type: "geojson",
+        data: {
+          type: "FeatureCollection",
+          features: []
+        }
       });
+      this.map.addLayer({
+        id: "taxiLayer",
+        type: "symbol",
+        layout: {
+          "icon-image": "taxiMarker",
+          "icon-size": 0.5,
+          "icon-rotate": ["get", "rotate"]
+        },
+        source: "taxiSource"
+      });
+      // ensure current location layer will have higher z-index priority over taxi layer
+      this.map.moveLayer("currentLocationLayer");
+    });
   }
 
   updateTaxiLocations() {
-    const getTaxiSource = this.map.getSource('taxiSource');
+    const getTaxiSource = this.map.getSource("taxiSource");
     const { taxiLocations } = this.props;
 
     if (taxiLocations && getTaxiSource) {
@@ -174,19 +183,19 @@ class Map extends React.Component<MapProps, MapState> {
       const res = taxiLocations.drivers.map(driver => {
         const { longitude, latitude, bearing } = driver.location;
         return {
-          type: 'Point',
+          type: "Point",
           properties: {
             // set rotation for each marker based on bearing
             rotate: bearing
           },
           geometry: {
-            type: 'Point',
+            type: "Point",
             coordinates: [longitude, latitude]
           }
         };
       });
       const updatedGeoJson = {
-        type: 'FeatureCollection',
+        type: "FeatureCollection",
         features: res
       };
       // update taxi layer with updated geojson object
@@ -195,9 +204,9 @@ class Map extends React.Component<MapProps, MapState> {
   }
 
   render() {
-    return(
+    return (
       <MapWrapper>
-        <MapContainer ref={el => this.mapContainer = el} />
+        <MapContainer ref={el => (this.mapContainer = el)} />
       </MapWrapper>
     );
   }

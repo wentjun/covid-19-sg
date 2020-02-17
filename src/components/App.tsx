@@ -21,7 +21,7 @@ class App extends React.Component<AppProps, {}> {
   render() {
     return (
       <AppWrapper>
-        <Control />
+        {/*<Control />*/}
         <Map />
       </AppWrapper>
     );

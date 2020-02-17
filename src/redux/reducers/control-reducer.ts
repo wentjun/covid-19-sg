@@ -11,35 +11,17 @@ export interface ControlState {
   readonly errorMessage?: string;
 }
 
-const initialState = {
+const initialState: ControlState = {
   loading: false,
   taxiCount: '5',
   pickupEta: 0
 };
 
-export const controlReducer = (state: ControlState = initialState, action: Action): ControlState => {
-
+export const controlReducer = (
+  state: ControlState = initialState,
+  action: Action
+): ControlState => {
   switch (action.type) {
-
-    case getType(actions.setTaxiCount):
-      return {
-        ...state,
-        taxiCount: action.payload.taxiCount
-      };
-
-    case getType(actions.getTaxiEta):
-      return {
-        ...state,
-        errorMessage: undefined,
-        pickupEta: action.payload.pickupEta
-      };
-
-      case getType(actions.updateTaxiLocationsError):
-        return {
-          ...state,
-          errorMessage: action.payload
-        };
-
     default:
       return state;
   }
