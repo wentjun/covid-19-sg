@@ -150,6 +150,81 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.820195, 1.252415]
+      },
+      "properties": {
+        "id": "case-11",
+        "title": "Case 11",
+        "confirmed": "2020-01-29",
+        "discharged": "2020-02-10",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.820195, 1.252415]
+      },
+      "properties": {
+        "id": "case-12",
+        "title": "Case 12",
+        "confirmed": "2020-01-29",
+        "discharged": "2020-02-12",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846090, 1.285819]
+      },
+      "properties": {
+        "id": "case-13",
+        "title": "Case 13",
+        "confirmed": "2020-01-30",
+        "discharged": "2020-02-09",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.737294, 1.337087]
+      },
+      "properties": {
+        "id": "case-14",
+        "title": "Case 14",
+        "confirmed": "2020-01-30",
+        "discharged": "2020-02-17",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.991531, 1.364474]
+      },
+      "properties": {
+        "id": "case-15",
+        "title": "Case 15",
+        "confirmed": "2020-01-31",
+        "discharged": "2020-02-16",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/health/wuhan-virus-first-singaporean-confirmed-to-have-virus-she-was-on-scoot-flight-from"
+      }
     }
   ]
 }
