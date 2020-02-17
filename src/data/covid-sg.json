@@ -225,6 +225,81 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/wuhan-virus-first-singaporean-confirmed-to-have-virus-she-was-on-scoot-flight-from"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.825716, 1.296291]
+      },
+      "properties": {
+        "id": "case-16",
+        "title": "Case 16",
+        "confirmed": "2020-01-31",
+        "discharged": null,
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.991531, 1.364474]
+      },
+      "properties": {
+        "id": "case-17",
+        "title": "Case 17",
+        "confirmed": "2020-01-31",
+        "discharged": "2020-02-11",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.878151, 1.311611]
+      },
+      "properties": {
+        "id": "case-18",
+        "title": "Case 18",
+        "confirmed": "2020-02-01",
+        "discharged": null,
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.861699, 1.310990]
+      },
+      "properties": {
+        "id": "case-19",
+        "title": "Case 19",
+        "confirmed": "2020-02-03",
+        "discharged": null,
+        "hospital": " Singapore General Hospital",
+        "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.861699, 1.310990]
+      },
+      "properties": {
+        "id": "case-20",
+        "title": "Case 20",
+        "confirmed": "2020-02-04",
+        "discharged": null,
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
+      }
     }
   ]
 }

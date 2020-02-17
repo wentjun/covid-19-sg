@@ -162,7 +162,6 @@ class Map extends React.Component<MapProps> {
       const features = this.map.queryRenderedFeatures(e.point, {
         layers: [MapSchema.SinglePointLayer]
       });
-      console.log(features);
       const { lng, lat } = e.lngLat;
       this.map.easeTo({
         center: [lng, lat],
