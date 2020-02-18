@@ -1,9 +1,10 @@
-import mapboxgl, { MapMouseEvent } from 'mapbox-gl';
+import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource } from 'mapbox-gl';
 import React from 'react';
 import styled from 'styled-components';
-
 import { TaxiResponse } from '../../shared/models/taxi-response';
 import { MapSchema } from '../../shared/models/enums';
+import { PointProperties } from '../../shared/models/PointProperties';
+import { FeatureCollection } from 'geojson';
 
 export interface MapProps {
   mapReady: () => void;
@@ -12,7 +13,7 @@ export interface MapProps {
   latitude: number;
   zoom: number;
   taxiLocations?: TaxiResponse;
-  clusterData: any;
+  clusterData: FeatureCollection;
 }
 
 const MapWrapper = styled.div`
@@ -36,7 +37,7 @@ mapboxgl.accessToken =
 
 class Map extends React.Component<MapProps> {
   private mapContainer: any;
-  private map: any;
+  private map?: MapboxContainer;
 
   constructor(props: MapProps) {
     super(props);
@@ -44,15 +45,10 @@ class Map extends React.Component<MapProps> {
 
   componentDidMount() {
     this.loadMap();
-    this.onMapMove();
-  }
-
-  componentDidUpdate() {
-    // this.updateTaxiLocations();
   }
 
   componentWillUnmount() {
-    this.map.remove();
+    this.map?.remove();
   }
 
   loadMap() {
@@ -61,7 +57,8 @@ class Map extends React.Component<MapProps> {
       center: [longitude, latitude],
       container: this.mapContainer,
       style: 'mapbox://styles/mapbox/dark-v9?optimize=true',
-      zoom
+      zoom,
+      maxZoom: 18
     });
     this.map.doubleClickZoom.disable();
     this.map.on('load', () => {
@@ -75,7 +72,7 @@ class Map extends React.Component<MapProps> {
   loadCluster() {
     const { clusterData } = this.props;
 
-    this.map.addSource(MapSchema.Source, {
+    this.map?.addSource(MapSchema.Source, {
       type: 'geojson',
       data: clusterData,
       cluster: true,
@@ -83,7 +80,7 @@ class Map extends React.Component<MapProps> {
       clusterRadius: 50
     });
 
-    this.map.addLayer({
+    this.map?.addLayer({
       id: MapSchema.Source,
       type: 'circle',
       source: MapSchema.Source,
@@ -110,7 +107,7 @@ class Map extends React.Component<MapProps> {
       }
     });
 
-    this.map.addLayer({
+    this.map?.addLayer({
       id: MapSchema.ClusterCountLayer,
       type: 'symbol',
       source: MapSchema.Source,
@@ -122,7 +119,7 @@ class Map extends React.Component<MapProps> {
       }
     });
 
-    this.map.addLayer({
+    this.map?.addLayer({
       id: MapSchema.SinglePointLayer,
       type: 'circle',
       source: MapSchema.Source,
@@ -137,19 +134,22 @@ class Map extends React.Component<MapProps> {
   }
 
   onClusterClick() {
-    this.map.on('click', MapSchema.Source, (e: MapMouseEvent) => {
-      const features = this.map.queryRenderedFeatures(e.point, {
+    this.map?.on('click', MapSchema.Source, (e: MapLayerMouseEvent) => {
+      const features = this.map?.queryRenderedFeatures(e.point, {
         layers: [MapSchema.Source]
       });
-      const clusterId = features[0].properties.cluster_id;
-      this.map.getSource(MapSchema.Source).getClusterExpansionZoom(
+      const clusterId = features?.[0].properties?.cluster_id;
+      const source = this.map?.getSource(MapSchema.Source) as GeoJSONSource;
+      source.getClusterExpansionZoom(
         clusterId,
         (err: Error, zoom: number) => {
-          if (err) {
+          const geometry = features?.[0]?.geometry;
+          if (err || geometry?.type !== 'Point' || !geometry.coordinates) {
             return;
           }
-          this.map.easeTo({
-            center: features[0].geometry.coordinates,
+
+          this.map?.easeTo({
+            center: geometry.coordinates as [number, number],
             zoom
           });
         }
@@ -158,29 +158,45 @@ class Map extends React.Component<MapProps> {
   }
 
   onPointClick() {
-    this.map.on('click', MapSchema.SinglePointLayer, (e: MapMouseEvent) => {
-      const features = this.map.queryRenderedFeatures(e.point, {
-        layers: [MapSchema.SinglePointLayer]
-      });
+    this.map?.on('click', MapSchema.SinglePointLayer, (e: MapLayerMouseEvent) => {
+      if (!e.features || e.features?.[0].geometry?.type !== 'Point') {
+        return;
+      }
+
+      // zoom into point
       const { lng, lat } = e.lngLat;
-      this.map.easeTo({
+      this.map?.easeTo({
         center: [lng, lat],
-        zoom: 13
+        zoom: this.map.getZoom() + 1
       });
-    });
-  }
 
-  onMapMove() {
-    this.map.on('move', () => {
-      const { lng, lat } = this.map.getCenter();
+      const { geometry, properties } = e.features?.[0];
+      const { title, source, confirmed, hospital, discharged } = properties as PointProperties;
+      const coordinates = geometry.coordinates.slice() as [number, number];
+      while (Math.abs(lng - coordinates[0]) > 180) {
+        coordinates[0] += lng > coordinates[0] ? 360 : -360;
+      }
 
+      // render popup
+      new mapboxgl.Popup()
+        .setLngLat(coordinates)
+        .setHTML(`
+          <h3>${title}</h3>
+          <span>Confirmed on: </span><strong>${confirmed}</strong>
+          <br />
+          <span>Hospitalised at: </span><strong>${hospital}</strong>
+          <br />
+          ${discharged ? `<span>Discharged on: </span><strong>${discharged}</strong><br />` : ''}
+          ${source ? `<a href=${source} target='_blank'>article</span>` : ''}
+        `)
+        .addTo(this.map as MapboxContainer);
     });
   }
 
   render() {
     return (
       <MapWrapper>
-        <MapContainer ref={el => (this.mapContainer = el)} />
+        <MapContainer ref={(e) => this.mapContainer = e} />
       </MapWrapper>
     );
   }
