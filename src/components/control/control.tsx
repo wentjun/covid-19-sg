@@ -3,14 +3,8 @@ import styled from 'styled-components';
 import { Subject } from 'rxjs';
 
 interface ControlProps {
-  setTaxiCount: (taxiCount: string) => {};
-  mapReady: () => void;
-  taxiCount: string;
-  pickupEta: number;
-  errorMessage?: string;
-}
-
-interface ControlState {
+  toggleDisplayTransmissionClusters: (displayTransmissionClusters: boolean) => {};
+  displayTransmissionClusters: boolean;
 }
 
 interface StyledProps {
@@ -18,14 +12,15 @@ interface StyledProps {
   fontSize?: string;
 }
 
-const ControlWrapper = styled.span`
-  width: 25vw;
-  display: flex;
-  flex-flow: column wrap;
-
-  @media all and (max-width: 1024px) {
-    width: 100vw;
-  }
+const ControlWrapper = styled.div`
+  background-color: rgba(0,0,0, 0.5);
+  color: white;
+  width: 20vw;
+  height: 10vh;
+  position: absolute;
+  z-index: 1;
+  top: 1em;
+  left: 1em;
 `;
 
 const Span = styled.span`
@@ -75,60 +70,21 @@ const EtaIndicator = styled.div`
   justify-content: center;
 `;
 
-class Control extends React.Component<ControlProps, ControlState> {
-  private unsubscribe: Subject<void> = new Subject();
+const Control: React.FC<ControlProps> = (props) => {
+  const { toggleDisplayTransmissionClusters, displayTransmissionClusters } = props;
+  const unsubscribe: Subject<void> = new Subject();
 
-  constructor(props: ControlProps) {
-    super(props);
-    // bind context of 'this' to event handler
-    this.handleInputChange = this.handleInputChange.bind(this);
-  }
+  const handleCheck = (e: React.ChangeEvent<HTMLInputElement>) => {
+    toggleDisplayTransmissionClusters(e.target.checked);
+  };
 
-  componentWillUnmount() {
-    this.unsubscribe.next();
-    this.unsubscribe.complete();
-  }
-
-  handleInputChange(event: React.ChangeEvent<HTMLInputElement>) {
-    const taxiAmount: string = event.target.value;
-    this.props.setTaxiCount(taxiAmount);
-  }
-
-  render() {
-    return (
-      <ControlWrapper>
-        <Span padding="1em"> Number of Taxis to Display: </Span>
-        <InputWrapper>
-          <Input
-            id="taxiRangeSliderInput"
-            type="range"
-            min="1"
-            max="50"
-            value={this.props.taxiCount}
-            onChange={this.handleInputChange}
-            step="1"
-          />
-          <Input
-            id="taxiTextInput"
-            type="text"
-            min="1"
-            max="50"
-            value={this.props.taxiCount}
-            onChange={this.handleInputChange}
-          />
-          {this.props.errorMessage && <Span color="#96281b" fontSize="0.6em">{this.props.errorMessage}</Span>}
-        </InputWrapper>
-        <SectionSeparator />
-        <EtaIndicatorWrapper>
-          <Span padding="1em"> Your taxi will arrive in approximately </Span>
-          <EtaIndicator>
-            <Span fontSize="2.5em" color="#049372">{this.props.pickupEta}</Span>
-            <Span>mins</Span>
-          </EtaIndicator>
-        </EtaIndicatorWrapper>
-      </ControlWrapper>
-    );
-  }
+  return (
+    <ControlWrapper>
+    <span>Toggle Options</span>
+    <input type='checkbox' checked={displayTransmissionClusters} onChange={handleCheck} />
+    <label>Transmission Clusters</label>
+    </ControlWrapper>
+  );
 
 }
 

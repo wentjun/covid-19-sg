@@ -12,14 +12,12 @@ interface OwnProps {
 }
 
 const mapStateToProps = (state: RootState) => ({
-  // taxiCount: state.control.taxiCount,
-  // pickupEta: state.control.pickupEta,
-  // errorMessage: state.control.errorMessage
+  displayTransmissionClusters: state.control.displayTransmissionClusters,
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>, props: OwnProps) => bindActionCreators({
-  // setTaxiCount: (taxiCount: string) => actions.setTaxiCount(taxiCount),
-  mapReady: () => actions.mapReady()
+  toggleDisplayTransmissionClusters: (displayTransmissionClusters) =>
+    actions.toggleDisplayTransmissionClusters(displayTransmissionClusters),
 }, dispatch);
 
 export default connect(mapStateToProps, mapDispatchToProps)(Control);

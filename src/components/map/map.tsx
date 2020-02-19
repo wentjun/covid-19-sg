@@ -17,11 +17,8 @@ export interface MapProps {
 }
 
 const MapWrapper = styled.div`
-  width: 75vw;
-  @media all and (max-width: 1024px) {
-    width: 100vw;
-    height: 75vh;
-  }
+  width: 100vw;
+  height: 100vh
 `;
 
 const MapContainer = styled.div`

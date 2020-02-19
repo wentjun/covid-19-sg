@@ -6,15 +6,13 @@ type Action = ActionType<typeof actions>;
 
 export interface ControlState {
   readonly loading: boolean;
-  readonly taxiCount: string;
-  readonly pickupEta: number;
   readonly errorMessage?: string;
+  readonly displayTransmissionClusters: boolean
 }
 
 const initialState: ControlState = {
   loading: false,
-  taxiCount: '5',
-  pickupEta: 0
+  displayTransmissionClusters: false
 };
 
 export const controlReducer = (
@@ -24,5 +22,12 @@ export const controlReducer = (
   switch (action.type) {
     default:
       return state;
+
+    case getType(actions.toggleDisplayTransmissionClusters):
+      return {
+        ...state,
+        displayTransmissionClusters: action.payload.displayTransmissionClusters
+      };
   }
+
 };
