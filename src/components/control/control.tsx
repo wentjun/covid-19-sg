@@ -1,18 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Feature } from 'geojson';
-import { ClusterZones, ClusterLocation } from '../../shared/models/ClusterZones';
+import { ClusterLocation } from '../../shared/models/ClusterZones';
 
 interface ControlProps {
   toggleDisplayTransmissionClusters: (displayTransmissionClusters: boolean) => void;
   setSelectedCluster: (selectedCluster: ClusterLocation) => void;
   displayTransmissionClusters: boolean;
-  transmissionClusterData: Feature;
-}
-
-interface StyledProps {
-  padding?: string;
-  fontSize?: string;
 }
 
 const ControlWrapper = styled.div`
@@ -29,14 +22,21 @@ const ClusterSelect = styled.select`
   width: 100%;
 `;
 
+const CLUSTER_LOCATIONS: ClusterLocation[] = [
+  'Grace Assembly of God Church (Tanglin)',
+  'Grace Assembly of God Church (Bukit Batok)',
+  'Yong Thai Hang',
+  'The Life Church and Missions Singapore',
+  'Grand Hyatt Singapore' ,
+  'Seletar Aerospace Heights'
+];
+
 const Control: React.FC<ControlProps> = (props) => {
   const {
     toggleDisplayTransmissionClusters,
     displayTransmissionClusters,
-    transmissionClusterData,
     setSelectedCluster
   } = props;
-  const { locations } = transmissionClusterData.properties as ClusterZones;
 
   const handleCheck = (e: React.ChangeEvent<HTMLInputElement>) => {
     toggleDisplayTransmissionClusters(e.target.checked);
@@ -53,10 +53,14 @@ const Control: React.FC<ControlProps> = (props) => {
       <label>Transmission Clusters</label>
       <br />
       <span>Currently viewing:</span>
-      <ClusterSelect onChange={handleClusterSelect} defaultValue=''>
+      <ClusterSelect
+        disabled={!displayTransmissionClusters}
+        onChange={handleClusterSelect}
+        defaultValue=''
+      >
         <option disabled value=''>- select a location -</option>
         {
-          locations.map((name: ClusterLocation) => <option key={name}>{name}</option>)
+          CLUSTER_LOCATIONS.map((name: ClusterLocation) => <option key={name}>{name}</option>)
         }
       </ClusterSelect>
     </ControlWrapper>

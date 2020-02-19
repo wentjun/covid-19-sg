@@ -1190,7 +1190,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [103.879046, 1.394049]
       },
       "properties": {
         "id": "case-80",
@@ -1205,12 +1205,57 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [103.823638, 1.280671]
       },
       "properties": {
         "id": "case-81",
         "title": "Case 81",
         "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.723248, 1.348317]
+      },
+      "properties": {
+        "id": "case-82",
+        "title": "Case 82",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "id": "case-83",
+        "title": "Case 83",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "id": "case-84",
+        "title": "Case 84",
+        "confirmed": "2020-02-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""

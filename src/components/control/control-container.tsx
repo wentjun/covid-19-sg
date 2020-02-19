@@ -9,7 +9,6 @@ import Control from './control';
 type Action = ActionType<typeof actions>;
 
 const mapStateToProps = (state: RootState) => ({
-  transmissionClusterData: state.map.transmissionClusterData,
   displayTransmissionClusters: state.control.displayTransmissionClusters
 });
 

@@ -4,8 +4,8 @@ import styled from 'styled-components';
 import { TaxiResponse } from '../../shared/models/taxi-response';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { ClusterLocation, ClusterZones } from '../../shared/models/ClusterZones';
-import { FeatureCollection, Feature } from 'geojson';
+import { ClusterLocation } from '../../shared/models/ClusterZones';
+import { FeatureCollection } from 'geojson';
 
 export interface MapProps {
   mapReady: () => void;
@@ -15,7 +15,7 @@ export interface MapProps {
   zoom: number;
   taxiLocations?: TaxiResponse;
   clusterData: FeatureCollection;
-  transmissionClusterData: Feature;
+  transmissionClusterData: FeatureCollection;
   displayTransmissionClusters: boolean;
   selectedCluster?: ClusterLocation;
 }
@@ -45,7 +45,7 @@ class Map extends React.Component<MapProps> {
   }
 
   componentDidUpdate(prevProps: MapProps) {
-    const { displayTransmissionClusters, selectedCluster, transmissionClusterData } = this.props;
+    const { displayTransmissionClusters, selectedCluster } = this.props;
     if (displayTransmissionClusters !== prevProps.displayTransmissionClusters) {
       if (displayTransmissionClusters) {
         this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'visible');
@@ -57,10 +57,6 @@ class Map extends React.Component<MapProps> {
     if (selectedCluster !== prevProps.selectedCluster) {
       this.zoomToTransmissionCluster();
     }
-
-    // const { locations } = transmissionClusterData.properties as ClusterZones;
-    // console.log(transmissionClusterData);
-    // console.log(locations.findIndex(location => location === selectedCluster));
   }
 
   componentWillUnmount() {
@@ -68,13 +64,13 @@ class Map extends React.Component<MapProps> {
   }
 
   zoomToTransmissionCluster() {
-    const { transmissionClusterData, selectedCluster } = this.props;
-    const { geometry } = transmissionClusterData;
-    const { locations } = transmissionClusterData.properties as ClusterZones;
-    const polygonIndex = locations.findIndex(location => location === selectedCluster);
+    const { transmissionClusterData: { features }, selectedCluster } = this.props;
+    const polygon = features.find(polygon => polygon.properties?.location === selectedCluster);
+    if (polygon?.geometry.type !== 'Polygon') {
+      return;
+    }
     this.map?.easeTo({
-      // @ts-ignore
-      center: geometry.coordinates[polygonIndex][0] as [number, number],
+      center: polygon?.geometry.coordinates[0][0] as [number, number],
       zoom: 17
     });
   }

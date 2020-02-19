@@ -3,7 +3,7 @@ import * as actions from '../actions';
 import { TaxiResponse } from '../../shared/models/taxi-response';
 import covidData from '../../data/covid-sg.json';
 import transmissionCluster from '../../data/transmission-cluster.json';
-import { FeatureCollection, Feature } from 'geojson';
+import { FeatureCollection } from 'geojson';
 
 type Action = ActionType<typeof actions>;
 
@@ -14,7 +14,7 @@ export interface MapState {
   readonly zoom: number;
   readonly taxiLocations?: TaxiResponse;
   readonly clusterData: FeatureCollection;
-  readonly transmissionClusterData: Feature;
+  readonly transmissionClusterData: FeatureCollection;
 
 }
 
@@ -24,7 +24,7 @@ const initialState: MapState = {
   longitude: 103.81799604387754,
   zoom: 9.8,
   clusterData: covidData as FeatureCollection,
-  transmissionClusterData: transmissionCluster as Feature
+  transmissionClusterData: transmissionCluster as FeatureCollection
 };
 
 export const mapReducer = (
