@@ -1,13 +1,14 @@
 import { ActionType, getType } from 'typesafe-actions';
-
 import * as actions from '../actions';
+import { ClusterLocation } from '../../shared/models/ClusterZones';
 
 type Action = ActionType<typeof actions>;
 
 export interface ControlState {
   readonly loading: boolean;
   readonly errorMessage?: string;
-  readonly displayTransmissionClusters: boolean
+  readonly displayTransmissionClusters: boolean;
+  readonly selectedCluster?: ClusterLocation;
 }
 
 const initialState: ControlState = {
@@ -27,6 +28,12 @@ export const controlReducer = (
       return {
         ...state,
         displayTransmissionClusters: action.payload.displayTransmissionClusters
+      };
+
+    case getType(actions.setSelectedCluster):
+      return {
+        ...state,
+        selectedCluster: action.payload.selectedCluster
       };
   }
 

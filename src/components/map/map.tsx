@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { TaxiResponse } from '../../shared/models/taxi-response';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
+import { ClusterLocation, ClusterZones } from '../../shared/models/ClusterZones';
 import { FeatureCollection, Feature } from 'geojson';
 
 export interface MapProps {
@@ -16,6 +17,7 @@ export interface MapProps {
   clusterData: FeatureCollection;
   transmissionClusterData: Feature;
   displayTransmissionClusters: boolean;
+  selectedCluster?: ClusterLocation;
 }
 
 const MapWrapper = styled.div`
@@ -38,29 +40,43 @@ class Map extends React.Component<MapProps> {
   private mapContainer: any;
   private map?: MapboxContainer;
 
-  constructor(props: MapProps) {
-    super(props);
-  }
-
   componentDidMount() {
     this.loadMap();
   }
 
   componentDidUpdate(prevProps: MapProps) {
-    const { displayTransmissionClusters } = this.props;
-    if (displayTransmissionClusters === prevProps.displayTransmissionClusters) {
-      return ;
+    const { displayTransmissionClusters, selectedCluster, transmissionClusterData } = this.props;
+    if (displayTransmissionClusters !== prevProps.displayTransmissionClusters) {
+      if (displayTransmissionClusters) {
+        this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'visible');
+      } else {
+        this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'none');
+      }
     }
 
-    if (displayTransmissionClusters) {
-      this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'visible');
-    } else {
-      this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'none');
+    if (selectedCluster !== prevProps.selectedCluster) {
+      this.zoomToTransmissionCluster();
     }
+
+    // const { locations } = transmissionClusterData.properties as ClusterZones;
+    // console.log(transmissionClusterData);
+    // console.log(locations.findIndex(location => location === selectedCluster));
   }
 
   componentWillUnmount() {
     this.map?.remove();
+  }
+
+  zoomToTransmissionCluster() {
+    const { transmissionClusterData, selectedCluster } = this.props;
+    const { geometry } = transmissionClusterData;
+    const { locations } = transmissionClusterData.properties as ClusterZones;
+    const polygonIndex = locations.findIndex(location => location === selectedCluster);
+    this.map?.easeTo({
+      // @ts-ignore
+      center: geometry.coordinates[polygonIndex][0] as [number, number],
+      zoom: 17
+    });
   }
 
   loadMap() {

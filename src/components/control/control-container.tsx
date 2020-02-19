@@ -8,17 +8,15 @@ import Control from './control';
 
 type Action = ActionType<typeof actions>;
 
-interface OwnProps {
-}
-
 const mapStateToProps = (state: RootState) => ({
   transmissionClusterData: state.map.transmissionClusterData,
   displayTransmissionClusters: state.control.displayTransmissionClusters
 });
 
-const mapDispatchToProps = (dispatch: Dispatch<Action>, props: OwnProps) => bindActionCreators({
+const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({
   toggleDisplayTransmissionClusters: (displayTransmissionClusters) =>
     actions.toggleDisplayTransmissionClusters(displayTransmissionClusters),
+  setSelectedCluster: (selectedCluster) => actions.setSelectedCluster(selectedCluster)
 }, dispatch);
 
 export default connect(mapStateToProps, mapDispatchToProps)(Control);

@@ -5,5 +5,4 @@ export enum MapSchema {
   SinglePointLayer = 'single-point-layer',
   TransmissionClusterSource = 'transmission-cluster-source',
   TransmissionClusterLayer = 'transmission-cluster-layer'
-
 }
