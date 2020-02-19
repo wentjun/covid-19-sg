@@ -14,7 +14,8 @@ const mapStateToProps = (state: RootState) => ({
   longitude: state.map.longitude,
   zoom: state.map.zoom,
   taxiLocations: state.map.taxiLocations,
-  clusterData: state.map.clusterData
+  clusterData: state.map.clusterData,
+  displayTransmissionClusters: state.control.displayTransmissionClusters,
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({

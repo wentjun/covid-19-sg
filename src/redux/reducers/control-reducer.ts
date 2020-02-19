@@ -12,7 +12,7 @@ export interface ControlState {
 
 const initialState: ControlState = {
   loading: false,
-  displayTransmissionClusters: false
+  displayTransmissionClusters: true
 };
 
 export const controlReducer = (

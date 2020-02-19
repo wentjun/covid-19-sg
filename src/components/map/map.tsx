@@ -14,6 +14,7 @@ export interface MapProps {
   zoom: number;
   taxiLocations?: TaxiResponse;
   clusterData: FeatureCollection;
+  displayTransmissionClusters: boolean;
 }
 
 const MapWrapper = styled.div`
@@ -44,6 +45,19 @@ class Map extends React.Component<MapProps> {
     this.loadMap();
   }
 
+  componentDidUpdate(prevProps: MapProps) {
+    const { displayTransmissionClusters } = this.props;
+    if (displayTransmissionClusters === prevProps.displayTransmissionClusters) {
+      return ;
+    }
+
+    if (displayTransmissionClusters) {
+      this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'visible');
+    } else {
+      this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'none');
+    }
+  }
+
   componentWillUnmount() {
     this.map?.remove();
   }
@@ -63,6 +77,7 @@ class Map extends React.Component<MapProps> {
       this.loadCluster();
       this.onClusterClick();
       this.onPointClick();
+      this.loadTransmissionClusterPolygons();
     });
   }
 
@@ -187,6 +202,41 @@ class Map extends React.Component<MapProps> {
           ${source ? `<a href=${source} target='_blank'>article</span>` : ''}
         `)
         .addTo(this.map as MapboxContainer);
+    });
+  }
+
+  loadTransmissionClusterPolygons() {
+    // @ts-ignore
+    this.map?.addSource(MapSchema.TransmissionClusterSource, {
+      type: 'geojson',
+      data: {
+        type: 'Feature',
+        geometry: {
+          type: 'Polygon',
+          coordinates:[
+            [[103.8162054,1.2942341],[103.8162448,1.2941594],[103.8164828,1.2941906],[103.8164886,1.2941627],[103.8165394,1.2941718],[103.8165296,1.2942161],[103.816601,1.2942259],[103.81661,1.2941701],[103.8166847,1.2941832],[103.8166773,1.2942481],[103.8166642,1.2942464],[103.8166256,1.2945911],[103.816555,1.2945911],[103.816555,1.2945788],[103.8164705,1.2945632],[103.8164746,1.2945427],[103.8164492,1.2945443],[103.8164451,1.2945558],[103.8162604,1.2944983],[103.8162743,1.2944475],[103.816262,1.2944442],[103.8162333,1.2943383],[103.8162218,1.294335],[103.8162095,1.2942825],[103.8162185,1.2942834],[103.8162054,1.2942341]],
+            [[103.7472061,1.3649022],[103.7472129,1.3646251],[103.7472751,1.3646266],[103.7472744,1.3646549],[103.7474147,1.3646584],[103.7474152,1.3646376],[103.7474944,1.3646396],[103.7474936,1.3646754],[103.7476122,1.3646783],[103.7476065,1.364912],[103.7475686,1.3649111],[103.7475657,1.3650281],[103.7474985,1.3650264],[103.7475013,1.3649094],[103.7472061,1.3649022]],
+            [[103.8616363,1.3109204],[103.8617648,1.3107418],[103.8618294,1.3107882],[103.8617009,1.3109668],[103.8616363,1.3109204]],
+            [[103.8906279,1.327888],[103.8907128,1.3277274],[103.8909643,1.3278603],[103.8908797,1.3280203],[103.8906582,1.3279032],[103.890655,1.3279093],[103.8906475,1.3279155],[103.8906379,1.3279146],[103.8906317,1.3279071],[103.8906326,1.3278975],[103.8906356,1.327892],[103.8906279,1.327888]],
+            [[103.833100,1.306790],[103.833787,1.306466],[103.833530,1.305930],[103.832846,1.306249]],
+            [[103.864784, 1.406049],[103.865185, 1.406714],[103.865741,1.406528],[103.865447,1.405958]]
+          ]
+        },
+        properties: {
+          locations: ['Grace Assembly of God Church (Tanglin)', 'Grace Assembly of God Church (Bukit Batok)', 'Yong Thai Hang', 'The Life Church and Missions Singapore', 'Grand Hyatt Singapore', 'Seletar Aerospace Heights (polygons drawn for this location are an approximate)']
+        }
+      }
+    });
+
+    this.map?.addLayer({
+      id: MapSchema.TransmissionClusterLayer,
+      type: 'fill',
+      source: MapSchema.TransmissionClusterSource,
+      layout: {},
+      paint: {
+        'fill-color': '#088',
+        'fill-opacity': 0.8
+      }
     });
   }
 
