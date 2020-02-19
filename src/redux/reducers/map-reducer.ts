@@ -1,8 +1,9 @@
 import { ActionType, getType } from 'typesafe-actions';
 import * as actions from '../actions';
 import { TaxiResponse } from '../../shared/models/taxi-response';
-import data from '../../data/covid-sg.json';
-import { FeatureCollection } from 'geojson';
+import covidData from '../../data/covid-sg.json';
+import transmissionCluster from '../../data/transmission-cluster.json';
+import { FeatureCollection, Feature } from 'geojson';
 
 type Action = ActionType<typeof actions>;
 
@@ -13,6 +14,8 @@ export interface MapState {
   readonly zoom: number;
   readonly taxiLocations?: TaxiResponse;
   readonly clusterData: FeatureCollection;
+  readonly transmissionClusterData: Feature;
+
 }
 
 const initialState: MapState = {
@@ -20,7 +23,8 @@ const initialState: MapState = {
   latitude: 1.3550417673789497,
   longitude: 103.81799604387754,
   zoom: 9.8,
-  clusterData: data as FeatureCollection,
+  clusterData: covidData as FeatureCollection,
+  transmissionClusterData: transmissionCluster as Feature
 };
 
 export const mapReducer = (

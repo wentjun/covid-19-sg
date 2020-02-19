@@ -15,6 +15,7 @@ const mapStateToProps = (state: RootState) => ({
   zoom: state.map.zoom,
   taxiLocations: state.map.taxiLocations,
   clusterData: state.map.clusterData,
+  transmissionClusterData: state.map.transmissionClusterData,
   displayTransmissionClusters: state.control.displayTransmissionClusters,
 });
 

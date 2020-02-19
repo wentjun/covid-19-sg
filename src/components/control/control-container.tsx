@@ -12,7 +12,8 @@ interface OwnProps {
 }
 
 const mapStateToProps = (state: RootState) => ({
-  displayTransmissionClusters: state.control.displayTransmissionClusters,
+  transmissionClusterData: state.map.transmissionClusterData,
+  displayTransmissionClusters: state.control.displayTransmissionClusters
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>, props: OwnProps) => bindActionCreators({
