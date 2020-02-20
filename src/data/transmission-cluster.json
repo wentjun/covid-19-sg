@@ -112,7 +112,8 @@
          ]
        },
        "properties": {
-         "location": "Grace Assembly of God Church (Tanglin)"
+         "location": "Grace Assembly of God Church (Tanglin)",
+         "cases": [48, 49, 51, 53, 54, 57, 58, 60, 61, 62, 63, 66, 67, 68, 70, 71, 73, 74, 78, 80, 81, 84]
        }
      },
      {
@@ -185,7 +186,8 @@
          ]
        },
        "properties": {
-         "location": "Grace Assembly of God Church (Bukit Batok)"
+         "location": "Grace Assembly of God Church (Bukit Batok)",
+         "cases": [48, 49, 51, 53, 54, 57, 58, 60, 61, 62, 63, 66, 67, 68, 70, 71, 73, 74, 78, 80, 81, 84]
        }
      },
      {
@@ -218,7 +220,8 @@
          ]
        },
        "properties": {
-         "location": "Yong Thai Hang"
+         "location": "Yong Thai Hang",
+         "cases": [19, 20, 24, 34, 40]
        }
      },
      {
@@ -279,7 +282,8 @@
          ]
        },
        "properties": {
-         "location": "The Life Church and Missions Singapore"
+         "location": "The Life Church and Missions Singapore",
+         "cases": [8, 9, 31, 33, 38, 83]
        }
      },
      {
@@ -308,7 +312,8 @@
          ]
        },
        "properties": {
-         "location": "Grand Hyatt Singapore"
+         "location": "Grand Hyatt Singapore",
+         "cases": [30, 36, 39]
        }
      },
      {
@@ -337,7 +342,8 @@
          ]
        },
        "properties": {
-         "location": "Seletar Aerospace Heights"
+         "location": "Seletar Aerospace Heights",
+         "cases": [42, 47, 52, 56, 69]
        }
      }
    ]

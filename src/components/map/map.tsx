@@ -1,11 +1,12 @@
-import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource } from 'mapbox-gl';
+import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds } from 'mapbox-gl';
 import React from 'react';
 import styled from 'styled-components';
 import { TaxiResponse } from '../../shared/models/taxi-response';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { ClusterLocation } from '../../shared/models/ClusterZones';
-import { FeatureCollection } from 'geojson';
+import { ClusterLocation, TransmissionClusterProps } from '../../shared/models/ClusterZones';
+import { FeatureCollection, Position } from 'geojson';
+import { MapState } from '../../redux/reducers/map-reducer';
 
 export interface MapProps {
   mapReady: () => void;
@@ -15,7 +16,7 @@ export interface MapProps {
   zoom: number;
   taxiLocations?: TaxiResponse;
   clusterData: FeatureCollection;
-  transmissionClusterData: FeatureCollection;
+  transmissionClusterData: MapState['transmissionClusterData'];
   displayTransmissionClusters: boolean;
   selectedCluster?: ClusterLocation;
 }
@@ -69,10 +70,11 @@ class Map extends React.Component<MapProps> {
     if (polygon?.geometry.type !== 'Polygon') {
       return;
     }
-    this.map?.easeTo({
-      center: polygon?.geometry.coordinates[0][0] as [number, number],
-      zoom: 17
-    });
+    const { properties, geometry: { coordinates } } = polygon;
+
+    const polygonCoordinates = coordinates[0] as Array<[number, number]>;
+
+    this.zoomIntoTransmissionClusterBounds(polygonCoordinates, properties);
   }
 
   loadMap() {
@@ -90,6 +92,7 @@ class Map extends React.Component<MapProps> {
       this.loadCluster();
       this.onClusterClick();
       this.onPointClick();
+      this.onTransmissionClusterClick();
       this.loadTransmissionClusterPolygons();
     });
   }
@@ -163,6 +166,7 @@ class Map extends React.Component<MapProps> {
       const features = this.map?.queryRenderedFeatures(e.point, {
         layers: [MapSchema.Source]
       });
+
       const clusterId = features?.[0].properties?.cluster_id;
       const source = this.map?.getSource(MapSchema.Source) as GeoJSONSource;
       source.getClusterExpansionZoom(
@@ -216,6 +220,54 @@ class Map extends React.Component<MapProps> {
         `)
         .addTo(this.map as MapboxContainer);
     });
+  }
+
+  onTransmissionClusterClick() {
+    this.map?.on('click', MapSchema.TransmissionClusterLayer, (e: MapLayerMouseEvent) => {
+      const features = this.map?.queryRenderedFeatures(e.point, {
+        layers: [MapSchema.TransmissionClusterLayer]
+      });
+      if (features?.[0].geometry.type !== 'Polygon') {
+        return;
+      }
+      const { geometry: { coordinates }, properties} = features[0];
+      const polygonCoordinates = coordinates[0] as Array<[number, number]>;
+      const processed = {
+        ...properties,
+        cases: JSON.parse(properties?.cases)
+      } as TransmissionClusterProps;
+      this.zoomIntoTransmissionClusterBounds(polygonCoordinates, processed);
+    });
+  }
+
+  zoomIntoTransmissionClusterBounds(coordinates: Array<[number, number]>, properties: TransmissionClusterProps | null) {
+    const bounds = coordinates.reduce((bounds: any, coord: any) => {
+      return bounds.extend(coord);
+    }, new LngLatBounds(coordinates[0], coordinates[0]));
+
+    this.map?.fitBounds(bounds, {
+      padding: 20,
+      linear: true
+    });
+
+    setTimeout(() => {
+      const popupLocation = this.map?.getCenter();
+
+      if (!popupLocation || !properties) {
+        return;
+      }
+      const { cases, location } = properties;
+
+      // render popup
+      new mapboxgl.Popup()
+        .setLngLat(popupLocation)
+        .setHTML(`
+          <span>Location: <strong>${location}</strong></span>
+          <br />
+          <span>Cases: </span><strong>${cases.map((a: number) => `<a >#${a}</a>`)}</strong>
+        `)
+        .addTo(this.map as MapboxContainer);
+    }, 1500);
   }
 
   loadTransmissionClusterPolygons() {

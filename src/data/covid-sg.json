@@ -11,7 +11,7 @@
         "id": "case-1",
         "title": "Case 1",
         "confirmed": "2020-01-23",
-        "discharged": "",
+        "discharged": "2020-02-19",
         "hospital": "Singapore General Hospital",
         "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-first-case-of-wuhan-virus"
       }
@@ -476,7 +476,7 @@
         "id": "case-32",
         "title": "Case 32",
         "confirmed": "2020-02-06",
-        "discharged": "",
+        "discharged": "2020-02-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/coronavirus-what-we-know-about-the-3-new-singaporean-patients-confirmed-with-no"
       }
@@ -491,7 +491,7 @@
         "id": "case-33",
         "title": "Case 33",
         "confirmed": "2020-02-06",
-        "discharged": "",
+        "discharged": "2020-02-19",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-what-we-know-local-transmission-clusters-singapore-12412558"
       }
@@ -656,7 +656,7 @@
         "id": "case-44",
         "title": "Case 44",
         "confirmed": "2020-02-08",
-        "discharged": "",
+        "discharged": "2020-02-19",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.straitstimes.com/singapore/certis-man-who-served-orders-for-quarantine-1-of-2-new-cases"
       }
@@ -821,7 +821,7 @@
         "id": "case-55",
         "title": "Case 55",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-02-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
