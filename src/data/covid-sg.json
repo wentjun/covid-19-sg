@@ -86,7 +86,7 @@
         "id": "case-6",
         "title": "Case 6",
         "confirmed": "2020-01-27",
-        "discharged": "",
+        "discharged": "2020-02-20",
         "hospital": "Changi General Hospital",
         "source": ""
       }
@@ -236,7 +236,7 @@
         "id": "case-16",
         "title": "Case 16",
         "confirmed": "2020-01-31",
-        "discharged": "",
+        "discharged": "2020-02-20",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156"
       }
@@ -986,7 +986,7 @@
         "id": "case-66",
         "title": "Case 66",
         "confirmed": "2020-02-14",
-        "discharged": "",
+        "discharged": "2020-02-20",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -1235,7 +1235,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [103.904546, 1.387353]
       },
       "properties": {
         "id": "case-83",
@@ -1250,12 +1250,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [103.881252, 1.323315]
       },
       "properties": {
         "id": "case-84",
         "title": "Case 84",
         "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "id": "case-85",
+        "title": "Case 85",
+        "confirmed": "2020-02-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""

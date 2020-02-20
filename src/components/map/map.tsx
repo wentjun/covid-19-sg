@@ -1,12 +1,14 @@
-import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds } from 'mapbox-gl';
+import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds, Popup } from 'mapbox-gl';
 import React from 'react';
 import styled from 'styled-components';
-import { TaxiResponse } from '../../shared/models/taxi-response';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { ClusterLocation, TransmissionClusterProps } from '../../shared/models/ClusterZones';
+import { ClusterLocation, TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { FeatureCollection, Position } from 'geojson';
 import { MapState } from '../../redux/reducers/map-reducer';
+import CasePopup from '../popups/case-popup';
+import ReactDOM from 'react-dom';
+import ClusterPopup from '../popups/cluster-popup';
 
 export interface MapProps {
   mapReady: () => void;
@@ -14,7 +16,6 @@ export interface MapProps {
   longitude: number;
   latitude: number;
   zoom: number;
-  taxiLocations?: TaxiResponse;
   clusterData: FeatureCollection;
   transmissionClusterData: MapState['transmissionClusterData'];
   displayTransmissionClusters: boolean;
@@ -79,7 +80,7 @@ class Map extends React.Component<MapProps> {
 
   loadMap() {
     const { longitude, latitude, zoom, mapReady } = this.props;
-    this.map = new mapboxgl.Map({
+    this.map = new MapboxContainer({
       center: [longitude, latitude],
       container: this.mapContainer,
       style: 'mapbox://styles/mapbox/dark-v9?optimize=true',
@@ -205,19 +206,13 @@ class Map extends React.Component<MapProps> {
       while (Math.abs(lng - coordinates[0]) > 180) {
         coordinates[0] += lng > coordinates[0] ? 360 : -360;
       }
+      const popupContent = document.createElement('div');
+      ReactDOM.render(<CasePopup {...properties as PointProperties} />, popupContent);
 
       // render popup
-      new mapboxgl.Popup()
+      new Popup()
         .setLngLat(coordinates)
-        .setHTML(`
-          <h3>${title}</h3>
-          <span>Confirmed on: </span><strong>${confirmed}</strong>
-          <br />
-          <span>Hospitalised at: </span><strong>${hospital}</strong>
-          <br />
-          ${discharged ? `<span>Discharged on: </span><strong>${discharged}</strong><br />` : ''}
-          ${source ? `<a href=${source} target='_blank'>article</span>` : ''}
-        `)
+        .setDOMContent(popupContent)
         .addTo(this.map as MapboxContainer);
     });
   }
@@ -235,12 +230,12 @@ class Map extends React.Component<MapProps> {
       const processed = {
         ...properties,
         cases: JSON.parse(properties?.cases)
-      } as TransmissionClusterProps;
+      } as TransmissionClusterProperties;
       this.zoomIntoTransmissionClusterBounds(polygonCoordinates, processed);
     });
   }
 
-  zoomIntoTransmissionClusterBounds(coordinates: Array<[number, number]>, properties: TransmissionClusterProps | null) {
+  zoomIntoTransmissionClusterBounds(coordinates: Array<[number, number]>, properties: TransmissionClusterProperties | null) {
     const bounds = coordinates.reduce((bounds: any, coord: any) => {
       return bounds.extend(coord);
     }, new LngLatBounds(coordinates[0], coordinates[0]));
@@ -256,16 +251,13 @@ class Map extends React.Component<MapProps> {
       if (!popupLocation || !properties) {
         return;
       }
-      const { cases, location } = properties;
+      const popupContent = document.createElement('div');
+      ReactDOM.render(<ClusterPopup {...properties as TransmissionClusterProperties} />, popupContent);
 
       // render popup
-      new mapboxgl.Popup()
+      new Popup()
         .setLngLat(popupLocation)
-        .setHTML(`
-          <span>Location: <strong>${location}</strong></span>
-          <br />
-          <span>Cases: </span><strong>${cases.map((a: number) => `<a >#${a}</a>`)}</strong>
-        `)
+        .setDOMContent(popupContent)
         .addTo(this.map as MapboxContainer);
     }, 1500);
   }

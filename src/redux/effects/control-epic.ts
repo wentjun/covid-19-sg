@@ -4,9 +4,7 @@ import { switchMap, filter, debounceTime, mergeMap } from "rxjs/operators";
 import { ActionType, isActionOf } from "typesafe-actions";
 
 import * as actions from "../actions";
-import { getTaxiList } from "../../shared/services/taxi-service";
 import { RootState } from "../reducers";
-import { TaxiResponse } from "../../shared/models/taxi-response";
 
 type Action = ActionType<typeof actions>;
 

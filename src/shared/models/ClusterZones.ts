@@ -1,4 +1,4 @@
-export interface TransmissionClusterProps {
+export interface TransmissionClusterProperties {
   location: ClusterLocation;
   cases: number[];
 }
