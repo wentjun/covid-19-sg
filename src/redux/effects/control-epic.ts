@@ -1,12 +1,20 @@
-import { Epic } from "redux-observable";
-import { of } from "rxjs";
-import { switchMap, filter, debounceTime, mergeMap } from "rxjs/operators";
-import { ActionType, isActionOf } from "typesafe-actions";
-
-import * as actions from "../actions";
-import { RootState } from "../reducers";
+import { Epic } from 'redux-observable';
+import { of } from 'rxjs';
+import { map, filter, debounceTime, mergeMap, tap } from 'rxjs/operators';
+import { ActionType, isActionOf } from 'typesafe-actions';
+import * as actions from '../actions';
+import { RootState } from '../reducers';
+import covidData from '../../data/covid-sg.json';
 
 type Action = ActionType<typeof actions>;
+
+const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, store) =>
+  action$.pipe(
+    filter(isActionOf(actions.setDateRange)),
+    tap((epic) => {
+      console.log(epic)
+    })
+  );
 
 // const mapReadyEpic: Epic<Action, Action, RootState> = (action$, store) =>
 //   action$.pipe(
@@ -65,5 +73,5 @@ type Action = ActionType<typeof actions>;
 //   );
 
 export default [
-  // mapReadyEpic, getTaxiListEpic, updateCurrentLocationEpic
+  setDateRangeEpic
 ];

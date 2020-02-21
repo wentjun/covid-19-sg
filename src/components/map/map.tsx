@@ -4,11 +4,14 @@ import styled from 'styled-components';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { ClusterLocation, TransmissionClusterProperties } from '../../shared/models/ClusterZones';
-import { FeatureCollection, Position } from 'geojson';
+import { Feature, Point } from 'geojson';
 import { MapState } from '../../redux/reducers/map-reducer';
 import CasePopup from '../popups/case-popup';
 import ReactDOM from 'react-dom';
 import ClusterPopup from '../popups/cluster-popup';
+import along from '@turf/along';
+import length from '@turf/length';
+import { ControlState } from '../../redux/reducers/control-reducer';
 
 export interface MapProps {
   mapReady: () => void;
@@ -16,10 +19,12 @@ export interface MapProps {
   longitude: number;
   latitude: number;
   zoom: number;
-  clusterData: FeatureCollection;
+  clusterData: MapState['clusterData'];
   transmissionClusterData: MapState['transmissionClusterData'];
   displayTransmissionClusters: boolean;
+  displayCaseClusters: boolean;
   selectedCluster?: ClusterLocation;
+  selectedCase?: ControlState['selectedCase'];
 }
 
 const MapWrapper = styled.div`
@@ -47,7 +52,7 @@ class Map extends React.Component<MapProps> {
   }
 
   componentDidUpdate(prevProps: MapProps) {
-    const { displayTransmissionClusters, selectedCluster } = this.props;
+    const { displayTransmissionClusters, selectedCluster, displayCaseClusters, selectedCase } = this.props;
     if (displayTransmissionClusters !== prevProps.displayTransmissionClusters) {
       if (displayTransmissionClusters) {
         this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'visible');
@@ -56,8 +61,24 @@ class Map extends React.Component<MapProps> {
       }
     }
 
+    if (displayCaseClusters !== prevProps.displayCaseClusters) {
+      if (displayCaseClusters) {
+        this.map?.setLayoutProperty(MapSchema.ClusterCountLayer, 'visibility', 'visible');
+        this.map?.setLayoutProperty(MapSchema.ClusterLayer, 'visibility', 'visible');
+        this.map?.setLayoutProperty(MapSchema.SinglePointLayer, 'visibility', 'visible');
+      } else {
+        this.map?.setLayoutProperty(MapSchema.ClusterCountLayer, 'visibility', 'none');
+        this.map?.setLayoutProperty(MapSchema.ClusterLayer, 'visibility', 'none');
+        this.map?.setLayoutProperty(MapSchema.SinglePointLayer, 'visibility', 'none');
+      }
+    }
+
     if (selectedCluster !== prevProps.selectedCluster) {
       this.zoomToTransmissionCluster();
+    }
+
+    if (selectedCase?.properties.id !== prevProps.selectedCase?.properties.id) {
+      this.flyToCase(selectedCase?.geometry.coordinates as [number, number], selectedCase.properties);
     }
   }
 
@@ -110,7 +131,7 @@ class Map extends React.Component<MapProps> {
     });
 
     this.map?.addLayer({
-      id: MapSchema.Source,
+      id: MapSchema.ClusterLayer,
       type: 'circle',
       source: MapSchema.Source,
       filter: ['has', 'point_count'],
@@ -154,7 +175,13 @@ class Map extends React.Component<MapProps> {
       source: MapSchema.Source,
       filter: ['!', ['has', 'point_count']],
       paint: {
-        'circle-color': '#11b4da',
+        'circle-color': [
+          'match',
+          ['get', 'discharged'],
+          '',
+          '#f15a22',
+          '#29f1c3'
+        ],
         'circle-radius': 6,
         'circle-stroke-width': 1,
         'circle-stroke-color': '#fff'
@@ -163,9 +190,9 @@ class Map extends React.Component<MapProps> {
   }
 
   onClusterClick() {
-    this.map?.on('click', MapSchema.Source, (e: MapLayerMouseEvent) => {
+    this.map?.on('click', MapSchema.ClusterLayer, (e: MapLayerMouseEvent) => {
       const features = this.map?.queryRenderedFeatures(e.point, {
-        layers: [MapSchema.Source]
+        layers: [MapSchema.ClusterLayer]
       });
 
       const clusterId = features?.[0].properties?.cluster_id;
@@ -201,19 +228,9 @@ class Map extends React.Component<MapProps> {
       });
 
       const { geometry, properties } = e.features?.[0];
-      const { title, source, confirmed, hospital, discharged } = properties as PointProperties;
       const coordinates = geometry.coordinates.slice() as [number, number];
-      while (Math.abs(lng - coordinates[0]) > 180) {
-        coordinates[0] += lng > coordinates[0] ? 360 : -360;
-      }
-      const popupContent = document.createElement('div');
-      ReactDOM.render(<CasePopup {...properties as PointProperties} />, popupContent);
 
-      // render popup
-      new Popup()
-        .setLngLat(coordinates)
-        .setDOMContent(popupContent)
-        .addTo(this.map as MapboxContainer);
+      this.renderCasePopup(coordinates, properties as PointProperties);
     });
   }
 
@@ -252,15 +269,96 @@ class Map extends React.Component<MapProps> {
         return;
       }
       const popupContent = document.createElement('div');
-      ReactDOM.render(<ClusterPopup {...properties as TransmissionClusterProperties} />, popupContent);
+      ReactDOM.render(<ClusterPopup
+         {...properties as TransmissionClusterProperties}
+         // to-do: handle clicking of each cases
+         onCaseClick={(e) => this.onCaseSelect(e)}
+       />, popupContent);
 
       // render popup
-      new Popup()
+      new Popup({
+        closeOnMove: true
+      })
         .setLngLat(popupLocation)
         .setDOMContent(popupContent)
         .addTo(this.map as MapboxContainer);
     }, 1500);
   }
+
+  onCaseSelect(e: number) {
+    const { clusterData } = this.props;
+    const selectedCase = clusterData.features.find((feature: Feature<Point, PointProperties>) => feature.properties.id === `case-${e}`);
+    if (!selectedCase) {
+      return;
+    }
+    const { geometry: { coordinates }, properties } = selectedCase;
+
+    this.flyToCase(coordinates as [number, number], properties);
+  }
+
+  flyToCase(coordinates: [number, number], properties: PointProperties) {
+    this.map?.flyTo({
+      center: coordinates,
+      curve: 1.1,
+      speed: 2,
+      zoom: 16
+    });
+
+    setTimeout(() => {
+      this.renderCasePopup(coordinates as [number, number], properties);
+    }, 1500)
+  }
+
+  // todo: how to best display lines between cluster and cases?
+  // onCaseSelect(e: number, clusterPoint: Position): any {
+  //   const { clusterData } = this.props;
+  //   const selectedCase = clusterData.features.find((feature: Feature<Point, PointProperties>) => feature.properties.id === `case-${e}`);
+  //   if (!selectedCase) {
+  //     return;
+  //   }
+  //   const { geometry: { coordinates } } = selectedCase;
+  //   const arc = [];
+  //
+  //   const route: FeatureCollection = {
+  //     type: 'FeatureCollection',
+  //     features: [
+  //       {
+  //         type: 'Feature',
+  //         properties: {},
+  //         geometry: {
+  //           type: 'LineString',
+  //           coordinates: [coordinates, clusterPoint]
+  //         }
+  //       }
+  //     ]
+  //   };
+  //   const distance = length(route)
+  //   const steps = 500;
+  //   if (route.features[0].geometry.type !== 'LineString') {
+  //     return;
+  //   }
+  //   for (let i = 0; i < distance; i += distance / steps) {
+  //     // @ts-ignore
+  //     const segment = along(route.features[0], i, { units: 'kilometers' });
+  //     arc.push(segment.geometry.coordinates);
+  //   }
+  //   route.features[0].geometry.coordinates = arc;
+  //
+  //   this.map?.addSource('route', {
+  //     type: 'geojson',
+  //     data: route
+  //   });
+  //
+  //   this.map?.addLayer({
+  //     id: 'route',
+  //     source: 'route',
+  //     type: 'line',
+  //     paint: {
+  //       'line-width': 2,
+  //       'line-color': '#007cbf'
+  //     }
+  //   });
+  // }
 
   loadTransmissionClusterPolygons() {
     const { transmissionClusterData } = this.props;
@@ -276,10 +374,28 @@ class Map extends React.Component<MapProps> {
       source: MapSchema.TransmissionClusterSource,
       layout: {},
       paint: {
-        'fill-color': '#088',
+        'fill-color': '#f62459',
         'fill-opacity': 0.8
       }
-    });
+    // ensure transmission cluster is "below" case point
+    }, MapSchema.SinglePointLayer);
+  }
+
+  renderCasePopup(coordinates: [number, number], properties: PointProperties) {
+    // Ensure that if the map is zoomed out such that multiple
+    // copies of the feature are visible, the popup appears
+    // over the copy being pointed to.
+    // while (Math.abs(lng - coordinates[0]) > 180) {
+    //   coordinates[0] += lng > coordinates[0] ? 360 : -360;
+    // }
+    const popupContent = document.createElement('div');
+    ReactDOM.render(<CasePopup {...properties as PointProperties} />, popupContent);
+
+    // render popup
+    new Popup()
+      .setLngLat(coordinates)
+      .setDOMContent(popupContent)
+      .addTo(this.map as MapboxContainer);
   }
 
   render() {

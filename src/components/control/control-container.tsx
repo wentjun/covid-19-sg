@@ -9,13 +9,20 @@ import Control from './control';
 type Action = ActionType<typeof actions>;
 
 const mapStateToProps = (state: RootState) => ({
-  displayTransmissionClusters: state.control.displayTransmissionClusters
+  displayTransmissionClusters: state.control.displayTransmissionClusters,
+  displayCaseClusters: state.control.displayCaseClusters,
+  ready: state.map.ready,
+  clusterData: state.map.clusterData,
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({
   toggleDisplayTransmissionClusters: (displayTransmissionClusters) =>
     actions.toggleDisplayTransmissionClusters(displayTransmissionClusters),
-  setSelectedCluster: (selectedCluster) => actions.setSelectedCluster(selectedCluster)
+  toggleDisplayCaseClusters: (displayCaseClusters) =>
+    actions.toggleDisplayCaseClusters(displayCaseClusters),
+  setSelectedCluster: (selectedCluster) => actions.setSelectedCluster(selectedCluster),
+  setSelectedCase: (selectedCase) => actions.setSelectedCase(selectedCase),
+  setDateRange: (numberOfDays) => actions.setDateRange(numberOfDays)
 }, dispatch);
 
 export default connect(mapStateToProps, mapDispatchToProps)(Control);

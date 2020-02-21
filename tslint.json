@@ -22,6 +22,6 @@
         "typeLiterals": "ignore"
       }
     }],
-    "quotemark": [true, "single", "jsx-double"]
+    "quotemark": [true, "single", "jsx-single"]
   }
 }

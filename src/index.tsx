@@ -45,7 +45,7 @@ function configureStore(initialState?: RootState) {
 
 const store = configureStore();
 
-// epicMiddleware.run(epics);
+epicMiddleware.run(epics);
 
 ReactDOM.render(
   <Provider store={store}>

@@ -16,7 +16,9 @@ const mapStateToProps = (state: RootState) => ({
   clusterData: state.map.clusterData,
   transmissionClusterData: state.map.transmissionClusterData,
   displayTransmissionClusters: state.control.displayTransmissionClusters,
-  selectedCluster: state.control.selectedCluster
+  displayCaseClusters: state.control.displayCaseClusters,
+  selectedCluster: state.control.selectedCluster,
+  selectedCase: state.control.selectedCase
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({
