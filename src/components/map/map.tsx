@@ -12,6 +12,7 @@ import ClusterPopup from '../popups/cluster-popup';
 // import along from '@turf/along';
 // import length from '@turf/length';
 import { ControlState } from '../../redux/reducers/control-reducer';
+import MapPopup from '../popups/popup';
 
 export interface MapProps {
   mapReady: () => void;
@@ -41,6 +42,10 @@ const MapContainer = styled.div`
 
 mapboxgl.accessToken =
   'pk.eyJ1Ijoid2VudGp1biIsImEiOiJjandmODc5cngwcDJjNDNwYjhtOXZqejVtIn0.1l6XNJgy4pkY7TWEV58pVQ';
+
+const POPUP_OPTIONS = {
+  // closeOnMove: true
+};
 
 class Map extends React.Component<MapProps> {
   private mapContainer: any;
@@ -235,13 +240,14 @@ class Map extends React.Component<MapProps> {
       const { lng, lat } = e.lngLat;
       this.map?.easeTo({
         center: [lng, lat],
-        zoom: this.map.getZoom() + 1
+        zoom: 16
       });
 
       const { geometry, properties } = e.features?.[0];
       const coordinates = geometry.coordinates.slice() as [number, number];
-
-      this.renderCasePopup(coordinates, properties as PointProperties);
+      this.map?.once('moveend', () => {
+        this.renderCasePopup(coordinates, properties as PointProperties);
+      })
     });
   }
 
@@ -272,28 +278,30 @@ class Map extends React.Component<MapProps> {
       padding: 20,
       linear: true
     });
-
-    setTimeout(() => {
+    this.map?.once('moveend', () => {
       const popupLocation = this.map?.getCenter();
 
       if (!popupLocation || !properties) {
         return;
       }
-      const popupContent = document.createElement('div');
-      ReactDOM.render(<ClusterPopup
-         {...properties as TransmissionClusterProperties}
-         // to-do: handle clicking of each cases
-         onCaseClick={(e) => this.onCaseSelect(e)}
-       />, popupContent);
 
-      // render popup
-      new Popup({
-        closeOnMove: true
-      })
-        .setLngLat(popupLocation)
-        .setDOMContent(popupContent)
-        .addTo(this.map as MapboxContainer);
-    }, 1500);
+      const existingTransmissionPopup = (document.getElementsByClassName('popup-transmission-content'))[0];
+      if (existingTransmissionPopup) {
+        ReactDOM.unmountComponentAtNode(existingTransmissionPopup);
+      }
+
+      const popupContent = document.createElement('div');
+
+      const { lng, lat } = popupLocation;
+      if (this.map) {
+        ReactDOM.render(<MapPopup
+          coordinates={[lng, lat]}
+          mapRef={this.map}
+          properties={properties}
+          type='transmission'
+         />, popupContent);
+      }
+    });
   }
 
   onCaseSelect(e: number) {
@@ -315,9 +323,9 @@ class Map extends React.Component<MapProps> {
       zoom: 16
     });
 
-    setTimeout(() => {
+    this.map?.once('moveend', () => {
       this.renderCasePopup(coordinates as [number, number], properties);
-    }, 1500)
+    })
   }
 
   // todo: how to best display lines between cluster and cases?
@@ -400,13 +408,20 @@ class Map extends React.Component<MapProps> {
     //   coordinates[0] += lng > coordinates[0] ? 360 : -360;
     // }
     const popupContent = document.createElement('div');
-    ReactDOM.render(<CasePopup {...properties as PointProperties} />, popupContent);
 
-    // render popup
-    new Popup()
-      .setLngLat(coordinates)
-      .setDOMContent(popupContent)
-      .addTo(this.map as MapboxContainer);
+    const existingCasePopup = (document.getElementsByClassName('popup-case-content'))[0];
+    if (existingCasePopup) {
+      ReactDOM.unmountComponentAtNode(existingCasePopup);
+    }
+
+    if (this.map) {
+      ReactDOM.render(<MapPopup
+        coordinates={coordinates}
+        mapRef={this.map}
+        properties={properties}
+        type='case'
+       />, popupContent);
+    }
   }
 
   render() {

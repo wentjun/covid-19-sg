@@ -2,7 +2,7 @@ import React from 'react';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 
 type ClusterPopupProps = TransmissionClusterProperties & {
-  onCaseClick: (patient: number) => void;
+  onCaseClick?: (patient: number) => void;
 };
 
 const ClusterPopup: React.FC<ClusterPopupProps> = (props) => {
@@ -15,7 +15,7 @@ const ClusterPopup: React.FC<ClusterPopupProps> = (props) => {
     <strong>
       {cases.map((patient: number, index) =>
         <span
-          onClick={() => onCaseClick(patient)}
+          // onClick={() => onCaseClick(patient)}
           key={index}
         >
           {`${(index ? ', ' : '')}#${patient}`}
