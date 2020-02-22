@@ -57,8 +57,8 @@ export const controlReducer = (
 
     case getType(actions.setDateRange):
       const dateEndRange = new Date();
-      dateEndRange.setDate(dateEndRange.getDate() + action.payload.numberOfDays);
-      console.log(dateEndRange)
+      dateEndRange.setDate(dateEndRange.getDate() - action.payload.numberOfDays + 1);
+
       return {
         ...state,
         dateEndRange

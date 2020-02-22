@@ -37,11 +37,10 @@ export const mapReducer = (
         ready: true
       };
 
-    case getType(actions.updateCurrentLocation):
+    case getType(actions.setClusterData):
       return {
         ...state,
-        latitude: action.payload.latitude,
-        longitude: action.payload.longitude
+        clusterData: action.payload.clusterData
       };
 
     default:

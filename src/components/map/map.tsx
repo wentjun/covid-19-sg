@@ -3,28 +3,27 @@ import React from 'react';
 import styled from 'styled-components';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { ClusterLocation, TransmissionClusterProperties } from '../../shared/models/ClusterZones';
+import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { Feature, Point } from 'geojson';
 import { MapState } from '../../redux/reducers/map-reducer';
 import CasePopup from '../popups/case-popup';
 import ReactDOM from 'react-dom';
 import ClusterPopup from '../popups/cluster-popup';
-import along from '@turf/along';
-import length from '@turf/length';
+// import along from '@turf/along';
+// import length from '@turf/length';
 import { ControlState } from '../../redux/reducers/control-reducer';
 
 export interface MapProps {
   mapReady: () => void;
-  updateCurrentLocation: (longitude: number, latitude: number) => void;
   longitude: number;
   latitude: number;
   zoom: number;
   clusterData: MapState['clusterData'];
   transmissionClusterData: MapState['transmissionClusterData'];
-  displayTransmissionClusters: boolean;
-  displayCaseClusters: boolean;
-  selectedCluster?: ClusterLocation;
-  selectedCase?: ControlState['selectedCase'];
+  displayTransmissionClusters: ControlState['displayTransmissionClusters'];
+  displayCaseClusters: ControlState['displayCaseClusters'];
+  selectedCluster: ControlState['selectedCluster'];
+  selectedCase: ControlState['selectedCase'];
 }
 
 const MapWrapper = styled.div`
@@ -52,7 +51,14 @@ class Map extends React.Component<MapProps> {
   }
 
   componentDidUpdate(prevProps: MapProps) {
-    const { displayTransmissionClusters, selectedCluster, displayCaseClusters, selectedCase } = this.props;
+    const {
+      displayTransmissionClusters,
+      selectedCluster,
+      displayCaseClusters,
+      selectedCase,
+      clusterData
+     } = this.props;
+
     if (displayTransmissionClusters !== prevProps.displayTransmissionClusters) {
       if (displayTransmissionClusters) {
         this.map?.setLayoutProperty(MapSchema.TransmissionClusterLayer, 'visibility', 'visible');
@@ -79,6 +85,11 @@ class Map extends React.Component<MapProps> {
 
     if (selectedCase?.properties.id !== prevProps.selectedCase?.properties.id) {
       this.flyToCase(selectedCase?.geometry.coordinates as [number, number], selectedCase.properties);
+    }
+
+    if (clusterData.features.length !== prevProps.clusterData.features.length) {
+      const clusterSource = this.map?.getSource(MapSchema.Source) as GeoJSONSource;
+      clusterSource.setData(clusterData);
     }
   }
 

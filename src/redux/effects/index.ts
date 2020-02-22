@@ -1,7 +1,8 @@
 import { combineEpics } from 'redux-observable';
 import controlEpic from './control-epic';
-const epics = combineEpics(
+
+const rootEpic = combineEpics(
   ...controlEpic
 );
 
-export default epics;
+export default rootEpic;

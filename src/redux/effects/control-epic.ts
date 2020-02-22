@@ -1,76 +1,31 @@
 import { Epic } from 'redux-observable';
-import { of } from 'rxjs';
-import { map, filter, debounceTime, mergeMap, tap } from 'rxjs/operators';
+import { map, filter, withLatestFrom } from 'rxjs/operators';
 import { ActionType, isActionOf } from 'typesafe-actions';
 import * as actions from '../actions';
 import { RootState } from '../reducers';
 import covidData from '../../data/covid-sg.json';
+import { Point, Feature, FeatureCollection } from 'geojson';
+import { PointProperties } from '../../shared/models/PointProperties';
 
 type Action = ActionType<typeof actions>;
 
-const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, store) =>
+const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
   action$.pipe(
     filter(isActionOf(actions.setDateRange)),
-    tap((epic) => {
-      console.log(epic)
-    })
-  );
+    withLatestFrom(state$),
+    map((epic) => {
+      const { control: { dateEndRange } } = epic[1];
+      // @ts-ignore
+      const features = covidData.features.filter((feature: Feature<Point, PointProperties>) => new Date(feature.properties.confirmed) <= dateEndRange.setHours(0, 0, 0, 0) );
+      const clusterFeatureCollection: FeatureCollection<Point, PointProperties> = {
+        type: 'FeatureCollection',
+        features
+      };
 
-// const mapReadyEpic: Epic<Action, Action, RootState> = (action$, store) =>
-//   action$.pipe(
-//     filter(isActionOf(actions.mapReady)),
-//     switchMap(() =>
-//       getTaxiList(store.value.map.longitude, store.value.map.latitude, store.value.control.taxiCount).pipe(
-//         mergeMap((response: TaxiResponse) => {
-//           if (response.errorMessage) {
-//             return of(actions.updateTaxiLocationsError(response.errorMessage));
-//           } else {
-//             return ([actions.updateTaxiLocations(response), actions.getTaxiEta(response.pickupEta)]);
-//           }
-//         })
-//     ))
-//   );
-//
-// const updateCurrentLocationEpic: Epic<Action, Action, RootState> = (action$, store) =>
-//   action$.pipe(
-//     filter(isActionOf(actions.updateCurrentLocation)),
-//     debounceTime(500),
-//     switchMap(action =>
-//       getTaxiList(action.payload.longitude, action.payload.latitude, store.value.control.taxiCount).pipe(
-//         mergeMap((response: TaxiResponse) => {
-//           if (response.errorMessage) {
-//             return of(actions.updateTaxiLocationsError(response.errorMessage));
-//           } else {
-//             return ([actions.updateTaxiLocations(response), actions.getTaxiEta(response.pickupEta)]);
-//           }
-//         })
-//       )
-//     )
-//   );
-//
-// const getTaxiListEpic: Epic<Action, Action, RootState> = (action$, store) =>
-//   action$.pipe(
-//     filter(isActionOf(actions.setTaxiCount)),
-//     debounceTime(500),
-//     switchMap(action => {
-//       const regex = /^\d+$/;
-//       // to check if the input is valid (whole numbers, 1 to 50)
-//       if (regex.test(action.payload.taxiCount) && Number(action.payload.taxiCount) > 0 && Number(action.payload.taxiCount) < 51) {
-//         return getTaxiList(store.value.map.longitude, store.value.map.latitude, action.payload.taxiCount).pipe(
-//           mergeMap((response: TaxiResponse) => {
-//             if (response.errorMessage) {
-//               return of(actions.updateTaxiLocationsError(response.errorMessage));
-//             } else {
-//               return ([actions.updateTaxiLocations(response), actions.getTaxiEta(response.pickupEta)]);
-//             }
-//           })
-//         )
-//       } else {
-//         return of(actions.updateTaxiLocationsError('Please enter a valid whole number, from 1 to 50'));
-//       }
-//
-//     })
-//   );
+      return (actions.setClusterData(clusterFeatureCollection));
+    }),
+    // ignoreElements()
+  );
 
 export default [
   setDateRangeEpic

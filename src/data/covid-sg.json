@@ -41,7 +41,7 @@
         "id": "case-3",
         "title": "Case 3",
         "confirmed": "2020-01-24",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "Singapore General Hospital",
         "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected"
       }
@@ -341,7 +341,7 @@
         "id": "case-23",
         "title": "Case 23",
         "confirmed": "2020-02-03",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
       }
@@ -401,7 +401,7 @@
         "id": "case-27",
         "title": "Case 27",
         "confirmed": "2020-02-05",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928"
       }
@@ -746,7 +746,7 @@
         "id": "case-50",
         "title": "Case 50",
         "confirmed": "2020-02-12",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-300-evacuated-from-mbfc-tower-3-after-confirmed-case-at-dbs-asia-central"
       }
@@ -761,7 +761,7 @@
         "id": "case-51",
         "title": "Case 51",
         "confirmed": "2020-02-12",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-senior-pastor-grace-assembly-god-church-12432584"
       }
@@ -776,7 +776,7 @@
         "id": "case-52",
         "title": "Case 52",
         "confirmed": "2020-02-12",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "Tan Tock Seng Hospital",
         "source": ""
       }
@@ -851,7 +851,7 @@
         "id": "case-57",
         "title": "Case 57",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -941,7 +941,7 @@
         "id": "case-63",
         "title": "Case 63",
         "confirmed": "2020-02-14",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -1046,7 +1046,7 @@
         "id": "case-70",
         "title": "Case 70",
         "confirmed": "2020-02-15",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -1241,7 +1241,7 @@
         "id": "case-83",
         "title": "Case 83",
         "confirmed": "2020-02-19",
-        "discharged": "",
+        "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -1256,6 +1256,21 @@
         "id": "case-84",
         "title": "Case 84",
         "confirmed": "2020-02-19",
+        "discharged": "2020-02-21",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.803008, 1.438816]
+      },
+      "properties": {
+        "id": "case-85",
+        "title": "Case 85",
+        "confirmed": "2020-02-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
@@ -1265,11 +1280,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [103.754902, 1.353315]
       },
       "properties": {
-        "id": "case-85",
-        "title": "Case 85",
+        "id": "case-86",
+        "title": "Case 86",
         "confirmed": "2020-02-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",

@@ -4,6 +4,7 @@ import { ClusterLocation } from '../../shared/models/ClusterZones';
 import { MapState } from '../../redux/reducers/map-reducer';
 import { Point, Feature } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
+import { ControlState } from '../../redux/reducers/control-reducer';
 
 interface ControlProps {
   toggleDisplayTransmissionClusters: (displayTransmissionClusters: boolean) => void;
@@ -15,6 +16,7 @@ interface ControlProps {
   displayCaseClusters: boolean;
   ready: boolean;
   clusterData: MapState['clusterData'];
+  dateEndRange: ControlState['dateEndRange'];
 }
 
 type cluster = 'case' | 'transmission';
@@ -25,8 +27,8 @@ const ControlWrapper = styled.div`
   width: 30vw;
   position: absolute;
   z-index: 1;
-  top: 1em;
-  left: 1em;
+  top: 1rem;
+  left: 1rem;
   padding: 0.5rem;
 
   display: flex;
@@ -42,6 +44,10 @@ const Slider = styled.input`
   text-align: center;
 `;
 
+const RangeSpan = styled.span`
+  font-size: 0.8rem;
+`;
+
 const CLUSTER_LOCATIONS: ClusterLocation[] = [
   'Grace Assembly of God Church (Tanglin)',
   'Grace Assembly of God Church (Bukit Batok)',
@@ -50,6 +56,10 @@ const CLUSTER_LOCATIONS: ClusterLocation[] = [
   'Grand Hyatt Singapore' ,
   'Seletar Aerospace Heights'
 ];
+
+const START_DATE = '2020-01-23';
+const DIFFERENCE = +new Date() - +new Date(START_DATE);
+const DAYS  = Math.ceil(DIFFERENCE / (1000 * 60 * 60 * 24));
 
 const Control: React.FC<ControlProps> = (props) => {
   const {
@@ -61,7 +71,8 @@ const Control: React.FC<ControlProps> = (props) => {
     setSelectedCase,
     ready,
     clusterData,
-    setDateRange
+    setDateRange,
+    dateEndRange
   } = props;
 
   const handleCheck = (e: React.ChangeEvent<HTMLInputElement>, type: cluster) => {
@@ -82,13 +93,8 @@ const Control: React.FC<ControlProps> = (props) => {
   };
 
   const handleRangeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setDateRange(Number(e.target.value));
-  }
-
-  const startDate = '2020-01-23';
-  const timeDiff = +new Date() - +new Date(startDate);
-  const days = timeDiff / (1000 * 60 * 60 * 24)
-  console.log(days)
+    setDateRange(DAYS - Number(e.target.value));
+  };
 
   return (
     <ControlWrapper>
@@ -102,7 +108,7 @@ const Control: React.FC<ControlProps> = (props) => {
         />
         <label>Transmission Clusters</label>
       </div>
-      <span>Currently viewing:</span>
+      <span>Jump to:</span>
       <ClusterSelect
         disabled={!displayTransmissionClusters || !ready}
         onChange={(e) => handleClusterSelect(e, 'transmission')}
@@ -121,6 +127,9 @@ const Control: React.FC<ControlProps> = (props) => {
           disabled={!ready}
         />
         <label>Cases Clusters</label>
+      </div>
+      <div>
+        <span>Jump to:</span>
         <ClusterSelect
           disabled={!displayCaseClusters || !ready}
           onChange={(e) => handleClusterSelect(e, 'case')}
@@ -132,15 +141,16 @@ const Control: React.FC<ControlProps> = (props) => {
           }
         </ClusterSelect>
       </div>
+      <span>Date Range:</span>
       <Slider
         id='taxiRangeSliderInput'
         type='range'
-        min='0'
-        max={days}
-        // value={this.props.taxiCount}
+        min='1'
+        max={DAYS}
         onChange={handleRangeChange}
         step='1'
       />
+      <RangeSpan>2020-01-23 to {dateEndRange.toLocaleDateString('fr-CA')}</RangeSpan>
     </ControlWrapper>
   );
 
