@@ -41,6 +41,7 @@ const ControlWrapper = styled.div`
 `;
 
 const ClusterSelect = styled.select`
+  font-size: 16px;
   width: 100%;
 `;
 
@@ -55,8 +56,25 @@ const RangeSpan = styled.span`
 
 const ToggleGroup = styled.div`
   padding: 0.5rem;
-  flex-grow: 1;
-  flex-basis: 0;
+  display: flex;
+  flex-direction: row;
+
+  @media (max-width: 768px) {
+    flex-grow: 1;
+    flex-basis: 0;
+  }
+`;
+
+const ToggleType = styled.div`
+  display: flex;
+  flex-direction: column;
+  > * {
+    padding-bottom: 0.2rem;
+  }
+`;
+
+const ToggleSliderGroup = styled(ToggleGroup)`
+  flex-direction: column;
 `;
 
 const CLUSTER_LOCATIONS: ClusterLocation[] = [
@@ -109,39 +127,37 @@ const Control: React.FC<ControlProps> = (props) => {
 
   return (
     <ControlWrapper>
-    <ToggleGroup>
-      <div>
+      <ToggleGroup>
         <input
           type='checkbox'
           checked={displayTransmissionClusters}
           onChange={(e) => handleCheck(e, 'transmission')}
           disabled={!ready}
         />
-        <label>Transmission Clusters</label>
-      </div>
-      <span>Jump to:</span>
-      <ClusterSelect
-        disabled={!displayTransmissionClusters || !ready}
-        onChange={(e) => handleClusterSelect(e, 'transmission')}
-        defaultValue=''
-      >
-        <option disabled value=''>- select a location -</option>
-        {
-          CLUSTER_LOCATIONS.map((name: ClusterLocation) => <option key={name}>{name}</option>)
-        }
-      </ClusterSelect>
+        <ToggleType>
+          <label>Transmission Clusters</label>
+          <span>Jump to:</span>
+          <ClusterSelect
+            disabled={!displayTransmissionClusters || !ready}
+            onChange={(e) => handleClusterSelect(e, 'transmission')}
+            defaultValue=''
+          >
+            <option disabled value=''>- select a location -</option>
+            {
+              CLUSTER_LOCATIONS.map((name: ClusterLocation) => <option key={name}>{name}</option>)
+            }
+          </ClusterSelect>
+        </ToggleType>
       </ToggleGroup>
       <ToggleGroup>
-        <div>
-          <input
-            type='checkbox'
-            checked={displayCaseClusters}
-            onChange={(e) => handleCheck(e, 'case')}
-            disabled={!ready}
-          />
-          <label>Cases Clusters</label>
-        </div>
-        <div>
+        <input
+          type='checkbox'
+          checked={displayCaseClusters}
+          onChange={(e) => handleCheck(e, 'case')}
+          disabled={!ready}
+        />
+        <ToggleType>
+          <label>Cases</label>
           <span>Jump to:</span>
           <ClusterSelect
             disabled={!displayCaseClusters || !ready}
@@ -153,9 +169,9 @@ const Control: React.FC<ControlProps> = (props) => {
               clusterData.features.map(({ properties: { id, title } }: Feature<Point, PointProperties>, index) => <option key={id} value={index}>{title}</option>)
             }
           </ClusterSelect>
-        </div>
+        </ToggleType>
       </ToggleGroup>
-      <ToggleGroup>
+      <ToggleSliderGroup>
         <span>Date Range:</span>
         <Slider
           id='taxiRangeSliderInput'
@@ -168,7 +184,7 @@ const Control: React.FC<ControlProps> = (props) => {
           disabled={!ready}
         />
         <RangeSpan>2020-01-23 to {dateEndRange.toLocaleDateString('fr-CA')}</RangeSpan>
-      </ToggleGroup>
+      </ToggleSliderGroup>
     </ControlWrapper>
   );
 };
