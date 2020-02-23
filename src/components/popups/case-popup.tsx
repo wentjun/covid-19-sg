@@ -1,7 +1,8 @@
 import React from 'react';
 import { PointProperties } from '../../shared/models/PointProperties';
 
-type CasePopupProps = PointProperties;
+export type CasePopupProps = PointProperties;
+
 const CasePopup: React.FC<CasePopupProps> = (props) => {
   const { title, confirmed, hospital, discharged, source } = props;
 

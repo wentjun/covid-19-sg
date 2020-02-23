@@ -27,7 +27,7 @@ export interface MapProps {
 
 const MapWrapper = styled.div`
   width: 100vw;
-  height: 100vh
+  height: 100vh;
 `;
 
 const MapContainer = styled.div`
@@ -280,20 +280,22 @@ class Map extends React.Component<MapProps> {
       }
 
       const existingTransmissionPopup = (document.getElementsByClassName(MapSchema.TransmissionPopup))[0];
-      if (existingTransmissionPopup) {
-        ReactDOM.unmountComponentAtNode(existingTransmissionPopup);
-      }
+      existingTransmissionPopup?.parentNode?.removeChild(existingTransmissionPopup);
 
       const popupContent = document.createElement('div');
 
       const { lng, lat } = popupLocation;
       if (this.map) {
-        ReactDOM.render(<MapPopup
-          coordinates={[lng, lat]}
-          mapRef={this.map}
-          properties={properties}
-          type='transmission'
-         />, popupContent);
+        ReactDOM.render(
+          <MapPopup
+            coordinates={[lng, lat]}
+            mapRef={this.map}
+            properties={properties}
+            type='transmission'
+            onCaseClick={(e) => this.onCaseSelect(e)}
+          />,
+          popupContent
+        );
       }
     });
   }
@@ -404,17 +406,18 @@ class Map extends React.Component<MapProps> {
     const popupContent = document.createElement('div');
 
     const existingCasePopup = (document.getElementsByClassName(MapSchema.CasePopup))[0];
-    if (existingCasePopup) {
-      ReactDOM.unmountComponentAtNode(existingCasePopup);
-    }
+    existingCasePopup?.parentNode?.removeChild(existingCasePopup);
 
     if (this.map) {
-      ReactDOM.render(<MapPopup
-        coordinates={coordinates}
-        mapRef={this.map}
-        properties={properties}
-        type='case'
-       />, popupContent);
+      ReactDOM.render(
+        <MapPopup
+          coordinates={coordinates}
+          mapRef={this.map}
+          properties={properties}
+          type='case'
+        />,
+        popupContent
+     );
     }
   }
 

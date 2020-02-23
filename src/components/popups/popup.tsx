@@ -1,28 +1,30 @@
 import React from 'react';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { Map, Popup } from 'mapbox-gl';
-import ClusterPopup from './cluster-popup';
+import ClusterPopup, { ClusterPopupProps } from './cluster-popup';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import ReactDOM from 'react-dom';
-import CasePopup from './case-popup';
+import CasePopup, { CasePopupProps } from './case-popup';
 import { MapSchema } from '../../shared/models/enums';
 
-interface MapPopup {
+interface OwnProps {
   coordinates: [number, number];
   mapRef: Map;
   properties: TransmissionClusterProperties | PointProperties;
   type: 'case' | 'transmission';
 }
 
+type MapPopup = OwnProps & Partial<ClusterPopupProps & CasePopupProps>;
+
 const MapPopup: React.FC<MapPopup> = (props) => {
-  const { coordinates, mapRef, properties, type } = props;
+  const { coordinates, mapRef, properties, type, onCaseClick } = props;
   const popupContent = document.createElement('div');
-  if (type === 'transmission') {
+  if (type === 'transmission' && onCaseClick) {
     ReactDOM.render(
       <ClusterPopup
         {...properties as TransmissionClusterProperties}
         // to-do: handle clicking of each cases
-        // onCaseClick={(e) => this.onCaseSelect(e)}
+        onCaseClick={(e) => onCaseClick(e)}
       />,
       popupContent
     );
@@ -35,8 +37,6 @@ const MapPopup: React.FC<MapPopup> = (props) => {
     ReactDOM.render(
       <CasePopup
        {...properties as PointProperties}
-       // to-do: handle clicking of each cases
-       // onCaseClick={(e) => this.onCaseSelect(e)}
       />,
       popupContent
     );

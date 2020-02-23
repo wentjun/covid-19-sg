@@ -1,8 +1,16 @@
 import React from 'react';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
+import styled from 'styled-components';
 
-type ClusterPopupProps = TransmissionClusterProperties & {
-  onCaseClick?: (patient: number) => void;
+const CaseSpan = styled.span`
+  &:hover {
+   color: #f62459;
+   cursor: pointer;
+  }
+`;
+
+export type ClusterPopupProps = TransmissionClusterProperties & {
+  onCaseClick: (patient: number) => void;
 };
 
 const ClusterPopup: React.FC<ClusterPopupProps> = (props) => {
@@ -14,12 +22,14 @@ const ClusterPopup: React.FC<ClusterPopupProps> = (props) => {
     <span>Cases: </span>
     <strong>
       {cases.map((patient: number, index) =>
-        <span
-          // onClick={() => onCaseClick(patient)}
-          key={index}
-        >
-          {`${(index ? ', ' : '')}#${patient}`}
-        </span>
+        <React.Fragment key={index}>
+          {(index ? ', ' : '')}
+          <CaseSpan
+            onClick={() => onCaseClick(patient)}
+          >
+            {`#${patient}`}
+          </CaseSpan>
+        </React.Fragment>
       )}
     </strong>
   </>;

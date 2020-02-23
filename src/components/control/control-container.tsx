@@ -13,7 +13,7 @@ const mapStateToProps = (state: RootState) => ({
   displayCaseClusters: state.control.displayCaseClusters,
   ready: state.map.ready,
   clusterData: state.map.clusterData,
-  dateEndRange: state.control.dateEndRange,
+  dateEndRange: state.control.dateEndRange
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({
