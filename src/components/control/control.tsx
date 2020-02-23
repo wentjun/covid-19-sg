@@ -33,6 +33,11 @@ const ControlWrapper = styled.div`
 
   display: flex;
   flex-direction: column;
+
+  @media (max-width: 768px) {
+    width: 90vw;
+    flex-direction: row;
+  }
 `;
 
 const ClusterSelect = styled.select`
@@ -46,6 +51,12 @@ const Slider = styled.input`
 
 const RangeSpan = styled.span`
   font-size: 0.8rem;
+`;
+
+const ToggleGroup = styled.div`
+  padding: 0.5rem;
+  flex-grow: 1;
+  flex-basis: 0;
 `;
 
 const CLUSTER_LOCATIONS: ClusterLocation[] = [
@@ -98,7 +109,7 @@ const Control: React.FC<ControlProps> = (props) => {
 
   return (
     <ControlWrapper>
-      <span>Toggle Options</span>
+    <ToggleGroup>
       <div>
         <input
           type='checkbox'
@@ -119,39 +130,45 @@ const Control: React.FC<ControlProps> = (props) => {
           CLUSTER_LOCATIONS.map((name: ClusterLocation) => <option key={name}>{name}</option>)
         }
       </ClusterSelect>
-      <div>
-        <input
-          type='checkbox'
-          checked={displayCaseClusters}
-          onChange={(e) => handleCheck(e, 'case')}
+      </ToggleGroup>
+      <ToggleGroup>
+        <div>
+          <input
+            type='checkbox'
+            checked={displayCaseClusters}
+            onChange={(e) => handleCheck(e, 'case')}
+            disabled={!ready}
+          />
+          <label>Cases Clusters</label>
+        </div>
+        <div>
+          <span>Jump to:</span>
+          <ClusterSelect
+            disabled={!displayCaseClusters || !ready}
+            onChange={(e) => handleClusterSelect(e, 'case')}
+            defaultValue=''
+          >
+            <option disabled value=''>- select a case -</option>
+            {
+              clusterData.features.map(({ properties: { id, title } }: Feature<Point, PointProperties>, index) => <option key={id} value={index}>{title}</option>)
+            }
+          </ClusterSelect>
+        </div>
+      </ToggleGroup>
+      <ToggleGroup>
+        <span>Date Range:</span>
+        <Slider
+          id='taxiRangeSliderInput'
+          type='range'
+          min='1'
+          max={DAYS}
+          onChange={handleRangeChange}
+          step='1'
+          defaultValue={DAYS}
           disabled={!ready}
         />
-        <label>Cases Clusters</label>
-      </div>
-      <div>
-        <span>Jump to:</span>
-        <ClusterSelect
-          disabled={!displayCaseClusters || !ready}
-          onChange={(e) => handleClusterSelect(e, 'case')}
-          defaultValue=''
-        >
-          <option disabled value=''>- select a case -</option>
-          {
-            clusterData.features.map(({ properties: { id, title } }: Feature<Point, PointProperties>, index) => <option key={id} value={index}>{title}</option>)
-          }
-        </ClusterSelect>
-      </div>
-      <span>Date Range:</span>
-      <Slider
-        id='taxiRangeSliderInput'
-        type='range'
-        min='1'
-        max={DAYS}
-        onChange={handleRangeChange}
-        step='1'
-        defaultValue={DAYS}
-      />
-      <RangeSpan>2020-01-23 to {dateEndRange.toLocaleDateString('fr-CA')}</RangeSpan>
+        <RangeSpan>2020-01-23 to {dateEndRange.toLocaleDateString('fr-CA')}</RangeSpan>
+      </ToggleGroup>
     </ControlWrapper>
   );
 };
