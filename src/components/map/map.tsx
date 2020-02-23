@@ -11,6 +11,7 @@ import ReactDOM from 'react-dom';
 // import length from '@turf/length';
 import { ControlState } from '../../redux/reducers/control-reducer';
 import MapPopup from '../popups/popup';
+import ReactGA from 'react-ga';
 
 export interface MapProps {
   mapReady: () => void;
@@ -47,6 +48,7 @@ class Map extends React.Component<MapProps> {
 
   componentDidMount() {
     this.loadMap();
+    this.loadAnalyticsTracking();
   }
 
   componentDidUpdate(prevProps: MapProps) {
@@ -419,6 +421,11 @@ class Map extends React.Component<MapProps> {
         popupContent
      );
     }
+  }
+
+  loadAnalyticsTracking() {
+    ReactGA.initialize('UA-158894958-1');
+    ReactGA.pageview(window.location.pathname + window.location.search);
   }
 
   render() {
