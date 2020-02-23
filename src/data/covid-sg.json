@@ -131,7 +131,7 @@
         "id": "case-9",
         "title": "Case 9",
         "confirmed": "2020-01-29",
-        "discharged": "",
+        "discharged": "2020-02-23",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556"
       }
@@ -281,7 +281,7 @@
         "id": "case-19",
         "title": "Case 19",
         "confirmed": "2020-02-03",
-        "discharged": "",
+        "discharged": "2020-02-22",
         "hospital": " Singapore General Hospital",
         "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more"
       }
@@ -416,7 +416,7 @@
         "id": "case-28",
         "title": "Case 28",
         "confirmed": "2020-02-05",
-        "discharged": "",
+        "discharged": "2020-02-22",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928"
       }
@@ -956,7 +956,7 @@
         "id": "case-64",
         "title": "Case 64",
         "confirmed": "2020-02-14",
-        "discharged": "",
+        "discharged": "2020-02-23",
         "hospital": "National University Hospital",
         "source": ""
       }
@@ -1228,7 +1228,7 @@
         "confirmed": "2020-02-18",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834"
       }
     },
     {
@@ -1243,7 +1243,7 @@
         "confirmed": "2020-02-19",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834"
       }
     },
     {
@@ -1258,7 +1258,7 @@
         "confirmed": "2020-02-19",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834"
       }
     },
     {
@@ -1272,8 +1272,8 @@
         "title": "Case 85",
         "confirmed": "2020-02-20",
         "discharged": "",
-        "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-moh-update-feb-21-12457272"
       }
     },
     {
@@ -1287,8 +1287,53 @@
         "title": "Case 86",
         "confirmed": "2020-02-20",
         "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.todayonline.com/covid-19-1-new-case-wuhan-virus-linked-to-first-known-case-with-both-dengue-coronavirus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "id": "case-87",
+        "title": "Case 87",
+        "confirmed": "2020-02-21",
+        "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.882107, 1.377135]
+      },
+      "properties": {
+        "id": "case-88",
+        "title": "Case 88",
+        "confirmed": "2020-02-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "id": "case-89",
+        "title": "Case 89",
+        "confirmed": "2020-02-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
       }
     }
   ]
