@@ -149,6 +149,7 @@ const Control: React.FC<ControlProps> = (props) => {
         max={DAYS}
         onChange={handleRangeChange}
         step='1'
+        defaultValue={DAYS}
       />
       <RangeSpan>2020-01-23 to {dateEndRange.toLocaleDateString('fr-CA')}</RangeSpan>
     </ControlWrapper>
