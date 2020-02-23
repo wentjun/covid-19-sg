@@ -5,6 +5,7 @@ import ClusterPopup from './cluster-popup';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import ReactDOM from 'react-dom';
 import CasePopup from './case-popup';
+import { MapSchema } from '../../shared/models/enums';
 
 interface MapPopup {
   coordinates: [number, number];
@@ -17,34 +18,36 @@ const MapPopup: React.FC<MapPopup> = (props) => {
   const { coordinates, mapRef, properties, type } = props;
   const popupContent = document.createElement('div');
   if (type === 'transmission') {
-    ReactDOM.render(<ClusterPopup
-       {...properties as TransmissionClusterProperties}
-       // to-do: handle clicking of each cases
-       // onCaseClick={(e) => this.onCaseSelect(e)}
-     />, popupContent);
+    ReactDOM.render(
+      <ClusterPopup
+        {...properties as TransmissionClusterProperties}
+        // to-do: handle clicking of each cases
+        // onCaseClick={(e) => this.onCaseSelect(e)}
+      />,
+      popupContent
+    );
 
-     new Popup({
-       className: 'popup-transmission-content'
-     })
-       .setLngLat(coordinates)
-       .setDOMContent(popupContent)
-       .addTo(mapRef);
+    new Popup({ className: MapSchema.TransmissionPopup })
+     .setLngLat(coordinates)
+     .setDOMContent(popupContent)
+     .addTo(mapRef);
   } else if (type === 'case') {
-    ReactDOM.render(<CasePopup
+    ReactDOM.render(
+      <CasePopup
        {...properties as PointProperties}
        // to-do: handle clicking of each cases
        // onCaseClick={(e) => this.onCaseSelect(e)}
-     />, popupContent);
+      />,
+      popupContent
+    );
 
-     new Popup({
-       className: 'popup-case-content'
-     })
-       .setLngLat(coordinates)
-       .setDOMContent(popupContent)
-       .addTo(mapRef);
+    new Popup({ className: MapSchema.CasePopup })
+     .setLngLat(coordinates)
+     .setDOMContent(popupContent)
+     .addTo(mapRef);
   }
 
-  return <></>
-}
+  return <></>;
+};
 
 export default MapPopup;

@@ -1,4 +1,4 @@
-import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds, Popup } from 'mapbox-gl';
+import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds } from 'mapbox-gl';
 import React from 'react';
 import styled from 'styled-components';
 import { MapSchema } from '../../shared/models/enums';
@@ -6,9 +6,7 @@ import { PointProperties } from '../../shared/models/PointProperties';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { Feature, Point } from 'geojson';
 import { MapState } from '../../redux/reducers/map-reducer';
-import CasePopup from '../popups/case-popup';
 import ReactDOM from 'react-dom';
-import ClusterPopup from '../popups/cluster-popup';
 // import along from '@turf/along';
 // import length from '@turf/length';
 import { ControlState } from '../../redux/reducers/control-reducer';
@@ -42,10 +40,6 @@ const MapContainer = styled.div`
 
 mapboxgl.accessToken =
   'pk.eyJ1Ijoid2VudGp1biIsImEiOiJjandmODc5cngwcDJjNDNwYjhtOXZqejVtIn0.1l6XNJgy4pkY7TWEV58pVQ';
-
-const POPUP_OPTIONS = {
-  // closeOnMove: true
-};
 
 class Map extends React.Component<MapProps> {
   private mapContainer: any;
@@ -247,7 +241,7 @@ class Map extends React.Component<MapProps> {
       const coordinates = geometry.coordinates.slice() as [number, number];
       this.map?.once('moveend', () => {
         this.renderCasePopup(coordinates, properties as PointProperties);
-      })
+      });
     });
   }
 
@@ -285,7 +279,7 @@ class Map extends React.Component<MapProps> {
         return;
       }
 
-      const existingTransmissionPopup = (document.getElementsByClassName('popup-transmission-content'))[0];
+      const existingTransmissionPopup = (document.getElementsByClassName(MapSchema.TransmissionPopup))[0];
       if (existingTransmissionPopup) {
         ReactDOM.unmountComponentAtNode(existingTransmissionPopup);
       }
@@ -325,7 +319,7 @@ class Map extends React.Component<MapProps> {
 
     this.map?.once('moveend', () => {
       this.renderCasePopup(coordinates as [number, number], properties);
-    })
+    });
   }
 
   // todo: how to best display lines between cluster and cases?
@@ -409,7 +403,7 @@ class Map extends React.Component<MapProps> {
     // }
     const popupContent = document.createElement('div');
 
-    const existingCasePopup = (document.getElementsByClassName('popup-case-content'))[0];
+    const existingCasePopup = (document.getElementsByClassName(MapSchema.CasePopup))[0];
     if (existingCasePopup) {
       ReactDOM.unmountComponentAtNode(existingCasePopup);
     }

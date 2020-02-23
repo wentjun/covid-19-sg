@@ -15,15 +15,15 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
     withLatestFrom(state$),
     map((epic) => {
       const { control: { dateEndRange } } = epic[1];
-      // @ts-ignore
-      const features = covidData.features.filter((feature: Feature<Point, PointProperties>) => new Date(feature.properties.confirmed) <= dateEndRange.setHours(0, 0, 0, 0) );
+      const covidDataFeatures = covidData.features as Array<Feature<Point, PointProperties>>;
+      const features = covidDataFeatures.filter((feature) => +new Date(feature.properties.confirmed) <= +dateEndRange.setHours(0, 0, 0, 0));
       const clusterFeatureCollection: FeatureCollection<Point, PointProperties> = {
         type: 'FeatureCollection',
         features
       };
 
       return (actions.setClusterData(clusterFeatureCollection));
-    }),
+    })
     // ignoreElements()
   );
 

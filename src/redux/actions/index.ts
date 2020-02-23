@@ -15,7 +15,7 @@ export const CONTROL_TOGGLE_DISPLAY_TRANSMISSION_CLUSTERS = '[Control] Toggle Di
 export const CONTROL_TOGGLE_DISPLAY_CASE_CLUSTERS = '[Control] Toggle Display Case ClusterS';
 export const CONTROL_SET_SELECTED_CLUSTER = '[Control] Set Selected Cluster';
 export const CONTROL_SET_SELECTED_CASE = '[Control] Set Selected Case';
-export const CONTROL_SET_END_DATE_RANGE = '[Control] Set End Date Range'
+export const CONTROL_SET_END_DATE_RANGE = '[Control] Set End Date Range';
 export const mapReady = createAction(MAP_READY);
 
 export const setClusterData = createAction(

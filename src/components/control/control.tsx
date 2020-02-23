@@ -153,7 +153,6 @@ const Control: React.FC<ControlProps> = (props) => {
       <RangeSpan>2020-01-23 to {dateEndRange.toLocaleDateString('fr-CA')}</RangeSpan>
     </ControlWrapper>
   );
-
-}
+};
 
 export default Control;

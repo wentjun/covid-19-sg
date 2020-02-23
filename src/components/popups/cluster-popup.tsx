@@ -22,7 +22,7 @@ const ClusterPopup: React.FC<ClusterPopupProps> = (props) => {
         </span>
       )}
     </strong>
-  </>
-}
+  </>;
+};
 
 export default ClusterPopup;

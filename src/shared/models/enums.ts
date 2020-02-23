@@ -4,5 +4,7 @@ export enum MapSchema {
   ClusterCountLayer = 'cluster-count-layer',
   SinglePointLayer = 'single-point-layer',
   TransmissionClusterSource = 'transmission-cluster-source',
-  TransmissionClusterLayer = 'transmission-cluster-layer'
+  TransmissionClusterLayer = 'transmission-cluster-layer',
+  CasePopup = 'popup-case-content',
+  TransmissionPopup = 'popup-transmission-content'
 }
