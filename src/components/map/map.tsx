@@ -1,4 +1,4 @@
-import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds, CirclePaint } from 'mapbox-gl';
+import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds, CirclePaint, NavigationControl } from 'mapbox-gl';
 import React from 'react';
 import styled from 'styled-components';
 import { MapSchema } from '../../shared/models/enums';
@@ -145,6 +145,7 @@ class Map extends React.Component<MapProps> {
       this.onTransmissionClusterClick();
       this.loadTransmissionClusterPolygons();
       this.loadUnclusteredCases();
+      this.loadNavigationControl();
     });
   }
 
@@ -458,6 +459,10 @@ class Map extends React.Component<MapProps> {
     });
 
     this.map?.setLayoutProperty(MapSchema.SinglePointUnclusteredLayer, 'visibility', 'none');
+  }
+
+  loadNavigationControl() {
+    this.map?.addControl(new NavigationControl(), 'bottom-right');
   }
 
   render() {
