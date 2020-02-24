@@ -157,10 +157,10 @@ const Control: React.FC<ControlProps> = (props) => {
           disabled={!ready}
         />
         <ToggleType>
-          <label>Cases</label>
+          <label>Cases Clusters</label>
           <span>Jump to:</span>
           <ClusterSelect
-            disabled={!displayCaseClusters || !ready}
+            disabled={!ready}
             onChange={(e) => handleClusterSelect(e, 'case')}
             defaultValue=''
           >
