@@ -1295,7 +1295,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847239, 1.322135]
+        "coordinates": [103.991281, 1.363905]
       },
       "properties": {
         "id": "case-87",
@@ -1310,7 +1310,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.882107, 1.377135]
+        "coordinates": [103.882139, 1.377135]
       },
       "properties": {
         "id": "case-88",
@@ -1325,7 +1325,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847239, 1.322135]
+        "coordinates": [103.868234, 1.351538]
       },
       "properties": {
         "id": "case-89",

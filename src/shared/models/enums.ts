@@ -6,5 +6,8 @@ export enum MapSchema {
   TransmissionClusterSource = 'transmission-cluster-source',
   TransmissionClusterLayer = 'transmission-cluster-layer',
   CasePopup = 'popup-case-content',
-  TransmissionPopup = 'popup-transmission-content'
+  TransmissionPopup = 'popup-transmission-content',
+
+  UnclusteredSource = 'covid-uncluster-source',
+  SinglePointUnclusteredLayer = 'single-point-unclustered-layer'
 }
