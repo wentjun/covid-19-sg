@@ -686,7 +686,7 @@
         "id": "case-46",
         "title": "Case 46",
         "confirmed": "2020-02-10",
-        "discharged": "",
+        "discharged": "2020-02-23",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/coronavirus-2-new-cases-in-spore-including-man-who-works-at-rws-casino-2-more"
       }
@@ -1301,7 +1301,7 @@
         "id": "case-87",
         "title": "Case 87",
         "confirmed": "2020-02-21",
-        "discharged": "",
+        "discharged": "2020-02-23",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
       }
@@ -1334,6 +1334,21 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850806, 1.346333]
+      },
+      "properties": {
+        "id": "case-90",
+        "title": "Case 90",
+        "confirmed": "2020-02-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606"
       }
     }
   ]

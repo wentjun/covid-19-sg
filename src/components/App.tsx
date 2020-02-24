@@ -31,7 +31,7 @@ class App extends React.Component<AppProps, AppState> {
   }
 
   updateServiceWorker() {
-    const { hasServiceWorkerUpdates, serviceWorkerRegistration } = this.props;
+    const { serviceWorkerRegistration } = this.props;
     const registrationWaiting = serviceWorkerRegistration?.waiting;
 
     if (registrationWaiting) {
