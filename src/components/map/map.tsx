@@ -1,4 +1,4 @@
-import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds } from 'mapbox-gl';
+import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds, CirclePaint } from 'mapbox-gl';
 import React from 'react';
 import styled from 'styled-components';
 import { MapSchema } from '../../shared/models/enums';
@@ -39,6 +39,19 @@ const MapContainer = styled.div`
   height: inherit;
 `;
 
+const SINGLE_POINT_STYLE: CirclePaint = {
+  'circle-color': [
+    'match',
+    ['get', 'discharged'],
+    '',
+    '#f15a22',
+    '#29f1c3'
+  ],
+  'circle-radius': 6,
+  'circle-stroke-width': 1,
+  'circle-stroke-color': '#fff'
+};
+
 mapboxgl.accessToken =
   'pk.eyJ1Ijoid2VudGp1biIsImEiOiJjandmODc5cngwcDJjNDNwYjhtOXZqejVtIn0.1l6XNJgy4pkY7TWEV58pVQ';
 
@@ -73,10 +86,13 @@ class Map extends React.Component<MapProps> {
         this.map?.setLayoutProperty(MapSchema.ClusterCountLayer, 'visibility', 'visible');
         this.map?.setLayoutProperty(MapSchema.ClusterLayer, 'visibility', 'visible');
         this.map?.setLayoutProperty(MapSchema.SinglePointLayer, 'visibility', 'visible');
+        this.map?.setLayoutProperty(MapSchema.SinglePointUnclusteredLayer, 'visibility', 'none');
+
       } else {
         this.map?.setLayoutProperty(MapSchema.ClusterCountLayer, 'visibility', 'none');
         this.map?.setLayoutProperty(MapSchema.ClusterLayer, 'visibility', 'none');
         this.map?.setLayoutProperty(MapSchema.SinglePointLayer, 'visibility', 'none');
+        this.map?.setLayoutProperty(MapSchema.SinglePointUnclusteredLayer, 'visibility', 'visible');
       }
     }
 
@@ -128,6 +144,7 @@ class Map extends React.Component<MapProps> {
       this.onPointClick();
       this.onTransmissionClusterClick();
       this.loadTransmissionClusterPolygons();
+      this.loadUnclusteredCases();
     });
   }
 
@@ -186,18 +203,7 @@ class Map extends React.Component<MapProps> {
       type: 'circle',
       source: MapSchema.Source,
       filter: ['!', ['has', 'point_count']],
-      paint: {
-        'circle-color': [
-          'match',
-          ['get', 'discharged'],
-          '',
-          '#f15a22',
-          '#29f1c3'
-        ],
-        'circle-radius': 6,
-        'circle-stroke-width': 1,
-        'circle-stroke-color': '#fff'
-      }
+      paint: SINGLE_POINT_STYLE
     });
   }
 
@@ -227,7 +233,7 @@ class Map extends React.Component<MapProps> {
   }
 
   onPointClick() {
-    this.map?.on('click', MapSchema.SinglePointLayer, (e: MapLayerMouseEvent) => {
+    const handleClick = (e: MapLayerMouseEvent) => {
       if (!e.features || e.features?.[0].geometry?.type !== 'Point') {
         return;
       }
@@ -244,6 +250,14 @@ class Map extends React.Component<MapProps> {
       this.map?.once('moveend', () => {
         this.renderCasePopup(coordinates, properties as PointProperties);
       });
+    };
+
+    this.map?.on('click', MapSchema.SinglePointLayer, (e: MapLayerMouseEvent) => {
+      handleClick(e);
+    });
+
+    this.map?.on('click', MapSchema.SinglePointUnclusteredLayer, (e: MapLayerMouseEvent) => {
+      handleClick(e);
     });
   }
 
@@ -426,6 +440,24 @@ class Map extends React.Component<MapProps> {
   loadAnalyticsTracking() {
     ReactGA.initialize('UA-158894958-1');
     ReactGA.pageview(window.location.pathname + window.location.search);
+  }
+
+  loadUnclusteredCases() {
+    const { clusterData } = this.props;
+    this.map?.addSource(MapSchema.UnclusteredSource, {
+      type: 'geojson',
+      data: clusterData,
+      cluster: false
+    });
+
+    this.map?.addLayer({
+      id: MapSchema.SinglePointUnclusteredLayer,
+      type: 'circle',
+      source: MapSchema.UnclusteredSource,
+      paint: SINGLE_POINT_STYLE
+    });
+
+    this.map?.setLayoutProperty(MapSchema.SinglePointUnclusteredLayer, 'visibility', 'none');
   }
 
   render() {
