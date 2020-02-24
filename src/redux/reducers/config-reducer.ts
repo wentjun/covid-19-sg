@@ -27,13 +27,10 @@ export const configReducer = (
       };
 
     case getType(actions.updateServiceWorker):
-    console.log(action.payload.serviceWorkerRegistration)
       return {
         ...state,
         hasServiceWorkerUpdates: !initialState.hasServiceWorkerUpdates,
-        serviceWorkerRegistration: {
-          ...action.payload.serviceWorkerRegistration
-        }
+        serviceWorkerRegistration: action.payload.serviceWorkerRegistration
       };
 
     default:

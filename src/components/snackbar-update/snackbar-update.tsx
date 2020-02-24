@@ -33,7 +33,7 @@ interface SnackbarUpdate {
 
 const SnackbarUpdate: React.FC<SnackbarUpdate> = ({ onDismiss }) => {
   return <SnackbarWrapper>
-    <span>New updates avai!</span>
+    <span>New updates available!</span>
     <DismissSpan onClick={onDismiss}>Click to refresh.</DismissSpan>
   </SnackbarWrapper>;
 };

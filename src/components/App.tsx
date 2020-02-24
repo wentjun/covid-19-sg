@@ -33,23 +33,26 @@ class App extends React.Component<AppProps, AppState> {
   updateServiceWorker() {
     const { hasServiceWorkerUpdates, serviceWorkerRegistration } = this.props;
     const registrationWaiting = serviceWorkerRegistration?.waiting;
-    // console.log(serviceWorkerRegistration);
-    // if (registrationWaiting) {
-    //   registrationWaiting.postMessage({ type: 'SKIP_WAITING' });
-    //
-    //   registrationWaiting.addEventListener('statechange', () => {
-    //     window.location.reload();
-    //   });
-    // }
+
+    if (registrationWaiting) {
+      registrationWaiting.postMessage({ type: 'SKIP_WAITING' });
+
+      registrationWaiting.addEventListener('statechange', () => {
+        window.location.reload();
+      });
+    }
   }
 
   render() {
     const { hasServiceWorkerUpdates } = this.props;
+
     return (
       <AppWrapper>
         <Control />
         <Map />
-        {<SnackbarUpdate onDismiss={() => this.updateServiceWorker()}/>}
+        {hasServiceWorkerUpdates &&
+          <SnackbarUpdate onDismiss={() => this.updateServiceWorker()}/>
+        }
       </AppWrapper>
     );
   }
