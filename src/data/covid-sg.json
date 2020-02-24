@@ -1295,7 +1295,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [103.847239, 1.322135]
       },
       "properties": {
         "id": "case-87",
@@ -1325,7 +1325,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [103.847239, 1.322135]
       },
       "properties": {
         "id": "case-89",
