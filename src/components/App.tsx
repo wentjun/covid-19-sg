@@ -16,7 +16,7 @@ interface AppState {
   isHideSnackbar: boolean;
 }
 
-const AppWrapper = styled.div`
+const AppWrapper = styled.main`
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
