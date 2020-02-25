@@ -37,6 +37,8 @@ const ControlWrapper = styled.div`
   @media (max-width: 768px) {
     width: 90vw;
     flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
 `;
 
@@ -48,6 +50,21 @@ const ClusterSelect = styled.select`
 const Slider = styled.input`
   width: 100%;
   text-align: center;
+
+  &::-webkit-slider-thumb {
+    width: 25px;
+    height: 25px;
+  }
+
+  &::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+  }
+
+  &::-ms-thumb {
+    width: 25px;
+    height: 25px;
+  }
 `;
 
 const RangeSpan = styled.span`
@@ -60,8 +77,7 @@ const ToggleGroup = styled.div`
   flex-direction: row;
 
   @media (max-width: 768px) {
-    flex-grow: 1;
-    flex-basis: 0;
+    flex: 0 1 40vw;
   }
 `;
 
@@ -73,8 +89,22 @@ const ToggleType = styled.div`
   }
 `;
 
+
+const Checkbox = styled.input`
+  min-width: 15px;
+  min-height: 15px;
+  width: 15px
+  height: 15px
+`;
+
+
 const ToggleSliderGroup = styled(ToggleGroup)`
   flex-direction: column;
+
+  @media (max-width: 768px) {
+    flex-basis: 100%;
+    padding-left: calc(0.5rem + 15px);
+  }
 `;
 
 const CLUSTER_LOCATIONS: ClusterLocation[] = [
@@ -128,7 +158,7 @@ const Control: React.FC<ControlProps> = (props) => {
   return (
     <ControlWrapper>
       <ToggleGroup>
-        <input
+        <Checkbox
           type='checkbox'
           checked={displayTransmissionClusters}
           onChange={(e) => handleCheck(e, 'transmission')}
@@ -152,7 +182,7 @@ const Control: React.FC<ControlProps> = (props) => {
         </ToggleType>
       </ToggleGroup>
       <ToggleGroup>
-        <input
+        <Checkbox
           type='checkbox'
           checked={displayCaseClusters}
           onChange={(e) => handleCheck(e, 'case')}
