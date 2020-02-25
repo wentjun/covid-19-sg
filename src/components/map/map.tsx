@@ -52,8 +52,7 @@ const SINGLE_POINT_STYLE: CirclePaint = {
   'circle-stroke-color': '#fff'
 };
 
-mapboxgl.accessToken =
-  'pk.eyJ1Ijoid2VudGp1biIsImEiOiJjandmODc5cngwcDJjNDNwYjhtOXZqejVtIn0.1l6XNJgy4pkY7TWEV58pVQ';
+mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN as string;
 
 class Map extends React.Component<MapProps> {
   private mapContainer: any;
