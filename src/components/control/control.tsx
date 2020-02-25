@@ -133,11 +133,13 @@ const Control: React.FC<ControlProps> = (props) => {
           checked={displayTransmissionClusters}
           onChange={(e) => handleCheck(e, 'transmission')}
           disabled={!ready}
+          id='transmissionClusters'
         />
         <ToggleType>
-          <label>Transmission Clusters</label>
-          <span>Jump to:</span>
+          <label htmlFor='transmissionClusters'>Transmission Clusters</label>
+          <label htmlFor='jumptoCluster'>Jump to:</label>
           <ClusterSelect
+            id='jumptoCluster'
             disabled={!displayTransmissionClusters || !ready}
             onChange={(e) => handleClusterSelect(e, 'transmission')}
             defaultValue=''
@@ -155,11 +157,13 @@ const Control: React.FC<ControlProps> = (props) => {
           checked={displayCaseClusters}
           onChange={(e) => handleCheck(e, 'case')}
           disabled={!ready}
+          id='caseClusters'
         />
         <ToggleType>
-          <label>Cases Clusters</label>
-          <span>Jump to:</span>
+          <label htmlFor='caseClusters'>Cases Clusters</label>
+          <label htmlFor='jumptoCase'>Jump to:</label>
           <ClusterSelect
+            id='jumptoCase'
             disabled={!ready}
             onChange={(e) => handleClusterSelect(e, 'case')}
             defaultValue=''
@@ -172,9 +176,9 @@ const Control: React.FC<ControlProps> = (props) => {
         </ToggleType>
       </ToggleGroup>
       <ToggleSliderGroup>
-        <span>Date Range:</span>
+        <label htmlFor='rangeSliderInput'>Date Range:</label>
         <Slider
-          id='taxiRangeSliderInput'
+          id='rangeSliderInput'
           type='range'
           min='1'
           max={DAYS}
