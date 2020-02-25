@@ -973,7 +973,7 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-17",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed"
       }
     },
     {
@@ -988,7 +988,7 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-20",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed"
       }
     },
     {
@@ -1346,6 +1346,21 @@
         "id": "case-90",
         "title": "Case 90",
         "confirmed": "2020-02-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.903330, 1.387710]
+      },
+      "properties": {
+        "id": "case-91",
+        "title": "Case 91",
+        "confirmed": "2020-02-22",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606"
