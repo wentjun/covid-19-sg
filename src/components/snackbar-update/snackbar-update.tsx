@@ -5,7 +5,7 @@ const SnackbarWrapper = styled.div`
   background-color: rgba(0,0,0, 0.5);
   color: white;
   font-size: 0.8rem;
-  width: 80vw;
+  width: 70vw;
   max-width: 800px;
   position: absolute;
   z-index: 1;
@@ -34,7 +34,7 @@ interface SnackbarUpdate {
 const SnackbarUpdate: React.FC<SnackbarUpdate> = ({ onDismiss }) => {
   return <SnackbarWrapper>
     <span>New updates available!</span>
-    <DismissSpan onClick={onDismiss}>Click to refresh.</DismissSpan>
+    <DismissSpan onClick={onDismiss}>Click here to refresh.</DismissSpan>
   </SnackbarWrapper>;
 };
 

@@ -680,7 +680,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.821779, 1.255233]
+        "coordinates": [103.765586, 1.459396]
       },
       "properties": {
         "id": "case-46",
@@ -1018,7 +1018,7 @@
         "confirmed": "2020-02-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
     },
     {
@@ -1033,7 +1033,7 @@
         "confirmed": "2020-02-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
     },
     {
@@ -1048,7 +1048,7 @@
         "confirmed": "2020-02-15",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
     },
     {
@@ -1063,7 +1063,7 @@
         "confirmed": "2020-02-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
     },
     {
@@ -1078,7 +1078,7 @@
         "confirmed": "2020-02-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
     },
     {
@@ -1093,7 +1093,7 @@
         "confirmed": "2020-02-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772"
       }
     },
     {
@@ -1108,7 +1108,7 @@
         "confirmed": "2020-02-15",
         "discharged": "",
         "hospital": "Alexandra Hospital",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772"
       }
     },
     {
@@ -1123,7 +1123,7 @@
         "confirmed": "2020-02-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772"
       }
     },
     {
@@ -1153,7 +1153,7 @@
         "confirmed": "2020-02-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed"
       }
     },
     {
@@ -1168,7 +1168,7 @@
         "confirmed": "2020-02-17",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
       }
     },
     {
@@ -1183,7 +1183,7 @@
         "confirmed": "2020-02-17",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed"
       }
     },
     {
@@ -1198,7 +1198,7 @@
         "confirmed": "2020-02-18",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
       }
     },
     {
@@ -1213,7 +1213,7 @@
         "confirmed": "2020-02-18",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
       }
     },
     {

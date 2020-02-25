@@ -61,4 +61,4 @@ ReactDOM.render(
 serviceWorker.register({
   onSuccess: () => store.dispatch(initialiseServiceWorker()),
   onUpdate: registration => store.dispatch(updateServiceWorker(registration))
-})
+});
