@@ -16,9 +16,24 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
     map((epic) => {
       const { control: { dateEndRange } } = epic[1];
       const covidDataFeatures = covidData.features as Array<Feature<Point, PointProperties>>;
-      const features = covidDataFeatures.filter((feature) => (
-        (new Date(feature.properties.confirmed)).setHours(0, 0, 0, 0) < +dateEndRange
-      ));
+      const features = covidDataFeatures
+        .filter((feature) => (
+          (new Date(feature.properties.confirmed)).setHours(0, 0, 0, 0) < +dateEndRange
+        ))
+        .map((feature) => {
+          if (dateEndRange.toLocaleDateString('fr-CA') === feature.properties.confirmed) {
+            return {
+              ...feature,
+              properties: {
+                ...feature.properties,
+                isDateEndRange: true
+              }
+            };
+          }
+
+          return feature;
+        });
+
       const clusterFeatureCollection: FeatureCollection<Point, PointProperties> = {
         type: 'FeatureCollection',
         features

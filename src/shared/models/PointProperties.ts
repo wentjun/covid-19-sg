@@ -5,4 +5,5 @@ export interface PointProperties {
   discharged: string;
   hospital: string;
   source: string;
+  isDateEndRange?: boolean; // used to determine which point to highlight
 }
