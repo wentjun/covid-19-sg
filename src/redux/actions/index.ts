@@ -16,6 +16,9 @@ export const CONTROL_TOGGLE_DISPLAY_CASE_CLUSTERS = '[Control] Toggle Display Ca
 export const CONTROL_SET_SELECTED_CLUSTER = '[Control] Set Selected Cluster';
 export const CONTROL_SET_SELECTED_CASE = '[Control] Set Selected Case';
 export const CONTROL_SET_END_DATE_RANGE = '[Control] Set End Date Range';
+export const CONFIG_INITIALISE_SERVICE_WORKER = '[Config] Initialise Service Worker';
+export const CONFIG_UPDATE_SERVICE_WORKER = '[Config] Update Service Worker';
+
 export const mapReady = createAction(MAP_READY);
 
 export const setClusterData = createAction(
@@ -52,4 +55,16 @@ export const setDateRange = createAction(
   CONTROL_SET_END_DATE_RANGE,
   resolve => (numberOfDays: number) =>
     resolve({ numberOfDays })
+);
+
+export const initialiseServiceWorker = createAction(
+  CONFIG_INITIALISE_SERVICE_WORKER,
+  resolve => () =>
+    resolve()
+);
+
+export const updateServiceWorker = createAction(
+  CONFIG_UPDATE_SERVICE_WORKER,
+  resolve => (serviceWorkerRegistration: ServiceWorkerRegistration) =>
+    resolve({ serviceWorkerRegistration })
 );

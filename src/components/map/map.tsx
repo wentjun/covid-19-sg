@@ -106,7 +106,9 @@ class Map extends React.Component<MapProps> {
 
     if (clusterData.features.length !== prevProps.clusterData.features.length) {
       const clusterSource = this.map?.getSource(MapSchema.Source) as GeoJSONSource;
+      const unClusterSource = this.map?.getSource(MapSchema.UnclusteredSource) as GeoJSONSource;
       clusterSource.setData(clusterData);
+      unClusterSource.setData(clusterData);
     }
   }
 

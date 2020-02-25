@@ -9,7 +9,10 @@ import App from './App';
 type Action = ActionType<typeof actions>;
 
 const mapStateToProps = (state: RootState) => ({
-  loading: !state.map.ready
+  loading: !state.map.ready,
+  isServiceWorkerInitialised: state.config.isServiceWorkerInitialised,
+  hasServiceWorkerUpdates: state.config.hasServiceWorkerUpdates,
+  serviceWorkerRegistration: state.config.serviceWorkerRegistration
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => ({
