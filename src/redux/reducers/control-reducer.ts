@@ -20,7 +20,7 @@ const initialState: ControlState = {
   loading: false,
   displayTransmissionClusters: true,
   displayCaseClusters: true,
-  dateEndRange: new Date()
+  dateEndRange: new Date((new Date()).setHours(0, 0, 0, 0))
 };
 
 export const controlReducer = (
@@ -57,7 +57,8 @@ export const controlReducer = (
 
     case getType(actions.setDateRange):
       const dateEndRange = new Date();
-      dateEndRange.setDate(dateEndRange.getDate() - action.payload.numberOfDays + 1);
+      dateEndRange.setDate(dateEndRange.getDate() - action.payload.numberOfDays)
+      dateEndRange.setHours(23, 59);
 
       return {
         ...state,

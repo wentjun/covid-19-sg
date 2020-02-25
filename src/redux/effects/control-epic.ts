@@ -16,7 +16,9 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
     map((epic) => {
       const { control: { dateEndRange } } = epic[1];
       const covidDataFeatures = covidData.features as Array<Feature<Point, PointProperties>>;
-      const features = covidDataFeatures.filter((feature) => +new Date(feature.properties.confirmed) <= +dateEndRange.setHours(0, 0, 0, 0));
+      const features = covidDataFeatures.filter((feature) => (
+        (new Date(feature.properties.confirmed)).setHours(0, 0, 0, 0) < +dateEndRange
+      ));
       const clusterFeatureCollection: FeatureCollection<Point, PointProperties> = {
         type: 'FeatureCollection',
         features
@@ -24,7 +26,6 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
 
       return (actions.setClusterData(clusterFeatureCollection));
     })
-    // ignoreElements()
   );
 
 export default [
