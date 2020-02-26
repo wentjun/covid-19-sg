@@ -8,13 +8,14 @@
   <meta name="theme-color" content="#2e3131" />
   <meta name="description" content="Map view to track COVID-19/Wuhan virus/coronavirus cases and cluster zones in Singapore">
   <meta name="keywords" content="covid-19,wuhan,coronavirus,virus,singapore,map">
-  
-  <meta name="og:title" content="COVID-19 Singapore Tracker">
-  <meta name="og:description" content="Visualising COVID-19/Wuhan virus/coronavirus cases and cluster zones in Singapore">
-  <meta name="og:image" content="https://covid-tracker.com/og_image.png">
-  <meta name="og:image:width" content="1200">
-  <meta name="og:image:height" content="630">
-  <meta name="og:url" content="https://covid-tracker.com/">
+
+  <meta property="og:title" content="COVID-19 Singapore Tracker">
+  <meta property="og:description" content="Visualising COVID-19/Wuhan virus/coronavirus cases and cluster zones in Singapore">
+  <meta property="og:image" content="https://covid-tracker.com/og_image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="https://covid-tracker.com/">
+  <meta property="og:type" content="website">
 
   <meta name="twitter:title" content="COVID-19 Singapore Tracker">
   <meta name="twitter:description" content="Visualising COVID-19/Wuhan virus/coronavirus cases and cluster zones in Singapore">
@@ -59,5 +60,25 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
 </body>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '244765676526994',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v6.0'
+    });
 
+    FB.AppEvents.logPageView();
+
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 </html>
