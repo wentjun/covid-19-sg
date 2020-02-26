@@ -48,8 +48,13 @@ const SINGLE_POINT_STYLE: CirclePaint = {
     '#29f1c3'
   ],
   'circle-radius': 6,
-  'circle-stroke-width': 1,
-  'circle-stroke-color': '#fff'
+  'circle-stroke-width': [
+    'case',
+    ['has', 'isDateEndRange'],
+    6,
+    1
+  ],
+  'circle-stroke-color': '#bdc3c7'
 };
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN as string;
@@ -180,10 +185,10 @@ class Map extends React.Component<MapProps> {
           'step',
           ['get', 'point_count'],
           20,
-          100,
+          20,
+          25,
           30,
-          750,
-          40
+          30
         ]
       }
     });

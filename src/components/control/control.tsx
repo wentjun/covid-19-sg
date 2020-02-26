@@ -89,14 +89,12 @@ const ToggleType = styled.div`
   }
 `;
 
-
 const Checkbox = styled.input`
   min-width: 15px;
   min-height: 15px;
   width: 15px
   height: 15px
 `;
-
 
 const ToggleSliderGroup = styled(ToggleGroup)`
   flex-direction: column;
@@ -210,7 +208,7 @@ const Control: React.FC<ControlProps> = (props) => {
         <Slider
           id='rangeSliderInput'
           type='range'
-          min='1'
+          min='0'
           max={DAYS}
           onChange={handleRangeChange}
           step='1'
