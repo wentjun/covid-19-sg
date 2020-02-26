@@ -468,7 +468,7 @@ class Map extends React.Component<MapProps> {
   }
 
   loadNavigationControl() {
-    this.map?.addControl(new NavigationControl(), 'top-right');
+    this.map?.addControl(new NavigationControl(), 'bottom-right');
   }
 
   render() {
