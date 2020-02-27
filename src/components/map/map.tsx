@@ -29,6 +29,9 @@ export interface MapProps {
 const MapWrapper = styled.div`
   width: 100vw;
   height: 100vh;
+  height: -moz-available; // webkit
+  height: -webkit-fill-available;  // mozilla
+  height: fill-available;
 `;
 
 const MapContainer = styled.div`
