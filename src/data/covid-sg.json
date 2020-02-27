@@ -1365,6 +1365,36 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.893402, 1.395477]
+      },
+      "properties": {
+        "id": "case-92",
+        "title": "Case 92",
+        "confirmed": "2020-02-26",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.745362, 1.333736]
+      },
+      "properties": {
+        "id": "case-93",
+        "title": "Case 93",
+        "confirmed": "2020-02-26",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024"
+      }
     }
   ]
 }

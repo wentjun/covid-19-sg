@@ -26,12 +26,19 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
               ...feature,
               properties: {
                 ...feature.properties,
-                isDateEndRange: true
+                isDateEndRange: true,
+                hasRecoveredOnRangeDate: (new Date(feature.properties.discharged) <= dateEndRange)
               }
             };
           }
 
-          return feature;
+          return {
+            ...feature,
+            properties: {
+              ...feature.properties,
+              hasRecoveredOnRangeDate: (new Date(feature.properties.discharged) <= dateEndRange)
+            }
+          };
         });
 
       const clusterFeatureCollection: FeatureCollection<Point, PointProperties> = {
