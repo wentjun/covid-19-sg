@@ -108,7 +108,7 @@ const ToggleSliderGroup = styled(ToggleGroup)`
 const CLUSTER_LOCATIONS: ClusterLocation[] = [
   'Grace Assembly of God Church (Tanglin)',
   'Grace Assembly of God Church (Bukit Batok)',
-  'Yong Thai Hang',
+  'Yong Thai Hang Medical Products Shop',
   'The Life Church and Missions Singapore',
   'Grand Hyatt Singapore' ,
   'Seletar Aerospace Heights'
@@ -208,7 +208,7 @@ const Control: React.FC<ControlProps> = (props) => {
         <Slider
           id='rangeSliderInput'
           type='range'
-          min='0'
+          min='1'
           max={DAYS}
           onChange={handleRangeChange}
           step='1'
