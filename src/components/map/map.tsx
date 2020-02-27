@@ -41,10 +41,15 @@ const MapContainer = styled.div`
 
 const SINGLE_POINT_STYLE: CirclePaint = {
   'circle-color': [
-    'match',
-    ['get', 'discharged'],
-    '',
+    'case',
+    ['==', ['get', 'hasRecoveredOnRangeDate'], true],
+    '#29f1c3',
+    ['==', ['get', 'hasRecoveredOnRangeDate'], false],
     '#f15a22',
+    ['==', ['get', 'discharged'], ''],
+    '#f15a22',
+    ['==', ['get', 'discharged'], true],
+    '#29f1c3',
     '#29f1c3'
   ],
   'circle-radius': 6,

@@ -70,10 +70,10 @@ const Control: React.FC<SummaryProps> = (props) => {
         <Dot type='hospitalised'/>
         <span>Hospitalised: {hospitalisedCases}</span>
       </Breakdown>
-      <div>
+      <Breakdown>
         <Dot type='discharged'/>
         <span>Discharged: {dischargedCases}</span>
-      </div>
+      </Breakdown>
     </SummaryWrapper>
   );
 };
