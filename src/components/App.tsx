@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import Control from './control/control-container';
 import Map from './map/map-container';
 import SnackbarUpdate from './snackbar-update/snackbar-update';
+import Summary from './summary/summary-container';
 
 export interface AppProps {
   loading?: boolean;
@@ -53,6 +54,7 @@ class App extends React.Component<AppProps, AppState> {
         {hasServiceWorkerUpdates &&
           <SnackbarUpdate onDismiss={() => this.updateServiceWorker()}/>
         }
+        <Summary />
       </AppWrapper>
     );
   }
