@@ -12,13 +12,11 @@ interface DotProps {
   type: 'discharged' | 'hospitalised'
 }
 
-type cluster = 'case' | 'transmission';
-
 const SummaryWrapper = styled.div`
   background-color: rgba(0,0,0, 0.5);
   color: white;
   position: absolute;
-  z-index: 1;
+  z-index: 3;
   bottom: 1rem;
   left: 1rem;
   padding: 0.5rem;

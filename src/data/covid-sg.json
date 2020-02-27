@@ -686,7 +686,7 @@
         "id": "case-46",
         "title": "Case 46",
         "confirmed": "2020-02-10",
-        "discharged": "2020-02-23",
+        "discharged": "2020-02-24",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/coronavirus-2-new-cases-in-spore-including-man-who-works-at-rws-casino-2-more"
       }
@@ -731,7 +731,7 @@
         "id": "case-49",
         "title": "Case 49",
         "confirmed": "2020-02-11",
-        "discharged": "",
+        "discharged": "2020-02-26",
         "hospital": "National University Hospital",
         "source": "https://www.straitstimes.com/singapore/health/coronavirus-3-new-cases-in-singapore-2-from-grace-assembly-of-god-church-1-from-dbs"
       }
@@ -836,7 +836,7 @@
         "id": "case-56",
         "title": "Case 56",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -881,7 +881,7 @@
         "id": "case-59",
         "title": "Case 59",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -1091,7 +1091,7 @@
         "id": "case-73",
         "title": "Case 73",
         "confirmed": "2020-02-15",
-        "discharged": "",
+        "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772"
       }
@@ -1301,7 +1301,7 @@
         "id": "case-87",
         "title": "Case 87",
         "confirmed": "2020-02-21",
-        "discharged": "2020-02-23",
+        "discharged": "2020-02-24",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
       }
@@ -1394,6 +1394,51 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.770438, 1.342977]
+      },
+      "properties": {
+        "id": "case-94",
+        "title": "Case 94",
+        "confirmed": "2020-02-26",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.745595, 1.333605]
+      },
+      "properties": {
+        "id": "case-95",
+        "title": "Case 95",
+        "confirmed": "2020-02-27",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.843412, 1.346718]
+      },
+      "properties": {
+        "id": "case-96",
+        "title": "Case 96",
+        "confirmed": "2020-02-27",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870"
       }
     }
   ]
