@@ -10,6 +10,10 @@ const CaseContentWrapper = styled.div`
 const Description = styled.div`
 `;
 
+const ArticleLink = styled.a`
+  color: #f62459
+`;
+
 export type CaseContent = PointProperties;
 
 export const CaseContent: React.FC<CaseContent> = (props) => {
@@ -26,13 +30,13 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
     <Description>
       {
         discharged
-          ? <><span>Discharged on: </span><strong>{discharged}</strong><br /></>
+          ? <><span>Discharged: </span><strong>{discharged}</strong><br /></>
           : null
       }
     </Description>
     {
       source
-        ? <a href={source} target='_blank' rel='noopener noreferrer'>article</a>
+        ? <ArticleLink href={source} target='_blank' rel='noopener noreferrer'>article</ArticleLink>
         : null
     }
   </CaseContentWrapper>
