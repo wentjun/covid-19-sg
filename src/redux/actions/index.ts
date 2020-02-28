@@ -1,6 +1,6 @@
 import { createAction } from 'typesafe-actions';
-import { ClusterLocation } from '../../shared/models/ClusterZones';
-import { Feature, Point, FeatureCollection } from 'geojson';
+import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
+import { Feature, Point, FeatureCollection, Polygon } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
 
 export const MAP_READY = '[Map] Set Map As Ready';
@@ -41,7 +41,7 @@ export const toggleDisplayCaseClusters = createAction(
 
 export const setSelectedCluster = createAction(
   CONTROL_SET_SELECTED_CLUSTER,
-  resolve => (selectedCluster: ClusterLocation) =>
+  resolve => (selectedCluster: Feature<Polygon, TransmissionClusterProperties>) =>
     resolve({ selectedCluster })
 );
 

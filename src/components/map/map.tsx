@@ -3,7 +3,6 @@ import React from 'react';
 import styled from 'styled-components';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { Feature, Point } from 'geojson';
 import { MapState } from '../../redux/reducers/map-reducer';
 import ReactDOM from 'react-dom';
@@ -15,6 +14,7 @@ import ReactGA from 'react-ga';
 
 export interface MapProps {
   mapReady: () => void;
+  setSelectedCase: (selectedCase: Feature<Point, PointProperties>) => void;
   longitude: number;
   latitude: number;
   zoom: number;
@@ -28,10 +28,6 @@ export interface MapProps {
 
 const MapWrapper = styled.div`
   width: 100vw;
-  height: 100vh;
-  height: -moz-available; // webkit
-  height: -webkit-fill-available;  // mozilla
-  height: fill-available;
 `;
 
 const MapContainer = styled.div`
@@ -113,7 +109,7 @@ class Map extends React.Component<MapProps> {
     }
 
     if (selectedCase?.properties.id !== prevProps.selectedCase?.properties.id) {
-      this.flyToCase(selectedCase?.geometry.coordinates as [number, number], selectedCase.properties);
+      this.flyToCase(selectedCase?.geometry.coordinates as [number, number]);
     }
 
     if (clusterData.features.length !== prevProps.clusterData.features.length) {
@@ -129,16 +125,15 @@ class Map extends React.Component<MapProps> {
   }
 
   zoomToTransmissionCluster() {
-    const { transmissionClusterData: { features }, selectedCluster } = this.props;
-    const polygon = features.find(polygon => polygon.properties?.location === selectedCluster);
-    if (polygon?.geometry.type !== 'Polygon') {
+    const { selectedCluster } = this.props;
+    if (!selectedCluster) {
       return;
     }
-    const { properties, geometry: { coordinates } } = polygon;
+    const { geometry: { coordinates } } = selectedCluster;
 
     const polygonCoordinates = coordinates[0] as Array<[number, number]>;
 
-    this.zoomIntoTransmissionClusterBounds(polygonCoordinates, properties);
+    this.zoomIntoTransmissionClusterBounds(polygonCoordinates);
   }
 
   loadMap() {
@@ -249,7 +244,9 @@ class Map extends React.Component<MapProps> {
 
   onPointClick() {
     const handleClick = (e: MapLayerMouseEvent) => {
-      if (!e.features || e.features?.[0].geometry?.type !== 'Point') {
+      const { setSelectedCase, clusterData } = this.props;
+      const currentZoomLevel = this.map?.getZoom();
+      if (!e.features || e.features?.[0].geometry?.type !== 'Point' || !currentZoomLevel) {
         return;
       }
 
@@ -257,13 +254,14 @@ class Map extends React.Component<MapProps> {
       const { lng, lat } = e.lngLat;
       this.map?.easeTo({
         center: [lng, lat],
-        zoom: 16
+        zoom: (currentZoomLevel > 16) ? currentZoomLevel : 16
       });
 
-      const { geometry, properties } = e.features?.[0];
-      const coordinates = geometry.coordinates.slice() as [number, number];
+      const { id } = e.features?.[0].properties as PointProperties;
+      const selectedCase = (clusterData.features.filter((feature) => feature.properties.id === id))[0];
+      // const coordinates = geometry.coordinates.slice() as [number, numbr];
       this.map?.once('moveend', () => {
-        this.renderCasePopup(coordinates, properties as PointProperties);
+        setSelectedCase(selectedCase);
       });
     };
 
@@ -284,17 +282,14 @@ class Map extends React.Component<MapProps> {
       if (features?.[0].geometry.type !== 'Polygon') {
         return;
       }
-      const { geometry: { coordinates }, properties} = features[0];
+      const { geometry: { coordinates } } = features[0];
       const polygonCoordinates = coordinates[0] as Array<[number, number]>;
-      const processed = {
-        ...properties,
-        cases: JSON.parse(properties?.cases)
-      } as TransmissionClusterProperties;
-      this.zoomIntoTransmissionClusterBounds(polygonCoordinates, processed);
+
+      this.zoomIntoTransmissionClusterBounds(polygonCoordinates);
     });
   }
 
-  zoomIntoTransmissionClusterBounds(coordinates: Array<[number, number]>, properties: TransmissionClusterProperties | null) {
+  zoomIntoTransmissionClusterBounds(coordinates: Array<[number, number]>) {
     const bounds = coordinates.reduce((bounds: any, coord: any) => {
       return bounds.extend(coord);
     }, new LngLatBounds(coordinates[0], coordinates[0]));
@@ -302,32 +297,6 @@ class Map extends React.Component<MapProps> {
     this.map?.fitBounds(bounds, {
       padding: 20,
       linear: true
-    });
-    this.map?.once('moveend', () => {
-      const popupLocation = this.map?.getCenter();
-
-      if (!popupLocation || !properties) {
-        return;
-      }
-
-      const existingTransmissionPopup = (document.getElementsByClassName(MapSchema.TransmissionPopup))[0];
-      existingTransmissionPopup?.parentNode?.removeChild(existingTransmissionPopup);
-
-      const popupContent = document.createElement('div');
-
-      const { lng, lat } = popupLocation;
-      if (this.map) {
-        ReactDOM.render(
-          <MapPopup
-            coordinates={[lng, lat]}
-            mapRef={this.map}
-            properties={properties}
-            type='transmission'
-            onCaseClick={(e) => this.onCaseSelect(e)}
-          />,
-          popupContent
-        );
-      }
     });
   }
 
@@ -337,21 +306,17 @@ class Map extends React.Component<MapProps> {
     if (!selectedCase) {
       return;
     }
-    const { geometry: { coordinates }, properties } = selectedCase;
+    const { geometry: { coordinates } } = selectedCase;
 
-    this.flyToCase(coordinates as [number, number], properties);
+    this.flyToCase(coordinates as [number, number]);
   }
 
-  flyToCase(coordinates: [number, number], properties: PointProperties) {
+  flyToCase(coordinates: [number, number]) {
     this.map?.flyTo({
       center: coordinates,
       curve: 1.1,
       speed: 2,
       zoom: 16
-    });
-
-    this.map?.once('moveend', () => {
-      this.renderCasePopup(coordinates as [number, number], properties);
     });
   }
 
