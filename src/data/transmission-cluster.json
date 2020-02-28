@@ -344,6 +344,36 @@
          "location": "Seletar Aerospace Heights",
          "cases": [42, 47, 52, 56, 69]
        }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+              [
+                 103.778990,
+                 1.288495
+              ],
+              [
+                 103.779951,
+                 1.288912
+              ],
+              [
+                 103.780301,
+                 1.288076
+              ],
+              [
+                 103.779341,
+                 1.287684
+              ]
+            ]
+         ]
+       },
+       "properties": {
+         "location": "Wizlearn Technologies (10 Science Park)",
+         "cases": [93, 95, 97, 98]
+       }
      }
    ]
 }

@@ -23,7 +23,8 @@ const mapStateToProps = (state: RootState) => ({
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({
   mapReady: () => actions.mapReady(),
-  setSelectedCase: (selectedCase) => actions.setSelectedCase(selectedCase)
+  setSelectedCase: (selectedCase) => actions.setSelectedCase(selectedCase),
+  setSelectedCluster: (selectedCluster) => actions.setSelectedCluster(selectedCluster)
 }, dispatch);
 
 export default connect(mapStateToProps, mapDispatchToProps)(Map);

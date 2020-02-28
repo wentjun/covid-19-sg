@@ -3,6 +3,7 @@ import { TransmissionClusterProperties } from '../../shared/models/ClusterZones'
 import styled from 'styled-components';
 
 const CaseSpan = styled.span`
+  font-weight: bold;
   &:hover {
    color: #f62459;
    cursor: pointer;
@@ -19,7 +20,7 @@ export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
   return <>
     <span><strong>{location}</strong></span>
     <br />
-    <span>Cases: </span>
+    <span>Cases (click to view more):</span>
     <strong>
       {cases.map((patient: number, index) =>
         <React.Fragment key={index}>

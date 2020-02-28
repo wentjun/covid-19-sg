@@ -1,16 +1,15 @@
 import React from 'react';
 import styled from 'styled-components';
-import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { MapState } from '../../redux/reducers/map-reducer';
-import { Point, Feature, Polygon } from 'geojson';
+import { Point, Feature } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { ControlState } from '../../redux/reducers/control-reducer';
+import { ControlState, SelectedCluster, SelectedCase } from '../../redux/reducers/control-reducer';
 
 interface ControlProps {
   toggleDisplayTransmissionClusters: (displayTransmissionClusters: boolean) => void;
   toggleDisplayCaseClusters: (displayCaseClusters: boolean) => void;
-  setSelectedCluster: (selectedCluster: Feature<Polygon, TransmissionClusterProperties>) => void;
-  setSelectedCase: (selectedCase: Feature<Point, PointProperties>) => void;
+  setSelectedCluster: (selectedCluster: SelectedCluster) => void;
+  setSelectedCase: (selectedCase: SelectedCase) => void;
   setDateRange: (numberOfDays: number) => void;
   displayTransmissionClusters: boolean;
   displayCaseClusters: boolean;
@@ -40,6 +39,10 @@ const ControlWrapper = styled.div`
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+  }
+
+  @media screen and (orientation: landscape) and (max-width: 896px) {
+    width: 40vw;
   }
 `;
 
@@ -80,6 +83,10 @@ const ToggleGroup = styled.div`
   @media (max-width: 768px) {
     flex: 0 1 40vw;
   }
+
+  @media screen and (orientation: landscape) and (max-width: 896px) {
+    align-items: center;
+  }
 `;
 
 const ToggleType = styled.div`
@@ -87,6 +94,11 @@ const ToggleType = styled.div`
   flex-direction: column;
   > * {
     padding-bottom: 0.2rem;
+  }
+
+  @media screen and (orientation: landscape) and (max-width: 896px) {
+    flex-direction: row;
+    align-items: center;
   }
 `;
 
@@ -136,10 +148,16 @@ const Control: React.FC<ControlProps> = (props) => {
   const handleClusterSelect = (e: React.ChangeEvent<HTMLSelectElement>, type: Cluster) => {
     if (type === 'transmission') {
       const selectedFeature = transmissionClusterData.features[Number(e.target.value)];
-      setSelectedCluster(selectedFeature);
+      setSelectedCluster({
+        ...selectedFeature,
+        shouldTriggerZoom: true
+      });
     } else if (type === 'case') {
       const selectedFeature = clusterData.features[Number(e.target.value)];
-      setSelectedCase(selectedFeature);
+      setSelectedCase({
+        ...selectedFeature,
+        shouldTriggerZoom: true
+      });
     }
   };
 

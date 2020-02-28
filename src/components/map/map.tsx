@@ -3,7 +3,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { Feature, Point } from 'geojson';
+import { Feature, Point, Polygon } from 'geojson';
 import { MapState } from '../../redux/reducers/map-reducer';
 import ReactDOM from 'react-dom';
 // import along from '@turf/along';
@@ -11,10 +11,12 @@ import ReactDOM from 'react-dom';
 import { ControlState } from '../../redux/reducers/control-reducer';
 import MapPopup from '../popups/popup';
 import ReactGA from 'react-ga';
+import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 
 export interface MapProps {
   mapReady: () => void;
   setSelectedCase: (selectedCase: Feature<Point, PointProperties>) => void;
+  setSelectedCluster: (selectedCluster: Feature<Polygon, TransmissionClusterProperties>) => void;
   longitude: number;
   latitude: number;
   zoom: number;
@@ -59,6 +61,12 @@ const SINGLE_POINT_STYLE: CirclePaint = {
     1
   ],
   'circle-stroke-color': '#bdc3c7'
+  // 'circle-stroke-width': [
+  //   'case',
+  //   ['boolean', ['feature-state', 'hover'], false],
+  //   6,
+  //   1
+  // ]
 };
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN as string;
@@ -108,7 +116,7 @@ class Map extends React.Component<MapProps> {
       this.zoomToTransmissionCluster();
     }
 
-    if (selectedCase?.properties.id !== prevProps.selectedCase?.properties.id) {
+    if ((selectedCase?.properties.id !== prevProps.selectedCase?.properties.id) && selectedCase.shouldTriggerZoom) {
       this.flyToCase(selectedCase?.geometry.coordinates as [number, number]);
     }
 
@@ -166,7 +174,8 @@ class Map extends React.Component<MapProps> {
       data: clusterData,
       cluster: true,
       clusterMaxZoom: 14,
-      clusterRadius: 50
+      clusterRadius: 50,
+      generateId: true
     });
 
     this.map?.addLayer({
@@ -222,7 +231,6 @@ class Map extends React.Component<MapProps> {
       const features = this.map?.queryRenderedFeatures(e.point, {
         layers: [MapSchema.ClusterLayer]
       });
-
       const clusterId = features?.[0].properties?.cluster_id;
       const source = this.map?.getSource(MapSchema.Source) as GeoJSONSource;
       source.getClusterExpansionZoom(
@@ -250,19 +258,22 @@ class Map extends React.Component<MapProps> {
         return;
       }
 
-      // zoom into point
-      const { lng, lat } = e.lngLat;
-      this.map?.easeTo({
-        center: [lng, lat],
-        zoom: (currentZoomLevel > 16) ? currentZoomLevel : 16
-      });
-
       const { id } = e.features?.[0].properties as PointProperties;
       const selectedCase = (clusterData.features.filter((feature) => feature.properties.id === id))[0];
-      // const coordinates = geometry.coordinates.slice() as [number, numbr];
-      this.map?.once('moveend', () => {
-        setSelectedCase(selectedCase);
-      });
+      setSelectedCase(selectedCase);
+      const { geometry: { coordinates } } = selectedCase;
+      this.flyToCase(coordinates as [number, number]);
+
+      // const features = this.map?.queryRenderedFeatures(e.point, {
+      //   layers: [MapSchema.SinglePointLayer]
+      // });
+      // const a = this.map?.queryRenderedFeatures(e.point, {
+      //   layers: [MapSchema.SinglePointLayer]
+      // });
+      // this.map?.setFeatureState(
+      //   { source: MapSchema.Source, id: features?.[0].id },
+      //   { hover: true }
+      // );
     };
 
     this.map?.on('click', MapSchema.SinglePointLayer, (e: MapLayerMouseEvent) => {
@@ -275,6 +286,7 @@ class Map extends React.Component<MapProps> {
   }
 
   onTransmissionClusterClick() {
+    const { setSelectedCluster, transmissionClusterData } = this.props;
     this.map?.on('click', MapSchema.TransmissionClusterLayer, (e: MapLayerMouseEvent) => {
       const features = this.map?.queryRenderedFeatures(e.point, {
         layers: [MapSchema.TransmissionClusterLayer]
@@ -282,9 +294,17 @@ class Map extends React.Component<MapProps> {
       if (features?.[0].geometry.type !== 'Polygon') {
         return;
       }
-      const { geometry: { coordinates } } = features[0];
+      const { geometry: { coordinates } , properties } = features[0];
       const polygonCoordinates = coordinates[0] as Array<[number, number]>;
-
+      if (!properties) {
+        return;
+      }
+      const { location } = properties as TransmissionClusterProperties
+      const selectedCluster = transmissionClusterData.features.find((feature) => feature.properties.location === location);
+      if (!selectedCluster) {
+        return;
+      }
+      setSelectedCluster(selectedCluster);
       this.zoomIntoTransmissionClusterBounds(polygonCoordinates);
     });
   }
@@ -312,11 +332,15 @@ class Map extends React.Component<MapProps> {
   }
 
   flyToCase(coordinates: [number, number]) {
+    const currentZoomLevel = this.map?.getZoom();
+    if (!currentZoomLevel) {
+      return;
+    }
     this.map?.flyTo({
       center: coordinates,
       curve: 1.1,
       speed: 2,
-      zoom: 16
+      zoom: (currentZoomLevel > 16) ? currentZoomLevel : 16
     });
   }
 
