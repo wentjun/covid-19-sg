@@ -21,6 +21,11 @@ const AppWrapper = styled.main`
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
+
+  height: 100vh;
+  height: -moz-available; // webkit
+  height: -webkit-fill-available;  // mozilla
+  height: fill-available;
 `;
 
 class App extends React.Component<AppProps, AppState> {

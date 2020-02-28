@@ -8,7 +8,7 @@ const SnackbarWrapper = styled.div`
   width: 70vw;
   max-width: 800px;
   position: absolute;
-  z-index: 1;
+  z-index: 5;
   bottom: 1rem;
   padding: 0.5rem;
 

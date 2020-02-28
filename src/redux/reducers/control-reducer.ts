@@ -1,8 +1,8 @@
 import { ActionType, getType } from 'typesafe-actions';
 import * as actions from '../actions';
-import { ClusterLocation } from '../../shared/models/ClusterZones';
+import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { Point, Feature } from 'geojson';
+import { Point, Feature, Polygon } from 'geojson';
 
 type Action = ActionType<typeof actions>;
 
@@ -10,7 +10,7 @@ export interface ControlState {
   readonly loading: boolean;
   readonly errorMessage?: string;
   readonly displayTransmissionClusters: boolean;
-  readonly selectedCluster?: ClusterLocation;
+  readonly selectedCluster?: Feature<Polygon, TransmissionClusterProperties>;
   readonly displayCaseClusters: boolean;
   readonly selectedCase?: Feature<Point, PointProperties>;
   readonly dateEndRange: Date;
