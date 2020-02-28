@@ -266,7 +266,7 @@
         "id": "case-18",
         "title": "Case 18",
         "confirmed": "2020-02-01",
-        "discharged": "",
+        "discharged": "2020-02-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384"
       }
@@ -776,7 +776,7 @@
         "id": "case-52",
         "title": "Case 52",
         "confirmed": "2020-02-12",
-        "discharged": "",
+        "discharged": "2020-02-28",
         "hospital": "Tan Tock Seng Hospital",
         "source": ""
       }
@@ -866,7 +866,7 @@
         "id": "case-58",
         "title": "Case 58",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -926,7 +926,7 @@
         "id": "case-62",
         "title": "Case 62",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-02-25",
         "hospital": "Singapore General Hospital",
         "source": ""
       }
@@ -1076,7 +1076,7 @@
         "id": "case-72",
         "title": "Case 72",
         "confirmed": "2020-02-15",
-        "discharged": "",
+        "discharged": "2020-02-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
@@ -1151,7 +1151,7 @@
         "id": "case-77",
         "title": "Case 77",
         "confirmed": "2020-02-16",
-        "discharged": "",
+        "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed"
       }
@@ -1166,7 +1166,7 @@
         "id": "case-78",
         "title": "Case 78",
         "confirmed": "2020-02-17",
-        "discharged": "",
+        "discharged": "2020-02-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
       }
@@ -1181,7 +1181,7 @@
         "id": "case-79",
         "title": "Case 79",
         "confirmed": "2020-02-17",
-        "discharged": "",
+        "discharged": "2020-02-28",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed"
       }
@@ -1196,7 +1196,7 @@
         "id": "case-80",
         "title": "Case 80",
         "confirmed": "2020-02-18",
-        "discharged": "",
+        "discharged": "2020-02-27",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
       }
@@ -1211,7 +1211,7 @@
         "id": "case-81",
         "title": "Case 81",
         "confirmed": "2020-02-18",
-        "discharged": "",
+        "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
       }
@@ -1331,7 +1331,7 @@
         "id": "case-89",
         "title": "Case 89",
         "confirmed": "2020-02-22",
-        "discharged": "",
+        "discharged": "2020-02-28",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
       }
@@ -1361,7 +1361,7 @@
         "id": "case-91",
         "title": "Case 91",
         "confirmed": "2020-02-22",
-        "discharged": "",
+        "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606"
       }
@@ -1439,6 +1439,36 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.779614, 1.288312]
+      },
+      "properties": {
+        "id": "case-97",
+        "title": "Case 97",
+        "confirmed": "2020-02-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.779726, 1.288130]
+      },
+      "properties": {
+        "id": "case-98",
+        "title": "Case 98",
+        "confirmed": "2020-02-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290"
       }
     }
   ]

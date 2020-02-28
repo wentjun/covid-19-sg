@@ -1,11 +1,12 @@
 import { Epic } from 'redux-observable';
-import { map, filter, withLatestFrom } from 'rxjs/operators';
+import { map, filter, withLatestFrom, concatMap } from 'rxjs/operators';
 import { ActionType, isActionOf } from 'typesafe-actions';
 import * as actions from '../actions';
 import { RootState } from '../reducers';
 import covidData from '../../data/covid-sg.json';
 import { Point, Feature, FeatureCollection } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
+import { of } from 'rxjs';
 
 type Action = ActionType<typeof actions>;
 
@@ -13,8 +14,7 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
   action$.pipe(
     filter(isActionOf(actions.setDateRange)),
     withLatestFrom(state$),
-    map((epic) => {
-      const { control: { dateEndRange } } = epic[1];
+    concatMap(([, { control: { dateEndRange } }]) => {
       const covidDataFeatures = covidData.features as Array<Feature<Point, PointProperties>>;
       const features = covidDataFeatures
         .filter((feature) => (
@@ -45,8 +45,12 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
         type: 'FeatureCollection',
         features
       };
+      const latestCase = features[features.length - 1];
 
-      return (actions.setClusterData(clusterFeatureCollection));
+      return of(
+        actions.setClusterData(clusterFeatureCollection),
+         actions.setSelectedCase(latestCase)
+       );
     })
   );
 

@@ -13,6 +13,7 @@ const mapStateToProps = (state: RootState) => ({
   displayCaseClusters: state.control.displayCaseClusters,
   ready: state.map.ready,
   clusterData: state.map.clusterData,
+  transmissionClusterData: state.map.transmissionClusterData,
   dateEndRange: state.control.dateEndRange
 });
 

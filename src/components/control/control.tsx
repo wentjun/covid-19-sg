@@ -1,25 +1,25 @@
 import React from 'react';
 import styled from 'styled-components';
-import { ClusterLocation } from '../../shared/models/ClusterZones';
 import { MapState } from '../../redux/reducers/map-reducer';
 import { Point, Feature } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { ControlState } from '../../redux/reducers/control-reducer';
+import { ControlState, SelectedCluster, SelectedCase } from '../../redux/reducers/control-reducer';
 
 interface ControlProps {
   toggleDisplayTransmissionClusters: (displayTransmissionClusters: boolean) => void;
   toggleDisplayCaseClusters: (displayCaseClusters: boolean) => void;
-  setSelectedCluster: (selectedCluster: ClusterLocation) => void;
-  setSelectedCase: (selectedCase: Feature<Point, PointProperties>) => void;
+  setSelectedCluster: (selectedCluster: SelectedCluster) => void;
+  setSelectedCase: (selectedCase: SelectedCase) => void;
   setDateRange: (numberOfDays: number) => void;
   displayTransmissionClusters: boolean;
   displayCaseClusters: boolean;
   ready: boolean;
   clusterData: MapState['clusterData'];
+  transmissionClusterData: MapState['transmissionClusterData'];
   dateEndRange: ControlState['dateEndRange'];
 }
 
-type cluster = 'case' | 'transmission';
+export type Cluster = 'case' | 'transmission';
 
 const ControlWrapper = styled.div`
   background-color: rgba(0,0,0, 0.5);
@@ -39,6 +39,10 @@ const ControlWrapper = styled.div`
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+  }
+
+  @media screen and (orientation: landscape) and (max-width: 896px) {
+    width: 40vw;
   }
 `;
 
@@ -79,6 +83,10 @@ const ToggleGroup = styled.div`
   @media (max-width: 768px) {
     flex: 0 1 40vw;
   }
+
+  @media screen and (orientation: landscape) and (max-width: 896px) {
+    align-items: center;
+  }
 `;
 
 const ToggleType = styled.div`
@@ -86,6 +94,11 @@ const ToggleType = styled.div`
   flex-direction: column;
   > * {
     padding-bottom: 0.2rem;
+  }
+
+  @media screen and (orientation: landscape) and (max-width: 896px) {
+    flex-direction: row;
+    align-items: center;
   }
 `;
 
@@ -105,15 +118,6 @@ const ToggleSliderGroup = styled(ToggleGroup)`
   }
 `;
 
-const CLUSTER_LOCATIONS: ClusterLocation[] = [
-  'Grace Assembly of God Church (Tanglin)',
-  'Grace Assembly of God Church (Bukit Batok)',
-  'Yong Thai Hang Medical Products Shop',
-  'The Life Church and Missions Singapore',
-  'Grand Hyatt Singapore' ,
-  'Seletar Aerospace Heights'
-];
-
 const START_DATE = '2020-01-23';
 const DIFFERENCE = +new Date() - +new Date(START_DATE);
 const DAYS  = Math.ceil(DIFFERENCE / (1000 * 60 * 60 * 24));
@@ -128,11 +132,12 @@ const Control: React.FC<ControlProps> = (props) => {
     setSelectedCase,
     ready,
     clusterData,
+    transmissionClusterData,
     setDateRange,
     dateEndRange
   } = props;
 
-  const handleCheck = (e: React.ChangeEvent<HTMLInputElement>, type: cluster) => {
+  const handleCheck = (e: React.ChangeEvent<HTMLInputElement>, type: Cluster) => {
     if (type === 'transmission') {
       toggleDisplayTransmissionClusters(e.target.checked);
     } else if (type === 'case') {
@@ -140,12 +145,19 @@ const Control: React.FC<ControlProps> = (props) => {
     }
   };
 
-  const handleClusterSelect = (e: React.ChangeEvent<HTMLSelectElement>, type: cluster) => {
+  const handleClusterSelect = (e: React.ChangeEvent<HTMLSelectElement>, type: Cluster) => {
     if (type === 'transmission') {
-      setSelectedCluster(e.target.value as ClusterLocation);
+      const selectedFeature = transmissionClusterData.features[Number(e.target.value)];
+      setSelectedCluster({
+        ...selectedFeature,
+        shouldTriggerZoom: true
+      });
     } else if (type === 'case') {
       const selectedFeature = clusterData.features[Number(e.target.value)];
-      setSelectedCase(selectedFeature);
+      setSelectedCase({
+        ...selectedFeature,
+        shouldTriggerZoom: true
+      });
     }
   };
 
@@ -164,8 +176,7 @@ const Control: React.FC<ControlProps> = (props) => {
           id='transmissionClusters'
         />
         <ToggleType>
-          <label htmlFor='transmissionClusters'>Transmission Clusters</label>
-          <label htmlFor='jumptoCluster'>Jump to:</label>
+          <label htmlFor='transmissionClusters'>Locations</label>
           <ClusterSelect
             id='jumptoCluster'
             disabled={!displayTransmissionClusters || !ready}
@@ -174,7 +185,7 @@ const Control: React.FC<ControlProps> = (props) => {
           >
             <option disabled value=''>- select a location -</option>
             {
-              CLUSTER_LOCATIONS.map((name: ClusterLocation) => <option key={name}>{name}</option>)
+              transmissionClusterData.features.map(({ properties: { location } }, index) => <option key={location} value={index}>{location}</option>)
             }
           </ClusterSelect>
         </ToggleType>
@@ -189,7 +200,6 @@ const Control: React.FC<ControlProps> = (props) => {
         />
         <ToggleType>
           <label htmlFor='caseClusters'>Cases Clusters</label>
-          <label htmlFor='jumptoCase'>Jump to:</label>
           <ClusterSelect
             id='jumptoCase'
             disabled={!ready}

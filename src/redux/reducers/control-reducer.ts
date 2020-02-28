@@ -1,18 +1,24 @@
 import { ActionType, getType } from 'typesafe-actions';
 import * as actions from '../actions';
-import { ClusterLocation } from '../../shared/models/ClusterZones';
+import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { Point, Feature } from 'geojson';
+import { Point, Feature, Polygon } from 'geojson';
 
 type Action = ActionType<typeof actions>;
+export type SelectedCase= Feature<Point, PointProperties> & {
+  shouldTriggerZoom?: boolean
+};
+export type SelectedCluster = Feature<Polygon, TransmissionClusterProperties> & {
+  shouldTriggerZoom?: boolean
+};
 
 export interface ControlState {
   readonly loading: boolean;
   readonly errorMessage?: string;
   readonly displayTransmissionClusters: boolean;
-  readonly selectedCluster?: ClusterLocation;
+  readonly selectedCluster?: SelectedCluster;
   readonly displayCaseClusters: boolean;
-  readonly selectedCase?: Feature<Point, PointProperties>;
+  readonly selectedCase?: SelectedCase;
   readonly dateEndRange: Date;
 }
 
@@ -20,7 +26,7 @@ const initialState: ControlState = {
   loading: false,
   displayTransmissionClusters: true,
   displayCaseClusters: true,
-  dateEndRange: new Date((new Date()).setHours(0, 0, 0, 0))
+  dateEndRange: new Date((new Date()).setHours(23, 59, 0, 0))
 };
 
 export const controlReducer = (
