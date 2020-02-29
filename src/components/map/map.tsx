@@ -5,11 +5,9 @@ import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { Feature, Point, Polygon } from 'geojson';
 import { MapState } from '../../redux/reducers/map-reducer';
-import ReactDOM from 'react-dom';
 // import along from '@turf/along';
 // import length from '@turf/length';
 import { ControlState } from '../../redux/reducers/control-reducer';
-import MapPopup from '../popups/popup';
 import ReactGA from 'react-ga';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 
@@ -414,31 +412,6 @@ class Map extends React.Component<MapProps> {
       }
     // ensure transmission cluster is "below" case point
     }, MapSchema.SinglePointLayer);
-  }
-
-  renderCasePopup(coordinates: [number, number], properties: PointProperties) {
-    // Ensure that if the map is zoomed out such that multiple
-    // copies of the feature are visible, the popup appears
-    // over the copy being pointed to.
-    // while (Math.abs(lng - coordinates[0]) > 180) {
-    //   coordinates[0] += lng > coordinates[0] ? 360 : -360;
-    // }
-    const popupContent = document.createElement('div');
-
-    const existingCasePopup = (document.getElementsByClassName(MapSchema.CasePopup))[0];
-    existingCasePopup?.parentNode?.removeChild(existingCasePopup);
-
-    if (this.map) {
-      ReactDOM.render(
-        <MapPopup
-          coordinates={coordinates}
-          mapRef={this.map}
-          properties={properties}
-          type='case'
-        />,
-        popupContent
-     );
-    }
   }
 
   loadAnalyticsTracking() {
