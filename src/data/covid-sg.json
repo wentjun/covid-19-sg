@@ -1470,6 +1470,66 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847041, 1.322431]
+      },
+      "properties": {
+        "id": "case-99",
+        "title": "Case 99",
+        "confirmed": "2020-02-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847026, 1.322182]
+      },
+      "properties": {
+        "id": "case-100",
+        "title": "Case 100",
+        "confirmed": "2020-02-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.744176, 1.334492]
+      },
+      "properties": {
+        "id": "case-101",
+        "title": "Case 101",
+        "confirmed": "2020-02-29",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.744265, 1.334485]
+      },
+      "properties": {
+        "id": "case-102",
+        "title": "Case 102",
+        "confirmed": "2020-02-29",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+      }
     }
   ]
 }
