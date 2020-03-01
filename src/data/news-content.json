@@ -1,410 +1,426 @@
 [
-   {
-      "patient":"Case 99",
-      "content":"<li>Case 99 is a 27 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd."
-   },
-   {
-      "patient":"Case 100",
-      "content":"<li>Case 100 is a 20 year-old male Malaysian national, who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd."
-   },
-   {
-      "patient":"Case 101",
-      "content":"<li>Case 101 is a 61 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to Case 93.</li>"
-   },
-   {
-      "patient":"Case 102",
-      "content":"<li>Case 102 is a 41 year-old female Filipino national who is a Singapore Work Pass holder, and has no recent travel history to China, Daegu and Cheongdo. She is Case 101&#x2019;s foreign domestic worker.</li>"
-   },
-   {
-      "patient":"Case 97",
-      "content":"<li>Case 97 is a 44 year-old female Singapore PR who has no recent travel history to China, Daegu and Cheongdo. She is linked to cases 93 and 95.</li>"
-   },
-   {
-      "patient":"Case 98",
-      "content":"<li>Case 98 is a 24 year-old male Singapore PR who has no recent travel history to China, Daegu and Cheongdo. He is linked to Cases 93, 95 and 97.</li>"
-   },
-   {
-      "patient":"Case 94",
-      "content":"<li>Case 94 is a 64 year-old female Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo</li>"
-   },
-   {
-      "patient":"Case 95",
-      "content":"<li>Case 95 is a 44 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to Case 93.</li>"
-   },
-   {
-      "patient":"Case 96",
-      "content":"<li>Case 96 is a 12 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is a student at Raffles Institution and is linked to Case 94.</li>"
-   },
-   {
-      "patient":"case 92",
-      "content":"<li>Case 92 is a 47 year-old male Singapore Citizen who has no recent travel history to China.</li>"
-   },
-   {
-      "patient":"Case 93",
-      "content":"<li>Case 93 is a 38 year-old male Singapore Citizen who has no recent travel history to China</li>."
-   },
-   {
-      "patient":"case 91",
-      "content":"<li>Case 91 is a 58 year-old female Singapore Citizen who has no recent travel history to China. She is linked to Case 66.</li>"
-   },
-   {
-      "patient":"Case 90",
-      "content":"<li>Case 90 is a 75 year-old female who has no recent travel history to China. She is linked to the cluster at The Life Church and Missions Singapore.</li>"
-   },
-   {
-      "patient":"Case 89",
-      "content":"<li>41 year-old male Singapore Permanent Resident</li> <li>No recent travel history to China</li>"
-   },
-   {
-      "patient":"Case 88",
-      "content":"<li>30 year-old female Singapore Citizen</li> <li>No recent travel history to China</li>"
-   },
-   {
-      "patient":"Case 87",
-      "content":"<li>32 year-old make Singapore Citizen</li> <li>Among the group of Singaporeans who were evacuated from Wuhan on 9 Feb</li>"
-   },
-   {
-      "patient":"Case 86",
-      "content":"<li>27 year-old male Singapore Citizen</li> <li>No recent travel history to China</li>"
-   },
-   {
-      "patient":"Case 85",
-      "content":"<li>36 year-old male Chinese national who is a Singapore Work Pass holder</li> <li>No recent travel history to China</li>"
-   },
-   {
-      "patient":"Case 84",
-      "content":"<li>35 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to Case 66</li>"
-   },
-   {
-      "patient":"Case 83",
-      "content":"<li>54 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Travel frequently to Malaysia for work purposes</li>"
-   },
-   {
-      "patient":"Case 82",
-      "content":"<li>57 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Was admitted as a dengue patient in general ward</li>"
-   },
-   {
-      "patient":"Case 81",
-      "content":"<li>50 year-old make Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluser at Grace Assembly of God</li>"
-   },
-   {
-      "patient":"Case 80",
-      "content":"<li>38 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to Case 66</li>"
-   },
-   {
-      "patient":"Case 79",
-      "content":"<li>35 year-old femal Malaysia national who is a Singapore Work Pass Holder</li> <li>No recent travel history to China</li> <li>Family member of Case 72</li>"
-   },
-   {
-      "patient":"Case 78",
-      "content":"<li>57 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
-   },
-   {
-      "patient":"Case 77",
-      "content":"<li>35 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Contact of Case 50</li>"
-   },
-   {
-      "patient":"Case 76",
-      "content":"<li>1 year-old male Singapore Citizen</li> <li>Among the group of Singaporeans who were evacuated from Wuhan on 9 Feb</li> <li>He was without symptoms when he boarded the flight, and was put under quarantine upon landing in Singapore</li>"
-   },
-   {
-      "patient":"Case 75",
-      "content":"<li>71 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 41 and had been under quarantine since 7 Feb</li>"
-   },
-   {
-      "patient":"Case 74",
-      "content":"<li>29 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
-   },
-   {
-      "patient":"Case 73",
-      "content":"<li>43 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God, and was served a Home Quarantine Order as he is a close contact of Case 51</li>"
-   },
-   {
-      "patient":"Case 72",
-      "content":"<li> <p>40 year-old male Chinese national who is a Singapore Work Pass holder</p> </li> <li> <p>No recent travel history to China</p> </li> <li> <p>Non-medical contact of Case 59.</p> </li>"
-   },
-   {
-      "patient":"Case 71",
-      "content":"<li>25 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Contact of Case 66</li>"
-   },
-   {
-      "patient":"Case 70",
-      "content":"<li>27 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 66</li>"
-   },
-   {
-      "patient":"Case 69",
-      "content":"<li>26 year-old Bangladesh national who is a Singapore Work Pass holder</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Seletar Aerospace Heights construction site</li>"
-   },
-   {
-      "patient":"Case 68",
-      "content":"<li>79 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 66</li>"
-   },
-   {
-      "patient":"Case 67",
-      "content":"<li>56 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Family member of Case 61</li>"
-   },
-   {
-      "patient":"Case 66",
-      "content":"<li>28 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
-   },
-   {
-      "patient":"Case 65",
-      "content":"<li>61 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 50 and Case 55</li>"
-   },
-   {
-      "patient":"Case 64",
-      "content":"<li>50 year-old female Singapore Citizen</li> <li>No recent travel history to China</li>"
-   },
-   {
-      "patient":"Case 63",
-      "content":"<li>54 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
-   },
-   {
-      "patient":"Case 62",
-      "content":"<li>44 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Mostly stayed at home, except to seek medical treatment</li>"
-   },
-   {
-      "patient":"Case 61",
-      "content":"<li>57 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Mostly stayed at home, except to go to work for a day</li>"
-   },
-   {
-      "patient":"Case 60",
-      "content":"<li>51 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Mostly stayed at her home and went to work at Grace Assembly of God (Tanglin)</li>"
-   },
-   {
-      "patient":"Case 59",
-      "content":"<li>61 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Works at a private hospital in Singapore</li>"
-   },
-   {
-      "patient":"Case 58",
-      "content":"<li>55 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
-   },
-   {
-      "patient":"Case 57",
-      "content":"<li>26 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
-   },
-   {
-      "patient":"Case 56",
-      "content":"<li>30 year-old male Bangladesh national</li> <li>No recent travel history to China</li> <li>Linked to the cluster at the Seletar Aerospace Heights construction site</li>"
-   },
-   {
-      "patient":"Case 55",
-      "content":"<li>30 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 50</li>"
-   },
-   {
-      "patient":"Case 54",
-      "content":"<li>54 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
-   },
-   {
-      "patient":"Case 53",
-      "content":"<li>54 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Mostly stayed at home at Hillview Avenue</li> <li>Works at the National University of Singapore, but had not interacted with colleagues and students after onset of symptoms</li>"
-   },
-   {
-      "patient":"Case 52",
-      "content":"<li>37 year-old male Bangladesh national, Singapore Work Pass holder</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Seletar Aerospace Heights construction site</li>"
-   },
-   {
-      "patient":"Case 51",
-      "content":"<li>48 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Went to work at Grace Assembly of God (Tanglin) and Grace Assembly of God (Bukit Batok)</li>"
-   },
-   {
-      "patient":"Case 50",
-      "content":"<li>62 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Went to work at DBS Asia Central at Marina Bay Financial Centre</li>"
-   },
-   {
-      "patient":"Case 49",
-      "content":"<li>46 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Went to work at Grace Assembly of God (Tanglin) and Grace Assembly of God (Bukit Batok)</li>"
-   },
-   {
-      "patient":"Case 48",
-      "content":"<li>34 year-old male Singapore Citizen</li> <li>No recent travel history to China but was in Malaysia on 26 Jan</li> <li>Went to work at Grace Assembly of God (Tanglin) (355 Tanglin Road) and Grace Assembly of God (Bukit Batok)</li>"
-   },
-   {
-      "patient":"Case 47",
-      "content":"<li>39 year-old Bangladesh national, Singapore Work Pass Holder</li> <li>No recent travel history to China</li>"
-   },
-   {
-      "patient":"Case 46",
-      "content":"<li>35 year-old male Singapore Permanent Resident</li> <li>No recent travel history to China</li> <li>Lives in Johor Bahru and works in Singapore</li> <li>Prior to hospital admission, went to work at Resorts World Sentosa Casino</li>"
-   },
-   {
-      "patient":"Case 45",
-      "content":"<li>Two year-old female Singapore Citizen</li> <li>Evacuated from Wuhan on 30 Jan</li> <li>She was without symptoms when she boarded the flight, and was placed under quarantine upon landing in Singapore</li>"
-   },
-   {
-      "patient":"Case 44",
-      "content":"<li>37 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Prior to hospital admission, went to work at Certis Cisco Centre (20 Jalan Afifi), and had been on duty at Chingay 2020</li> <li>Prior to onset of symptoms, served Quarantine Orders on two individuals from Wuhan who were subsequently tested positive for COVID-19</li>"
-   },
-   {
-      "patient":"Case 43",
-      "content":"<li>54 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Was in Malaysia on 26 Jan</li>"
-   },
-   {
-      "patient":"Case 42",
-      "content":"<li>39 year-old male Bangladesh national, Singapore Work Pass holder</li> <li>No recent travel history to China</li> <li><span style=\"color: rgb(19, 19, 19);\">For the actions taken by the Ministry of Manpower following the confirmation of this case, read more <a href=\"https://www.mom.gov.sg/newsroom/press-releases/2020/0210-actions-taken-by-mom-following-confirmed-2019-ncov-case-of-work-permit-holder\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><a href=\"https://www.mom.gov.sg/newsroom/press-releases/2020/0210-actions-taken-by-mom-following-confirmed-2019-ncov-case-of-work-permit-holder\"><span style=\"color: rgb(139, 28, 14); text-decoration: none;\"></a></li>"
-   },
-   {
-      "patient":"Case 41",
-      "content":"<li>71 year-old male Singapore Citizen</li> <li>No recent travel history to China</li>"
-   },
-   {
-      "patient":"Case 40",
-      "content":"<li>36 year-old male&#xA0;Singapore Citizen</li> <li>No recent travel history to China</li> <li>Had been placed under home quarantine as he works at Yong Thai Hang, and was identified to be a close contact of Cases 19 and 20</li>"
-   },
-   {
-      "patient":"Case 39",
-      "content":"<li>51 year-old male Singapore Citizen</li> <li>No recent travel history to China, but had travelled to Malaysia</li> <li>Attended the same business meeting as Cases 30 and 36 at Grand Hyatt Singapore from 20 to 22 Jan</li>"
-   },
-   {
-      "patient":"Case 38",
-      "content":"<li>52 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Visited The Life Church and Missions Singapore, and had travelled by public transport to other locations</li>"
-   },
-   {
-      "patient":"Case 37",
-      "content":"<li>53 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Worked as a private hire car driver, and had visited two GP clinics after reporting onset of symptoms</li>"
-   },
-   {
-      "patient":"Case 36",
-      "content":"<li>38 year-old female Singapore Permanent Resident</li> <li>No recent travel history to China, but had travelled to Johor Bahru</li> <li>Attended the same business meeting as Cases 30 and 39 at Grand Hyatt Singapore from 20 to 22 Jan</li>"
-   },
-   {
-      "patient":"Case 35",
-      "content":"<li>64 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Worked as a taxi driver and largely stayed at home after onset of symptoms</li>"
-   },
-   {
-      "patient":"Case 34",
-      "content":"<li>40 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>She had been placed under home quarantine as she works at Yong Thai Hang, and was identified as a close contact of Cases 19 and 20</li>"
-   },
-   {
-      "patient":"Case 33",
-      "content":"<li>39 year-old female Singapore Citizen</li> <li>No travel history to Mainland China, but had been in Malaysia from 22 to 29 Jan</li>"
-   },
-   {
-      "patient":"Case 32",
-      "content":"<li>42 year-old female Singapore Citizen</li> <li>Prior to hospital admission, she worked at Victoria Junior College, but had not interacted with her colleagues and students after onset of symptoms</li>"
-   },
-   {
-      "patient":"Case 31",
-      "content":"<li>53 year-old male Singapore Citizen</li> <li>No travel history to Mainland China, but had been in Malaysia in Jan</li> <li>Prior to hospital admission, he had been to The Life Church and Missions Singapore, and had gone visiting during Chinese New Year</li>"
-   },
-   {
-      "patient":"Case 30",
-      "content":"<li>27 year-old male Singapore Citizen</li> <li>No recent travel history to mainland China</li> <li>Attended a private business meeting at Grand Hyatt Singapore from 20 to 22 Jan, which included confirmed cases from Malaysia and South Korea</li>"
-   },
-   {
-      "patient":"Case 29",
-      "content":"<li>41 year-old male Singapore Citizen</li> <li>No recent travel history to mainland China</li> <li>Developed a fever on 28 Jan, visited a general practitioner (GP) clinic the next day, sought treatment at another GP clinic on 30 Jan, before being admitted to Mount Elizabeth Novena Hospital on 3 Feb</li>"
-   },
-   {
-      "patient":"Case 28",
-      "content":"<li>Family members of Case 19</li> <li>No recent travel history to China</li> <li>Case 27 is a 45 year-old male Singapore Citizen who is the husband of Case 19</li> <li>Case 28 is a six month-old male who is the child of Cases 19 and 27</li>"
-   },
-   {
-      "patient":"Case 27",
-      "content":"<li>Family members of Case 19</li> <li>No recent travel history to China</li> <li>Case 27 is a 45 year-old male Singapore Citizen who is the husband of Case 19</li> <li>Case 28 is a six month-old male who is the child of Cases 19 and 27</li>"
-   },
-   {
-      "patient":"Case 26",
-      "content":"<li>Female Chinese national who arrived in Singapore from Wuhan on 21 Jan</li> <li>Daughter of Case 13, a 73 year-old female Chinese national who arrived in Singapore from Wuhan and subsequently tested positive for the COVID-19&#xA0;infection on 30 Jan</li>"
-   },
-   {
-      "patient":"Case 25",
-      "content":"<li>Singapore Citizen, husband of Case 24, a 32 year-old female confirmed to have COVID-19 on 4 Feb</li>"
-   },
-   {
-      "patient":"Case 24",
-      "content":"<li>Female Singapore resident</li> <li>Tourist guide who brought tour groups to the shop where cases 19 and 20 work at</li>"
-   },
-   {
-      "patient":"Case 23",
-      "content":"<li>Among the group of Singaporeans who were evacuated from Wuhan on 30 Jan</li>"
-   },
-   {
-      "patient":"Case 22",
-      "content":"<li>Among the group of Singaporeans who were evacuated from Wuhan on 30 Jan</li>"
-   },
-   {
-      "patient":"Case 21",
-      "content":"<li>Female Indonesian national</li> <li>Foreign domestic worker, whose employer is Case 19</li>"
-   },
-   {
-      "patient":"Case 20",
-      "content":"<li>Singapore residents</li> <li>Both work at a shop where they had prolonged interactions with travellers from China</li> <li>At least two of these travellers had since been confirmed with the COVID-19 infection</li>"
-   },
-   {
-      "patient":"Case 19",
-      "content":"<li>Singapore residents</li> <li>Both work at a shop where they had prolonged interactions with travellers from China</li> <li>At least two of these travellers had since been confirmed with the COVID-19 infection</li>"
-   },
-   {
-      "patient":"Case 18",
-      "content":"<li>Imported cases</li>"
-   },
-   {
-      "patient":"Case 17",
-      "content":"<li>Imported cases</li>"
-   },
-   {
-      "patient":"Case 16",
-      "content":"<li>Imported cases</li>"
-   },
-   {
-      "patient":"Case 15",
-      "content":"<li>Imported cases</li>"
-   },
-   {
-      "patient":"Case 14",
-      "content":"<li>Imported cases</li>"
-   },
-   {
-      "patient":"Case 13",
-      "content":"<li>All Chinese nationals from Wuhan</li>"
-   },
-   {
-      "patient":"Case 12",
-      "content":"<li>All Chinese nationals from Wuhan</li>"
-   },
-   {
-      "patient":"Case 11",
-      "content":"<li>All Chinese nationals from Wuhan</li>"
-   },
-   {
-      "patient":"Case 10",
-      "content":"<li>56 year-old male Chinese national, arrived in Singapore from Wuhan on 20 Jan</li>"
-   },
-   {
-      "patient":"Case 9",
-      "content":"<li>56 year-old female and a 56-year-old male, married couple</li> <li>Chinese nationals from Wuhan, arrived together in Singapore on 19 Jan</li>"
-   },
-   {
-      "patient":"Case 8",
-      "content":"<li>56 year-old female and a 56-year-old male, married couple</li> <li>Chinese nationals from Wuhan, arrived together in Singapore on 19 Jan</li>"
-   },
-   {
-      "patient":"Case 7",
-      "content":"<li>35 year-old male Chinese national from Wuhan</li> <li>Arrived in Singapore on 23 Jan with family and friends</li>"
-   },
-   {
-      "patient":"Case 6",
-      "content":"<li>56 year-old male Chinese national from Wuhan</li> <li>Arrived in Singapore with his family on 19 Jan</li>"
-   },
-   {
-      "patient":"Case 5",
-      "content":"<li>56 year-old female Chinese national from Wuhan</li> <li>Arrived in Singapore with her family on 18 Jan</li>"
-   },
-   {
-      "patient":"Case 4",
-      "content":"<li>36 year-old male Chinese national from Wuhan</li> <li>Arrived in Singapore with his family on 22 Jan</li>"
-   },
-   {
-      "patient":"Case 3",
-      "content":"<li>37 year-old male Chinese national from Wuhan</li> <li>Son of the first confirmed case announced on 23 Jan</li>"
-   },
-   {
-      "patient":"Case 2",
-      "content":"<li>53 year-old female Chinese national from Wuhan</li> <li>Arrived in Singapore with her family on 21 Jan</li>"
-   },
-   {
-      "patient":"Case 1",
-      "content":"<li>66 year-old male Chinese national from Wuhan</li> <li>Arrived in Singapore with his family on 20 Jan</li>"
-   }
+  {
+    "patient": "Case 106",
+    "content": "<li>Case 106 is a 54-year old male Japanese national who is a Singapore Work Pass holder, and has no recent travel history to China, Daegu and Cheongdo."
+  },
+  {
+    "patient": "Case 105",
+    "content": "<li>Case 105 is a 49-year old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd."
+  },
+  {
+    "patient": "Case 104",
+    "content": "<li>Case 104 is a 25-year old female Myanmar national who has no recent travel history to China, Daegu and Cheongdo but had been in Batam. She is a foreign domestic worker employed by Case 103."
+  },
+  {
+    "patient": "Case 103",
+    "content": "<li>Case 103 is a 37-year old female Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo, but had been in Batam. She is a family member of Case 93 and is linked to Case 101."
+  },
+  {
+    "patient": "Case 99",
+    "content": "<li>Case 99 is a 27 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd."
+  },
+  {
+    "patient": "Case 100",
+    "content": "<li>Case 100 is a 20 year-old male Malaysian national, who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd."
+  },
+  {
+    "patient": "Case 101",
+    "content": "<li>Case 101 is a 61 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to Case 93.</li>"
+  },
+  {
+    "patient": "Case 102",
+    "content": "<li>Case 102 is a 41 year-old female Filipino national who is a Singapore Work Pass holder, and has no recent travel history to China, Daegu and Cheongdo. She is Case 101&#x2019;s foreign domestic worker.</li>"
+  },
+  {
+    "patient": "Case 97",
+    "content": "<li>Case 97 is a 44 year-old female Singapore PR who has no recent travel history to China, Daegu and Cheongdo. She is linked to cases 93 and 95.</li>"
+  },
+  {
+    "patient": "Case 98",
+    "content": "<li>Case 98 is a 24 year-old male Singapore PR who has no recent travel history to China, Daegu and Cheongdo. He is linked to Cases 93, 95 and 97.</li>"
+  },
+  {
+    "patient": "Case 94",
+    "content": "<li>Case 94 is a 64 year-old female Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo</li>"
+  },
+  {
+    "patient": "Case 95",
+    "content": "<li>Case 95 is a 44 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to Case 93.</li>"
+  },
+  {
+    "patient": "Case 96",
+    "content": "<li>Case 96 is a 12 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is a student at Raffles Institution and is linked to Case 94.</li>"
+  },
+  {
+    "patient": "Case 92",
+    "content": "<li>Case 92 is a 47 year-old male Singapore Citizen who has no recent travel history to China.</li>"
+  },
+  {
+    "patient": "Case 93",
+    "content": "<li>Case 93 is a 38 year-old male Singapore Citizen who has no recent travel history to China</li>."
+  },
+  {
+    "patient": "Case 91",
+    "content": "<li>Case 91 is a 58 year-old female Singapore Citizen who has no recent travel history to China. She is linked to Case 66.</li>"
+  },
+  {
+    "patient": "Case 90",
+    "content": "<li>Case 90 is a 75 year-old female who has no recent travel history to China. She is linked to the cluster at The Life Church and Missions Singapore.</li>"
+  },
+  {
+    "patient": "Case 89",
+    "content": "<li>41 year-old male Singapore Permanent Resident</li> <li>No recent travel history to China</li>"
+  },
+  {
+    "patient": "Case 88",
+    "content": "<li>30 year-old female Singapore Citizen</li> <li>No recent travel history to China</li>"
+  },
+  {
+    "patient": "Case 87",
+    "content": "<li>32 year-old make Singapore Citizen</li> <li>Among the group of Singaporeans who were evacuated from Wuhan on 9 Feb</li>"
+  },
+  {
+    "patient": "Case 86",
+    "content": "<li>27 year-old male Singapore Citizen</li> <li>No recent travel history to China</li>"
+  },
+  {
+    "patient": "Case 85",
+    "content": "<li>36 year-old male Chinese national who is a Singapore Work Pass holder</li> <li>No recent travel history to China</li>"
+  },
+  {
+    "patient": "Case 84",
+    "content": "<li>35 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to Case 66</li>"
+  },
+  {
+    "patient": "Case 83",
+    "content": "<li>54 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Travel frequently to Malaysia for work purposes</li>"
+  },
+  {
+    "patient": "Case 82",
+    "content": "<li>57 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Was admitted as a dengue patient in general ward</li>"
+  },
+  {
+    "patient": "Case 81",
+    "content": "<li>50 year-old make Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluser at Grace Assembly of God</li>"
+  },
+  {
+    "patient": "Case 80",
+    "content": "<li>38 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to Case 66</li>"
+  },
+  {
+    "patient": "Case 79",
+    "content": "<li>35 year-old femal Malaysia national who is a Singapore Work Pass Holder</li> <li>No recent travel history to China</li> <li>Family member of Case 72</li>"
+  },
+  {
+    "patient": "Case 78",
+    "content": "<li>57 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
+  },
+  {
+    "patient": "Case 77",
+    "content": "<li>35 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Contact of Case 50</li>"
+  },
+  {
+    "patient": "Case 76",
+    "content": "<li>1 year-old male Singapore Citizen</li> <li>Among the group of Singaporeans who were evacuated from Wuhan on 9 Feb</li> <li>He was without symptoms when he boarded the flight, and was put under quarantine upon landing in Singapore</li>"
+  },
+  {
+    "patient": "Case 75",
+    "content": "<li>71 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 41 and had been under quarantine since 7 Feb</li>"
+  },
+  {
+    "patient": "Case 74",
+    "content": "<li>29 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
+  },
+  {
+    "patient": "Case 73",
+    "content": "<li>43 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God, and was served a Home Quarantine Order as he is a close contact of Case 51</li>"
+  },
+  {
+    "patient": "Case 72",
+    "content": "<li> <p>40 year-old male Chinese national who is a Singapore Work Pass holder</p> </li> <li> <p>No recent travel history to China</p> </li> <li> <p>Non-medical contact of Case 59.</p> </li>"
+  },
+  {
+    "patient": "Case 71",
+    "content": "<li>25 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Contact of Case 66</li>"
+  },
+  {
+    "patient": "Case 70",
+    "content": "<li>27 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 66</li>"
+  },
+  {
+    "patient": "Case 69",
+    "content": "<li>26 year-old Bangladesh national who is a Singapore Work Pass holder</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Seletar Aerospace Heights construction site</li>"
+  },
+  {
+    "patient": "Case 68",
+    "content": "<li>79 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 66</li>"
+  },
+  {
+    "patient": "Case 67",
+    "content": "<li>56 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Family member of Case 61</li>"
+  },
+  {
+    "patient": "Case 66",
+    "content": "<li>28 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
+  },
+  {
+    "patient": "Case 65",
+    "content": "<li>61 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 50 and Case 55</li>"
+  },
+  {
+    "patient": "Case 64",
+    "content": "<li>50 year-old female Singapore Citizen</li> <li>No recent travel history to China</li>"
+  },
+  {
+    "patient": "Case 63",
+    "content": "<li>54 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
+  },
+  {
+    "patient": "Case 62",
+    "content": "<li>44 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Mostly stayed at home, except to seek medical treatment</li>"
+  },
+  {
+    "patient": "Case 61",
+    "content": "<li>57 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Mostly stayed at home, except to go to work for a day</li>"
+  },
+  {
+    "patient": "Case 60",
+    "content": "<li>51 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Mostly stayed at her home and went to work at Grace Assembly of God (Tanglin)</li>"
+  },
+  {
+    "patient": "Case 59",
+    "content": "<li>61 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Works at a private hospital in Singapore</li>"
+  },
+  {
+    "patient": "Case 58",
+    "content": "<li>55 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
+  },
+  {
+    "patient": "Case 57",
+    "content": "<li>26 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
+  },
+  {
+    "patient": "Case 56",
+    "content": "<li>30 year-old male Bangladesh national</li> <li>No recent travel history to China</li> <li>Linked to the cluster at the Seletar Aerospace Heights construction site</li>"
+  },
+  {
+    "patient": "Case 55",
+    "content": "<li>30 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Family member of Case 50</li>"
+  },
+  {
+    "patient": "Case 54",
+    "content": "<li>54 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li>"
+  },
+  {
+    "patient": "Case 53",
+    "content": "<li>54 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Mostly stayed at home at Hillview Avenue</li> <li>Works at the National University of Singapore, but had not interacted with colleagues and students after onset of symptoms</li>"
+  },
+  {
+    "patient": "Case 52",
+    "content": "<li>37 year-old male Bangladesh national, Singapore Work Pass holder</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Seletar Aerospace Heights construction site</li>"
+  },
+  {
+    "patient": "Case 51",
+    "content": "<li>48 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Linked to the cluster at Grace Assembly of God</li> <li>Went to work at Grace Assembly of God (Tanglin) and Grace Assembly of God (Bukit Batok)</li>"
+  },
+  {
+    "patient": "Case 50",
+    "content": "<li>62 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Went to work at DBS Asia Central at Marina Bay Financial Centre</li>"
+  },
+  {
+    "patient": "Case 49",
+    "content": "<li>46 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Went to work at Grace Assembly of God (Tanglin) and Grace Assembly of God (Bukit Batok)</li>"
+  },
+  {
+    "patient": "Case 48",
+    "content": "<li>34 year-old male Singapore Citizen</li> <li>No recent travel history to China but was in Malaysia on 26 Jan</li> <li>Went to work at Grace Assembly of God (Tanglin) (355 Tanglin Road) and Grace Assembly of God (Bukit Batok)</li>"
+  },
+  {
+    "patient": "Case 47",
+    "content": "<li>39 year-old Bangladesh national, Singapore Work Pass Holder</li> <li>No recent travel history to China</li>"
+  },
+  {
+    "patient": "Case 46",
+    "content": "<li>35 year-old male Singapore Permanent Resident</li> <li>No recent travel history to China</li> <li>Lives in Johor Bahru and works in Singapore</li> <li>Prior to hospital admission, went to work at Resorts World Sentosa Casino</li>"
+  },
+  {
+    "patient": "Case 45",
+    "content": "<li>Two year-old female Singapore Citizen</li> <li>Evacuated from Wuhan on 30 Jan</li> <li>She was without symptoms when she boarded the flight, and was placed under quarantine upon landing in Singapore</li>"
+  },
+  {
+    "patient": "Case 44",
+    "content": "<li>37 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Prior to hospital admission, went to work at Certis Cisco Centre (20 Jalan Afifi), and had been on duty at Chingay 2020</li> <li>Prior to onset of symptoms, served Quarantine Orders on two individuals from Wuhan who were subsequently tested positive for COVID-19</li>"
+  },
+  {
+    "patient": "Case 43",
+    "content": "<li>54 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Was in Malaysia on 26 Jan</li>"
+  },
+  {
+    "patient": "Case 42",
+    "content": "<li>39 year-old male Bangladesh national, Singapore Work Pass holder</li> <li>No recent travel history to China</li> <li><span style=\"color: rgb(19, 19, 19);\">For the actions taken by the Ministry of Manpower following the confirmation of this case, read more <a href=\"https://www.mom.gov.sg/newsroom/press-releases/2020/0210-actions-taken-by-mom-following-confirmed-2019-ncov-case-of-work-permit-holder\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><a href=\"https://www.mom.gov.sg/newsroom/press-releases/2020/0210-actions-taken-by-mom-following-confirmed-2019-ncov-case-of-work-permit-holder\"><span style=\"color: rgb(139, 28, 14); text-decoration: none;\"></a></li>"
+  },
+  {
+    "patient": "Case 41",
+    "content": "<li>71 year-old male Singapore Citizen</li> <li>No recent travel history to China</li>"
+  },
+  {
+    "patient": "Case 40",
+    "content": "<li>36 year-old male&#xA0;Singapore Citizen</li> <li>No recent travel history to China</li> <li>Had been placed under home quarantine as he works at Yong Thai Hang, and was identified to be a close contact of Cases 19 and 20</li>"
+  },
+  {
+    "patient": "Case 39",
+    "content": "<li>51 year-old male Singapore Citizen</li> <li>No recent travel history to China, but had travelled to Malaysia</li> <li>Attended the same business meeting as Cases 30 and 36 at Grand Hyatt Singapore from 20 to 22 Jan</li>"
+  },
+  {
+    "patient": "Case 38",
+    "content": "<li>52 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>Visited The Life Church and Missions Singapore, and had travelled by public transport to other locations</li>"
+  },
+  {
+    "patient": "Case 37",
+    "content": "<li>53 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Worked as a private hire car driver, and had visited two GP clinics after reporting onset of symptoms</li>"
+  },
+  {
+    "patient": "Case 36",
+    "content": "<li>38 year-old female Singapore Permanent Resident</li> <li>No recent travel history to China, but had travelled to Johor Bahru</li> <li>Attended the same business meeting as Cases 30 and 39 at Grand Hyatt Singapore from 20 to 22 Jan</li>"
+  },
+  {
+    "patient": "Case 35",
+    "content": "<li>64 year-old male Singapore Citizen</li> <li>No recent travel history to China</li> <li>Worked as a taxi driver and largely stayed at home after onset of symptoms</li>"
+  },
+  {
+    "patient": "Case 34",
+    "content": "<li>40 year-old female Singapore Citizen</li> <li>No recent travel history to China</li> <li>She had been placed under home quarantine as she works at Yong Thai Hang, and was identified as a close contact of Cases 19 and 20</li>"
+  },
+  {
+    "patient": "Case 33",
+    "content": "<li>39 year-old female Singapore Citizen</li> <li>No travel history to Mainland China, but had been in Malaysia from 22 to 29 Jan</li>"
+  },
+  {
+    "patient": "Case 32",
+    "content": "<li>42 year-old female Singapore Citizen</li> <li>Prior to hospital admission, she worked at Victoria Junior College, but had not interacted with her colleagues and students after onset of symptoms</li>"
+  },
+  {
+    "patient": "Case 31",
+    "content": "<li>53 year-old male Singapore Citizen</li> <li>No travel history to Mainland China, but had been in Malaysia in Jan</li> <li>Prior to hospital admission, he had been to The Life Church and Missions Singapore, and had gone visiting during Chinese New Year</li>"
+  },
+  {
+    "patient": "Case 30",
+    "content": "<li>27 year-old male Singapore Citizen</li> <li>No recent travel history to mainland China</li> <li>Attended a private business meeting at Grand Hyatt Singapore from 20 to 22 Jan, which included confirmed cases from Malaysia and South Korea</li>"
+  },
+  {
+    "patient": "Case 29",
+    "content": "<li>41 year-old male Singapore Citizen</li> <li>No recent travel history to mainland China</li> <li>Developed a fever on 28 Jan, visited a general practitioner (GP) clinic the next day, sought treatment at another GP clinic on 30 Jan, before being admitted to Mount Elizabeth Novena Hospital on 3 Feb</li>"
+  },
+  {
+    "patient": "Case 28",
+    "content": "<li>Family members of Case 19</li> <li>No recent travel history to China</li> <li>Case 27 is a 45 year-old male Singapore Citizen who is the husband of Case 19</li> <li>Case 28 is a six month-old male who is the child of Cases 19 and 27</li>"
+  },
+  {
+    "patient": "Case 27",
+    "content": "<li>Family members of Case 19</li> <li>No recent travel history to China</li> <li>Case 27 is a 45 year-old male Singapore Citizen who is the husband of Case 19</li> <li>Case 28 is a six month-old male who is the child of Cases 19 and 27</li>"
+  },
+  {
+    "patient": "Case 26",
+    "content": "<li>Female Chinese national who arrived in Singapore from Wuhan on 21 Jan</li> <li>Daughter of Case 13, a 73 year-old female Chinese national who arrived in Singapore from Wuhan and subsequently tested positive for the COVID-19&#xA0;infection on 30 Jan</li>"
+  },
+  {
+    "patient": "Case 25",
+    "content": "<li>Singapore Citizen, husband of Case 24, a 32 year-old female confirmed to have COVID-19 on 4 Feb</li>"
+  },
+  {
+    "patient": "Case 24",
+    "content": "<li>Female Singapore resident</li> <li>Tourist guide who brought tour groups to the shop where cases 19 and 20 work at</li>"
+  },
+  {
+    "patient": "Case 23",
+    "content": "<li>Among the group of Singaporeans who were evacuated from Wuhan on 30 Jan</li>"
+  },
+  {
+    "patient": "Case 22",
+    "content": "<li>Among the group of Singaporeans who were evacuated from Wuhan on 30 Jan</li>"
+  },
+  {
+    "patient": "Case 21",
+    "content": "<li>Female Indonesian national</li> <li>Foreign domestic worker, whose employer is Case 19</li>"
+  },
+  {
+    "patient": "Case 20",
+    "content": "<li>Singapore residents</li> <li>Both work at a shop where they had prolonged interactions with travellers from China</li> <li>At least two of these travellers had since been confirmed with the COVID-19 infection</li>"
+  },
+  {
+    "patient": "Case 19",
+    "content": "<li>Singapore residents</li> <li>Both work at a shop where they had prolonged interactions with travellers from China</li> <li>At least two of these travellers had since been confirmed with the COVID-19 infection</li>"
+  },
+  {
+    "patient": "Case 18",
+    "content": "<li>Imported cases</li>"
+  },
+  {
+    "patient": "Case 17",
+    "content": "<li>Imported cases</li>"
+  },
+  {
+    "patient": "Case 16",
+    "content": "<li>Imported cases</li>"
+  },
+  {
+    "patient": "Case 15",
+    "content": "<li>Imported cases</li>"
+  },
+  {
+    "patient": "Case 14",
+    "content": "<li>Imported cases</li>"
+  },
+  {
+    "patient": "Case 13",
+    "content": "<li>All Chinese nationals from Wuhan</li>"
+  },
+  {
+    "patient": "Case 12",
+    "content": "<li>All Chinese nationals from Wuhan</li>"
+  },
+  {
+    "patient": "Case 11",
+    "content": "<li>All Chinese nationals from Wuhan</li>"
+  },
+  {
+    "patient": "Case 10",
+    "content": "<li>56 year-old male Chinese national, arrived in Singapore from Wuhan on 20 Jan</li>"
+  },
+  {
+    "patient": "Case 9",
+    "content": "<li>56 year-old female and a 56-year-old male, married couple</li> <li>Chinese nationals from Wuhan, arrived together in Singapore on 19 Jan</li>"
+  },
+  {
+    "patient": "Case 8",
+    "content": "<li>56 year-old female and a 56-year-old male, married couple</li> <li>Chinese nationals from Wuhan, arrived together in Singapore on 19 Jan</li>"
+  },
+  {
+    "patient": "Case 7",
+    "content": "<li>35 year-old male Chinese national from Wuhan</li> <li>Arrived in Singapore on 23 Jan with family and friends</li>"
+  },
+  {
+    "patient": "Case 6",
+    "content": "<li>56 year-old male Chinese national from Wuhan</li> <li>Arrived in Singapore with his family on 19 Jan</li>"
+  },
+  {
+    "patient": "Case 5",
+    "content": "<li>56 year-old female Chinese national from Wuhan</li> <li>Arrived in Singapore with her family on 18 Jan</li>"
+  },
+  {
+    "patient": "Case 4",
+    "content": "<li>36 year-old male Chinese national from Wuhan</li> <li>Arrived in Singapore with his family on 22 Jan</li>"
+  },
+  {
+    "patient": "Case 3",
+    "content": "<li>37 year-old male Chinese national from Wuhan</li> <li>Son of the first confirmed case announced on 23 Jan</li>"
+  },
+  {
+    "patient": "Case 2",
+    "content": "<li>53 year-old female Chinese national from Wuhan</li> <li>Arrived in Singapore with her family on 21 Jan</li>"
+  },
+  {
+    "patient": "Case 1",
+    "content": "<li>66 year-old male Chinese national from Wuhan</li> <li>Arrived in Singapore with his family on 20 Jan</li>"
+  }
 ]

@@ -33,7 +33,10 @@ export const CaseCard: React.FC<CaseCardProps> = (props) => {
 
   const selectCase = (e: number) => {
     const selectedCase =  (clusterData.features.filter((feature: Feature<Point, PointProperties>) => feature.properties.id === `case-${e}`))[0];
-    dispatch(setSelectedCase(selectedCase));
+    dispatch(setSelectedCase({
+      ...selectedCase,
+      shouldTriggerZoom: true
+    }));
   };
 
   return (
