@@ -54,11 +54,19 @@ const SINGLE_POINT_STYLE: CirclePaint = {
   'circle-radius': 6,
   'circle-stroke-width': [
     'case',
+    ['has', 'isActive'],
+    12,
     ['has', 'isDateEndRange'],
     6,
     1
   ],
-  'circle-stroke-color': '#bdc3c7'
+  'circle-stroke-color': [
+    'case',
+    ['has', 'isActive'],
+    '#6c7a89',
+    '#bdc3c7'
+  ]
+  // 'circle-stroke-color': '#bdc3c7'
   // 'circle-stroke-width': [
   //   'case',
   //   ['boolean', ['feature-state', 'hover'], false],
@@ -118,7 +126,7 @@ class Map extends React.Component<MapProps> {
       this.flyToCase(selectedCase?.geometry.coordinates as [number, number]);
     }
 
-    if (clusterData.features.length !== prevProps.clusterData.features.length) {
+    if (clusterData !== prevProps.clusterData) {
       const clusterSource = this.map?.getSource(MapSchema.Source) as GeoJSONSource;
       const unClusterSource = this.map?.getSource(MapSchema.UnclusteredSource) as GeoJSONSource;
       clusterSource.setData(clusterData);
@@ -258,7 +266,13 @@ class Map extends React.Component<MapProps> {
 
       const { id } = e.features?.[0].properties as PointProperties;
       const selectedCase = (clusterData.features.filter((feature) => feature.properties.id === id))[0];
-      setSelectedCase(selectedCase);
+      setSelectedCase({
+        ...selectedCase,
+        properties: {
+          ...selectedCase.properties,
+          isActive: true
+        }
+      });
       const { geometry: { coordinates } } = selectedCase;
       this.flyToCase(coordinates as [number, number]);
 

@@ -1,5 +1,5 @@
 import { Epic } from 'redux-observable';
-import { filter, withLatestFrom, concatMap } from 'rxjs/operators';
+import { filter, withLatestFrom, concatMap, tap, ignoreElements, map } from 'rxjs/operators';
 import { ActionType, isActionOf } from 'typesafe-actions';
 import * as actions from '../actions';
 import { RootState } from '../reducers';
@@ -49,11 +49,55 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
 
       return of(
         actions.setClusterData(clusterFeatureCollection),
-         actions.setSelectedCase(latestCase)
-       );
+        actions.setSelectedCase(latestCase)
+      );
     })
   );
 
+const setSelectedCaseEpic: Epic<Action, Action, RootState> = (action$, state$) =>
+  action$.pipe(
+    filter(isActionOf(actions.setSelectedCase)),
+    filter(epic => !!epic.payload.selectedCase.properties.isActive),
+    withLatestFrom(state$),
+    map(([{ payload: { selectedCase: { properties : { id }} }}, { map: { clusterData } } ]) => {
+      const features = clusterData.features.map(feature => {
+        const { properties } = feature;
+        if (id === properties.id) {
+          return {
+            ...feature,
+            properties: {
+              ...feature.properties,
+              isActive: true
+            }
+          };
+        }
+        const { isActive, ...otherProperties } = feature.properties;
+        return {
+          ...feature,
+          properties: {
+            ...otherProperties
+          }
+        };
+        // if (properties.isActive && id !== properties.id || ) {
+
+        // }
+        // return {
+        //   ...feature,
+        //   properties: {
+        //     ...feature.properties,
+        //     isActive: true
+        //   }
+        // };
+      });
+      return actions.setClusterData({
+        type: 'FeatureCollection',
+        features
+      });
+    })
+  );
+
+
 export default [
-  setDateRangeEpic
+  setDateRangeEpic,
+  setSelectedCaseEpic
 ];
