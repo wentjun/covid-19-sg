@@ -9,4 +9,7 @@ export interface PointProperties {
   // props which are used when adjusting date range
   isDateEndRange?: boolean; // used to determine which point to highlight
   hasRecoveredOnRangeDate?: boolean; // has the patient recovered on the selected date? (on date range)
+
+  // point selection
+  isActive?: boolean;
 }

@@ -118,8 +118,8 @@ const ToggleSliderGroup = styled(ToggleGroup)`
   }
 `;
 
-const START_DATE = '2020-01-23';
-const DIFFERENCE = +new Date() - +new Date(START_DATE);
+const START_DATE = new Date('2020-01-23').setHours(0, 0, 0, 0);
+const DIFFERENCE = new Date().setHours(23, 59, 59, 0) - START_DATE;
 const DAYS  = Math.ceil(DIFFERENCE / (1000 * 60 * 60 * 24));
 
 const Control: React.FC<ControlProps> = (props) => {
