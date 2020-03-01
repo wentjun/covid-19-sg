@@ -54,10 +54,6 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
           : null
       }
     </Description>
-    {
-      source
-        ? <ModalLink onClick={openModal}>Read more</ModalLink>
-        : null
-    }
+    <ModalLink onClick={openModal}>Read more</ModalLink>
   </CaseContentWrapper>
 };
