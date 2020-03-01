@@ -6,10 +6,10 @@ import { Point, Feature, Polygon } from 'geojson';
 
 type Action = ActionType<typeof actions>;
 export type SelectedCase= Feature<Point, PointProperties> & {
-  shouldTriggerZoom?: boolean
+  shouldTriggerZoom?: boolean;
 };
 export type SelectedCluster = Feature<Polygon, TransmissionClusterProperties> & {
-  shouldTriggerZoom?: boolean
+  shouldTriggerZoom?: boolean;
 };
 
 export interface ControlState {

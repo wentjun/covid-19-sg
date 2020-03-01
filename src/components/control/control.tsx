@@ -183,7 +183,7 @@ const Control: React.FC<ControlProps> = (props) => {
             onChange={(e) => handleClusterSelect(e, 'transmission')}
             defaultValue=''
           >
-            <option disabled value=''>- select a location -</option>
+            <option disabled value=''>- select a transmission cluster -</option>
             {
               transmissionClusterData.features.map(({ properties: { location } }, index) => <option key={location} value={index}>{location}</option>)
             }
