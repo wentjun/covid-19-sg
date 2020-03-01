@@ -1,6 +1,9 @@
 import React from 'react';
 import { PointProperties } from '../../shared/models/PointProperties';
 import styled from 'styled-components';
+import { useDispatch, useSelector } from 'react-redux';
+import { RootState } from '../../redux/reducers';
+import { setModal } from '../../redux/actions';
 
 const CaseContentWrapper = styled.div`
   display: flex;
@@ -10,7 +13,16 @@ const CaseContentWrapper = styled.div`
 const Description = styled.div`
 `;
 
-const ArticleLink = styled.a`
+const ModalLink = styled.a`
+  color: #f62459;
+  text-decoration: underline;
+
+  &:hover {
+    cursor: pointer;
+  }
+`;
+
+export const ArticleLink = styled.a`
   color: #f62459
 `;
 
@@ -18,7 +30,15 @@ export type CaseContent = PointProperties;
 
 export const CaseContent: React.FC<CaseContent> = (props) => {
   const { title, confirmed, hospital, discharged, source } = props;
+  const dispatch = useDispatch();
+  const selectedCase = useSelector((state: RootState) => state.control.selectedCase);
 
+  const openModal = () => {
+    if (!selectedCase) {
+      return ;
+    }
+    dispatch(setModal(true));
+  }
   return <CaseContentWrapper>
     <h3>{title}</h3>
     <Description>
@@ -36,7 +56,7 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
     </Description>
     {
       source
-        ? <ArticleLink href={source} target='_blank' rel='noopener noreferrer'>article</ArticleLink>
+        ? <ModalLink onClick={openModal}>Read more</ModalLink>
         : null
     }
   </CaseContentWrapper>

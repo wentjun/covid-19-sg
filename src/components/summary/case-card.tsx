@@ -21,7 +21,6 @@ const CaseCardWrapper = styled.div`
   color: white;
   padding: 0.5rem;
   font-size: 0.8rem;
-  // width: 45vw;
   display: flex;
   flex-direction: column;
   margin-bottom: 0.5rem;

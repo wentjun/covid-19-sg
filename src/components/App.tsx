@@ -5,6 +5,7 @@ import Control from './control/control-container';
 import Map from './map/map-container';
 import SnackbarUpdate from './snackbar-update/snackbar-update';
 import Summary from './summary/summary-container';
+import { Modal } from './modal/modal';
 
 export interface AppProps {
   loading?: boolean;
@@ -60,6 +61,7 @@ class App extends React.Component<AppProps, AppState> {
           <SnackbarUpdate onDismiss={() => this.updateServiceWorker()}/>
         }
         <Summary />
+        <Modal />
       </AppWrapper>
     );
   }

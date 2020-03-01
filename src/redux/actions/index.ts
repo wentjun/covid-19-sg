@@ -2,6 +2,7 @@ import { createAction } from 'typesafe-actions';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { Feature, Point, FeatureCollection, Polygon } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
+import { SelectedCase } from '../reducers/control-reducer';
 
 export const MAP_READY = '[Map] Set Map As Ready';
 export const MAP_UPDATE_CURRENT_LOCATION = '[Map] Update Current Location';
@@ -18,6 +19,7 @@ export const CONTROL_SET_SELECTED_CASE = '[Control] Set Selected Case';
 export const CONTROL_SET_END_DATE_RANGE = '[Control] Set End Date Range';
 export const CONFIG_INITIALISE_SERVICE_WORKER = '[Config] Initialise Service Worker';
 export const CONFIG_UPDATE_SERVICE_WORKER = '[Config] Update Service Worker';
+export const UI_SET_MODAL = '[UI] Set Modal';
 
 export const mapReady = createAction(MAP_READY);
 
@@ -47,7 +49,7 @@ export const setSelectedCluster = createAction(
 
 export const setSelectedCase = createAction(
   CONTROL_SET_SELECTED_CASE,
-  resolve => (selectedCase: Feature<Point, PointProperties>) =>
+  resolve => (selectedCase: SelectedCase) =>
     resolve({ selectedCase })
 );
 
@@ -67,4 +69,10 @@ export const updateServiceWorker = createAction(
   CONFIG_UPDATE_SERVICE_WORKER,
   resolve => (serviceWorkerRegistration: ServiceWorkerRegistration) =>
     resolve({ serviceWorkerRegistration })
+);
+
+export const setModal = createAction(
+  UI_SET_MODAL,
+  resolve => (modal: boolean) =>
+    resolve({ modal })
 );
