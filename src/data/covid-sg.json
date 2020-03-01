@@ -296,7 +296,7 @@
         "id": "case-20",
         "title": "Case 20",
         "confirmed": "2020-02-04",
-        "discharged": "",
+        "discharged": "2020-02-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
       }
@@ -806,7 +806,7 @@
         "id": "case-54",
         "title": "Case 54",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-03-01",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -896,7 +896,7 @@
         "id": "case-60",
         "title": "Case 60",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-03-01",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -1016,7 +1016,7 @@
         "id": "case-68",
         "title": "Case 68",
         "confirmed": "2020-02-14",
-        "discharged": "",
+        "discharged": "2020-02-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
@@ -1121,7 +1121,7 @@
         "id": "case-75",
         "title": "Case 75",
         "confirmed": "2020-02-16",
-        "discharged": "",
+        "discharged": "2020-02-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772"
       }
@@ -1370,7 +1370,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.893402, 1.395477]
+        "coordinates": [103.866641, 1.352229]
       },
       "properties": {
         "id": "case-92",
@@ -1385,7 +1385,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.745362, 1.333736]
+        "coordinates": [103.750987, 1.358849]
       },
       "properties": {
         "id": "case-93",
@@ -1400,7 +1400,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.770438, 1.342977]
+        "coordinates": [103.769782, 1.343501]
       },
       "properties": {
         "id": "case-94",
@@ -1415,7 +1415,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.745595, 1.333605]
+        "coordinates": [103.748310, 1.403252]
       },
       "properties": {
         "id": "case-95",
@@ -1430,7 +1430,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.843412, 1.346718]
+        "coordinates": [103.769728, 1.343381]
       },
       "properties": {
         "id": "case-96",
@@ -1445,7 +1445,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.779614, 1.288312]
+        "coordinates": [103.746845, 1.392035]
       },
       "properties": {
         "id": "case-97",
@@ -1460,7 +1460,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.779726, 1.288130]
+        "coordinates": [103.698495, 1.338615]
       },
       "properties": {
         "id": "case-98",
@@ -1475,7 +1475,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847041, 1.322431]
+        "coordinates": [103.694935, 1.347025]
       },
       "properties": {
         "id": "case-99",
@@ -1490,7 +1490,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847026, 1.322182]
+        "coordinates": [103.795039, 1.309062]
       },
       "properties": {
         "id": "case-100",
@@ -1505,7 +1505,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.744176, 1.334492]
+        "coordinates": [103.756333, 1.342642]
       },
       "properties": {
         "id": "case-101",
@@ -1520,7 +1520,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.744265, 1.334485]
+        "coordinates": [103.756590, 1.342750]
       },
       "properties": {
         "id": "case-102",
@@ -1529,6 +1529,66 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.750986, 1.358926]
+      },
+      "properties": {
+        "id": "case-103",
+        "title": "Case 103",
+        "confirmed": "2020-03-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.750746, 1.358947]
+      },
+      "properties": {
+        "id": "case-104",
+        "title": "Case 104",
+        "confirmed": "2020-03-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.767481, 1.358459]
+      },
+      "properties": {
+        "id": "case-105",
+        "title": "Case 105",
+        "confirmed": "2020-03-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847245, 1.322117]
+      },
+      "properties": {
+        "id": "case-106",
+        "title": "Case 106",
+        "confirmed": "2020-03-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
       }
     }
   ]

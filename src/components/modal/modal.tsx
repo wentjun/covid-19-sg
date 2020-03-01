@@ -23,7 +23,7 @@ const ModalWindow = styled.div`
   color: white;
   display: flex;
   flex-direction: column;
-  max-width: 80%;
+  max-width: 70%;
   padding: 1.5rem;
 `;
 
@@ -43,6 +43,7 @@ const CloseButton = styled.span`
 
   &:hover {
     opacity: 1;
+    cursor: pointer;
   }
 `;
 
