@@ -1,27 +1,35 @@
 [
   {
+    "patient": "Case 108",
+    "content": "<li>Case 108 is a 34 year-old female Filipino national who is a Singapore Work Pass holder, and has no recent travel history to China, Daegu and Cheongdo. She is a foreign domestic worker employed by Case 101, and works in the same household as Case 102.</li>"
+  },
+  {
+    "patient": "Case 107",
+    "content": "<li>Case 107 is a 68 year-old female Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo but had been in Jakarta, Indonesia. She is linked to Case 94.</li>"
+  },
+  {
     "patient": "Case 106",
-    "content": "<li>Case 106 is a 54-year old male Japanese national who is a Singapore Work Pass holder, and has no recent travel history to China, Daegu and Cheongdo."
+    "content": "<li>Case 106 is a 54-year old male Japanese national who is a Singapore Work Pass holder, and has no recent travel history to China, Daegu and Cheongdo.</li>"
   },
   {
     "patient": "Case 105",
-    "content": "<li>Case 105 is a 49-year old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd."
+    "content": "<li>Case 105 is a 49-year old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd.</li>"
   },
   {
     "patient": "Case 104",
-    "content": "<li>Case 104 is a 25-year old female Myanmar national who has no recent travel history to China, Daegu and Cheongdo but had been in Batam. She is a foreign domestic worker employed by Case 103."
+    "content": "<li>Case 104 is a 25-year old female Myanmar national who has no recent travel history to China, Daegu and Cheongdo but had been in Batam. She is a foreign domestic worker employed by Case 103.</li>"
   },
   {
     "patient": "Case 103",
-    "content": "<li>Case 103 is a 37-year old female Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo, but had been in Batam. She is a family member of Case 93 and is linked to Case 101."
+    "content": "<li>Case 103 is a 37-year old female Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo, but had been in Batam. She is a family member of Case 93 and is linked to Case 101.</li>"
   },
   {
     "patient": "Case 99",
-    "content": "<li>Case 99 is a 27 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd."
+    "content": "<li>Case 99 is a 27 year-old male Singapore Citizen who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd.</li>"
   },
   {
     "patient": "Case 100",
-    "content": "<li>Case 100 is a 20 year-old male Malaysian national, who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd."
+    "content": "<li>Case 100 is a 20 year-old male Malaysian national, who has no recent travel history to China, Daegu and Cheongdo. He is linked to the cluster at Wizlearn Technologies Pte Ltd.</li>"
   },
   {
     "patient": "Case 101",

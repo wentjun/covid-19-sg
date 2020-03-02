@@ -551,7 +551,7 @@
         "id": "case-37",
         "title": "Case 37",
         "confirmed": "2020-02-07",
-        "discharged": "",
+        "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -1001,7 +1001,7 @@
         "id": "case-67",
         "title": "Case 67",
         "confirmed": "2020-02-14",
-        "discharged": "",
+        "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
         "source": ""
       }
@@ -1031,7 +1031,7 @@
         "id": "case-69",
         "title": "Case 69",
         "confirmed": "2020-02-14",
-        "discharged": "",
+        "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
@@ -1316,7 +1316,7 @@
         "id": "case-88",
         "title": "Case 88",
         "confirmed": "2020-02-21",
-        "discharged": "",
+        "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
       }
@@ -1589,6 +1589,36 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.853484, 1.350006]
+      },
+      "properties": {
+        "id": "case-107",
+        "title": "Case 107",
+        "confirmed": "2020-03-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.756389, 1.342685]
+      },
+      "properties": {
+        "id": "case-108",
+        "title": "Case 108",
+        "confirmed": "2020-03-02",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster"
       }
     }
   ]
