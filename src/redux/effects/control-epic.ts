@@ -26,7 +26,7 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
               ...feature,
               properties: {
                 ...feature.properties,
-                isActive: selectedCase?.properties.id === feature.properties.id ? true : undefined,
+                isActive: selectedCase?.properties.isActive && selectedCase?.properties.id === feature.properties.id,
                 isDateEndRange: true,
                 hasRecoveredOnRangeDate: (new Date(feature.properties.discharged) <= dateEndRange)
               }
@@ -37,7 +37,7 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
             ...feature,
             properties: {
               ...feature.properties,
-              isActive: selectedCase?.properties.id === feature.properties.id ? true : undefined,
+              isActive: selectedCase?.properties.isActive && selectedCase?.properties.id === feature.properties.id,
               hasRecoveredOnRangeDate: (new Date(feature.properties.discharged) <= dateEndRange)
             }
           };
