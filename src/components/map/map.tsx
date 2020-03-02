@@ -54,7 +54,8 @@ const SINGLE_POINT_STYLE: CirclePaint = {
   'circle-radius': 6,
   'circle-stroke-width': [
     'case',
-    ['has', 'isActive'],
+    // ['has', 'isActive'],
+    ['==', ['get', 'isActive'], true],
     12,
     ['has', 'isDateEndRange'],
     6,
@@ -62,17 +63,11 @@ const SINGLE_POINT_STYLE: CirclePaint = {
   ],
   'circle-stroke-color': [
     'case',
-    ['has', 'isActive'],
+    // ['has', 'isActive'],
+    ['==', ['get', 'isActive'], true],
     '#6c7a89',
     '#bdc3c7'
   ]
-  // 'circle-stroke-color': '#bdc3c7'
-  // 'circle-stroke-width': [
-  //   'case',
-  //   ['boolean', ['feature-state', 'hover'], false],
-  //   6,
-  //   1
-  // ]
 };
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN as string;
