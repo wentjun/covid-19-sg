@@ -10,7 +10,7 @@ const CaseSpan = styled.span`
   }
 `;
 
-export type ClusterContentProps = TransmissionClusterProperties & {
+export type ClusterContentProps = Omit<TransmissionClusterProperties, 'type'> & {
   onCaseClick: (patient: number) => void;
 };
 

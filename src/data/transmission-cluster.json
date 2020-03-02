@@ -112,6 +112,7 @@
        },
        "properties": {
          "location": "Grace Assembly of God Church (Tanglin)",
+         "type": "cluster",
          "cases": [48, 49, 51, 53, 54, 57, 58, 60, 61, 62, 63, 66, 67, 68, 70, 71, 73, 74, 78, 80, 81, 84, 88]
        }
      },
@@ -186,6 +187,7 @@
        },
        "properties": {
          "location": "Grace Assembly of God Church (Bukit Batok)",
+         "type": "cluster",
          "cases": [48, 49, 51, 53, 54, 57, 58, 60, 61, 62, 63, 66, 67, 68, 70, 71, 73, 74, 78, 80, 81, 84, 88]
        }
      },
@@ -220,7 +222,8 @@
        },
        "properties": {
          "location": "Yong Thai Hang Medical Products Shop",
-         "cases": [19, 20, 24, 34, 40]
+         "type": "cluster",
+         "cases": [19, 20, 21, 24, 25, 27, 28, 34, 40]
        }
      },
      {
@@ -282,6 +285,7 @@
        },
        "properties": {
          "location": "The Life Church and Missions Singapore",
+         "type": "cluster",
          "cases": [8, 9, 31, 33, 38, 83, 90, 91]
        }
      },
@@ -312,6 +316,7 @@
        },
        "properties": {
          "location": "Grand Hyatt Singapore",
+         "type": "cluster",
          "cases": [30, 36, 39]
        }
      },
@@ -342,6 +347,7 @@
        },
        "properties": {
          "location": "Seletar Aerospace Heights",
+         "type": "cluster",
          "cases": [42, 47, 52, 56, 69]
        }
      },
@@ -372,7 +378,40 @@
        },
        "properties": {
          "location": "Wizlearn Technologies (10 Science Park)",
-         "cases": [93, 95, 97, 98, 105]
+         "type": "cluster",
+         "cases": [93, 95, 97, 98, 99, 100, 101, 102, 103, 104, 105, 108]
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+              [
+                 103.860409,
+                 1.354065
+              ],
+              [
+                 103.861012,
+                 1.353932
+              ],
+              [
+                 103.860843,
+                 1.353396
+              ],
+              [
+                 103.860240,
+                 1.353543
+              ]
+            ]
+         ]
+       },
+       "properties": {
+         "location": "Mei Hwan Drive",
+         "type": "other",
+         "cases": [50, 55, 65, 66, 68, 70, 71, 80, 83, 84, 88, 91],
+         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-missing-link-found-church-clusters-12469236"
        }
      }
    ]

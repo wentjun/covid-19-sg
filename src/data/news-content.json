@@ -265,7 +265,7 @@
   },
   {
     "patient": "Case 42",
-    "content": "<li>39 year-old male Bangladesh national, Singapore Work Pass holder</li> <li>No recent travel history to China</li> <li><span style=\"color: rgb(19, 19, 19);\">For the actions taken by the Ministry of Manpower following the confirmation of this case, read more <a href=\"https://www.mom.gov.sg/newsroom/press-releases/2020/0210-actions-taken-by-mom-following-confirmed-2019-ncov-case-of-work-permit-holder\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><a href=\"https://www.mom.gov.sg/newsroom/press-releases/2020/0210-actions-taken-by-mom-following-confirmed-2019-ncov-case-of-work-permit-holder\"><span style=\"color: rgb(139, 28, 14); text-decoration: none;\"></a></li>"
+    "content": "<li>39 year-old male Bangladesh national, Singapore Work Pass holder</li> <li>No recent travel history to China</li> <li>For the actions taken by the Ministry of Manpower following the confirmation of this case, read more <a href=\"https://www.mom.gov.sg/newsroom/press-releases/2020/0210-actions-taken-by-mom-following-confirmed-2019-ncov-case-of-work-permit-holder\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><a href=\"https://www.mom.gov.sg/newsroom/press-releases/2020/0210-actions-taken-by-mom-following-confirmed-2019-ncov-case-of-work-permit-holder\"><span style=\"color: rgb(139, 28, 14); text-decoration: none;\"></a></li>"
   },
   {
     "patient": "Case 41",

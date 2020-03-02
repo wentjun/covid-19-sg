@@ -136,6 +136,8 @@ const Control: React.FC<ControlProps> = (props) => {
     setDateRange,
     dateEndRange
   } = props;
+  const clusterLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'cluster');
+  const otherLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'other');
 
   const handleCheck = (e: React.ChangeEvent<HTMLInputElement>, type: Cluster) => {
     if (type === 'transmission') {
@@ -185,7 +187,11 @@ const Control: React.FC<ControlProps> = (props) => {
           >
             <option disabled value=''>- select a transmission cluster -</option>
             {
-              transmissionClusterData.features.map(({ properties: { location } }, index) => <option key={location} value={index}>{location}</option>)
+              clusterLocations.map(({ properties: { location } }, index) => <option key={location} value={index}>{location}</option>)
+            }
+            <option disabled>- notable locations -</option>
+            {
+              otherLocations.map(({ properties: { location } }, index) => <option key={location} value={clusterLocations.length + index}>{location}</option>)
             }
           </ClusterSelect>
         </ToggleType>

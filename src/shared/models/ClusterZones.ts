@@ -1,6 +1,7 @@
 export interface TransmissionClusterProperties {
   location: ClusterLocation;
   cases: number[];
+  type: 'cluster' | 'other';
 }
 
 export type ClusterLocation = 'Grace Assembly of God Church (Tanglin)' |
