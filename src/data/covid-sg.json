@@ -1580,7 +1580,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847245, 1.322117]
+        "coordinates": [103.957796, 1.359165]
       },
       "properties": {
         "id": "case-106",
@@ -1619,6 +1619,36 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.839951, 1.277077]
+      },
+      "properties": {
+        "id": "case-109",
+        "title": "Case 109",
+        "confirmed": "2020-03-02",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847245, 1.322140]
+      },
+      "properties": {
+        "id": "case-110",
+        "title": "Case 110",
+        "confirmed": "2020-03-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new"
       }
     }
   ]

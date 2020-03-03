@@ -223,7 +223,8 @@
        "properties": {
          "location": "Yong Thai Hang Medical Products Shop",
          "type": "cluster",
-         "cases": [19, 20, 21, 24, 25, 27, 28, 34, 40]
+         "cases": [19, 20, 21, 24, 25, 27, 28, 34, 40],
+         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
        }
      },
      {
@@ -379,7 +380,7 @@
        "properties": {
          "location": "Wizlearn Technologies (10 Science Park)",
          "type": "cluster",
-         "cases": [93, 95, 97, 98, 99, 100, 101, 102, 103, 104, 105, 108]
+         "cases": [93, 95, 97, 98, 99, 100, 101, 102, 103, 104, 105, 108, 110]
        }
      },
      {
