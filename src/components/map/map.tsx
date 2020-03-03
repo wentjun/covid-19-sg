@@ -306,7 +306,7 @@ class Map extends React.Component<MapProps> {
       if (!properties) {
         return;
       }
-      const { location } = properties as TransmissionClusterProperties
+      const { location } = properties as TransmissionClusterProperties;
       const selectedCluster = transmissionClusterData.features.find((feature) => feature.properties.location === location);
       if (!selectedCluster) {
         return;
@@ -325,17 +325,6 @@ class Map extends React.Component<MapProps> {
       padding: 20,
       linear: true
     });
-  }
-
-  onCaseSelect(e: number) {
-    const { clusterData } = this.props;
-    const selectedCase = clusterData.features.find((feature: Feature<Point, PointProperties>) => feature.properties.id === `case-${e}`);
-    if (!selectedCase) {
-      return;
-    }
-    const { geometry: { coordinates } } = selectedCase;
-
-    this.flyToCase(coordinates as [number, number]);
   }
 
   flyToCase(coordinates: [number, number]) {
