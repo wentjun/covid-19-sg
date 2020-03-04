@@ -28,7 +28,7 @@ const SummaryWrapper = styled.div`
 const Summary: React.FC<SummaryProps> = ({ selectedCase, dateEndRange, clusterData, selectedCluster }) => {
   const [ cardType, setCardType ] = useState<Cluster | null>(null);
   const displayTransmissionCard = (type: Cluster | null) => {
-    switch(type) {
+    switch (type) {
       default:
         return null;
       case 'case':
@@ -36,7 +36,7 @@ const Summary: React.FC<SummaryProps> = ({ selectedCase, dateEndRange, clusterDa
       case 'transmission':
         return <CaseCard type='transmission' selectedCluster={selectedCluster} />;
     }
-  }
+  };
 
   useEffect(() => {
     if (!selectedCluster) {
