@@ -9,7 +9,7 @@ interface LegendProps {
 }
 
 interface DotProps {
-  type: 'discharged' | 'hospitalised'
+  type: 'discharged' | 'hospitalised';
 }
 
 const SummaryWrapper = styled.div`
@@ -48,12 +48,27 @@ const Dot = styled.span<DotProps>`
   margin-right: 0.5rem
 `;
 
+const UpArrow = styled.div<DotProps>`
+  width: 0;
+  height: 0;
+  border-left: 0.4rem solid transparent;
+  border-right: 0.4rem solid transparent;
+  border-bottom: 0.4rem solid ${({ type }) => dotColour(type)};
+  margin: 0 0.4rem;
+`;
+
 export const Legend: React.FC<LegendProps> = (props) => {
   const { clusterData: { features }, dateEndRange } = props;
   const totalCases = features.length;
   const dischargedCases = (features.filter(({ properties }) =>
     new Date(properties.discharged) < new Date(dateEndRange))).length;
   const hospitalisedCases = totalCases - dischargedCases;
+
+  const mostRecentDate = Math.max.apply(null, features.map(e => +new Date(e.properties.confirmed)));
+  const latestConfirmedCount = (features.filter(feature =>
+    new Date(feature.properties.confirmed).getTime() === mostRecentDate)).length;
+  const latestDischargedCount = (features.filter(feature =>
+    new Date(feature.properties.discharged).getTime() === mostRecentDate)).length;
 
   return (
     <SummaryWrapper>
@@ -62,10 +77,14 @@ export const Legend: React.FC<LegendProps> = (props) => {
       <Breakdown>
         <Dot type='hospitalised'/>
         <span>Hospitalised: {hospitalisedCases}</span>
+        <UpArrow type='hospitalised'/>
+        <span>{latestConfirmedCount}</span>
       </Breakdown>
       <Breakdown>
         <Dot type='discharged'/>
         <span>Discharged: {dischargedCases}</span>
+        <UpArrow type='discharged'/>
+        <span>{latestDischargedCount}</span>
       </Breakdown>
     </SummaryWrapper>
   );
