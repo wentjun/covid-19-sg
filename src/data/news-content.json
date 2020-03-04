@@ -1,5 +1,13 @@
 [
    {
+      "patient":"Case 112",
+      "content":"<li>Case 111 is a 43 year-old male Singapore Permanent Resident who has no recent travel history to affected countries and regions, but had been in Malaysia.</li>"
+   },
+   {
+      "patient":"Case 111",
+      "content":"<li>Case 112 is a 62 year-old female Singapore Citizen who has no recent travel history to affected countries and regions. She is linked to Case 94.</li>"
+   },
+   {
       "patient":"Case 110",
       "content":"<li>Case 110 is a 33 year-old male Singapore Citizen who has no recent travel history to affected countries and regions. He is linked to the cluster at Wizlearn Technologies Pte Ltd.</li>"
    },

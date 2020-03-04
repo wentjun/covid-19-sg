@@ -911,7 +911,7 @@
         "id": "case-61",
         "title": "Case 61",
         "confirmed": "2020-02-13",
-        "discharged": "",
+        "discharged": "2020-03-04",
         "hospital": "National University Hospital",
         "source": ""
       }
@@ -1649,6 +1649,36 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.898378, 1.395071]
+      },
+      "properties": {
+        "id": "case-111",
+        "title": "Case 111",
+        "confirmed": "2020-03-03",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.745864, 1.328742]
+      },
+      "properties": {
+        "id": "case-112",
+        "title": "Case 112",
+        "confirmed": "2020-03-04",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at"
       }
     }
   ]
