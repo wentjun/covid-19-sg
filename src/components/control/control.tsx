@@ -17,6 +17,8 @@ interface ControlProps {
   clusterData: MapState['clusterData'];
   transmissionClusterData: MapState['transmissionClusterData'];
   dateEndRange: ControlState['dateEndRange'];
+  selectedCase: ControlState['selectedCase'];
+  selectedCluster: ControlState['selectedCluster'];
 }
 
 export type Cluster = 'case' | 'transmission';
@@ -134,10 +136,14 @@ const Control: React.FC<ControlProps> = (props) => {
     clusterData,
     transmissionClusterData,
     setDateRange,
-    dateEndRange
+    dateEndRange,
+    selectedCase,
+    selectedCluster
   } = props;
   const clusterLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'cluster');
   const otherLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'other');
+  const selectedCaseIndex = clusterData.features.findIndex(({ properties: { id } }) => id === selectedCase?.properties.id);
+  const selectedLocationIndex = transmissionClusterData.features.findIndex(({ properties: { location } }) => location === selectedCluster?.properties.location);
 
   const handleCheck = (e: React.ChangeEvent<HTMLInputElement>, type: Cluster) => {
     if (type === 'transmission') {
@@ -183,9 +189,9 @@ const Control: React.FC<ControlProps> = (props) => {
             id='jumptoCluster'
             disabled={!displayTransmissionClusters || !ready}
             onChange={(e) => handleClusterSelect(e, 'transmission')}
-            defaultValue=''
+            value={selectedLocationIndex}
           >
-            <option disabled value=''>- select a transmission cluster -</option>
+            <option disabled value='-1'>- select a transmission cluster -</option>
             {
               clusterLocations.map(({ properties: { location } }, index) => <option key={location} value={index}>{location}</option>)
             }
@@ -210,9 +216,9 @@ const Control: React.FC<ControlProps> = (props) => {
             id='jumptoCase'
             disabled={!ready}
             onChange={(e) => handleClusterSelect(e, 'case')}
-            defaultValue=''
+            value={selectedCaseIndex}
           >
-            <option disabled value=''>- select a case -</option>
+            <option disabled value='-1'>- select a case -</option>
             {
               clusterData.features.map(({ properties: { id, title } }: Feature<Point, PointProperties>, index) => <option key={id} value={index}>{title}</option>)
             }
