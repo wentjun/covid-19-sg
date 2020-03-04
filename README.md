@@ -5,11 +5,36 @@
 </div>
 
 ----
-This is a website that tracks COVID-19 cases and clusters in Singapore. 
+This is a website that tracks COVID-19 cases and clusters in Singapore.
 
-Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, and Mapbox. Data is scraped from <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="CNA">Channel NewsAsia</a>, and <a href="https://www.gov.sg/article/covid-19-cases-in-singapore" title="gov.sg">Gov.sg</a> using Cheerio and NodeJS.
+Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, and Mapbox. Data is scraped from <a href="https://www.flaticon.com/" title="CNA">Channel NewsAsia</a>, and <a href="https://www.gov.sg/article/covid-19-cases-in-singapore" title="gov.sg">Gov.sg</a> using Cheerio and NodeJS. Polygon data is partially obtained from [nomatim](https://nominatim.openstreetmap.org/).
 
 Data on this website is <a href="https://github.com/wentjun/covid-19-sg/tree/master/src/data" title="data">publicly available</a>.
+
+- `covid-sg.json` (in GEOJSON `FeatureCollection` format) consists of meta data of each COVID-19 case in Singapore.
+
+| fields        | description           |
+| ------------- |:-------------|
+| geometry.coordinates     | coordinates of the area of residence (other fallback values might include locations such as workplace, if the former is not made available) |
+| properties.id      | unique ID of each case (for internal use)      |
+| properties.title | Alias for each case from official sources      |    
+| properties.confirmed | Date  of confirmed diagnosis    |   
+| properties.discharged | Date of recovery/discharge     |   
+| properties.hospital | Location of hospitalisation      |    
+| properties.source | news source (incomplete)     |  
+
+- `transmission-cluster.json` (in GEOJSON `FeatureCollection` format) consists of meta data of transmission clusters and other notable COVID-19 hotspots in Singapore.
+
+
+| fields     | description |
+| ------------- |:-------------|
+| geometry.coordinates     | coordinates of the polygons of each location |
+| properties.location      | name of each location      |
+| properties.type | official transmission clusters (`cluster`), or other notable locations (`other`)      |
+| properties.cases | linked COVID-19 cases      |
+
+- `news-content.json` consists of a short summary of each case in Singapore
+
 
 ----
 ## How to contribute
