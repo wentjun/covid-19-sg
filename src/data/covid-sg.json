@@ -1061,7 +1061,7 @@
         "id": "case-71",
         "title": "Case 71",
         "confirmed": "2020-02-15",
-        "discharged": "",
+        "discharged": "2020-03-05",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
       }
@@ -1466,7 +1466,7 @@
         "id": "case-98",
         "title": "Case 98",
         "confirmed": "2020-02-28",
-        "discharged": "",
+        "discharged": "2020-03-05",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290"
       }
@@ -1640,7 +1640,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847245, 1.322140]
+        "coordinates": [103.872077, 1.314510]
       },
       "properties": {
         "id": "case-110",
@@ -1679,6 +1679,81 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846681, 1.301110]
+      },
+      "properties": {
+        "id": "case-113",
+        "title": "Case 113",
+        "confirmed": "2020-03-04",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.699016, 1.351254]
+      },
+      "properties": {
+        "id": "case-114",
+        "title": "Case 114",
+        "confirmed": "2020-03-04",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.698853, 1.351309]
+      },
+      "properties": {
+        "id": "case-115",
+        "title": "Case 115",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847307, 1.322042]
+      },
+      "properties": {
+        "id": "case-116",
+        "title": "Case 116",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847245, 1.322140]
+      },
+      "properties": {
+        "id": "case-117",
+        "title": "Case 117",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
       }
     }
   ]
