@@ -1601,7 +1601,7 @@
         "id": "case-107",
         "title": "Case 107",
         "confirmed": "2020-03-01",
-        "discharged": "",
+        "discharged": "2020-03-06",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster"
       }
@@ -1730,7 +1730,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847307, 1.322042]
+        "coordinates": [103.694850, 1.347016]
       },
       "properties": {
         "id": "case-116",
@@ -1745,7 +1745,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847245, 1.322140]
+        "coordinates": [103.761804, 1.385030]
       },
       "properties": {
         "id": "case-117",
@@ -1754,6 +1754,201 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.699113, 1.351306]
+      },
+      "properties": {
+        "id": "case-118",
+        "title": "Case 118",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.804395, 1.295340]
+      },
+      "properties": {
+        "id": "case-119",
+        "title": "Case 119",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.701032, 1.339948]
+      },
+      "properties": {
+        "id": "case-120",
+        "title": "Case 120",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.723178, 1.333006]
+      },
+      "properties": {
+        "id": "case-121",
+        "title": "Case 121",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.770944, 1.374906]
+      },
+      "properties": {
+        "id": "case-122",
+        "title": "Case 122",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.879886, 1.394462]
+      },
+      "properties": {
+        "id": "case-123",
+        "title": "Case 123",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847224, 1.322112]
+      },
+      "properties": {
+        "id": "case-124",
+        "title": "Case 124",
+        "confirmed": "2020-03-06",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847159, 1.322405]
+      },
+      "properties": {
+        "id": "case-125",
+        "title": "Case 125",
+        "confirmed": "2020-03-06",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846958, 1.322401]
+      },
+      "properties": {
+        "id": "case-126",
+        "title": "Case 126",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846932, 1.322313]
+      },
+      "properties": {
+        "id": "case-127",
+        "title": "Case 127",
+        "confirmed": "2020-03-05",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847201, 1.322325]
+      },
+      "properties": {
+        "id": "case-128",
+        "title": "Case 128",
+        "confirmed": "2020-03-06",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.745599, 1.333645]
+      },
+      "properties": {
+        "id": "case-129",
+        "title": "Case 129",
+        "confirmed": "2020-03-06",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.745670, 1.333616]
+      },
+      "properties": {
+        "id": "case-130",
+        "title": "Case 130",
+        "confirmed": "2020-03-06",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
       }
     }
   ]
