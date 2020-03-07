@@ -1,5 +1,37 @@
 [
   {
+    "patient": "Case 131",
+    "content": "<li>Case 131 is a 66 year-old male Singapore Citizen is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 132",
+    "content": "<li>Case 132 is likely to be an imported case involving a 37 year-old female Singapore Permanent Resident who had been in London from 23 February to 27 February.</li>"
+  },
+  {
+    "patient": "Case 133",
+    "content": "<li>Case 133 is a 62 year-old female Indonesian national who is a Singapore Social Visit Pass holder, and who has no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 134",
+    "content": "<li>Case 134 is a 56 year-old female Singapore Citizen who has no recent travel history to affected countries and regions, but had been in Malaysia on 21 February. She is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 135",
+    "content": "<li>Case 135 is a 40 year-old male Singapore Citizen who has no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 136",
+    "content": "<li>Case 136 is likely to be an imported case involving a 36 year-old male Italian national Singapore Work Pass holder who had recently travelled to the US from 7 February to 22 February, and to Italy from 23 February to 29 February.</li>"
+  },
+  {
+    "patient": "Case 137",
+    "content": "<li>Case 137 is a 60 year-old male Singapore Citizen who is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 138",
+    "content": "<li>Case 138 is a 26 year-old male Singapore Citizen. He is a close contact of Case 66 and family member of Case 83, and is linked to the cluster at The Life Church and Missions Singapore.</li>"
+  },
+  {
     "patient": "Case 118",
     "content": "<li>Case 118 is a 33-year-old female Singapore Citizen who has no recent travel history to affected countries and regions. She is a family member of Cases 114 and 115, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
   },
