@@ -64,11 +64,13 @@ export const Legend: React.FC<LegendProps> = (props) => {
     new Date(properties.discharged) < new Date(dateEndRange))).length;
   const hospitalisedCases = totalCases - dischargedCases;
 
-  const mostRecentDate = Math.max.apply(null, features.map(e => +new Date(e.properties.confirmed)));
+  const mostRecentDateConfirmed = Math.max.apply(null, features.map(e => +new Date(e.properties.confirmed)));
+  const mostRecentDateDischarged = Math.max.apply(null, features.map(e => (e.properties.discharged ? +new Date(e.properties.discharged) : 0)));
+
   const latestConfirmedCount = (features.filter(feature =>
-    new Date(feature.properties.confirmed).getTime() === mostRecentDate)).length;
+    new Date(feature.properties.confirmed).getTime() === mostRecentDateConfirmed)).length;
   const latestDischargedCount = (features.filter(feature =>
-    new Date(feature.properties.discharged).getTime() === mostRecentDate)).length;
+    new Date(feature.properties.discharged).getTime() === mostRecentDateDischarged)).length;
 
   return (
     <SummaryWrapper>
