@@ -1,5 +1,53 @@
 [
   {
+    "patient": "Case 139",
+    "content": "<li>Case 139 is a 71 year-old male Singapore Citizen who has no recent travel history to affected countries and regions. He is a family member of Cases 140 and 142, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 140",
+    "content": "<li>Case 140 is a a 62 year-old female Singapore Citizen who has no recent travel history to affected countries and regions. She is a family member of Cases 139 and 142, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 141",
+    "content": "<li>Case 141 is a a 69 year-old male Singapore Citizen who has no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 142",
+    "content": "<li>Case 142 is a a 26 year-old male Singapore Citizen who has no recent travel history to affected countries and regions. He is a family member of Cases 139 and 140, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 143",
+    "content": "<li>Case 143 is a a 42 year-old male Singapore Permanent Resident who had been in Thailand from 4 March to 6 March. He is a family member of Case 132.</li>"
+  },
+  {
+    "patient": "Case 144",
+    "content": "<li>Case 144 is a 58 year-old female Singapore Citizen who has no recent travel history to affected countries and regions. She is a contact of Case 140, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 145",
+    "content": "<li>Case 145 is a a 67 year-old female Singapore Citizen who has no recent travel history to affected countries and regions. She is a contact of Cases 107 and 134, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 146",
+    "content": "<li>Case 146 is a a 64 year-old female Singapore Citizen who has no recent travel history to affected countries and regions. She is a contact of Case 134, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 147",
+    "content": "<li>Case 147 is a an imported case involving a 64 year-old male Indonesian national who arrived in Singapore on 7 March.</li>"
+  },
+  {
+    "patient": "Case 148",
+    "content": "<li>Case 148 is a a 67 year-old female Singapore Citizen who had been in Indonesia from 11 February to 14 February. She is a contact of Case 107, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 149",
+    "content": "<li>Case 149 is a a 62 year-old male Singapore Citizen who has no recent travel history to affected countries and regions. He is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 150",
+    "content": "<li>Case 150 is a a 53 year-old female Singapore Permanent Resident who has no recent travel history to affected countries and regions. She is a contact of Cases 115 and 134, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
     "patient": "Case 131",
     "content": "<li>Case 131 is a 66 year-old male Singapore Citizen is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
   },
