@@ -3,12 +3,14 @@ import * as actions from '../actions';
 
 type Action = ActionType<typeof actions>;
 
+export type Modal = 'case' | 'information' | null;
+
 export interface UiState {
-  readonly modal: boolean;
+  readonly modal: Modal;
 }
 
 const initialState: UiState = {
-  modal: false
+  modal: null
 };
 
 export const uiReducer = (
