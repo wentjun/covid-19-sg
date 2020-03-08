@@ -37,7 +37,7 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
     if (!selectedCase) {
       return ;
     }
-    dispatch(setModal(true));
+    dispatch(setModal('case'));
   }
   return <CaseContentWrapper>
     <h3>{title}</h3>

@@ -3,6 +3,7 @@ import { TransmissionClusterProperties } from '../../shared/models/ClusterZones'
 import { Feature, Point, FeatureCollection, Polygon } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { SelectedCase } from '../reducers/control-reducer';
+import { Modal } from '../reducers/ui-reducer';
 
 export const MAP_READY = '[Map] Set Map As Ready';
 export const MAP_UPDATE_CURRENT_LOCATION = '[Map] Update Current Location';
@@ -73,6 +74,6 @@ export const updateServiceWorker = createAction(
 
 export const setModal = createAction(
   UI_SET_MODAL,
-  resolve => (modal: boolean) =>
+  resolve => (modal: Modal) =>
     resolve({ modal })
 );

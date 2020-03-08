@@ -10,6 +10,8 @@ import { MapState } from '../../redux/reducers/map-reducer';
 import { ControlState } from '../../redux/reducers/control-reducer';
 import ReactGA from 'react-ga';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
+import { Information } from './information';
+import { createPortal } from 'react-dom';
 
 export interface MapProps {
   mapReady: () => void;
@@ -440,9 +442,13 @@ class Map extends React.Component<MapProps> {
   }
 
   render() {
+    const portalContainer = document.querySelector('.mapboxgl-ctrl-bottom-right');
     return (
       <MapWrapper>
         <MapContainer ref={(e) => this.mapContainer = e} />
+        { portalContainer
+          ? createPortal(<Information />, portalContainer)
+          : null }
       </MapWrapper>
     );
   }

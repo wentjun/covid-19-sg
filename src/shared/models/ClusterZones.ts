@@ -9,4 +9,5 @@ export type ClusterLocation = 'Grace Assembly of God Church (Tanglin)' |
 'Yong Thai Hang Medical Products Shop' |
 'The Life Church and Missions Singapore' |
 'Grand Hyatt Singapore' |
-'Seletar Aerospace Heights';
+'Seletar Aerospace Heights' |
+'Safra Jurong';

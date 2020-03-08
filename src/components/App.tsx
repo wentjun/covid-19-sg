@@ -5,7 +5,7 @@ import Control from './control/control-container';
 import Map from './map/map-container';
 import SnackbarUpdate from './snackbar-update/snackbar-update';
 import Summary from './summary/summary-container';
-import { Modal } from './modal/modal';
+import Modal from './modal/modal-container';
 
 export interface AppProps {
   loading?: boolean;

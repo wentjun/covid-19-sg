@@ -1,13 +1,16 @@
 import React from 'react';
 import styled from 'styled-components';
-import newsContent from '../../data/news-content.json';
-import { NewsContent } from '../../shared/models/NewsContent';
-import { RootState } from '../../redux/reducers';
-import { useSelector, useDispatch } from 'react-redux';
-import { setModal } from '../../redux/actions';
-import { ArticleLink } from '../summary/case-content';
+import { UiState } from '../../redux/reducers/ui-reducer';
+import { CaseModal } from './case-modal';
+import { ControlState } from '../../redux/reducers/control-reducer';
+import { InformationModal } from './information-modal';
 
-const ModalWrapper = styled.div`
+interface Modal {
+  modal: UiState['modal'];
+  selectedCase: ControlState['selectedCase'];
+}
+
+export const ModalWrapper = styled.div`
   position: absolute;
   background-color: rgba(0, 0, 0, 0.5);
   height: 100%;
@@ -18,7 +21,7 @@ const ModalWrapper = styled.div`
   align-items: center;
 `;
 
-const ModalWindow = styled.div`
+export const ModalWindow = styled.div`
   background-color: #100C07;
   color: white;
   display: flex;
@@ -27,17 +30,17 @@ const ModalWindow = styled.div`
   padding: 1.5rem;
 `;
 
-const Header = styled.div`
+export const Header = styled.div`
   display: flex;
   justify-content: space-between;
   padding-bottom: 1rem;
 `;
 
-const Title = styled.span`
+export const Title = styled.span`
   text-decoration: underline;
 `;
 
-const CloseButton = styled.span`
+export const CloseButton = styled.span`
   text-decoration: none;
   opacity: 0.3;
 
@@ -47,55 +50,25 @@ const CloseButton = styled.span`
   }
 `;
 
-const MainContent = styled.div`
+export const MainContent = styled.div`
   padding-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
 `;
 
-export const Modal: React.FC = () => {
-  const dispatch = useDispatch();
-  const {
-    ui: { modal },
-    control: { selectedCase }
-  } = useSelector((state: RootState) => state);
-  const caseContent = newsContent.find((news: NewsContent) => news.patient === selectedCase?.properties.title);
-
-  const createMarkup = (content: string) => {
-    return {
-      __html: content
-    };
-  };
+export const Modal: React.FC<Modal> = ({ modal, selectedCase }) => {
 
   return <>
-    {
-      (modal && selectedCase && caseContent?.content)
-      ? <ModalWrapper onClick={() => dispatch(setModal(false))}>
-        <ModalWindow>
-          <Header>
-            <Title>
-              {selectedCase.properties.title}
-            </Title>
-            <CloseButton onClick={() => dispatch(setModal(false))}>
-              &#10005;
-            </CloseButton>
-          </Header>
-          <MainContent dangerouslySetInnerHTML={createMarkup(caseContent.content)}/>
-          <i>Summary credits:&nbsp;
-            <ArticleLink href='https://www.gov.sg/article/covid-19-cases-in-singapore' target='_blank' rel='noopener noreferrer'>
-              gov.sg
-            </ArticleLink>
-          </i>
-          <i>Read full article over&nbsp;
-            <ArticleLink
-              href={selectedCase.properties.source || 'https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-confirmed-cases-coronavirus-12324270'}
-              target='_blank'
-              rel='noopener noreferrer'
-            >
-              here
-            </ArticleLink>
-          </i>
-        </ModalWindow>
-      </ModalWrapper>
-      : null
-    }
+    {(() => {
+      switch (modal) {
+        default:
+        case null:
+          return null;
+        case 'case':
+          return <CaseModal selectedCase={selectedCase} />;
+        case 'information':
+          return <InformationModal />;
+      }
+    })()}
   </>;
 };
