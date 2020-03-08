@@ -7,9 +7,9 @@
 ----
 This is a website that tracks COVID-19 cases and clusters in Singapore.
 
-Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, and Mapbox. Data is scraped from <a href="https://www.flaticon.com/" title="CNA">Channel NewsAsia</a>, and <a href="https://www.gov.sg/article/covid-19-cases-in-singapore" title="gov.sg">Gov.sg</a> using Cheerio and NodeJS. Polygon data is partially obtained from [nomatim](https://nominatim.openstreetmap.org/).
+Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, and Mapbox. Data is scraped from <a href="https://www.flaticon.com/" title="CNA">Channel NewsAsia</a>, and <a href="https://www.gov.sg/article/covid-19-cases-in-singapore" title="gov.sg">Gov.sg</a> using Cheerio and NodeJS. Polygon data is partially obtained from [nominatim](https://nominatim.openstreetmap.org/).
 
-Data on this website is <a href="https://github.com/wentjun/covid-19-sg/tree/master/src/data" title="data">publicly available</a>.
+Data on this website is <a href="https://github.com/wentjun/covid-19-sg/tree/master/src/data" title="data">publicly available</a> (also accessible via `src/data`) for your usage.
 
 - `covid-sg.json` (in GEOJSON `FeatureCollection` format) consists of meta data of each COVID-19 case in Singapore.
 
