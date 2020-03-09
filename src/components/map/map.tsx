@@ -158,13 +158,14 @@ class Map extends React.Component<MapProps> {
     });
     this.map.doubleClickZoom.disable();
     this.map.on('load', () => {
-      mapReady();
+      // ensure transmission cluster is "below" case point
+      this.loadTransmissionClusterPolygons();
       this.loadCluster();
+      this.loadUnclusteredCases();
+      mapReady();
+      this.onTransmissionClusterClick();
       this.onClusterClick();
       this.onPointClick();
-      this.onTransmissionClusterClick();
-      this.loadTransmissionClusterPolygons();
-      this.loadUnclusteredCases();
       this.loadNavigationControl();
     });
   }
@@ -410,8 +411,7 @@ class Map extends React.Component<MapProps> {
         'fill-color': '#f62459',
         'fill-opacity': 0.8
       }
-    // ensure transmission cluster is "below" case point
-    }, MapSchema.SinglePointLayer);
+    });
   }
 
   loadAnalyticsTracking() {

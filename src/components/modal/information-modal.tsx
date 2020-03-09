@@ -1,6 +1,5 @@
 import React from 'react';
 import { ModalWrapper, CloseButton, MainContent, ModalWindow, Header, Title } from './modal';
-import { ControlState } from '../../redux/reducers/control-reducer';
 import { useDispatch } from 'react-redux';
 import { setModal } from '../../redux/actions';
 import { ArticleLink } from '../summary/case-content';
