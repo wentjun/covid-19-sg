@@ -1,6 +1,5 @@
 import { createAction } from 'typesafe-actions';
-import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
-import { Feature, Point, FeatureCollection, Polygon } from 'geojson';
+import { Point, FeatureCollection } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { SelectedCase, SelectedCluster } from '../reducers/control-reducer';
 import { Modal } from '../reducers/ui-reducer';

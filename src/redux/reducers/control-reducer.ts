@@ -65,7 +65,7 @@ export const controlReducer = (
 
     case getType(actions.setDateRange):
       const dateEndRange = new Date();
-      dateEndRange.setDate(dateEndRange.getDate() - action.payload.numberOfDays)
+      dateEndRange.setDate(dateEndRange.getDate() - action.payload.numberOfDays);
       dateEndRange.setHours(23, 59);
 
       return {

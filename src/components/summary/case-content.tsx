@@ -38,22 +38,25 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
       return ;
     }
     dispatch(setModal('case'));
-  }
-  return <CaseContentWrapper>
-    <h3>{title}</h3>
-    <Description>
-      <span>Confirmed on: </span><strong>{confirmed}</strong>
-    </Description>
-    <Description>
-      <span>Hospitalised at: </span><strong>{hospital}</strong>
-    </Description>
-    <Description>
-      {
-        discharged
-          ? <><span>Discharged: </span><strong>{discharged}</strong><br /></>
-          : null
-      }
-    </Description>
-    <ModalLink onClick={openModal}>Read more</ModalLink>
-  </CaseContentWrapper>
+  };
+
+  return (
+    <CaseContentWrapper>
+      <h3>{title}</h3>
+      <Description>
+        <span>Confirmed on: </span><strong>{confirmed}</strong>
+      </Description>
+      <Description>
+        <span>Hospitalised at: </span><strong>{hospital}</strong>
+      </Description>
+      <Description>
+        {
+          discharged
+            ? <><span>Discharged: </span><strong>{discharged}</strong><br /></>
+            : null
+        }
+      </Description>
+      <ModalLink onClick={openModal}>Read more</ModalLink>
+    </CaseContentWrapper>
+  );
 };

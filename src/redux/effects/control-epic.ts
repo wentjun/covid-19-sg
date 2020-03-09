@@ -65,7 +65,7 @@ const setSelectedCaseEpic: Epic<Action, Action, RootState> = (action$, state$) =
   action$.pipe(
     filter(isActionOf(setSelectedCase)),
     withLatestFrom(state$),
-    concatMap(([{ payload: { selectedCase } }, { map: { clusterData }, control: { selectedCluster } }]) => {
+    concatMap(([{ payload: { selectedCase } }, { map: { clusterData } }]) => {
       let features;
       if (selectedCase) {
         const { properties : { id } } = selectedCase;
