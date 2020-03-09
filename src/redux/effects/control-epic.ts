@@ -7,12 +7,13 @@ import covidData from '../../data/covid-sg.json';
 import { Point, Feature, FeatureCollection } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { of } from 'rxjs';
+import { setClusterData, setSelectedCluster, setSelectedCase, setDateRange } from '../actions';
 
 type Action = ActionType<typeof actions>;
 
 const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
   action$.pipe(
-    filter(isActionOf(actions.setDateRange)),
+    filter(isActionOf(setDateRange)),
     withLatestFrom(state$),
     concatMap(([, { control: { dateEndRange, selectedCase } }]) => {
       const covidDataFeatures = covidData.features as Array<Feature<Point, PointProperties>>;
@@ -49,50 +50,88 @@ const setDateRangeEpic: Epic<Action, Action, RootState> = (action$, state$) =>
       };
 
       if (selectedCase?.properties.isActive) {
-        return of(actions.setClusterData(clusterFeatureCollection));
+        return of(setClusterData(clusterFeatureCollection));
       }
       // only update selected cases if no cases were selected by user
       const latestCase = features[features.length - 1];
       return of(
-        actions.setClusterData(clusterFeatureCollection),
-        actions.setSelectedCase(latestCase)
+        setClusterData(clusterFeatureCollection),
+        setSelectedCase(latestCase)
       );
     })
   );
 
 const setSelectedCaseEpic: Epic<Action, Action, RootState> = (action$, state$) =>
   action$.pipe(
-    filter(isActionOf(actions.setSelectedCase)),
-    filter(epic => !!epic.payload.selectedCase.properties.isActive),
+    filter(isActionOf(setSelectedCase)),
     withLatestFrom(state$),
-    map(([{ payload: { selectedCase: { properties : { id }} }}, { map: { clusterData } } ]) => {
-      const features = clusterData.features.map(feature => {
-        const { properties } = feature;
-        if (id === properties.id) {
+    concatMap(([{ payload: { selectedCase } }, { map: { clusterData }, control: { selectedCluster } }]) => {
+      let features;
+      if (selectedCase) {
+        const { properties : { id } } = selectedCase;
+        features = clusterData.features.map(feature => {
+          const { properties } = feature;
+          if (id === properties.id) {
+            return {
+              ...feature,
+              properties: {
+                ...feature.properties,
+                isActive: true
+              }
+            };
+          }
+          const { isActive, ...otherProperties } = feature.properties;
           return {
             ...feature,
             properties: {
-              ...feature.properties,
-              isActive: true
+              ...otherProperties
             }
           };
-        }
-        const { isActive, ...otherProperties } = feature.properties;
-        return {
-          ...feature,
-          properties: {
-            ...otherProperties
-          }
-        };
-      });
-      return actions.setClusterData({
-        type: 'FeatureCollection',
-        features
-      });
+        });
+      } else {
+        features = clusterData.features.map(feature => {
+          const { isActive, ...otherProperties } = feature.properties;
+          return {
+            ...feature,
+            properties: {
+              ...otherProperties
+            }
+          };
+        });
+      }
+
+      // if (!features) {
+      //   return null;
+      // }
+
+      if (selectedCase) {
+        return of(
+          setSelectedCluster(null),
+          setClusterData({
+            type: 'FeatureCollection',
+            features
+          })
+        );
+      } else {
+        return of(
+          setClusterData({
+            type: 'FeatureCollection',
+            features
+          })
+        );
+      }
     })
+  );
+
+const setSelectedClusterEpic: Epic<Action, Action, RootState> = (action$) =>
+  action$.pipe(
+    filter(isActionOf(setSelectedCluster)),
+    filter(epic => !!epic.payload.selectedCluster),
+    map(() => setSelectedCase(null))
   );
 
 export default [
   setDateRangeEpic,
-  setSelectedCaseEpic
+  setSelectedCaseEpic,
+  setSelectedClusterEpic
 ];

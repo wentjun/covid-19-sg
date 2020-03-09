@@ -16,9 +16,9 @@ export interface ControlState {
   readonly loading: boolean;
   readonly errorMessage?: string;
   readonly displayTransmissionClusters: boolean;
-  readonly selectedCluster?: SelectedCluster;
+  readonly selectedCluster: SelectedCluster | null;
   readonly displayCaseClusters: boolean;
-  readonly selectedCase?: SelectedCase;
+  readonly selectedCase: SelectedCase | null;
   readonly dateEndRange: Date;
 }
 
@@ -26,7 +26,9 @@ const initialState: ControlState = {
   loading: false,
   displayTransmissionClusters: true,
   displayCaseClusters: true,
-  dateEndRange: new Date((new Date()).setHours(23, 59, 0, 0))
+  dateEndRange: new Date((new Date()).setHours(23, 59, 0, 0)),
+  selectedCluster: null,
+  selectedCase: null
 };
 
 export const controlReducer = (

@@ -2,7 +2,7 @@ import { createAction } from 'typesafe-actions';
 import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
 import { Feature, Point, FeatureCollection, Polygon } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { SelectedCase } from '../reducers/control-reducer';
+import { SelectedCase, SelectedCluster } from '../reducers/control-reducer';
 import { Modal } from '../reducers/ui-reducer';
 
 export const MAP_READY = '[Map] Set Map As Ready';
@@ -44,13 +44,13 @@ export const toggleDisplayCaseClusters = createAction(
 
 export const setSelectedCluster = createAction(
   CONTROL_SET_SELECTED_CLUSTER,
-  resolve => (selectedCluster: Feature<Polygon, TransmissionClusterProperties>) =>
+  resolve => (selectedCluster: SelectedCluster | null) =>
     resolve({ selectedCluster })
 );
 
 export const setSelectedCase = createAction(
   CONTROL_SET_SELECTED_CASE,
-  resolve => (selectedCase: SelectedCase) =>
+  resolve => (selectedCase: SelectedCase | null) =>
     resolve({ selectedCase })
 );
 

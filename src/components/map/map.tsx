@@ -119,7 +119,7 @@ class Map extends React.Component<MapProps> {
       this.zoomToTransmissionCluster();
     }
 
-    if ((selectedCase?.properties.id !== prevProps.selectedCase?.properties.id) && selectedCase.shouldTriggerZoom) {
+    if ((selectedCase?.properties.id !== prevProps.selectedCase?.properties.id) && selectedCase?.shouldTriggerZoom) {
       this.flyToCase(selectedCase?.geometry.coordinates as [number, number]);
     }
 
