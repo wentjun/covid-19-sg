@@ -32,8 +32,14 @@ const Summary: React.FC<SummaryProps> = ({ selectedCase, dateEndRange, clusterDa
       default:
         return null;
       case 'case':
+        if (!selectedCase) {
+          return;
+        }
         return <CaseCard type='case' selectedCase={selectedCase} />;
       case 'transmission':
+        if (!selectedCluster) {
+          return;
+        }
         return <CaseCard type='transmission' selectedCluster={selectedCluster} />;
     }
   };

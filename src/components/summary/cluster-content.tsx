@@ -4,6 +4,7 @@ import styled from 'styled-components';
 
 const CaseSpan = styled.span`
   font-weight: bold;
+
   &:hover {
    color: #f62459;
    cursor: pointer;
