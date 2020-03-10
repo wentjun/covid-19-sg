@@ -1,5 +1,29 @@
 [
   {
+    "patient": "Case 161",
+    "content": "<li>Case 161 is a 73 year-old male Singapore Citizen who is a family member of Case 107, and is linked to the cluster involving the private dinner function at SAFRA Jurong</li>"
+  },
+  {
+    "patient": "Case 162",
+    "content": "<li>Case 162 is a 28 year-old male Singapore Citizen who had been in Indonesia from 29 February to 2 March. He is linked to Case 142.</li>"
+  },
+  {
+    "patient": "Case 163",
+    "content": "<li>Case 163 is a 27 year-old female Singapore Citizen who is linked to Case 142.</li>"
+  },
+  {
+    "patient": "Case 164",
+    "content": "<li>Case 164 is a 57 year-old female Permanent Resident. She is a contact of Case 134, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 165",
+    "content": "<li>Case 165 is a 30 year-old male Singapore Citizen who had been in France from 15 February to 7 March.</li>"
+  },
+  {
+    "patient": "Case 166",
+    "content": "<li>Case 166 is a 55 year-old female Singapore Citizen. She is a contact of Case 134, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
+  },
+  {
     "patient": "Case 151",
     "content": "<li>Case 151 is a 51 year-old male Singapore Citizen who has no recent travel history to affected countries and regions. He is a contact of Cases 66 and 91, and is linked to the cluster at The Life Church and Missions Singapore.</li>"
   },
@@ -17,7 +41,7 @@
   },
   {
     "patient": "Case 155",
-    "content": "<li></li>"
+    "content": "<li>Case 155 is a 47 year-old female Malaysian national who is a Singapore Work Pass holder, and who has no recent travel history to affected countries and regions. She was confirmed to have COVID-19 infection on 9 March morning and is currently warded in an isolation room at NCID. She is a contact of Case 128, and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
   },
   {
     "patient": "Case 156",

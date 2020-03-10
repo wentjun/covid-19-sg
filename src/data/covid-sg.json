@@ -2300,7 +2300,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847200, 1.322106]
+        "coordinates": [103.854469, 1.294890]
       },
       "properties": {
         "id": "case-154",
@@ -2315,7 +2315,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847173, 1.322116]
+        "coordinates": [103.713167, 1.346321]
       },
       "properties": {
         "id": "case-155",
@@ -2330,7 +2330,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847205, 1.322195]
+        "coordinates": [103.699230, 1.349410]
       },
       "properties": {
         "id": "case-156",
@@ -2345,7 +2345,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847066, 1.322294]
+        "coordinates": [103.694574, 1.347203]
       },
       "properties": {
         "id": "case-157",
@@ -2360,7 +2360,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.745077, 1.333844]
+        "coordinates": [103.771087, 1.376270]
       },
       "properties": {
         "id": "case-158",
@@ -2375,7 +2375,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.745316, 1.333973]
+        "coordinates": [103.771198, 1.376457]
       },
       "properties": {
         "id": "case-159",
@@ -2390,7 +2390,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.752621, 1.378835]
+        "coordinates": [103.752447, 1.379252]
       },
       "properties": {
         "id": "case-160",
@@ -2399,6 +2399,96 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852038, 1.348476]
+      },
+      "properties": {
+        "id": "case-161",
+        "title": "Case 161",
+        "confirmed": "2020-03-09",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.827501, 1.282576]
+      },
+      "properties": {
+        "id": "case-162",
+        "title": "Case 162",
+        "confirmed": "2020-03-09",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.816150, 1.287692]
+      },
+      "properties": {
+        "id": "case-163",
+        "title": "Case 163",
+        "confirmed": "2020-03-09",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322115]
+      },
+      "properties": {
+        "id": "case-164",
+        "title": "Case 164",
+        "confirmed": "2020-03-10",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847254, 1.322072]
+      },
+      "properties": {
+        "id": "case-165",
+        "title": "Case 165",
+        "confirmed": "2020-03-10",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.745166, 1.333890]
+      },
+      "properties": {
+        "id": "case-166",
+        "title": "Case 166",
+        "confirmed": "2020-03-10",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
       }
     }
   ]
