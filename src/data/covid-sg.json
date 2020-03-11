@@ -1376,7 +1376,7 @@
         "id": "case-92",
         "title": "Case 92",
         "confirmed": "2020-02-26",
-        "discharged": "",
+        "discharged": "2020-03-11",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024"
       }
@@ -1586,7 +1586,7 @@
         "id": "case-106",
         "title": "Case 106",
         "confirmed": "2020-03-01",
-        "discharged": "",
+        "discharged": "2020-03-11",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
       }
@@ -2216,7 +2216,7 @@
         "id": "case-148",
         "title": "Case 148",
         "confirmed": "2020-03-08",
-        "discharged": "",
+        "discharged": "2020-03-11",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
       }
@@ -2450,7 +2450,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322115]
+        "coordinates": [103.693066, 1.338144]
       },
       "properties": {
         "id": "case-164",
@@ -2465,7 +2465,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847254, 1.322072]
+        "coordinates": [103.880107, 1.332946]
       },
       "properties": {
         "id": "case-165",
@@ -2480,7 +2480,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.745166, 1.333890]
+        "coordinates": [103.768978, 1.379084]
       },
       "properties": {
         "id": "case-166",
@@ -2489,6 +2489,186 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.743317, 1.337108]
+      },
+      "properties": {
+        "id": "case-167",
+        "title": "Case 167",
+        "confirmed": "2020-03-10",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.903477, 1.388427]
+      },
+      "properties": {
+        "id": "case-168",
+        "title": "Case 168",
+        "confirmed": "2020-03-10",
+        "discharged": "",
+        "hospital": "Sengkang Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837341, 1.415088]
+      },
+      "properties": {
+        "id": "case-169",
+        "title": "Case 169",
+        "confirmed": "2020-03-10",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.836032, 1.279708]
+      },
+      "properties": {
+        "id": "case-170",
+        "title": "Case 170",
+        "confirmed": "2020-03-10",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847054, 1.322111]
+      },
+      "properties": {
+        "id": "case-171",
+        "title": "Case 171",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847123, 1.322113]
+      },
+      "properties": {
+        "id": "case-172",
+        "title": "Case 172",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847123, 1.322113]
+      },
+      "properties": {
+        "id": "case-173",
+        "title": "Case 173",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847123, 1.322113]
+      },
+      "properties": {
+        "id": "case-174",
+        "title": "Case 174",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847123, 1.322113]
+      },
+      "properties": {
+        "id": "case-175",
+        "title": "Case 175",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847123, 1.322113]
+      },
+      "properties": {
+        "id": "case-176",
+        "title": "Case 176",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847123, 1.322113]
+      },
+      "properties": {
+        "id": "case-177",
+        "title": "Case 177",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.743350, 1.337025]
+      },
+      "properties": {
+        "id": "case-178",
+        "title": "Case 178",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
       }
     }
   ]
