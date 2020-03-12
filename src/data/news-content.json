@@ -1,5 +1,81 @@
 [
   {
+    "patient": "Case 179",
+    "content": "<li>Case 179 is a 66 year-old female Singapore Citizen who had been in Malaysia on 22 February. She is a contact of Case 121 and is linked to the SAFRA Jurong cluster.</li>"
+  },
+  {
+    "patient": "Case 180",
+    "content": "<li>Case 180 is an imported case involving a 71 year-old male Singapore Citizen who had been in the US from 27 February to 10 March.</li>"
+  },
+  {
+    "patient": "Case 181",
+    "content": "<li>Case 181 is an imported case involving a 83 year-old male Indonesian national who had arrived in Singapore on 9 March. He is a family member of Case 182.</li>"
+  },
+  {
+    "patient": "Case 182",
+    "content": "<li>Case 182 is an imported case involving a 76 year-old female Indonesian national who arrived in Singapore on 9 March. She is a family member of case 181.</li>"
+  },
+  {
+    "patient": "Case 183",
+    "content": "<li>Case 183 is a 29 year-old male Singapore citizen who had been in Malaysia from 29 February to 4 March. He had attended a mass religious gathering at a mosque in Malaysia, and the Malaysian authorities had subsequently reported several confirmed COVID-19 cases linked to the event.</li>"
+  },
+  {
+    "patient": "Case 184",
+    "content": "<li>Case 184 is a 35 year-old male Philippines national who is a Singapore Work Pass holder, and had been in the Philippines from 24 February to 1 March. He is linked to Case 172.</li>"
+  },
+  {
+    "patient": "Case 185",
+    "content": "<li>Case 185 is a 34 year-old male Singapore citizen who had been in Malaysia from 22 February to 23 February. He is linked to case 142.</li>"
+  },
+  {
+    "patient": "Case 186",
+    "content": "<li>Case 186 is a 64 year-old male Singapore citizen who has no recent travel history to affected countries and regions. He is linked to Case 166.</li>"
+  },
+  {
+    "patient": "Case 187",
+    "content": "<li>Case 187 is a 48 year-old male Singaporean citizen who had been in Malaysia from 28 February to 2 March. He attended the mass religious gathering at the mosque in Malaysia.</li>"
+  },
+  {
+    "patient": "Case 167",
+    "content": "<li>Case 167 is a 35 year-old female Filipino national who is a Singapore Work Pass holder, and is linked to Case 178. She had been in the Philippines from 11 February to 17 February.</li>"
+  },
+  {
+    "patient": "Case 169",
+    "content": "<li>Case 169 is a 40 year-old male Singapore Citizen, a Republic of Singapore Air Force serviceman who had been in France on official duty. He is a contact of Cases 165, 173 and 175.</li>"
+  },
+  {
+    "patient": "Case 171",
+    "content": "<li>Case 171 is an imported case involving a 27 year-old male Singapore Citizen who had been in France from 25 February to 1 March, and Spain from 1 March to 6 March.</li>"
+  },
+  {
+    "patient": "Case 172",
+    "content": "<li>Case 172 is a 42 year-old female Philippines national who is a Singapore Work Pass Holder. She was in the Philippines from 27 February to 2 March.</li>"
+  },
+  {
+    "patient": "Case 173",
+    "content": "<li>Case 173 is a 31 year-old male Singapore Citizen, a Republic of Singapore Air Force serviceman who had been in France from 15 February to 7 March on official duty. He is a contact of Cases 165, 169 and 175.</li>"
+  },
+  {
+    "patient": "Case 174",
+    "content": "<li>Case 174 is a 67 year-old female Singapore Citizen who has no recent travel history to affected countries and regions. She is linked to the cluster at SAFRA Jurong.</li>"
+  },
+  {
+    "patient": "Case 175",
+    "content": "<li>Case 175 is an imported case of a 44 year-old male Singapore Citizen, a Republic of Singapore Air Force serviceman a who had been in France from 15 February to 7 March on official duty. He is a contact of Cases 165, 169 and 173.</li>"
+  },
+  {
+    "patient": "Case 176",
+    "content": "<li>Case 176 is an imported case involving a 37 year-old female British national who had been in Japan from 24 February to 4 March, and the UK from 4 March to 8 March.</li>"
+  },
+  {
+    "patient": "Case 177",
+    "content": "<li>Case 177 is an imported case involving a 26 year-old male Singapore Citizen who had been in the US from 14 February to 24 February, the UK from 28 February to 1 March, and France from 2 March to 7 March.</li>"
+  },
+  {
+    "patient": "Case 178",
+    "content": "<li>Case 178 is a 37 year-old male Filipino national who is a Singapore Work Pass holder. He had been in the Philippines from 11 February to 19 February, and again from 23 February to 2 March to visit a relative with pneumonia who has since passed on. He is linked to case 167.</li>"
+  },
+  {
     "patient": "Case 167",
     "content": "<li>Case 167 is a 35 year-old female Filipino national who is a Singapore Work Pass holder, and is linked to Case 178. She had been in the Philippines from 11 February to 17 February.</li>"
   },

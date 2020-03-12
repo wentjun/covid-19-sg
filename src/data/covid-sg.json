@@ -2555,7 +2555,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847054, 1.322111]
+        "coordinates": [103.952953, 1.320602]
       },
       "properties": {
         "id": "case-171",
@@ -2570,7 +2570,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847123, 1.322113]
+        "coordinates": [103.885600, 1.312140]
       },
       "properties": {
         "id": "case-172",
@@ -2585,7 +2585,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847123, 1.322113]
+        "coordinates": [103.805245, 1.272658]
       },
       "properties": {
         "id": "case-173",
@@ -2600,7 +2600,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847123, 1.322113]
+        "coordinates": [103.766238, 1.377656]
       },
       "properties": {
         "id": "case-174",
@@ -2615,7 +2615,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847123, 1.322113]
+        "coordinates": [103.766155, 1.339760]
       },
       "properties": {
         "id": "case-175",
@@ -2630,7 +2630,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847123, 1.322113]
+        "coordinates": [103.779442, 1.303856]
       },
       "properties": {
         "id": "case-176",
@@ -2645,7 +2645,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847123, 1.322113]
+        "coordinates": [103.805243, 1.272568]
       },
       "properties": {
         "id": "case-177",
@@ -2669,6 +2669,141 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.699406, 1.347178]
+      },
+      "properties": {
+        "id": "case-179",
+        "title": "Case 179",
+        "confirmed": "2020-03-11",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847217, 1.322025]
+      },
+      "properties": {
+        "id": "case-180",
+        "title": "Case 180",
+        "confirmed": "2020-03-12",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847217, 1.322025]
+      },
+      "properties": {
+        "id": "case-181",
+        "title": "Case 181",
+        "confirmed": "2020-03-12",
+        "discharged": "",
+        "hospital": "Gleneagles Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847217, 1.322025]
+      },
+      "properties": {
+        "id": "case-182",
+        "title": "Case 182",
+        "confirmed": "2020-03-12",
+        "discharged": "",
+        "hospital": "Gleneagles Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847217, 1.322025]
+      },
+      "properties": {
+        "id": "case-183",
+        "title": "Case 183",
+        "confirmed": "2020-03-12",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847217, 1.322025]
+      },
+      "properties": {
+        "id": "case-184",
+        "title": "Case 184",
+        "confirmed": "2020-03-12",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847217, 1.322025]
+      },
+      "properties": {
+        "id": "case-185",
+        "title": "Case 185",
+        "confirmed": "2020-03-12",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847217, 1.322025]
+      },
+      "properties": {
+        "id": "case-186",
+        "title": "Case 186",
+        "confirmed": "2020-03-12",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847217, 1.322025]
+      },
+      "properties": {
+        "id": "case-187",
+        "title": "Case 187",
+        "confirmed": "2020-03-12",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
       }
     }
   ]
