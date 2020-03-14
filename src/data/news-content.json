@@ -1,5 +1,53 @@
 [
   {
+    "patient": "Case 201",
+    "content": "<li>Case 201 is a 52 year-old female Singapore Citizen with no recent travel history to affected countries and region.</li>"
+  },
+  {
+    "patient": "Case 202",
+    "content": "<li>Case 202 is an imported case involving a 44 year-old male Singapore Citizen who had been in Malaysia from 28 February to 3 March.</li>"
+  },
+  {
+    "patient": "Case 203",
+    "content": "<li>Case 203 is likely to be an imported case involving a 36 year-old female Singapore Citizen who had been in Indonesia from 6 March to 8 March.</li>"
+  },
+  {
+    "patient": "Case 204",
+    "content": "<li>Case 204 is an imported case involving a 32 year-old male American national who is a Singapore Work Pass holder, and had been in Japan from 29 February to 8 March.</li>"
+  },
+  {
+    "patient": "Case 205",
+    "content": "<li>Case 205 is an imported case involving a 30 year-old female Filipino national who is a Singapore Long Term Visit Pass holder, and had been in the Philippines from 27 February to 6 March.</li>"
+  },
+  {
+    "patient": "Case 206",
+    "content": "<li>Case 205 is an imported case involving a 30 year-old female Filipino national who is a Singapore Long Term Visit Pass holder, and had been in the Philippines from 27 February to 6 March.</li>"
+  },
+  {
+    "patient": "Case 207",
+    "content": "<li>Case 207 is an imported case involving a 40 year-old female Singapore Citizen who had been in the United Kingdom from 6 March to 11 March.</li>"
+  },
+  {
+    "patient": "Case 208",
+    "content": "<li>Case 208 is a 26 year-old female Singapore Citizen who has no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 209",
+    "content": "<li>Case 209 is an imported case involving a 32 year-old female Singapore Citizen who had been in the United States from 2 March to 7 March.</li>"
+  },
+  {
+    "patient": "Case 210",
+    "content": "<li>Case 210 is an imported case involving a 56 year-old male German national who is a Singapore Long Term Visit Pass holder, and had been in Germany from 27 February to 3 March, and again from 11 March to 12 March, and Switzerland from 3 March to 10 March.</li>"
+  },
+  {
+    "patient": "Case 211",
+    "content": "<li>Case 211 is a 35 year-old female Filipino national who is a Singapore Long Term Visit Pass holder.</li>"
+  },
+  {
+    "patient": "Case 212",
+    "content": "<li>Case 211 is a 35 year-old female Filipino national who is a Singapore Long Term Visit Pass holder.</li>"
+  },
+  {
     "patient": "Case 188",
     "content": "<li>Case 188 is likely to be an imported case involving a 53-year-old male Singapore Citizen who had been in Thailand from 23 February to 1 March.</li>"
   },
