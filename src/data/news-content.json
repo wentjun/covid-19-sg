@@ -40,6 +40,18 @@
     "content": "<li>Case 197 is an imported case involving a 30-year-old male Singapore Citizen who had been in Malaysia from 28 February to 2 March.</li>"
   },
   {
+    "patient": "Case 198",
+    "content": "<li>Case 198 is a 61 year-old female Singapore Citizen who has no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 199",
+    "content": "<li>Case 199 is an imported case involving a 37-year-old male Singapore Citizen who had been in Malaysia from 26 February to 2 March.</li>"
+  },
+  {
+    "patient": "Case 200",
+    "content": "<li>Case 200 is a 62-year-old female Singapore Citizen with who has no recent travel history to affected countries and regions. She is a family member of Case 165.</li>"
+  },
+  {
     "patient": "Case 179",
     "content": "<li>Case 179 is a 66 year-old female Singapore Citizen who had been in Malaysia on 22 February. She is a contact of Case 121 and is linked to the SAFRA Jurong cluster.</li>"
   },
