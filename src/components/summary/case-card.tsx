@@ -5,14 +5,14 @@ import { PointProperties } from '../../shared/models/PointProperties';
 import { ClusterContent } from './cluster-content';
 import { CaseContent } from './case-content';
 import { Cluster } from '../control/control';
-import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
+import { LocationProperties } from '../../shared/models/Location';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../redux/reducers';
 import { setSelectedCase } from '../../redux/actions';
 
 interface CaseCardProps {
   selectedCase?: Feature<Point, PointProperties>;
-  selectedCluster?: Feature<Polygon, TransmissionClusterProperties>;
+  selectedCluster?: Feature<Polygon, LocationProperties>;
   type: Cluster;
 }
 
