@@ -1,6 +1,6 @@
 import { ActionType, getType } from 'typesafe-actions';
 import * as actions from '../actions';
-import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
+import { LocationProperties } from '../../shared/models/Location';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { Point, Feature, Polygon } from 'geojson';
 
@@ -8,7 +8,7 @@ type Action = ActionType<typeof actions>;
 export type SelectedCase= Feature<Point, PointProperties> & {
   shouldTriggerZoom?: boolean;
 };
-export type SelectedCluster = Feature<Polygon, TransmissionClusterProperties> & {
+export type SelectedCluster = Feature<Polygon, LocationProperties> & {
   shouldTriggerZoom?: boolean;
 };
 

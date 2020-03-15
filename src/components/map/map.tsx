@@ -9,14 +9,14 @@ import { MapState } from '../../redux/reducers/map-reducer';
 // import length from '@turf/length';
 import { ControlState } from '../../redux/reducers/control-reducer';
 import ReactGA from 'react-ga';
-import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
+import { LocationProperties } from '../../shared/models/Location';
 import { Information } from './information';
 import { createPortal } from 'react-dom';
 
 export interface MapProps {
   mapReady: () => void;
   setSelectedCase: (selectedCase: Feature<Point, PointProperties>) => void;
-  setSelectedCluster: (selectedCluster: Feature<Polygon, TransmissionClusterProperties>) => void;
+  setSelectedCluster: (selectedCluster: Feature<Polygon, LocationProperties>) => void;
   longitude: number;
   latitude: number;
   zoom: number;
@@ -309,7 +309,7 @@ class Map extends React.Component<MapProps> {
       if (!properties) {
         return;
       }
-      const { location } = properties as TransmissionClusterProperties;
+      const { location } = properties as LocationProperties;
       const selectedCluster = transmissionClusterData.features.find((feature) => feature.properties.location === location);
       if (!selectedCluster) {
         return;

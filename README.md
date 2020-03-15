@@ -23,14 +23,14 @@ Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, 
 | properties.hospital | Location of hospitalisation      |    
 | properties.source | news source (incomplete)     |  
 
-- `transmission-cluster.json` (in GEOJSON `FeatureCollection` format) consists of meta data of transmission clusters and other notable COVID-19 hotspots in Singapore.
+- `locations.json` (in GEOJSON `FeatureCollection` format) consists of meta data of transmission clusters and other notable COVID-19 locations (hotspots, hospitals etc) in Singapore.
 
 
 | fields     | description |
 | ------------- |:-------------|
 | geometry.coordinates     | coordinates of the polygons of each location |
 | properties.location      | name of each location      |
-| properties.type | official transmission clusters (`cluster`), or other notable locations (`other`)      |
+| properties.type | official transmission clusters (`cluster`), hospitals (`hospital`) or other notable locations (`other`)      |
 | properties.cases | linked COVID-19 cases      |
 
 - `news-content.json` consists of a short summary of each case in Singapore

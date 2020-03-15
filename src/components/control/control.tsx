@@ -142,6 +142,7 @@ const Control: React.FC<ControlProps> = (props) => {
   } = props;
   const clusterLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'cluster');
   const otherLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'other');
+  const hospitals = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'hospital');
   const selectedCaseIndex = clusterData.features.findIndex(({ properties: { id } }) => id === selectedCase?.properties.id);
   const selectedLocationIndex = transmissionClusterData.features.findIndex(({ properties: { location } }) => location === selectedCluster?.properties.location);
 
@@ -190,6 +191,7 @@ const Control: React.FC<ControlProps> = (props) => {
             disabled={!displayTransmissionClusters || !ready}
             onChange={(e) => handleClusterSelect(e, 'transmission')}
             value={selectedLocationIndex}
+            aria-label='Go to selected location'
           >
             <option disabled value='-1'>- select a transmission cluster -</option>
             {
@@ -198,6 +200,10 @@ const Control: React.FC<ControlProps> = (props) => {
             <option disabled>- notable locations -</option>
             {
               otherLocations.map(({ properties: { location } }, index) => <option key={location} value={clusterLocations.length + index}>{location}</option>)
+            }
+            <option disabled>- hospitals -</option>
+            {
+              hospitals.map(({ properties: { location } }, index) => <option key={location} value={clusterLocations.length + otherLocations.length + index}>{location}</option>)
             }
           </ClusterSelect>
         </ToggleType>
@@ -217,6 +223,7 @@ const Control: React.FC<ControlProps> = (props) => {
             disabled={!ready}
             onChange={(e) => handleClusterSelect(e, 'case')}
             value={selectedCaseIndex}
+            aria-label='Go to selected case'
           >
             <option disabled value='-1'>- select a case -</option>
             {

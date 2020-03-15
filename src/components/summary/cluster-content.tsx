@@ -1,17 +1,25 @@
 import React from 'react';
-import { TransmissionClusterProperties } from '../../shared/models/ClusterZones';
+import { LocationProperties } from '../../shared/models/Location';
 import styled from 'styled-components';
 
-const CaseSpan = styled.span`
+const Title = styled.span`
   font-weight: bold;
+`;
 
+const CaseSpan = styled(Title)`
   &:hover {
    color: #f62459;
    cursor: pointer;
   }
 `;
 
-export type ClusterContentProps = Omit<TransmissionClusterProperties, 'type'> & {
+const CasesContainer = styled.div`
+  max-height: 13vh;
+  overflow: -moz-scrollbars-vertical;
+  overflow-y: scroll;
+`;
+
+export type ClusterContentProps =  Omit<LocationProperties, 'type'> & {
   onCaseClick: (patient: number) => void;
 };
 
@@ -19,10 +27,10 @@ export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
   const { cases, location, onCaseClick } = props;
 
   return <>
-    <span><strong>{location}</strong></span>
+    <Title>{location}</Title>
     <br />
     <span>Cases (click to view more):</span>
-    <strong>
+    <CasesContainer>
       {cases.map((patient: number, index) =>
         <React.Fragment key={index}>
           {(index ? ', ' : '')}
@@ -33,6 +41,6 @@ export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
           </CaseSpan>
         </React.Fragment>
       )}
-    </strong>
+    </CasesContainer>
   </>;
 };
