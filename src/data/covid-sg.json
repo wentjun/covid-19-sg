@@ -3065,7 +3065,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847209, 1.322162]
+        "coordinates": [103.965361, 1.356557]
       },
       "properties": {
         "id": "case-205",
@@ -3080,7 +3080,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847209, 1.322162]
+        "coordinates": [103.882944, 1.343233]
       },
       "properties": {
         "id": "case-206",
@@ -3095,7 +3095,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847209, 1.322162]
+        "coordinates": [103.838047, 1.427005]
       },
       "properties": {
         "id": "case-207",
@@ -3110,7 +3110,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847209, 1.322162]
+        "coordinates": [103.824743, 1.286571]
       },
       "properties": {
         "id": "case-208",
@@ -3125,7 +3125,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.835899, 1.279631]
+        "coordinates": [103.868362, 1.351793]
       },
       "properties": {
         "id": "case-209",
@@ -3140,7 +3140,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847209, 1.322162]
+        "coordinates": [103.796034, 1.316306]
       },
       "properties": {
         "id": "case-210",
@@ -3155,7 +3155,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847209, 1.322162]
+        "coordinates": [103.862468, 1.305071]
       },
       "properties": {
         "id": "case-211",
@@ -3170,7 +3170,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847209, 1.322162]
+        "coordinates": [103.845632, 1.326226]
       },
       "properties": {
         "id": "case-212",
@@ -3179,6 +3179,216 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.871545, 1.373000]
+      },
+      "properties": {
+        "id": "case-213",
+        "title": "Case 213",
+        "confirmed": "2020-03-14",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.695648, 1.342635]
+      },
+      "properties": {
+        "id": "case-214",
+        "title": "Case 214",
+        "confirmed": "2020-03-14",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.804098, 1.293372]
+      },
+      "properties": {
+        "id": "case-215",
+        "title": "Case 215",
+        "confirmed": "2020-03-14",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.742881, 1.353495]
+      },
+      "properties": {
+        "id": "case-216",
+        "title": "Case 216",
+        "confirmed": "2020-03-14",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846603, 1.301193]
+      },
+      "properties": {
+        "id": "case-217",
+        "title": "Case 217",
+        "confirmed": "2020-03-14",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.771130, 1.376271]
+      },
+      "properties": {
+        "id": "case-218",
+        "title": "Case 218",
+        "confirmed": "2020-03-14",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.893410, 1.395646]
+      },
+      "properties": {
+        "id": "case-219",
+        "title": "Case 219",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847290, 1.322090]
+      },
+      "properties": {
+        "id": "case-220",
+        "title": "Case 220",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847290, 1.322090]
+      },
+      "properties": {
+        "id": "case-221",
+        "title": "Case 221",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847290, 1.322090]
+      },
+      "properties": {
+        "id": "case-222",
+        "title": "Case 222",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847290, 1.322090]
+      },
+      "properties": {
+        "id": "case-223",
+        "title": "Case 223",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847290, 1.322090]
+      },
+      "properties": {
+        "id": "case-224",
+        "title": "Case 224",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847290, 1.322090]
+      },
+      "properties": {
+        "id": "case-225",
+        "title": "Case 225",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847290, 1.322090]
+      },
+      "properties": {
+        "id": "case-226",
+        "title": "Case 226",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
       }
     }
   ]
