@@ -1,59 +1,127 @@
 [
   {
+    "patient": "Case 227",
+    "content": "<li>Case 227 is a 53 year-old male Singapore Citizen who had been in France.</li>"
+  },
+  {
+    "patient": "Case 228",
+    "content": "<li>Case 228 is a 67 year-old male Singapore Citizen with no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 229",
+    "content": "<li>Case 229 is an imported case involving a 26 year-old female Singapore Permanent Resident who had been in Spain, who is a family member of Case 240.</li>"
+  },
+  {
+    "patient": "Case 230",
+    "content": "<li>Case 230 is an imported case involving a 38 year-old female Singapore Citizen who had been in Eastern Europe.</li>"
+  },
+  {
+    "patient": "Case 231",
+    "content": "<li>Case 231 is an imported case involving a 78 year-old male Australian national who had been in the United States.</li>"
+  },
+  {
+    "patient": "Case 232",
+    "content": "<li>Case 232 is an imported case involving a 65 year-old female Australian national who had been in the United States.</li>"
+  },
+  {
+    "patient": "Case 233",
+    "content": "<li>Case 233 is an imported case involving a 61 year-old male British national who had been in the United Kingdom.</li>"
+  },
+  {
+    "patient": "Case 234",
+    "content": "<li>Case 234 is an 86 year-old male Singapore Citizen who has no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 235",
+    "content": "<li>Case 235 is a 31 year-old female Singapore Citizen with no recent travel history to affected countries and regions, and is linked to Case 208.</li>"
+  },
+  {
+    "patient": "Case 236",
+    "content": "<li>Case 236 is a 30 year-old female Singapore Citizen with no recent travel history to affected countries and regions, and is a family member of Case 219 and is linked to Case 142.</li>"
+  },
+  {
+    "patient": "Case 237",
+    "content": "<li>Case 237 is a 36 year-old female Indonesian national who has no recent travel history to affected countries and regions, and is linked to Case 225.</li>"
+  },
+  {
+    "patient": "Case 238",
+    "content": "<li>Case 238 is an imported case involving a 83 year-old female Belgium national who arrived in Singapore on 6 March.</li>"
+  },
+  {
+    "patient": "Case 239",
+    "content": "<li>Case 239 is an imported case involving a 28 year-old male British national who had been in France.</li>"
+  },
+  {
+    "patient": "Case 240",
+    "content": "<li>Case 240 is an imported case involving a 27 year-old male, who had been in Spain from 7 March to 14 March, and is linked to Case 229.</li>"
+  },
+  {
+    "patient": "Case 241",
+    "content": "<li>Case 241 is an imported case involving a 28 year-old male British national, who had been in France.</li>"
+  },
+  {
+    "patient": "Case 242",
+    "content": "<li>Case 242 is a 64 year-old female Singapore Citizen who had been in Malaysia, and who is a contact of Case 166.</li>"
+  },
+  {
+    "patient": "Case 243",
+    "content": "<li>Case 243 is an imported case involving a 36 year-old male Singapore Citizen who had been in Germany, Italy and Switzerland.</li>"
+  },
+  {
     "patient": "Case 213",
-    "content": ""
+    "content": "<li>Case 213 is a 48 year-old male Singapore Citizen who had been in Indonesia.</li>"
   },
   {
     "patient": "Case 214",
-    "content": ""
+    "content": "<li>Case 214 is a 29 year-old male Singapore Citizen with no recent travel history to affected countries and region.</li>"
   },
   {
     "patient": "Case 215",
-    "content": ""
+    "content": "<li>Case 215 is an imported case involving a 65 year-old Singapore Citizen who had been in Thailand from 7 March to 10 March.</li>"
   },
   {
     "patient": "Case 216",
-    "content": ""
+    "content": "<li>Case 216 is an imported case involving a 30 year-old Singapore Citizen who had been in Germany from 28 February to 1 March, and again on 5 March to 6 March, and Czech Republic from 1 March to 5 March.</li>"
   },
   {
     "patient": "Case 217",
-    "content": ""
+    "content": "<li>Case 217 is an imported case involving a 22 year-old Spanish national who is a Singapore Long Term Visit Pass holder, and had been in Spain from 9 March to 13 March.</li>"
   },
   {
     "patient": "Case 218",
-    "content": ""
+    "content": "<li>Case 218 is a 55 year-old female Singapore Citizen with no recent travel history to affected countries and regions. She is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
   },
   {
     "patient": "Case 219",
-    "content": ""
+    "content": "<li>Case 219 is a 30 year-old male Singapore Citizen with no recent travel history to affected countries and regions. He is linked to Case 142.</li>"
   },
   {
     "patient": "Case 220",
-    "content": ""
+    "content": "<li>Case 220 is an imported case involving a 53 year-old male Singapore Permanent Resident who had been in France from 10 March to 12 March.</li>"
   },
   {
     "patient": "Case 221",
-    "content": ""
+    "content": "<li>Case 221 is a 28 year-old female Filipina national who is a Singapore Work Pass holder, and has no recent travel history to affected countries and regions. She is a contact of Case 204.</li>"
   },
   {
     "patient": "Case 222",
-    "content": ""
+    "content": "<li>Case 222 is an imported case involving a 41 year-old male French national who is a Singapore Work Pass holder, and had been to France from 28 February to 7 March and 9 March to 10 March, Spain from 7 March to 9 March, and the Philippines from 12 March to 13 March.</li>"
   },
   {
     "patient": "Case 223",
-    "content": ""
+    "content": "<li>Case 223 is an imported case involving a 60 year-old male Singapore Citizen, and had been in the United States from 28 February to 7 March and Australia from 7 to 13 March.</li>"
   },
   {
     "patient": "Case 224",
-    "content": ""
+    "content": "<li>Case 224 is a 50 year-old male Singapore Citizen, who had been in Malaysia from 1 March to 4 March. He is a contact of Case 117 and is linked to the cluster involving the private dinner function at SAFRA Jurong.</li>"
   },
   {
     "patient": "Case 225",
-    "content": ""
+    "content": "<li>Case 225 is an imported case involving a 63 year-old male Singapore Citizen, who had been in Indonesia from 3 March to 7 March.</li>"
   },
   {
     "patient": "Case 226",
-    "content": ""
+    "content": "<li>Case 226 is an imported case involving a 49 year-old male Dutch national.</li>"
   },
   {
     "patient": "Case 201",

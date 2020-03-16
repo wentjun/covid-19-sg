@@ -1481,7 +1481,7 @@
         "id": "case-99",
         "title": "Case 99",
         "confirmed": "2020-02-29",
-        "discharged": "",
+        "discharged": "2020-03-16",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
       }
@@ -1496,7 +1496,7 @@
         "id": "case-100",
         "title": "Case 100",
         "confirmed": "2020-02-29",
-        "discharged": "",
+        "discharged": "2020-03-16",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
       }
@@ -2231,7 +2231,7 @@
         "id": "case-149",
         "title": "Case 149",
         "confirmed": "2020-03-08",
-        "discharged": "",
+        "discharged": "2020-03-16",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
       }
@@ -2831,7 +2831,7 @@
         "id": "case-189",
         "title": "Case 189",
         "confirmed": "2020-03-12",
-        "discharged": "",
+        "discharged": "2020-03-16",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
       }
@@ -3275,7 +3275,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.893410, 1.395646]
+        "coordinates": [103.845233, 1.357388]
       },
       "properties": {
         "id": "case-219",
@@ -3290,7 +3290,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847290, 1.322090]
+        "coordinates": [103.784831, 1.304553]
       },
       "properties": {
         "id": "case-220",
@@ -3305,7 +3305,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847290, 1.322090]
+        "coordinates": [103.843478, 1.276801]
       },
       "properties": {
         "id": "case-221",
@@ -3320,7 +3320,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847290, 1.322090]
+        "coordinates": [103.866442, 1.366740]
       },
       "properties": {
         "id": "case-222",
@@ -3335,7 +3335,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847290, 1.322090]
+        "coordinates": [103.861073, 1.365640]
       },
       "properties": {
         "id": "case-223",
@@ -3350,7 +3350,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847290, 1.322090]
+        "coordinates": [103.761516, 1.386716]
       },
       "properties": {
         "id": "case-224",
@@ -3365,7 +3365,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847290, 1.322090]
+        "coordinates": [103.841402, 1.316543]
       },
       "properties": {
         "id": "case-225",
@@ -3380,7 +3380,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847290, 1.322090]
+        "coordinates": [103.795330, 1.330974]
       },
       "properties": {
         "id": "case-226",
@@ -3389,6 +3389,261 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.784607, 1.281088]
+      },
+      "properties": {
+        "id": "case-227",
+        "title": "Case 227",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.952747, 1.337383]
+      },
+      "properties": {
+        "id": "case-228",
+        "title": "Case 228",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.853668, 1.325238]
+      },
+      "properties": {
+        "id": "case-229",
+        "title": "Case 229",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.830870, 1.316632]
+      },
+      "properties": {
+        "id": "case-230",
+        "title": "Case 230",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837508, 1.291656]
+      },
+      "properties": {
+        "id": "case-231",
+        "title": "Case 231",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837559, 1.291785]
+      },
+      "properties": {
+        "id": "case-232",
+        "title": "Case 232",
+        "confirmed": "2020-03-15",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322122]
+      },
+      "properties": {
+        "id": "case-233",
+        "title": "Case 233",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835885, 1.279625]
+      },
+      "properties": {
+        "id": "case-234",
+        "title": "Case 234",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835885, 1.279625]
+      },
+      "properties": {
+        "id": "case-235",
+        "title": "Case 235",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322122]
+      },
+      "properties": {
+        "id": "case-236",
+        "title": "Case 236",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322122]
+      },
+      "properties": {
+        "id": "case-237",
+        "title": "Case 237",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322122]
+      },
+      "properties": {
+        "id": "case-238",
+        "title": "Case 238",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322122]
+      },
+      "properties": {
+        "id": "case-239",
+        "title": "Case 239",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.783173, 1.293735]
+      },
+      "properties": {
+        "id": "case-240",
+        "title": "Case 240",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322122]
+      },
+      "properties": {
+        "id": "case-241",
+        "title": "Case 241",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322122]
+      },
+      "properties": {
+        "id": "case-242",
+        "title": "Case 242",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847238, 1.322122]
+      },
+      "properties": {
+        "id": "case-243",
+        "title": "Case 243",
+        "confirmed": "2020-03-16",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
       }
     }
   ]
