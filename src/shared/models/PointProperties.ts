@@ -5,6 +5,9 @@ export interface PointProperties {
   discharged: string;
   hospital: string;
   source: string;
+  nationality: string;
+  residenceAreas: string[];
+  placesVisited: string[];
 
   // props which are used when adjusting date range
   isDateEndRange?: boolean; // used to determine which point to highlight

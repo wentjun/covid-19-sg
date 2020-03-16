@@ -29,7 +29,7 @@ export const ArticleLink = styled.a`
 export type CaseContent = PointProperties;
 
 export const CaseContent: React.FC<CaseContent> = (props) => {
-  const { title, confirmed, hospital, discharged } = props;
+  const { title, confirmed, hospital, discharged, nationality, residenceAreas, placesVisited } = props;
   const dispatch = useDispatch();
   const selectedCase = useSelector((state: RootState) => state.control.selectedCase);
 
@@ -44,16 +44,51 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
     <CaseContentWrapper>
       <h3>{title}</h3>
       <Description>
-        <span>Confirmed on: </span><strong>{confirmed}</strong>
+        <span>Confirmed on: </span>
+        <strong>{confirmed}</strong>
       </Description>
       <Description>
-        <span>Hospitalised at: </span><strong>{hospital}</strong>
+        <span>Hospitalised at: </span>
+        <strong>{hospital}</strong>
       </Description>
       <Description>
         {
           discharged
-            ? <><span>Discharged: </span><strong>{discharged}</strong><br /></>
+            ? <>
+                <span>Discharged: </span>
+                <strong>{discharged}</strong><br />
+              </>
             : null
+        }
+      </Description>
+      <Description>
+        <span>Nationality: </span>
+        <strong>{nationality}</strong>
+      </Description>
+      <Description>
+        <span>Places of Residence: </span>
+        {
+          residenceAreas.map((area, index) =>
+            <React.Fragment key={index}>
+              {(index ? ', ' : '')}
+              <strong>
+                {area}
+              </strong>
+            </React.Fragment>
+          )
+        }
+      </Description>
+      <Description>
+        <span>Places Visited: </span>
+        {
+          placesVisited.map((area, index) =>
+            <React.Fragment key={index}>
+              {(index ? ', ' : '')}
+              <strong>
+                {area}
+              </strong>
+            </React.Fragment>
+          )
         }
       </Description>
       <ModalLink onClick={openModal}>Read more</ModalLink>

@@ -18,7 +18,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-first-case-of-wuhan-virus",
         "nationality": "Chinese",
-        "residenceArea": "Shangri-La Rasa Sentosa Resort & Spa",
+        "residenceAreas": [
+          "Shangri-La Rasa Sentosa Resort & Spa"
+        ],
         "placesVisited": []
       }
     },
@@ -39,7 +41,10 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected",
         "nationality": "Chinese",
-        "residenceArea": "J8 hotel, 8 Townshend Road",
+        "residenceAreas": [
+          "J8 hotel",
+          "8 Townshend Road"
+        ],
         "placesVisited": [
           "Raffles Hospital",
           "Tan Tock Seng Emergency Department",
@@ -66,7 +71,7 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected",
         "nationality": "Chinese",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -87,7 +92,9 @@
         "hospital": "Sengkang General Hospital",
         "source": "",
         "nationality": "Chinese",
-        "residenceArea": "Village Hotel Sentosa",
+        "residenceAreas": [
+          "Village Hotel Sentosa"
+        ],
         "placesVisited": [
           "USS",
           "Vivocity"
@@ -111,7 +118,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Chinese",
-        "residenceArea": "Ceylon Road",
+        "residenceAreas": [
+          "Ceylon Road"
+        ],
         "placesVisited": [
           "Tan Tock Seng Hospital"
         ]
@@ -134,7 +143,9 @@
         "hospital": "Changi General Hospital",
         "source": "",
         "nationality": "Chinese",
-        "residenceArea": "Pasir Ris Grove",
+        "residenceAreas": [
+          "Pasir Ris Grove"
+        ],
         "placesVisited": []
       }
     },
@@ -155,7 +166,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Chinese",
-        "residenceArea": "Marina Bay Sands (10 Bayfront Avenue)",
+        "residenceAreas": [
+          "Marina Bay Sands (10 Bayfront Avenue)"
+        ],
         "placesVisited": [
           "Raffles Hospital"
         ]
@@ -178,7 +191,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556",
         "nationality": "Chinese",
-        "residenceArea": "Lorong Lew Lian",
+        "residenceAreas": [
+          "Lorong Lew Lian"
+        ],
         "placesVisited": [
           "Tan Tock Seng Hospital",
           "The Life Church and Missions Singapore (146B Paya Lebar Road)"
@@ -202,7 +217,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556",
         "nationality": "Chinese",
-        "residenceArea": "Lorong Lew Lian",
+        "residenceAreas": [
+          "Lorong Lew Lian"
+        ],
         "placesVisited": [
           "Tan Tock Seng Hospital",
           "The Life Church and Missions Singapore (146B Paya Lebar Road)"
@@ -226,7 +243,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556",
         "nationality": "Chinese",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Marina South Pier"
         ]
@@ -249,7 +266,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838",
         "nationality": "Chinese",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -270,7 +287,10 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838",
         "nationality": "Chinese",
-        "residenceArea": "Village Hotel Sentosa (10 Artillery Avenue), Hotel 81 Princess (21 Lorong 12 Geylang) and Home Suite View Hotel (12 Lorong 12 Geylang)",
+        "residenceAreas": [
+          "Village Hotel Sentosa (10 Artillery Avenue)",
+          "Hotel 81 Princess (21 Lorong 12 Geylang) and Home Suite View Hotel (12 Lorong 12 Geylang)"
+        ],
         "placesVisited": [
           "Orchard Road",
           "Geylang",
@@ -295,7 +315,10 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838",
         "nationality": "Chinese",
-        "residenceArea": "Park Royal collection Pickering Street(3 Upper Pickering Street), Oasia hotel downtown(100 Peck Seah Street)",
+        "residenceAreas": [
+          "Park Royal collection Pickering Street(3 Upper Pickering Street)",
+          "Oasia hotel downtown(100 Peck Seah Street)"
+        ],
         "placesVisited": [
           "Changi Airport",
           "Jewel"
@@ -319,7 +342,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156",
         "nationality": "Chinese (Singapore Work Pass Holder)",
-        "residenceArea": "Jurong East Street 13",
+        "residenceAreas": [
+          "Jurong East Street 13"
+        ],
         "placesVisited": []
       }
     },
@@ -340,7 +365,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/wuhan-virus-first-singaporean-confirmed-to-have-virus-she-was-on-scoot-flight-from",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -361,7 +386,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156",
         "nationality": "Chinese",
-        "residenceArea": "Nathan Road",
+        "residenceAreas": [
+          "Nathan Road"
+        ],
         "placesVisited": [
           "Singapore General Hospital"
         ]
@@ -384,7 +411,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -405,7 +432,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384",
         "nationality": "Chinese",
-        "residenceArea": "Home Suite View Hotel (12 Lorong 12 Geylang)",
+        "residenceAreas": [
+          "Home Suite View Hotel (12 Lorong 12 Geylang)"
+        ],
         "placesVisited": []
       }
     },
@@ -426,7 +455,9 @@
         "hospital": " Singapore General Hospital",
         "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Bukit Merah",
+        "residenceAreas": [
+          "Jalan Bukit Merah"
+        ],
         "placesVisited": [
           "Yong Thai Hang (24 Cavan Road)",
           "Tan Tock Seng Hospital Emergency Department"
@@ -450,7 +481,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Hougang Street 61",
+        "residenceAreas": [
+          "Hougang Street 61"
+        ],
         "placesVisited": [
           "Yong Thai Hang (24 Cavan Road)"
         ]
@@ -473,7 +506,9 @@
         "hospital": " Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
         "nationality": "Indonesian",
-        "residenceArea": "Jalan Bukit Merah",
+        "residenceAreas": [
+          "Jalan Bukit Merah"
+        ],
         "placesVisited": []
       }
     },
@@ -494,7 +529,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -515,7 +550,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -536,7 +571,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Buangkok Green",
+        "residenceAreas": [
+          "Buangkok Green"
+        ],
         "placesVisited": [
           "Yong Thai Hang 24 Cavan Road",
           "Hougang Polyclinic",
@@ -561,7 +598,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Buangkok Green",
+        "residenceAreas": [
+          "Buangkok Green"
+        ],
         "placesVisited": [
           "Hougang Polyclinic",
           "Diamond Industries Jewellery Company (Harbour Drive)",
@@ -586,7 +625,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
         "nationality": "Chinese",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -607,7 +646,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Bukit Merah",
+        "residenceAreas": [
+          "Jalan Bukit Merah"
+        ],
         "placesVisited": [
           "Tiong Bahru Plaza",
           "Tiong Bahru Market",
@@ -632,7 +673,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Bukit Merah",
+        "residenceAreas": [
+          "Jalan Bukit Merah"
+        ],
         "placesVisited": []
       }
     },
@@ -653,7 +696,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-cases-number-12401016",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mount Elizabeth Novena Hospital",
+        "residenceAreas": [
+          "Mount Elizabeth Novena Hospital"
+        ],
         "placesVisited": []
       }
     },
@@ -674,7 +719,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Shunfu Road",
+        "residenceAreas": [
+          "Shunfu Road"
+        ],
         "placesVisited": [
           "Far East Square (19 China Street)",
           "Junction 8 (9 Bishan Place)",
@@ -699,7 +746,9 @@
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-coronavirus-moh-new-cases-feb-7-12405040",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Tampines Street 24",
+        "residenceAreas": [
+          "Tampines Street 24"
+        ],
         "placesVisited": [
           "Malaysia",
           "The Life Church and Missions Singapore (146B Paya Lebar Road)"
@@ -723,7 +772,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/coronavirus-what-we-know-about-the-3-new-singaporean-patients-confirmed-with-no",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Elias Road",
+        "residenceAreas": [
+          "Elias Road"
+        ],
         "placesVisited": [
           "Victoria Junior College",
           "Parkway East Hospital",
@@ -749,7 +800,7 @@
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-what-we-know-local-transmission-clusters-singapore-12412558",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Malaysia",
           "Sengkang General Hospital Emergency Department"
@@ -773,7 +824,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Sin Ming Road",
+        "residenceAreas": [
+          "Sin Ming Road"
+        ],
         "placesVisited": [
           "Yong Thai Hang"
         ]
@@ -796,7 +849,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Henderson Crescent",
+        "residenceAreas": [
+          "Henderson Crescent"
+        ],
         "placesVisited": [
           "Redhill Market",
           "Hawker centre at Bukit Merah",
@@ -821,7 +876,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Bukit Batok Street 31",
+        "residenceAreas": [
+          "Bukit Batok Street 31"
+        ],
         "placesVisited": [
           "Johor Bahru",
           "KK Women's and Children's Hospital (KKH)",
@@ -847,7 +904,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong East Street 32",
+        "residenceAreas": [
+          "Jurong East Street 32"
+        ],
         "placesVisited": [
           "Ng Teng Fong General Hospital (NTFGH)"
         ]
@@ -870,7 +929,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Choa Chu Kang Avenue 3",
+        "residenceAreas": [
+          "Choa Chu Kang Avenue 3"
+        ],
         "placesVisited": [
           "Choa Chua Kang Polyclinic",
           "The Life Church and Missions Singapore",
@@ -896,7 +957,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Central",
+        "residenceAreas": [
+          "Jurong West Central"
+        ],
         "placesVisited": [
           "Malaysia",
           "Grand Hyatt Singapore"
@@ -920,7 +983,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bedok North Street",
+        "residenceAreas": [
+          "Bedok North Street"
+        ],
         "placesVisited": [
           "Yong Thai Hang"
         ]
@@ -943,7 +1008,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Upper Serangoon Road",
+        "residenceAreas": [
+          "Upper Serangoon Road"
+        ],
         "placesVisited": [
           "Hougang Polyclinic",
           "Tan Tock Seng Hospital Emergency Department",
@@ -970,7 +1037,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Bangladesh (Singapore Work Pass Holder)",
-        "residenceArea": "The Leo Dormitory (25 Kaki Bukit Road)",
+        "residenceAreas": [
+          "The Leo Dormitory (25 Kaki Bukit Road)"
+        ],
         "placesVisited": [
           "Changi General Hospital",
           "Bedok Polyclinic",
@@ -996,7 +1065,9 @@
         "hospital": "Sengkang General Hospital",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Fernvale Close",
+        "residenceAreas": [
+          "Fernvale Close"
+        ],
         "placesVisited": [
           "Malaysia",
           "Resorts World Sentosa"
@@ -1020,7 +1091,9 @@
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.straitstimes.com/singapore/certis-man-who-served-orders-for-quarantine-1-of-2-new-cases",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Sembawang Drive",
+        "residenceAreas": [
+          "Sembawang Drive"
+        ],
         "placesVisited": [
           "Certis Cisco Centre (20 Jalan Afifi)",
           "Chingay 2020"
@@ -1044,7 +1117,7 @@
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -1065,7 +1138,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/coronavirus-2-new-cases-in-spore-including-man-who-works-at-rws-casino-2-more",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Johor Bahru",
+        "residenceAreas": [
+          "Johor Bahru"
+        ],
         "placesVisited": [
           "Resort World Sentosa Casino (8 Sentosa Gateway)",
           "Tan Tock Seng Hospital"
@@ -1089,7 +1164,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/novel-coronavirus-confirmed-cases-singapore-feb-11-12421724",
         "nationality": "Bangladesh (Singapore Work Pass Holder)",
-        "residenceArea": "Veerasamy Road",
+        "residenceAreas": [
+          "Veerasamy Road"
+        ],
         "placesVisited": [
           "8 Seletar Aerospace Heights"
         ]
@@ -1112,7 +1189,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-cases-feb-12-12426526",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Batok Street 25",
+        "residenceAreas": [
+          "Bukit Batok Street 25"
+        ],
         "placesVisited": [
           "Malaysia",
           "Plaza Singapura (68 Orchard Road)",
@@ -1140,7 +1219,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.straitstimes.com/singapore/health/coronavirus-3-new-cases-in-singapore-2-from-grace-assembly-of-god-church-1-from-dbs",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Toh Guan Road",
+        "residenceAreas": [
+          "Toh Guan Road"
+        ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin)",
           "Grace Assembly of God (Bukit Batok)"
@@ -1164,7 +1245,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-300-evacuated-from-mbfc-tower-3-after-confirmed-case-at-dbs-asia-central",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mei Hwan Drive",
+        "residenceAreas": [
+          "Mei Hwan Drive"
+        ],
         "placesVisited": [
           "DBS Asia Central at Marina Bay Financial Centre (12 Marina Boulevard)"
         ]
@@ -1187,7 +1270,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-senior-pastor-grace-assembly-god-church-12432584",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bishan Street 13",
+        "residenceAreas": [
+          "Bishan Street 13"
+        ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin)",
           "Grace Assembly of God (Bukit Batok)"
@@ -1211,7 +1296,9 @@
         "hospital": "Tan Tock Seng Hospital",
         "source": "",
         "nationality": "Bangladesh (Singapore Work Pass Holder)",
-        "residenceArea": "Campbell Lane",
+        "residenceAreas": [
+          "Campbell Lane"
+        ],
         "placesVisited": [
           "8 Seletar Aerospace Heights",
           "Tan Tock Seng Hospital"
@@ -1235,7 +1322,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Hillview Avenue",
+        "residenceAreas": [
+          "Hillview Avenue"
+        ],
         "placesVisited": [
           "Grace Assembly of God",
           "National University of Singapore"
@@ -1259,7 +1348,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Ang Mo Kio Avenue 5",
+        "residenceAreas": [
+          "Ang Mo Kio Avenue 5"
+        ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin) (355 Tanglin Road)"
         ]
@@ -1282,7 +1373,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mei Hwan Drive",
+        "residenceAreas": [
+          "Mei Hwan Drive"
+        ],
         "placesVisited": [
           "Pulau Bukom",
           "Church of Christ the King (2221 Ang Mo Kio Avenue 8)"
@@ -1306,7 +1399,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Bangladesh (Singapore Work Pass Holder)",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Seletar Aerospace Heights Construction Site",
           "Tan Tock Seng Hospital",
@@ -1331,7 +1424,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Senja Road",
+        "residenceAreas": [
+          "Senja Road"
+        ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin)",
           "Grace Assembly of God (Bukit Batok)"
@@ -1355,7 +1450,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Kelichap",
+        "residenceAreas": [
+          "Jalan Kelichap"
+        ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin)",
           "Grace Assembly of God (Bukit Batok)"
@@ -1379,7 +1476,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Wilkinson Road",
+        "residenceAreas": [
+          "Wilkinson Road"
+        ],
         "placesVisited": [
           "Farrer Park Hospital Emergency Care Clinic",
           "Mount Elizabeth Hospital Emergency Department"
@@ -1403,7 +1502,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Ang Mo Kio Ave 3",
+        "residenceAreas": [
+          "Ang Mo Kio Ave 3"
+        ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin)"
         ]
@@ -1426,7 +1527,9 @@
         "hospital": "National University Hospital",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 64",
+        "residenceAreas": [
+          "Jurong West Street 64"
+        ],
         "placesVisited": [
           "Ng Teng Fong General Hospital",
           "Pioneer Polyclinic",
@@ -1451,7 +1554,9 @@
         "hospital": "Singapore General Hospital",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Tanjong Pagar Road",
+        "residenceAreas": [
+          "Tanjong Pagar Road"
+        ],
         "placesVisited": []
       }
     },
@@ -1472,7 +1577,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Potong Pasir Avenue 3",
+        "residenceAreas": [
+          "Potong Pasir Avenue 3"
+        ],
         "placesVisited": [
           "PUB",
           "Marisson Hotel Bugis (103 Beach Road)"
@@ -1496,7 +1603,9 @@
         "hospital": "National University Hospital",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 81",
+        "residenceAreas": [
+          "Jurong West Street 81"
+        ],
         "placesVisited": [
           "Taxi Driver"
         ]
@@ -1519,7 +1628,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mei Hwan Drive",
+        "residenceAreas": [
+          "Mei Hwan Drive"
+        ],
         "placesVisited": [
           "Church of Christ the King (2221 Ang Mo Kio Avenue 8)"
         ]
@@ -1542,7 +1653,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mei Hwan Drive",
+        "residenceAreas": [
+          "Mei Hwan Drive"
+        ],
         "placesVisited": [
           "Grace Assembly of God",
           "God's Kingdom Bread of Life Church (37 Jalan Pemimpin)"
@@ -1566,7 +1679,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 64",
+        "residenceAreas": [
+          "Jurong West Street 64"
+        ],
         "placesVisited": [
           "Grace Assembly of God (Bukit Batok)",
           "Ng Teng Fong General Hospital",
@@ -1591,7 +1706,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mei Hwan Drive",
+        "residenceAreas": [
+          "Mei Hwan Drive"
+        ],
         "placesVisited": [
           "Bethany Presbyterian Church (344A Paya Lebar Road)"
         ]
@@ -1614,7 +1731,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
         "nationality": "Bangladesh (Singapore Work Pass Holder)",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Government quarantine facility"
         ]
@@ -1637,7 +1754,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mei Hwan Drive",
+        "residenceAreas": [
+          "Mei Hwan Drive"
+        ],
         "placesVisited": [
           "God's Kingdom Bread of Life Church (37 Jalan Pemimpin)",
           "HipVan Singapore (19 Kallang Avenue)"
@@ -1661,7 +1780,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Fernvale Road",
+        "residenceAreas": [
+          "Fernvale Road"
+        ],
         "placesVisited": [
           "Fernvale Lane",
           "God's Kingdom Bread of Life (37 Jalan Pemimpin)"
@@ -1685,7 +1806,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
         "nationality": "Chinese (Singapore Work Pass Holder)",
-        "residenceArea": "Woodlands Crescent",
+        "residenceAreas": [
+          "Woodlands Crescent"
+        ],
         "placesVisited": [
           "Marina Bay Sands Casino (10 Bayfront Avenue)",
           "Aim Heng Car Services Pte Ltd (Woodlands Industrial Park)"
@@ -1709,7 +1832,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Lorong 8 Toa Payoh",
+        "residenceAreas": [
+          "Lorong 8 Toa Payoh"
+        ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin) (355 Tanglin Road)"
         ]
@@ -1732,7 +1857,9 @@
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mei Ling Street",
+        "residenceAreas": [
+          "Mei Ling Street"
+        ],
         "placesVisited": [
           "Alexandra Hospital Urgent Care Centre",
           "Hi-Yew Technology Pte Ltd (3031A Ubi Road)"
@@ -1756,7 +1883,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -1777,7 +1904,7 @@
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-update-feb-17-12441176",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -1798,7 +1925,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
-        "residenceArea": "McNair Road",
+        "residenceAreas": [
+          "McNair Road"
+        ],
         "placesVisited": [
           "Tan Tock Seng Hospital"
         ]
@@ -1821,7 +1950,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Dairy Farm",
+        "residenceAreas": [
+          "Dairy Farm"
+        ],
         "placesVisited": [
           "VWO-run Community Hospital"
         ]
@@ -1844,7 +1975,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Malaysian (Singapore Work Pass Holder)",
-        "residenceArea": "Woodlands Crescent",
+        "residenceAreas": [
+          "Woodlands Crescent"
+        ],
         "placesVisited": [
           "FoodXchange@Admiralty (8A Admiralty Street)"
         ]
@@ -1867,7 +2000,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Fernvale Link",
+        "residenceAreas": [
+          "Fernvale Link"
+        ],
         "placesVisited": [
           "National University Hospital"
         ]
@@ -1890,7 +2025,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Lower Delta Road",
+        "residenceAreas": [
+          "Lower Delta Road"
+        ],
         "placesVisited": []
       }
     },
@@ -1911,7 +2048,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 41",
+        "residenceAreas": [
+          "Jurong West Street 41"
+        ],
         "placesVisited": [
           "Ng Teng Fong General Hospital",
           "Jurong Polyclinic"
@@ -1935,7 +2074,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Rivervale Drive",
+        "residenceAreas": [
+          "Rivervale Drive"
+        ],
         "placesVisited": [
           "Philemon Singapore Pte Ltd (16 Kallang Place)",
           "Malaysia"
@@ -1959,7 +2100,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Aljunied Road",
+        "residenceAreas": [
+          "Aljunied Road"
+        ],
         "placesVisited": [
           "Lonza Biologics (35 Tuas South Avenue 6)",
           "Bugis Junction"
@@ -1983,7 +2126,9 @@
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-moh-update-feb-21-12457272",
         "nationality": "Chinese (Singapore Work Pass Holder)",
-        "residenceArea": "Woodlands Ave 6",
+        "residenceAreas": [
+          "Woodlands Ave 6"
+        ],
         "placesVisited": [
           "Khoo Teck Puat Hospital"
         ]
@@ -2006,7 +2151,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.todayonline.com/covid-19-1-new-case-wuhan-virus-linked-to-first-known-case-with-both-dengue-coronavirus",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Batok East Avenue 5",
+        "residenceAreas": [
+          "Bukit Batok East Avenue 5"
+        ],
         "placesVisited": []
       }
     },
@@ -2027,7 +2174,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -2048,7 +2195,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Hougang St 91",
+        "residenceAreas": [
+          "Hougang St 91"
+        ],
         "placesVisited": []
       }
     },
@@ -2069,7 +2218,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Serangoon Ave 3",
+        "residenceAreas": [
+          "Serangoon Ave 3"
+        ],
         "placesVisited": [
           "Affinity Equity Partners (8 Temasek Boulevard)",
           "Bishan Community Club (51 Bishan St 13)"
@@ -2093,7 +2244,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bishan Street 12",
+        "residenceAreas": [
+          "Bishan Street 12"
+        ],
         "placesVisited": [
           "Tan Tock Seng Hospital"
         ]
@@ -2116,7 +2269,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Rivervale Drive",
+        "residenceAreas": [
+          "Rivervale Drive"
+        ],
         "placesVisited": []
       }
     },
@@ -2137,7 +2292,9 @@
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Serangoon Ave 3",
+        "residenceAreas": [
+          "Serangoon Ave 3"
+        ],
         "placesVisited": []
       }
     },
@@ -2158,7 +2315,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Batok Street 31",
+        "residenceAreas": [
+          "Bukit Batok Street 31"
+        ],
         "placesVisited": []
       }
     },
@@ -2179,7 +2338,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Jurong Kechil",
+        "residenceAreas": [
+          "Jalan Jurong Kechil"
+        ],
         "placesVisited": []
       }
     },
@@ -2200,7 +2361,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Choa Chu Kang Crescent",
+        "residenceAreas": [
+          "Choa Chu Kang Crescent"
+        ],
         "placesVisited": [
           "Sport Singapore (3 Stadium Drive)",
           "Singapore Aviation Academy (1 Aviation Drive)",
@@ -2226,7 +2389,9 @@
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Jurong Kechil",
+        "residenceAreas": [
+          "Jalan Jurong Kechil"
+        ],
         "placesVisited": [
           "Raffles Institution"
         ]
@@ -2249,7 +2414,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Choa Chu Kang North 5",
+        "residenceAreas": [
+          "Choa Chu Kang North 5"
+        ],
         "placesVisited": [
           "Wizlearn Technologies Pte Ltd",
           "Agency for Integrated Care (5 Maxwell Road)"
@@ -2273,7 +2440,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Jurong West St 61",
+        "residenceAreas": [
+          "Jurong West St 61"
+        ],
         "placesVisited": []
       }
     },
@@ -2294,7 +2463,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West St 81",
+        "residenceAreas": [
+          "Jurong West St 81"
+        ],
         "placesVisited": [
           "Pioneer Polyclinic"
         ]
@@ -2317,7 +2488,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three",
         "nationality": "Malaysian",
-        "residenceArea": "Holland Ave",
+        "residenceAreas": [
+          "Holland Ave"
+        ],
         "placesVisited": []
       }
     },
@@ -2338,7 +2511,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Batok St 24",
+        "residenceAreas": [
+          "Bukit Batok St 24"
+        ],
         "placesVisited": [
           "Batam",
           "Asia Asset Recovery Pte Ltd (2019 Bukit Batok Industrial Park A)",
@@ -2363,7 +2538,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three",
         "nationality": "Filipino (Singapore Work Pass Holder)",
-        "residenceArea": "Bukit Batok St 24",
+        "residenceAreas": [
+          "Bukit Batok St 24"
+        ],
         "placesVisited": [
           "Eye Clinic @ NTFGH"
         ]
@@ -2386,7 +2563,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Batok St 31",
+        "residenceAreas": [
+          "Bukit Batok St 31"
+        ],
         "placesVisited": [
           "Batam",
           "Asia Asset Recovery Pte Ltd (2019 Bukit Batok Industrial Park A)"
@@ -2410,7 +2589,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
         "nationality": "Myanmar (Singapore Work Pass Holder)",
-        "residenceArea": "Bukit Batok St 31",
+        "residenceAreas": [
+          "Bukit Batok St 31"
+        ],
         "placesVisited": [
           "Batam"
         ]
@@ -2433,7 +2614,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Upper Bukit Timah",
+        "residenceAreas": [
+          "Upper Bukit Timah"
+        ],
         "placesVisited": [
           "Toa Payoh Hub (490 Lor 6 Toa Payoh)"
         ]
@@ -2456,7 +2639,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
         "nationality": "Japanese (Singapore Work Pass Holder)",
-        "residenceArea": "Tampines Street 45",
+        "residenceAreas": [
+          "Tampines Street 45"
+        ],
         "placesVisited": [
           "WinTech Nano-Technology Services Pte Ltd (10 Science Park Road)"
         ]
@@ -2479,7 +2664,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bishan Street 13",
+        "residenceAreas": [
+          "Bishan Street 13"
+        ],
         "placesVisited": [
           "Jakarta (Indonesia)",
           "Tan Tock Seng Hospital"
@@ -2503,7 +2690,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster",
         "nationality": "Filipino (Singapore Work Pass Holder)",
-        "residenceArea": "Bukit Batok St 24",
+        "residenceAreas": [
+          "Bukit Batok St 24"
+        ],
         "placesVisited": []
       }
     },
@@ -2524,7 +2713,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Everton Park",
+        "residenceAreas": [
+          "Everton Park"
+        ],
         "placesVisited": [
           "Fish Market Sakuraya (154 West Coast Road)"
         ]
@@ -2547,7 +2738,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Upper Boon Keng Road",
+        "residenceAreas": [
+          "Upper Boon Keng Road"
+        ],
         "placesVisited": [
           "Wizlearn Technologies Pte Ltd"
         ]
@@ -2570,7 +2763,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Compassvale Street",
+        "residenceAreas": [
+          "Compassvale Street"
+        ],
         "placesVisited": [
           "Malaysia",
           "Sengkang General Hospital"
@@ -2594,7 +2789,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Creative O Preschoolers' Bay (31 International Business Park)",
           "Bukit Batok Polyclinic"
@@ -2618,7 +2813,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
         "nationality": "French (Singapore Work Pass Holder)",
-        "residenceArea": "Mount Sophia",
+        "residenceAreas": [
+          "Mount Sophia"
+        ],
         "placesVisited": [
           "France",
           "Portugal",
@@ -2645,7 +2842,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Westwood Avenue Area",
+        "residenceAreas": [
+          "Westwood Avenue Area"
+        ],
         "placesVisited": []
       }
     },
@@ -2666,7 +2865,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Westwood Avenue Area",
+        "residenceAreas": [
+          "Westwood Avenue Area"
+        ],
         "placesVisited": [
           "SAFRA Jurong",
           "Pioneer Polyclinic"
@@ -2690,7 +2891,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 81",
+        "residenceAreas": [
+          "Jurong West Street 81"
+        ],
         "placesVisited": [
           "SAFRA Jurong"
         ]
@@ -2713,7 +2916,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Senja Road",
+        "residenceAreas": [
+          "Senja Road"
+        ],
         "placesVisited": [
           "SAFRA Jurong",
           "Malaysia",
@@ -2741,7 +2946,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Westwood Avenue Area",
+        "residenceAreas": [
+          "Westwood Avenue Area"
+        ],
         "placesVisited": [
           "Pioneer Polyclinic"
         ]
@@ -2764,7 +2971,9 @@
         "hospital": "Alexandra Hospital",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Stirling Road",
+        "residenceAreas": [
+          "Stirling Road"
+        ],
         "placesVisited": []
       }
     },
@@ -2785,7 +2994,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 65",
+        "residenceAreas": [
+          "Jurong West Street 65"
+        ],
         "placesVisited": [
           "SAFRA Jurong",
           "Boon Lay Shopping Centre (221 Boon Lay Place)"
@@ -2809,7 +3020,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Corporation Drive",
+        "residenceAreas": [
+          "Corporation Drive"
+        ],
         "placesVisited": [
           "SAFRA Jurong"
         ]
@@ -2832,7 +3045,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Petir Road",
+        "residenceAreas": [
+          "Petir Road"
+        ],
         "placesVisited": [
           "Westgate (3 Gateway Drive)",
           "Keat Hong Community Club (2 Choa Chu Kang Loop)"
@@ -2856,7 +3071,9 @@
         "hospital": "Sengkang General Hospital",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Fernvale Close",
+        "residenceAreas": [
+          "Fernvale Close"
+        ],
         "placesVisited": [
           "South Africa",
           "France"
@@ -2880,7 +3097,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Admiralty Link",
+        "residenceAreas": [
+          "Admiralty Link"
+        ],
         "placesVisited": [
           "Germany"
         ]
@@ -2903,7 +3122,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 72",
+        "residenceAreas": [
+          "Jurong West Street 72"
+        ],
         "placesVisited": [
           "SAFRA Jurong"
         ]
@@ -2926,7 +3147,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Eunos Crescent",
+        "residenceAreas": [
+          "Eunos Crescent"
+        ],
         "placesVisited": [
           "Singapore General Hospital"
         ]
@@ -2949,7 +3172,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Panjang Road",
+        "residenceAreas": [
+          "Bukit Panjang Road"
+        ],
         "placesVisited": []
       }
     },
@@ -2970,7 +3195,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 72",
+        "residenceAreas": [
+          "Jurong West Street 72"
+        ],
         "placesVisited": [
           "SAFRA Jurong"
         ]
@@ -2993,7 +3220,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 71",
+        "residenceAreas": [
+          "Jurong West Street 71"
+        ],
         "placesVisited": [
           "Pioneer Polyclinic",
           "Shop at 966 Jurong West Street 91",
@@ -3018,7 +3247,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 71",
+        "residenceAreas": [
+          "Jurong West Street 71"
+        ],
         "placesVisited": [
           "Jurong Port Road Food Centre",
           "Bukit Batok Community Club (21 Bukit Batok Central)"
@@ -3042,7 +3273,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Pandan Gardens",
+        "residenceAreas": [
+          "Pandan Gardens"
+        ],
         "placesVisited": [
           "Liang Guan Hak Kee (8 Pandan Crescent)",
           "Ayer Rajah Zone 3 Residents? Committee (32 Teban Gardens Road)"
@@ -3066,7 +3299,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Tanglin Road",
+        "residenceAreas": [
+          "Tanglin Road"
+        ],
         "placesVisited": [
           "Camden Medical Centre (1 Orchard Boulevard)"
         ]
@@ -3089,7 +3324,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Indonesian (Singapore Social Visit Pass Holder)",
-        "residenceArea": "Jurong West Street 61",
+        "residenceAreas": [
+          "Jurong West Street 61"
+        ],
         "placesVisited": [
           "Pioneer Polyclinic"
         ]
@@ -3112,7 +3349,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 71.",
+        "residenceAreas": [
+          "Jurong West Street 71."
+        ],
         "placesVisited": [
           "Malaysia"
         ]
@@ -3135,7 +3374,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Telok Blangah Crescent",
+        "residenceAreas": [
+          "Telok Blangah Crescent"
+        ],
         "placesVisited": [
           "ST Electronics (100 Jurong East Street 21)"
         ]
@@ -3158,7 +3399,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Italian (Singapore Work Pass Holder)",
-        "residenceArea": "Tanjong Pagar Road",
+        "residenceAreas": [
+          "Tanjong Pagar Road"
+        ],
         "placesVisited": [
           "USA",
           "Italy",
@@ -3183,7 +3426,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 41",
+        "residenceAreas": [
+          "Jurong West Street 41"
+        ],
         "placesVisited": [
           "SAFRA Jurong"
         ]
@@ -3206,7 +3451,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Rivervale Drive",
+        "residenceAreas": [
+          "Rivervale Drive"
+        ],
         "placesVisited": [
           "SAFRA Punggol (9 Sentul Crescent)"
         ]
@@ -3229,7 +3476,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 81",
+        "residenceAreas": [
+          "Jurong West Street 81"
+        ],
         "placesVisited": []
       }
     },
@@ -3250,7 +3499,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 81",
+        "residenceAreas": [
+          "Jurong West Street 81"
+        ],
         "placesVisited": [
           "Landom Distributions Pte Ltd (31 Jurong Port Road)"
         ]
@@ -3273,7 +3524,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 64",
+        "residenceAreas": [
+          "Jurong West Street 64"
+        ],
         "placesVisited": [
           "Nanyang Technological University (NTU) Innovation Centre (71 Nanyang Drive)"
         ]
@@ -3296,7 +3549,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 81",
+        "residenceAreas": [
+          "Jurong West Street 81"
+        ],
         "placesVisited": [
           "First Page Digital Singapore (144 Robinson Road)",
           "The Aperia Mall (12 Kallang Avenue)"
@@ -3320,7 +3575,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Tanglin Road",
+        "residenceAreas": [
+          "Tanglin Road"
+        ],
         "placesVisited": [
           "Thailand"
         ]
@@ -3343,7 +3600,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 74",
+        "residenceAreas": [
+          "Jurong West Street 74"
+        ],
         "placesVisited": []
       }
     },
@@ -3364,7 +3623,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Teck Whye Lane",
+        "residenceAreas": [
+          "Teck Whye Lane"
+        ],
         "placesVisited": [
           "16 Teck Whye Lane"
         ]
@@ -3387,7 +3648,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Yio Chu Kang Road",
+        "residenceAreas": [
+          "Yio Chu Kang Road"
+        ],
         "placesVisited": []
       }
     },
@@ -3408,7 +3671,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Indonesian",
-        "residenceArea": "Oxley Road",
+        "residenceAreas": [
+          "Oxley Road"
+        ],
         "placesVisited": [
           "Seletar Airport"
         ]
@@ -3431,7 +3696,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Lim Tai See",
+        "residenceAreas": [
+          "Jalan Lim Tai See"
+        ],
         "placesVisited": [
           "Indonesia",
           "Marina Bay Sands Casino (10 Bayfront Avenue)"
@@ -3455,7 +3722,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong East St 32",
+        "residenceAreas": [
+          "Jurong East St 32"
+        ],
         "placesVisited": [
           "Tan Tock Seng Hospital",
           "Tong Whye Temple Senior Citizen Club (306 Jurong East Street 32)."
@@ -3479,7 +3748,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Jurong West St 64",
+        "residenceAreas": [
+          "Jurong West St 64"
+        ],
         "placesVisited": [
           "Nanyang Community Club"
         ]
@@ -3502,7 +3773,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Yishun Ring Road",
+        "residenceAreas": [
+          "Yishun Ring Road"
+        ],
         "placesVisited": [
           "Yishun Polyclinic",
           "Mei Hwan Drive"
@@ -3526,7 +3799,7 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Indonesian",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Indonesia"
         ]
@@ -3549,7 +3822,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Teck Whye",
+        "residenceAreas": [
+          "Jalan Teck Whye"
+        ],
         "placesVisited": [
           "Indonesia",
           "Choa Chu Kang Polyclinic"
@@ -3573,7 +3848,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "British",
-        "residenceArea": "Raffles Hotel (1 Beach Road)",
+        "residenceAreas": [
+          "Raffles Hotel (1 Beach Road)"
+        ],
         "placesVisited": [
           "Switzerland",
           "UK"
@@ -3597,7 +3874,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Malaysian (Singapore Work Pass holder)",
-        "residenceArea": "Boon Lay Place",
+        "residenceAreas": [
+          "Boon Lay Place"
+        ],
         "placesVisited": []
       }
     },
@@ -3618,7 +3897,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Jurong West Street 74",
+        "residenceAreas": [
+          "Jurong West Street 74"
+        ],
         "placesVisited": []
       }
     },
@@ -3639,7 +3920,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Jurong West Street 81",
+        "residenceAreas": [
+          "Jurong West Street 81"
+        ],
         "placesVisited": []
       }
     },
@@ -3660,7 +3943,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Pending Road",
+        "residenceAreas": [
+          "Pending Road"
+        ],
         "placesVisited": [
           "Farrer Park Hospital (1 Farrer Park)"
         ]
@@ -3683,7 +3968,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Pending Road",
+        "residenceAreas": [
+          "Pending Road"
+        ],
         "placesVisited": [
           "Farrer Park Hospital (1 Farrer Park)"
         ]
@@ -3706,7 +3993,9 @@
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Teck Whye Lane",
+        "residenceAreas": [
+          "Teck Whye Lane"
+        ],
         "placesVisited": [
           "The Orange Tree Preschool @ Choa Chu Kang (10 Choa Chu Kang Road)"
         ]
@@ -3729,7 +4018,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bishan Street 13",
+        "residenceAreas": [
+          "Bishan Street 13"
+        ],
         "placesVisited": []
       }
     },
@@ -3750,7 +4041,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Kim Tian Road",
+        "residenceAreas": [
+          "Kim Tian Road"
+        ],
         "placesVisited": [
           "Indonesia",
           "Shop at 26 Jalan Membina"
@@ -3774,7 +4067,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Redhill Road",
+        "residenceAreas": [
+          "Redhill Road"
+        ],
         "placesVisited": [
           "Funan Mall (107 North Bridge Road)",
           "PUB Recreation Club (48 Woodleigh Park)"
@@ -3798,7 +4093,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "Jurong West St 93",
+        "residenceAreas": [
+          "Jurong West St 93"
+        ],
         "placesVisited": []
       }
     },
@@ -3819,7 +4116,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Mulia",
+        "residenceAreas": [
+          "Jalan Mulia"
+        ],
         "placesVisited": [
           "France"
         ]
@@ -3842,7 +4141,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Panjang Road",
+        "residenceAreas": [
+          "Bukit Panjang Road"
+        ],
         "placesVisited": [
           "Samwoh Corporate Pte Ltd (25E Sungei Kadut Street 1)"
         ]
@@ -3865,7 +4166,7 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Filipino (Singapore Work Pass holder)",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Philippines",
           "NTFGH"
@@ -3889,7 +4190,9 @@
         "hospital": "Sengkang Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Rivervale Street",
+        "residenceAreas": [
+          "Rivervale Street"
+        ],
         "placesVisited": []
       }
     },
@@ -3910,7 +4213,9 @@
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Yishun Street 81",
+        "residenceAreas": [
+          "Yishun Street 81"
+        ],
         "placesVisited": [
           "France",
           "Health Promotion Board"
@@ -3934,7 +4239,7 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Indonesian",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Indonesia"
         ]
@@ -3957,7 +4262,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jalan Haji Salam",
+        "residenceAreas": [
+          "Jalan Haji Salam"
+        ],
         "placesVisited": [
           "France",
           "Spain"
@@ -3981,7 +4288,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Filipino (Singapore Work Pass holder)",
-        "residenceArea": "Lorong 28 Geylang",
+        "residenceAreas": [
+          "Lorong 28 Geylang"
+        ],
         "placesVisited": [
           "Philippines",
           "AXA Singapore (8 Shenton Way)"
@@ -4005,7 +4314,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Telok Blangah Street 31",
+        "residenceAreas": [
+          "Telok Blangah Street 31"
+        ],
         "placesVisited": [
           "France"
         ]
@@ -4028,7 +4339,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Gangsa Road",
+        "residenceAreas": [
+          "Gangsa Road"
+        ],
         "placesVisited": []
       }
     },
@@ -4049,7 +4362,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Toh Tuck Road",
+        "residenceAreas": [
+          "Toh Tuck Road"
+        ],
         "placesVisited": [
           "France"
         ]
@@ -4072,7 +4387,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "British",
-        "residenceArea": "Dover Road area",
+        "residenceAreas": [
+          "Dover Road area"
+        ],
         "placesVisited": [
           "Japan",
           "UK",
@@ -4097,7 +4414,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Telok Blangah St 31",
+        "residenceAreas": [
+          "Telok Blangah St 31"
+        ],
         "placesVisited": [
           "US",
           "UK",
@@ -4122,7 +4441,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Filipino (Singapore Work Pass holder)",
-        "residenceArea": "Jurong East St 21",
+        "residenceAreas": [
+          "Jurong East St 21"
+        ],
         "placesVisited": [
           "Philippines"
         ]
@@ -4145,7 +4466,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West St 73",
+        "residenceAreas": [
+          "Jurong West St 73"
+        ],
         "placesVisited": []
       }
     },
@@ -4166,7 +4489,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bishan Street 23",
+        "residenceAreas": [
+          "Bishan Street 23"
+        ],
         "placesVisited": []
       }
     },
@@ -4187,7 +4512,9 @@
         "hospital": "Gleneagles Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Indonesian",
-        "residenceArea": "Bukit Timah Road",
+        "residenceAreas": [
+          "Bukit Timah Road"
+        ],
         "placesVisited": [
           "Indonesia"
         ]
@@ -4210,7 +4537,9 @@
         "hospital": "Gleneagles Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Indonesian",
-        "residenceArea": "Bukit Timah Road",
+        "residenceAreas": [
+          "Bukit Timah Road"
+        ],
         "placesVisited": [
           "Indonesia"
         ]
@@ -4233,7 +4562,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Panjang Ring Road",
+        "residenceAreas": [
+          "Bukit Panjang Ring Road"
+        ],
         "placesVisited": [
           "Malaysia",
           "Masjid Al-Muttaqin (5140 Ang Mo Kio Avenue 6)",
@@ -4261,7 +4592,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Filipino (Singapore Work Pass Holder)",
-        "residenceArea": "Lorong 28 Geylang",
+        "residenceAreas": [
+          "Lorong 28 Geylang"
+        ],
         "placesVisited": []
       }
     },
@@ -4282,7 +4615,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Circuit Road",
+        "residenceAreas": [
+          "Circuit Road"
+        ],
         "placesVisited": []
       }
     },
@@ -4303,7 +4638,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Woodlands Street 13",
+        "residenceAreas": [
+          "Woodlands Street 13"
+        ],
         "placesVisited": [
           "Samwoh Corporate Pte Ltd (25E Sungei Kadut Street 1)"
         ]
@@ -4326,7 +4663,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Whampoa Drive",
+        "residenceAreas": [
+          "Whampoa Drive"
+        ],
         "placesVisited": [
           "Malaysia",
           "Masjid Hajjah Rahimabi Kebun Limau (76 Kim Keat Road)"
@@ -4350,7 +4689,9 @@
         "hospital": "Khoo Teck Phuat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Yishun Street 51",
+        "residenceAreas": [
+          "Yishun Street 51"
+        ],
         "placesVisited": [
           "Northpoint City (930 Yishun Avenue 2)",
           "743 Yishun Avenue 5"
@@ -4374,7 +4715,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Indian (Singapore Work Pass Holder)",
-        "residenceArea": "St George's Road",
+        "residenceAreas": [
+          "St George's Road"
+        ],
         "placesVisited": [
           "Sumitomo Mitsui Banking Corporation (3 Temasek Ave)"
         ]
@@ -4397,7 +4740,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -4418,7 +4761,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Malaysian (Singapore Work Pass Holder)",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -4439,7 +4782,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "American",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -4460,7 +4803,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Malaysian (Singapore Work Pass Holder)",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Germany",
           "Czech Republic",
@@ -4486,7 +4829,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Chinese (Singapore Work Pass Holder)",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Germany",
           "Czech Republic",
@@ -4512,7 +4855,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "USA",
           "Canada"
@@ -4536,7 +4879,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -4557,7 +4900,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Malaysia"
         ]
@@ -4580,7 +4923,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -4601,7 +4944,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Malaysia"
         ]
@@ -4624,7 +4967,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -4645,7 +4988,9 @@
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Teck Whye Lane",
+        "residenceAreas": [
+          "Teck Whye Lane"
+        ],
         "placesVisited": []
       }
     },
@@ -4666,7 +5011,9 @@
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Anchorvale Drive",
+        "residenceAreas": [
+          "Anchorvale Drive"
+        ],
         "placesVisited": [
           "Malaysia",
           "Masjid Al-Mawaddah (151 Compassvale Bow)",
@@ -4691,7 +5038,9 @@
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Pasir Ris Street 51",
+        "residenceAreas": [
+          "Pasir Ris Street 51"
+        ],
         "placesVisited": [
           "Indonesia"
         ]
@@ -4714,7 +5063,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "American (Singapore Work Pass Holder)",
-        "residenceArea": "Tanjong Pagar Road",
+        "residenceAreas": [
+          "Tanjong Pagar Road"
+        ],
         "placesVisited": []
       }
     },
@@ -4735,7 +5086,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Filipino (Singapore Long Term Visit Pass Holder)",
-        "residenceArea": "Flora Drive.",
+        "residenceAreas": [
+          "Flora Drive."
+        ],
         "placesVisited": [
           "Philippines",
           "DNATA Cargo (45 Airport Cargo Road)"
@@ -4759,7 +5112,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "New Zeland (Singapore Long Term Visit Pass Holder)",
-        "residenceArea": "Upper Paya Lebar Road",
+        "residenceAreas": [
+          "Upper Paya Lebar Road"
+        ],
         "placesVisited": [
           "USA"
         ]
@@ -4782,7 +5137,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Yishun Central.",
+        "residenceAreas": [
+          "Yishun Central."
+        ],
         "placesVisited": [
           "UK"
         ]
@@ -4805,7 +5162,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Tiong Bahru Road",
+        "residenceAreas": [
+          "Tiong Bahru Road"
+        ],
         "placesVisited": [
           "SGH"
         ]
@@ -4828,7 +5187,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Serangoon Avenue 3.",
+        "residenceAreas": [
+          "Serangoon Avenue 3."
+        ],
         "placesVisited": [
           "USA",
           "SGH"
@@ -4852,7 +5213,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "German (Singapore Long Term Visit Pass Holder)",
-        "residenceArea": "Leedon Park",
+        "residenceAreas": [
+          "Leedon Park"
+        ],
         "placesVisited": [
           "Germany",
           "Switzerland"
@@ -4876,7 +5239,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Filipino (Singapore Long Term Visit Pass Holder)",
-        "residenceArea": "Crawford Lane",
+        "residenceAreas": [
+          "Crawford Lane"
+        ],
         "placesVisited": []
       }
     },
@@ -4897,7 +5262,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Indonesian",
-        "residenceArea": "Ibis Hotel Novena (6 Irrawaddy Road)",
+        "residenceAreas": [
+          "Ibis Hotel Novena (6 Irrawaddy Road)"
+        ],
         "placesVisited": [
           "Mount Elizabeth Hospital"
         ]
@@ -4920,7 +5287,9 @@
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Serangoon North Avenue 3.",
+        "residenceAreas": [
+          "Serangoon North Avenue 3."
+        ],
         "placesVisited": [
           "Indonesia"
         ]
@@ -4943,7 +5312,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Jurong West Street 71.",
+        "residenceAreas": [
+          "Jurong West Street 71."
+        ],
         "placesVisited": [
           "Youth Go! (403 Fajar Road)",
           "Project 180 @ Simei (145 Simei Street 2) and Singapore University of Social Sciences (463 Clementi Road)"
@@ -4967,7 +5338,9 @@
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Mei Ling Street",
+        "residenceAreas": [
+          "Mei Ling Street"
+        ],
         "placesVisited": [
           "Thailand",
           "Cash Box (1 Jurong West Central 2)"
@@ -4991,7 +5364,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Bukit Batok West Avenue 6.",
+        "residenceAreas": [
+          "Bukit Batok West Avenue 6."
+        ],
         "placesVisited": [
           "Germany",
           "Czech Republic",
@@ -5016,7 +5391,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Spanish (Singapore Long Term Pass Holder)",
-        "residenceArea": "Mount Sophia",
+        "residenceAreas": [
+          "Mount Sophia"
+        ],
         "placesVisited": []
       }
     },
@@ -5037,7 +5414,9 @@
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "Pending Road",
+        "residenceAreas": [
+          "Pending Road"
+        ],
         "placesVisited": []
       }
     },
@@ -5058,7 +5437,7 @@
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
@@ -5079,7 +5458,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Permanent Resident",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "France"
         ]
@@ -5102,7 +5481,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Filipino (Singapore Work Pass Holder)",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "MY World Preschool Ltd (52 Lengkok Bahru)."
         ]
@@ -5125,7 +5504,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "French (Singapore Work Pass Holder)",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "France",
           "Spain",
@@ -5151,7 +5530,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "USA",
           "Australia"
@@ -5175,7 +5554,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Malaysia"
         ]
@@ -5198,7 +5577,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": [
           "Indonesia"
         ]
@@ -5221,7 +5600,7 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Dutch",
-        "residenceArea": "",
+        "residenceAreas": [],
         "placesVisited": []
       }
     },
