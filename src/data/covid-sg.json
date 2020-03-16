@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.809796, 1.257736]
+        "coordinates": [
+          103.809796,
+          1.257736
+        ]
       },
       "properties": {
         "id": "case-1",
@@ -13,14 +16,20 @@
         "confirmed": "2020-01-23",
         "discharged": "2020-02-19",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-first-case-of-wuhan-virus"
+        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-first-case-of-wuhan-virus",
+        "nationality": "Chinese",
+        "residenceArea": "Shangri-La Rasa Sentosa Resort & Spa",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.858465, 1.307610]
+        "coordinates": [
+          103.858465,
+          1.30761
+        ]
       },
       "properties": {
         "id": "case-2",
@@ -28,14 +37,26 @@
         "confirmed": "2020-01-24",
         "discharged": "2020-02-07",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected"
+        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected",
+        "nationality": "Chinese",
+        "residenceArea": "J8 hotel, 8 Townshend Road",
+        "placesVisited": [
+          "Raffles Hospital",
+          "Tan Tock Seng Emergency Department",
+          "Orchard Road",
+          "Marina Bay Sands",
+          "Gardens by the Bay"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.809781, 1.257843]
+        "coordinates": [
+          103.809781,
+          1.257843
+        ]
       },
       "properties": {
         "id": "case-3",
@@ -43,14 +64,20 @@
         "confirmed": "2020-01-24",
         "discharged": "2020-02-21",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected"
+        "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected",
+        "nationality": "Chinese",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.820195, 1.252415]
+        "coordinates": [
+          103.820195,
+          1.252415
+        ]
       },
       "properties": {
         "id": "case-4",
@@ -58,14 +85,23 @@
         "confirmed": "2020-01-25",
         "discharged": "2020-02-12",
         "hospital": "Sengkang General Hospital",
-        "source": ""
+        "source": "",
+        "nationality": "Chinese",
+        "residenceArea": "Village Hotel Sentosa",
+        "placesVisited": [
+          "USS",
+          "Vivocity"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.900648, 1.308570]
+        "coordinates": [
+          103.900648,
+          1.30857
+        ]
       },
       "properties": {
         "id": "case-5",
@@ -73,14 +109,22 @@
         "confirmed": "2020-01-27",
         "discharged": "2020-02-18",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Chinese",
+        "residenceArea": "Ceylon Road",
+        "placesVisited": [
+          "Tan Tock Seng Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.945253, 1.371061]
+        "coordinates": [
+          103.945253,
+          1.371061
+        ]
       },
       "properties": {
         "id": "case-6",
@@ -88,14 +132,20 @@
         "confirmed": "2020-01-27",
         "discharged": "2020-02-20",
         "hospital": "Changi General Hospital",
-        "source": ""
+        "source": "",
+        "nationality": "Chinese",
+        "residenceArea": "Pasir Ris Grove",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.860595, 1.283346]
+        "coordinates": [
+          103.860595,
+          1.283346
+        ]
       },
       "properties": {
         "id": "case-7",
@@ -103,14 +153,22 @@
         "confirmed": "2020-01-27",
         "discharged": "2020-02-04",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Chinese",
+        "residenceArea": "Marina Bay Sands (10 Bayfront Avenue)",
+        "placesVisited": [
+          "Raffles Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.877308, 1.350397]
+        "coordinates": [
+          103.877308,
+          1.350397
+        ]
       },
       "properties": {
         "id": "case-8",
@@ -118,14 +176,23 @@
         "confirmed": "2020-01-29",
         "discharged": "2020-02-18",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556",
+        "nationality": "Chinese",
+        "residenceArea": "Lorong Lew Lian",
+        "placesVisited": [
+          "Tan Tock Seng Hospital",
+          "The Life Church and Missions Singapore (146B Paya Lebar Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.877178, 1.350474]
+        "coordinates": [
+          103.877178,
+          1.350474
+        ]
       },
       "properties": {
         "id": "case-9",
@@ -133,14 +200,23 @@
         "confirmed": "2020-01-29",
         "discharged": "2020-02-23",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556",
+        "nationality": "Chinese",
+        "residenceArea": "Lorong Lew Lian",
+        "placesVisited": [
+          "Tan Tock Seng Hospital",
+          "The Life Church and Missions Singapore (146B Paya Lebar Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.863305, 1.271200]
+        "coordinates": [
+          103.863305,
+          1.2712
+        ]
       },
       "properties": {
         "id": "case-10",
@@ -148,14 +224,22 @@
         "confirmed": "2020-01-29",
         "discharged": "2020-02-09",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556",
+        "nationality": "Chinese",
+        "residenceArea": "",
+        "placesVisited": [
+          "Marina South Pier"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.820154, 1.252540]
+        "coordinates": [
+          103.820154,
+          1.25254
+        ]
       },
       "properties": {
         "id": "case-11",
@@ -163,14 +247,20 @@
         "confirmed": "2020-01-29",
         "discharged": "2020-02-10",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838",
+        "nationality": "Chinese",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.820236, 1.252291]
+        "coordinates": [
+          103.820236,
+          1.252291
+        ]
       },
       "properties": {
         "id": "case-12",
@@ -178,14 +268,24 @@
         "confirmed": "2020-01-29",
         "discharged": "2020-02-12",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838",
+        "nationality": "Chinese",
+        "residenceArea": "Village Hotel Sentosa (10 Artillery Avenue), Hotel 81 Princess (21 Lorong 12 Geylang) and Home Suite View Hotel (12 Lorong 12 Geylang)",
+        "placesVisited": [
+          "Orchard Road",
+          "Geylang",
+          "Tan Tock Seng Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.846322, 1.285659]
+        "coordinates": [
+          103.846322,
+          1.285659
+        ]
       },
       "properties": {
         "id": "case-13",
@@ -193,14 +293,23 @@
         "confirmed": "2020-01-30",
         "discharged": "2020-02-09",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838",
+        "nationality": "Chinese",
+        "residenceArea": "Park Royal collection Pickering Street(3 Upper Pickering Street), Oasia hotel downtown(100 Peck Seah Street)",
+        "placesVisited": [
+          "Changi Airport",
+          "Jewel"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.737294, 1.337087]
+        "coordinates": [
+          103.737294,
+          1.337087
+        ]
       },
       "properties": {
         "id": "case-14",
@@ -208,14 +317,20 @@
         "confirmed": "2020-01-30",
         "discharged": "2020-02-17",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156",
+        "nationality": "Chinese (Singapore Work Pass Holder)",
+        "residenceArea": "Jurong East Street 13",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.991089, 1.364375]
+        "coordinates": [
+          103.991089,
+          1.364375
+        ]
       },
       "properties": {
         "id": "case-15",
@@ -223,14 +338,20 @@
         "confirmed": "2020-01-31",
         "discharged": "2020-02-16",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/wuhan-virus-first-singaporean-confirmed-to-have-virus-she-was-on-scoot-flight-from"
+        "source": "https://www.straitstimes.com/singapore/health/wuhan-virus-first-singaporean-confirmed-to-have-virus-she-was-on-scoot-flight-from",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.825716, 1.296291]
+        "coordinates": [
+          103.825716,
+          1.296291
+        ]
       },
       "properties": {
         "id": "case-16",
@@ -238,14 +359,22 @@
         "confirmed": "2020-01-31",
         "discharged": "2020-02-20",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-cases-coronavirus-china-12373156",
+        "nationality": "Chinese",
+        "residenceArea": "Nathan Road",
+        "placesVisited": [
+          "Singapore General Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.991209, 1.364646]
+        "coordinates": [
+          103.991209,
+          1.364646
+        ]
       },
       "properties": {
         "id": "case-17",
@@ -253,14 +382,20 @@
         "confirmed": "2020-01-31",
         "discharged": "2020-02-11",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.878151, 1.311611]
+        "coordinates": [
+          103.878151,
+          1.311611
+        ]
       },
       "properties": {
         "id": "case-18",
@@ -268,14 +403,20 @@
         "confirmed": "2020-02-01",
         "discharged": "2020-02-27",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384",
+        "nationality": "Chinese",
+        "residenceArea": "Home Suite View Hotel (12 Lorong 12 Geylang)",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.819616, 1.283503]
+        "coordinates": [
+          103.819616,
+          1.283503
+        ]
       },
       "properties": {
         "id": "case-19",
@@ -283,14 +424,23 @@
         "confirmed": "2020-02-03",
         "discharged": "2020-02-22",
         "hospital": " Singapore General Hospital",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Bukit Merah",
+        "placesVisited": [
+          "Yong Thai Hang (24 Cavan Road)",
+          "Tan Tock Seng Hospital Emergency Department"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.886418, 1.374734]
+        "coordinates": [
+          103.886418,
+          1.374734
+        ]
       },
       "properties": {
         "id": "case-20",
@@ -298,14 +448,22 @@
         "confirmed": "2020-02-04",
         "discharged": "2020-02-29",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Hougang Street 61",
+        "placesVisited": [
+          "Yong Thai Hang (24 Cavan Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.819390, 1.283603]
+        "coordinates": [
+          103.81939,
+          1.283603
+        ]
       },
       "properties": {
         "id": "case-21",
@@ -313,14 +471,20 @@
         "confirmed": "2020-02-04",
         "discharged": "2020-02-18",
         "hospital": " Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
+        "nationality": "Indonesian",
+        "residenceArea": "Jalan Bukit Merah",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.991875, 1.364335]
+        "coordinates": [
+          103.991875,
+          1.364335
+        ]
       },
       "properties": {
         "id": "case-22",
@@ -328,14 +492,20 @@
         "confirmed": "2020-02-03",
         "discharged": "2020-02-09",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.991531, 1.364474]
+        "coordinates": [
+          103.991531,
+          1.364474
+        ]
       },
       "properties": {
         "id": "case-23",
@@ -343,14 +513,20 @@
         "confirmed": "2020-02-03",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.883165, 1.379344]
+        "coordinates": [
+          103.883165,
+          1.379344
+        ]
       },
       "properties": {
         "id": "case-24",
@@ -358,14 +534,24 @@
         "confirmed": "2020-02-04",
         "discharged": "2020-02-15",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Buangkok Green",
+        "placesVisited": [
+          "Yong Thai Hang 24 Cavan Road",
+          "Hougang Polyclinic",
+          "Jalan Besar"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.882688, 1.379366]
+        "coordinates": [
+          103.882688,
+          1.379366
+        ]
       },
       "properties": {
         "id": "case-25",
@@ -373,14 +559,24 @@
         "confirmed": "2020-02-04",
         "discharged": "2020-02-12",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Buangkok Green",
+        "placesVisited": [
+          "Hougang Polyclinic",
+          "Diamond Industries Jewellery Company (Harbour Drive)",
+          "Pasir Panjang Hawker Centre"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.846090, 1.285819]
+        "coordinates": [
+          103.84609,
+          1.285819
+        ]
       },
       "properties": {
         "id": "case-26",
@@ -388,14 +584,20 @@
         "confirmed": "2020-02-04",
         "discharged": "2020-02-09",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
+        "nationality": "Chinese",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.819492, 1.283845]
+        "coordinates": [
+          103.819492,
+          1.283845
+        ]
       },
       "properties": {
         "id": "case-27",
@@ -403,14 +605,24 @@
         "confirmed": "2020-02-05",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Bukit Merah",
+        "placesVisited": [
+          "Tiong Bahru Plaza",
+          "Tiong Bahru Market",
+          "Beo Crescent Market and Food Centre"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.819754, 1.283766]
+        "coordinates": [
+          103.819754,
+          1.283766
+        ]
       },
       "properties": {
         "id": "case-28",
@@ -418,14 +630,20 @@
         "confirmed": "2020-02-05",
         "discharged": "2020-02-22",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Bukit Merah",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.844028, 1.322268]
+        "coordinates": [
+          103.844028,
+          1.322268
+        ]
       },
       "properties": {
         "id": "case-29",
@@ -433,14 +651,20 @@
         "confirmed": "2020-02-05",
         "discharged": "2020-02-12",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-cases-number-12401016"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-cases-number-12401016",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mount Elizabeth Novena Hospital",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.833302, 1.306504]
+        "coordinates": [
+          103.833302,
+          1.306504
+        ]
       },
       "properties": {
         "id": "case-30",
@@ -448,14 +672,24 @@
         "confirmed": "2020-02-06",
         "discharged": "2020-02-14",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Shunfu Road",
+        "placesVisited": [
+          "Far East Square (19 China Street)",
+          "Junction 8 (9 Bishan Place)",
+          "Grand Hyatt Singapore"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.951724, 1.355349]
+        "coordinates": [
+          103.951724,
+          1.355349
+        ]
       },
       "properties": {
         "id": "case-31",
@@ -463,14 +697,23 @@
         "confirmed": "2020-02-06",
         "discharged": "2020-02-17",
         "hospital": "Changi General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-coronavirus-moh-new-cases-feb-7-12405040"
+        "source": "https://www.channelnewsasia.com/news/singapore/wuhan-coronavirus-moh-new-cases-feb-7-12405040",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Tampines Street 24",
+        "placesVisited": [
+          "Malaysia",
+          "The Life Church and Missions Singapore (146B Paya Lebar Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.919399, 1.306289]
+        "coordinates": [
+          103.919399,
+          1.306289
+        ]
       },
       "properties": {
         "id": "case-32",
@@ -478,14 +721,25 @@
         "confirmed": "2020-02-06",
         "discharged": "2020-02-19",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/coronavirus-what-we-know-about-the-3-new-singaporean-patients-confirmed-with-no"
+        "source": "https://www.straitstimes.com/singapore/health/coronavirus-what-we-know-about-the-3-new-singaporean-patients-confirmed-with-no",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Elias Road",
+        "placesVisited": [
+          "Victoria Junior College",
+          "Parkway East Hospital",
+          "Changi Airport",
+          "Singapore Zoo"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.890712, 1.328042]
+        "coordinates": [
+          103.890712,
+          1.328042
+        ]
       },
       "properties": {
         "id": "case-33",
@@ -493,14 +747,23 @@
         "confirmed": "2020-02-06",
         "discharged": "2020-02-19",
         "hospital": "Sengkang General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-what-we-know-local-transmission-clusters-singapore-12412558"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-what-we-know-local-transmission-clusters-singapore-12412558",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": [
+          "Malaysia",
+          "Sengkang General Hospital Emergency Department"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.837797, 1.355926]
+        "coordinates": [
+          103.837797,
+          1.355926
+        ]
       },
       "properties": {
         "id": "case-34",
@@ -508,14 +771,22 @@
         "confirmed": "2020-02-07",
         "discharged": "2020-02-12",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Sin Ming Road",
+        "placesVisited": [
+          "Yong Thai Hang"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.821715, 1.288876]
+        "coordinates": [
+          103.821715,
+          1.288876
+        ]
       },
       "properties": {
         "id": "case-35",
@@ -523,14 +794,24 @@
         "confirmed": "2020-02-07",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Henderson Crescent",
+        "placesVisited": [
+          "Redhill Market",
+          "Hawker centre at Bukit Merah",
+          "Bukit Merah Polyclinic"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.750248, 1.358187]
+        "coordinates": [
+          103.750248,
+          1.358187
+        ]
       },
       "properties": {
         "id": "case-36",
@@ -538,14 +819,25 @@
         "confirmed": "2020-02-07",
         "discharged": "2020-02-11",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Bukit Batok Street 31",
+        "placesVisited": [
+          "Johor Bahru",
+          "KK Women's and Children's Hospital (KKH)",
+          "Grand Hyatt Singapore",
+          "Ng Teng Fong General Hospital (NTFGH)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.733856, 1.347064]
+        "coordinates": [
+          103.733856,
+          1.347064
+        ]
       },
       "properties": {
         "id": "case-37",
@@ -553,14 +845,22 @@
         "confirmed": "2020-02-07",
         "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong East Street 32",
+        "placesVisited": [
+          "Ng Teng Fong General Hospital (NTFGH)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.741346, 1.380201]
+        "coordinates": [
+          103.741346,
+          1.380201
+        ]
       },
       "properties": {
         "id": "case-38",
@@ -568,14 +868,25 @@
         "confirmed": "2020-02-08",
         "discharged": "2020-02-18",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Choa Chu Kang Avenue 3",
+        "placesVisited": [
+          "Choa Chua Kang Polyclinic",
+          "The Life Church and Missions Singapore",
+          "Marina Bay Sands",
+          "Chinatown and Plaza Singapura"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.705438, 1.342621]
+        "coordinates": [
+          103.705438,
+          1.342621
+        ]
       },
       "properties": {
         "id": "case-39",
@@ -583,14 +894,23 @@
         "confirmed": "2020-02-08",
         "discharged": "2020-02-16",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Central",
+        "placesVisited": [
+          "Malaysia",
+          "Grand Hyatt Singapore"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.918415,1.335170]
+        "coordinates": [
+          103.918415,
+          1.33517
+        ]
       },
       "properties": {
         "id": "case-40",
@@ -598,14 +918,22 @@
         "confirmed": "2020-02-08",
         "discharged": "2020-02-12",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-after-2-cases-yong-thai-hang-health-products-shop-in-lavender-closed-as-more",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bedok North Street",
+        "placesVisited": [
+          "Yong Thai Hang"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.882502, 1.357690]
+        "coordinates": [
+          103.882502,
+          1.35769
+        ]
       },
       "properties": {
         "id": "case-41",
@@ -613,14 +941,26 @@
         "confirmed": "2020-02-08",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Upper Serangoon Road",
+        "placesVisited": [
+          "Hougang Polyclinic",
+          "Tan Tock Seng Hospital Emergency Department",
+          "Paya Lebar Methodist Church (5 Boundary Road)",
+          "Braddell Heights Residents' Committee",
+          "Pat's Schoolhouse Kovan (755 Upper Serangoon Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.903780, 1.337343]
+        "coordinates": [
+          103.90378,
+          1.337343
+        ]
       },
       "properties": {
         "id": "case-42",
@@ -628,14 +968,25 @@
         "confirmed": "2020-02-08",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "residenceArea": "The Leo Dormitory (25 Kaki Bukit Road)",
+        "placesVisited": [
+          "Changi General Hospital",
+          "Bedok Polyclinic",
+          "Mustafa Centre (145 Syed Alwi Road)",
+          "8 Seletar Aerospace Heights"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.879950, 1.394505]
+        "coordinates": [
+          103.87995,
+          1.394505
+        ]
       },
       "properties": {
         "id": "case-43",
@@ -643,14 +994,23 @@
         "confirmed": "2020-02-08",
         "discharged": "2020-03-07",
         "hospital": "Sengkang General Hospital",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Fernvale Close",
+        "placesVisited": [
+          "Malaysia",
+          "Resorts World Sentosa"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.816947, 1.452668]
+        "coordinates": [
+          103.816947,
+          1.452668
+        ]
       },
       "properties": {
         "id": "case-44",
@@ -658,14 +1018,23 @@
         "confirmed": "2020-02-08",
         "discharged": "2020-02-19",
         "hospital": "Khoo Teck Puat Hospital",
-        "source": "https://www.straitstimes.com/singapore/certis-man-who-served-orders-for-quarantine-1-of-2-new-cases"
+        "source": "https://www.straitstimes.com/singapore/certis-man-who-served-orders-for-quarantine-1-of-2-new-cases",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Sembawang Drive",
+        "placesVisited": [
+          "Certis Cisco Centre (20 Jalan Afifi)",
+          "Chingay 2020"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.991728, 1.364079]
+        "coordinates": [
+          103.991728,
+          1.364079
+        ]
       },
       "properties": {
         "id": "case-45",
@@ -673,14 +1042,20 @@
         "confirmed": "2020-02-10",
         "discharged": "2020-02-14",
         "hospital": "KK Women’s and Children’s Hospital",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.765586, 1.459396]
+        "coordinates": [
+          103.765586,
+          1.459396
+        ]
       },
       "properties": {
         "id": "case-46",
@@ -688,14 +1063,23 @@
         "confirmed": "2020-02-10",
         "discharged": "2020-02-24",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/coronavirus-2-new-cases-in-spore-including-man-who-works-at-rws-casino-2-more"
+        "source": "https://www.straitstimes.com/singapore/health/coronavirus-2-new-cases-in-spore-including-man-who-works-at-rws-casino-2-more",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Johor Bahru",
+        "placesVisited": [
+          "Resort World Sentosa Casino (8 Sentosa Gateway)",
+          "Tan Tock Seng Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.854344, 1.307478]
+        "coordinates": [
+          103.854344,
+          1.307478
+        ]
       },
       "properties": {
         "id": "case-47",
@@ -703,14 +1087,22 @@
         "confirmed": "2020-02-10",
         "discharged": "2020-03-07",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/novel-coronavirus-confirmed-cases-singapore-feb-11-12421724"
+        "source": "https://www.channelnewsasia.com/news/singapore/novel-coronavirus-confirmed-cases-singapore-feb-11-12421724",
+        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "residenceArea": "Veerasamy Road",
+        "placesVisited": [
+          "8 Seletar Aerospace Heights"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.760911, 1.343906]
+        "coordinates": [
+          103.760911,
+          1.343906
+        ]
       },
       "properties": {
         "id": "case-48",
@@ -718,14 +1110,27 @@
         "confirmed": "2020-02-11",
         "discharged": "2020-02-17",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-cases-feb-12-12426526"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-cases-feb-12-12426526",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Batok Street 25",
+        "placesVisited": [
+          "Malaysia",
+          "Plaza Singapura (68 Orchard Road)",
+          "Star Vista (1 Vista Exchange Green)",
+          "Fusionopolis (1 Fusionopolis Place)",
+          "Grace Assembly of God (Tanglin) (355 Tanglin Road)",
+          "Grace Assembly of God (Bukit Batok) (1 Bukit Batok West Avenue 4)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.747584, 1.336376]
+        "coordinates": [
+          103.747584,
+          1.336376
+        ]
       },
       "properties": {
         "id": "case-49",
@@ -733,14 +1138,23 @@
         "confirmed": "2020-02-11",
         "discharged": "2020-02-26",
         "hospital": "National University Hospital",
-        "source": "https://www.straitstimes.com/singapore/health/coronavirus-3-new-cases-in-singapore-2-from-grace-assembly-of-god-church-1-from-dbs"
+        "source": "https://www.straitstimes.com/singapore/health/coronavirus-3-new-cases-in-singapore-2-from-grace-assembly-of-god-church-1-from-dbs",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Toh Guan Road",
+        "placesVisited": [
+          "Grace Assembly of God (Tanglin)",
+          "Grace Assembly of God (Bukit Batok)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.860394, 1.353586]
+        "coordinates": [
+          103.860394,
+          1.353586
+        ]
       },
       "properties": {
         "id": "case-50",
@@ -748,14 +1162,22 @@
         "confirmed": "2020-02-12",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-300-evacuated-from-mbfc-tower-3-after-confirmed-case-at-dbs-asia-central"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-300-evacuated-from-mbfc-tower-3-after-confirmed-case-at-dbs-asia-central",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mei Hwan Drive",
+        "placesVisited": [
+          "DBS Asia Central at Marina Bay Financial Centre (12 Marina Boulevard)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.854543, 1.347157]
+        "coordinates": [
+          103.854543,
+          1.347157
+        ]
       },
       "properties": {
         "id": "case-51",
@@ -763,14 +1185,23 @@
         "confirmed": "2020-02-12",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-senior-pastor-grace-assembly-god-church-12432584"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-senior-pastor-grace-assembly-god-church-12432584",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bishan Street 13",
+        "placesVisited": [
+          "Grace Assembly of God (Tanglin)",
+          "Grace Assembly of God (Bukit Batok)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.851944, 1.305697]
+        "coordinates": [
+          103.851944,
+          1.305697
+        ]
       },
       "properties": {
         "id": "case-52",
@@ -778,14 +1209,23 @@
         "confirmed": "2020-02-12",
         "discharged": "2020-02-28",
         "hospital": "Tan Tock Seng Hospital",
-        "source": ""
+        "source": "",
+        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "residenceArea": "Campbell Lane",
+        "placesVisited": [
+          "8 Seletar Aerospace Heights",
+          "Tan Tock Seng Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.763906, 1.359665]
+        "coordinates": [
+          103.763906,
+          1.359665
+        ]
       },
       "properties": {
         "id": "case-53",
@@ -793,14 +1233,23 @@
         "confirmed": "2020-02-12",
         "discharged": "2020-03-14",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Hillview Avenue",
+        "placesVisited": [
+          "Grace Assembly of God",
+          "National University of Singapore"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.856082, 1.376044]
+        "coordinates": [
+          103.856082,
+          1.376044
+        ]
       },
       "properties": {
         "id": "case-54",
@@ -808,14 +1257,22 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-03-01",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Ang Mo Kio Avenue 5",
+        "placesVisited": [
+          "Grace Assembly of God (Tanglin) (355 Tanglin Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.860761, 1.353748]
+        "coordinates": [
+          103.860761,
+          1.353748
+        ]
       },
       "properties": {
         "id": "case-55",
@@ -823,14 +1280,23 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-19",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mei Hwan Drive",
+        "placesVisited": [
+          "Pulau Bukom",
+          "Church of Christ the King (2221 Ang Mo Kio Avenue 8)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.865541, 1.405554]
+        "coordinates": [
+          103.865541,
+          1.405554
+        ]
       },
       "properties": {
         "id": "case-56",
@@ -838,14 +1304,24 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "residenceArea": "",
+        "placesVisited": [
+          "Seletar Aerospace Heights Construction Site",
+          "Tan Tock Seng Hospital",
+          "Government quarantine facility"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.761930, 1.386733]
+        "coordinates": [
+          103.76193,
+          1.386733
+        ]
       },
       "properties": {
         "id": "case-57",
@@ -853,14 +1329,23 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Senja Road",
+        "placesVisited": [
+          "Grace Assembly of God (Tanglin)",
+          "Grace Assembly of God (Bukit Batok)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.881355, 1.346926]
+        "coordinates": [
+          103.881355,
+          1.346926
+        ]
       },
       "properties": {
         "id": "case-58",
@@ -868,14 +1353,23 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Kelichap",
+        "placesVisited": [
+          "Grace Assembly of God (Tanglin)",
+          "Grace Assembly of God (Bukit Batok)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.890847, 1.302677]
+        "coordinates": [
+          103.890847,
+          1.302677
+        ]
       },
       "properties": {
         "id": "case-59",
@@ -883,14 +1377,23 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Wilkinson Road",
+        "placesVisited": [
+          "Farrer Park Hospital Emergency Care Clinic",
+          "Mount Elizabeth Hospital Emergency Department"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.857274, 1.368952]
+        "coordinates": [
+          103.857274,
+          1.368952
+        ]
       },
       "properties": {
         "id": "case-60",
@@ -898,14 +1401,22 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-03-01",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Ang Mo Kio Ave 3",
+        "placesVisited": [
+          "Grace Assembly of God (Tanglin)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.703681, 1.341208]
+        "coordinates": [
+          103.703681,
+          1.341208
+        ]
       },
       "properties": {
         "id": "case-61",
@@ -913,14 +1424,24 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-03-04",
         "hospital": "National University Hospital",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 64",
+        "placesVisited": [
+          "Ng Teng Fong General Hospital",
+          "Pioneer Polyclinic",
+          "Legacy Office Supplies Pte Ltd (56 Senang Crescent)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.843442, 1.276374]
+        "coordinates": [
+          103.843442,
+          1.276374
+        ]
       },
       "properties": {
         "id": "case-62",
@@ -928,14 +1449,20 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-25",
         "hospital": "Singapore General Hospital",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Tanjong Pagar Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.865177, 1.333592]
+        "coordinates": [
+          103.865177,
+          1.333592
+        ]
       },
       "properties": {
         "id": "case-63",
@@ -943,14 +1470,23 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Potong Pasir Avenue 3",
+        "placesVisited": [
+          "PUB",
+          "Marisson Hotel Bugis (103 Beach Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.695092, 1.347171]
+        "coordinates": [
+          103.695092,
+          1.347171
+        ]
       },
       "properties": {
         "id": "case-64",
@@ -958,14 +1494,22 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-23",
         "hospital": "National University Hospital",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 81",
+        "placesVisited": [
+          "Taxi Driver"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.860991, 1.353677]
+        "coordinates": [
+          103.860991,
+          1.353677
+        ]
       },
       "properties": {
         "id": "case-65",
@@ -973,14 +1517,22 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-17",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed"
+        "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mei Hwan Drive",
+        "placesVisited": [
+          "Church of Christ the King (2221 Ang Mo Kio Avenue 8)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.860583, 1.353631]
+        "coordinates": [
+          103.860583,
+          1.353631
+        ]
       },
       "properties": {
         "id": "case-66",
@@ -988,14 +1540,23 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-20",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed"
+        "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mei Hwan Drive",
+        "placesVisited": [
+          "Grace Assembly of God",
+          "God's Kingdom Bread of Life Church (37 Jalan Pemimpin)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.703916, 1.341095]
+        "coordinates": [
+          103.703916,
+          1.341095
+        ]
       },
       "properties": {
         "id": "case-67",
@@ -1003,14 +1564,24 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
-        "source": ""
+        "source": "",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 64",
+        "placesVisited": [
+          "Grace Assembly of God (Bukit Batok)",
+          "Ng Teng Fong General Hospital",
+          "NUH"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.860847, 1.353573]
+        "coordinates": [
+          103.860847,
+          1.353573
+        ]
       },
       "properties": {
         "id": "case-68",
@@ -1018,14 +1589,22 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-29",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mei Hwan Drive",
+        "placesVisited": [
+          "Bethany Presbyterian Church (344A Paya Lebar Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.865741, 1.405768]
+        "coordinates": [
+          103.865741,
+          1.405768
+        ]
       },
       "properties": {
         "id": "case-69",
@@ -1033,14 +1612,22 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
+        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "residenceArea": "",
+        "placesVisited": [
+          "Government quarantine facility"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.860503, 1.353838]
+        "coordinates": [
+          103.860503,
+          1.353838
+        ]
       },
       "properties": {
         "id": "case-70",
@@ -1048,14 +1635,23 @@
         "confirmed": "2020-02-15",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mei Hwan Drive",
+        "placesVisited": [
+          "God's Kingdom Bread of Life Church (37 Jalan Pemimpin)",
+          "HipVan Singapore (19 Kallang Avenue)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.876130, 1.393622]
+        "coordinates": [
+          103.87613,
+          1.393622
+        ]
       },
       "properties": {
         "id": "case-71",
@@ -1063,14 +1659,23 @@
         "confirmed": "2020-02-15",
         "discharged": "2020-03-05",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Fernvale Road",
+        "placesVisited": [
+          "Fernvale Lane",
+          "God's Kingdom Bread of Life (37 Jalan Pemimpin)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.802425, 1.446852]
+        "coordinates": [
+          103.802425,
+          1.446852
+        ]
       },
       "properties": {
         "id": "case-72",
@@ -1078,14 +1683,23 @@
         "confirmed": "2020-02-15",
         "discharged": "2020-02-27",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
+        "nationality": "Chinese (Singapore Work Pass Holder)",
+        "residenceArea": "Woodlands Crescent",
+        "placesVisited": [
+          "Marina Bay Sands Casino (10 Bayfront Avenue)",
+          "Aim Heng Car Services Pte Ltd (Woodlands Industrial Park)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.856472, 1.339826]
+        "coordinates": [
+          103.856472,
+          1.339826
+        ]
       },
       "properties": {
         "id": "case-73",
@@ -1093,14 +1707,22 @@
         "confirmed": "2020-02-15",
         "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Lorong 8 Toa Payoh",
+        "placesVisited": [
+          "Grace Assembly of God (Tanglin) (355 Tanglin Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.803188, 1.294315]
+        "coordinates": [
+          103.803188,
+          1.294315
+        ]
       },
       "properties": {
         "id": "case-74",
@@ -1108,14 +1730,23 @@
         "confirmed": "2020-02-15",
         "discharged": "2020-03-07",
         "hospital": "Alexandra Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mei Ling Street",
+        "placesVisited": [
+          "Alexandra Hospital Urgent Care Centre",
+          "Hi-Yew Technology Pte Ltd (3031A Ubi Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.882190, 1.357346]
+        "coordinates": [
+          103.88219,
+          1.357346
+        ]
       },
       "properties": {
         "id": "case-75",
@@ -1123,14 +1754,20 @@
         "confirmed": "2020-02-16",
         "discharged": "2020-02-29",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.991414, 1.364203]
+        "coordinates": [
+          103.991414,
+          1.364203
+        ]
       },
       "properties": {
         "id": "case-76",
@@ -1138,14 +1775,20 @@
         "confirmed": "2020-02-16",
         "discharged": "2020-02-18",
         "hospital": "KK Women’s and Children’s Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-update-feb-17-12441176"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-update-feb-17-12441176",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.858469, 1.319953]
+        "coordinates": [
+          103.858469,
+          1.319953
+        ]
       },
       "properties": {
         "id": "case-77",
@@ -1153,14 +1796,22 @@
         "confirmed": "2020-02-16",
         "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed"
+        "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "McNair Road",
+        "placesVisited": [
+          "Tan Tock Seng Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.773297, 1.364716]
+        "coordinates": [
+          103.773297,
+          1.364716
+        ]
       },
       "properties": {
         "id": "case-78",
@@ -1168,14 +1819,22 @@
         "confirmed": "2020-02-17",
         "discharged": "2020-02-27",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Dairy Farm",
+        "placesVisited": [
+          "VWO-run Community Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.802666, 1.446903]
+        "coordinates": [
+          103.802666,
+          1.446903
+        ]
       },
       "properties": {
         "id": "case-79",
@@ -1183,14 +1842,22 @@
         "confirmed": "2020-02-17",
         "discharged": "2020-02-28",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed"
+        "source": "https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
+        "residenceArea": "Woodlands Crescent",
+        "placesVisited": [
+          "FoodXchange@Admiralty (8A Admiralty Street)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.879046, 1.394049]
+        "coordinates": [
+          103.879046,
+          1.394049
+        ]
       },
       "properties": {
         "id": "case-80",
@@ -1198,14 +1865,22 @@
         "confirmed": "2020-02-18",
         "discharged": "2020-02-27",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Fernvale Link",
+        "placesVisited": [
+          "National University Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.823638, 1.280671]
+        "coordinates": [
+          103.823638,
+          1.280671
+        ]
       },
       "properties": {
         "id": "case-81",
@@ -1213,14 +1888,20 @@
         "confirmed": "2020-02-18",
         "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-update-cases-tuesday-12441808",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Lower Delta Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.723248, 1.348317]
+        "coordinates": [
+          103.723248,
+          1.348317
+        ]
       },
       "properties": {
         "id": "case-82",
@@ -1228,14 +1909,23 @@
         "confirmed": "2020-02-18",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 41",
+        "placesVisited": [
+          "Ng Teng Fong General Hospital",
+          "Jurong Polyclinic"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.904546, 1.387353]
+        "coordinates": [
+          103.904546,
+          1.387353
+        ]
       },
       "properties": {
         "id": "case-83",
@@ -1243,14 +1933,23 @@
         "confirmed": "2020-02-19",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Rivervale Drive",
+        "placesVisited": [
+          "Philemon Singapore Pte Ltd (16 Kallang Place)",
+          "Malaysia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.881252, 1.323315]
+        "coordinates": [
+          103.881252,
+          1.323315
+        ]
       },
       "properties": {
         "id": "case-84",
@@ -1258,14 +1957,23 @@
         "confirmed": "2020-02-19",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-singapore-feb-19-update-12449834",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Aljunied Road",
+        "placesVisited": [
+          "Lonza Biologics (35 Tuas South Avenue 6)",
+          "Bugis Junction"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.803008, 1.438816]
+        "coordinates": [
+          103.803008,
+          1.438816
+        ]
       },
       "properties": {
         "id": "case-85",
@@ -1273,14 +1981,22 @@
         "confirmed": "2020-02-20",
         "discharged": "2020-03-07",
         "hospital": "Khoo Teck Puat Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-moh-update-feb-21-12457272"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-moh-update-feb-21-12457272",
+        "nationality": "Chinese (Singapore Work Pass Holder)",
+        "residenceArea": "Woodlands Ave 6",
+        "placesVisited": [
+          "Khoo Teck Puat Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.754902, 1.353315]
+        "coordinates": [
+          103.754902,
+          1.353315
+        ]
       },
       "properties": {
         "id": "case-86",
@@ -1288,14 +2004,20 @@
         "confirmed": "2020-02-20",
         "discharged": "2020-03-07",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.todayonline.com/covid-19-1-new-case-wuhan-virus-linked-to-first-known-case-with-both-dengue-coronavirus"
+        "source": "https://www.todayonline.com/covid-19-1-new-case-wuhan-virus-linked-to-first-known-case-with-both-dengue-coronavirus",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Batok East Avenue 5",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.991281, 1.363905]
+        "coordinates": [
+          103.991281,
+          1.363905
+        ]
       },
       "properties": {
         "id": "case-87",
@@ -1303,14 +2025,20 @@
         "confirmed": "2020-02-21",
         "discharged": "2020-02-24",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.882139, 1.377135]
+        "coordinates": [
+          103.882139,
+          1.377135
+        ]
       },
       "properties": {
         "id": "case-88",
@@ -1318,14 +2046,20 @@
         "confirmed": "2020-02-21",
         "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Hougang St 91",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.868234, 1.351538]
+        "coordinates": [
+          103.868234,
+          1.351538
+        ]
       },
       "properties": {
         "id": "case-89",
@@ -1333,14 +2067,23 @@
         "confirmed": "2020-02-22",
         "discharged": "2020-02-28",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Serangoon Ave 3",
+        "placesVisited": [
+          "Affinity Equity Partners (8 Temasek Boulevard)",
+          "Bishan Community Club (51 Bishan St 13)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.850806, 1.346333]
+        "coordinates": [
+          103.850806,
+          1.346333
+        ]
       },
       "properties": {
         "id": "case-90",
@@ -1348,14 +2091,22 @@
         "confirmed": "2020-02-23",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bishan Street 12",
+        "placesVisited": [
+          "Tan Tock Seng Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.903330, 1.387710]
+        "coordinates": [
+          103.90333,
+          1.38771
+        ]
       },
       "properties": {
         "id": "case-91",
@@ -1363,14 +2114,20 @@
         "confirmed": "2020-02-22",
         "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-update-coronavirus-cases-feb-24-12463606",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Rivervale Drive",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.866641, 1.352229]
+        "coordinates": [
+          103.866641,
+          1.352229
+        ]
       },
       "properties": {
         "id": "case-92",
@@ -1378,14 +2135,20 @@
         "confirmed": "2020-02-26",
         "discharged": "2020-03-11",
         "hospital": "Sengkang General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Serangoon Ave 3",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.750987, 1.358849]
+        "coordinates": [
+          103.750987,
+          1.358849
+        ]
       },
       "properties": {
         "id": "case-93",
@@ -1393,14 +2156,20 @@
         "confirmed": "2020-02-26",
         "discharged": "2020-03-07",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-patients-covid-19-moh-update-12472024",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Batok Street 31",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.769782, 1.343501]
+        "coordinates": [
+          103.769782,
+          1.343501
+        ]
       },
       "properties": {
         "id": "case-94",
@@ -1408,14 +2177,20 @@
         "confirmed": "2020-02-26",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Jurong Kechil",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.748310, 1.403252]
+        "coordinates": [
+          103.74831,
+          1.403252
+        ]
       },
       "properties": {
         "id": "case-95",
@@ -1423,14 +2198,25 @@
         "confirmed": "2020-02-27",
         "discharged": "2020-03-14",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Choa Chu Kang Crescent",
+        "placesVisited": [
+          "Sport Singapore (3 Stadium Drive)",
+          "Singapore Aviation Academy (1 Aviation Drive)",
+          "Toa Payoh Hub (490 Lorong 6 Toa Payoh)",
+          "Toa Payoh Sport Centre (297 Lorong 6 Toa Payoh)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.769728, 1.343381]
+        "coordinates": [
+          103.769728,
+          1.343381
+        ]
       },
       "properties": {
         "id": "case-96",
@@ -1438,14 +2224,22 @@
         "confirmed": "2020-02-27",
         "discharged": "2020-03-07",
         "hospital": "KK Women’s and Children’s Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Jurong Kechil",
+        "placesVisited": [
+          "Raffles Institution"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.746845, 1.392035]
+        "coordinates": [
+          103.746845,
+          1.392035
+        ]
       },
       "properties": {
         "id": "case-97",
@@ -1453,14 +2247,23 @@
         "confirmed": "2020-02-28",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Choa Chu Kang North 5",
+        "placesVisited": [
+          "Wizlearn Technologies Pte Ltd",
+          "Agency for Integrated Care (5 Maxwell Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.698495, 1.338615]
+        "coordinates": [
+          103.698495,
+          1.338615
+        ]
       },
       "properties": {
         "id": "case-98",
@@ -1468,14 +2271,20 @@
         "confirmed": "2020-02-28",
         "discharged": "2020-03-05",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Jurong West St 61",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.694935, 1.347025]
+        "coordinates": [
+          103.694935,
+          1.347025
+        ]
       },
       "properties": {
         "id": "case-99",
@@ -1483,14 +2292,22 @@
         "confirmed": "2020-02-29",
         "discharged": "2020-03-16",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West St 81",
+        "placesVisited": [
+          "Pioneer Polyclinic"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.795039, 1.309062]
+        "coordinates": [
+          103.795039,
+          1.309062
+        ]
       },
       "properties": {
         "id": "case-100",
@@ -1498,14 +2315,20 @@
         "confirmed": "2020-02-29",
         "discharged": "2020-03-16",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three",
+        "nationality": "Malaysian",
+        "residenceArea": "Holland Ave",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.756333, 1.342642]
+        "coordinates": [
+          103.756333,
+          1.342642
+        ]
       },
       "properties": {
         "id": "case-101",
@@ -1513,14 +2336,24 @@
         "confirmed": "2020-02-29",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Batok St 24",
+        "placesVisited": [
+          "Batam",
+          "Asia Asset Recovery Pte Ltd (2019 Bukit Batok Industrial Park A)",
+          "Eye Clinic @ NTFGH"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.756590, 1.342750]
+        "coordinates": [
+          103.75659,
+          1.34275
+        ]
       },
       "properties": {
         "id": "case-102",
@@ -1528,14 +2361,22 @@
         "confirmed": "2020-02-29",
         "discharged": "2020-03-14",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three"
+        "source": "https://www.straitstimes.com/singapore/coronavirus-four-new-cases-confirmed-all-linked-to-wizlearn-technologies-cluster-three",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
+        "residenceArea": "Bukit Batok St 24",
+        "placesVisited": [
+          "Eye Clinic @ NTFGH"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.750986, 1.358926]
+        "coordinates": [
+          103.750986,
+          1.358926
+        ]
       },
       "properties": {
         "id": "case-103",
@@ -1543,14 +2384,23 @@
         "confirmed": "2020-03-01",
         "discharged": "2020-03-14",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Batok St 31",
+        "placesVisited": [
+          "Batam",
+          "Asia Asset Recovery Pte Ltd (2019 Bukit Batok Industrial Park A)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.750746, 1.358947]
+        "coordinates": [
+          103.750746,
+          1.358947
+        ]
       },
       "properties": {
         "id": "case-104",
@@ -1558,14 +2408,22 @@
         "confirmed": "2020-03-01",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
+        "nationality": "Myanmar (Singapore Work Pass Holder)",
+        "residenceArea": "Bukit Batok St 31",
+        "placesVisited": [
+          "Batam"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.767481, 1.358459]
+        "coordinates": [
+          103.767481,
+          1.358459
+        ]
       },
       "properties": {
         "id": "case-105",
@@ -1573,14 +2431,22 @@
         "confirmed": "2020-03-01",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Upper Bukit Timah",
+        "placesVisited": [
+          "Toa Payoh Hub (490 Lor 6 Toa Payoh)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.957796, 1.359165]
+        "coordinates": [
+          103.957796,
+          1.359165
+        ]
       },
       "properties": {
         "id": "case-106",
@@ -1588,14 +2454,22 @@
         "confirmed": "2020-03-01",
         "discharged": "2020-03-11",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
+        "nationality": "Japanese (Singapore Work Pass Holder)",
+        "residenceArea": "Tampines Street 45",
+        "placesVisited": [
+          "WinTech Nano-Technology Services Pte Ltd (10 Science Park Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.853484, 1.350006]
+        "coordinates": [
+          103.853484,
+          1.350006
+        ]
       },
       "properties": {
         "id": "case-107",
@@ -1603,14 +2477,23 @@
         "confirmed": "2020-03-01",
         "discharged": "2020-03-06",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster"
+        "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bishan Street 13",
+        "placesVisited": [
+          "Jakarta (Indonesia)",
+          "Tan Tock Seng Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.756389, 1.342685]
+        "coordinates": [
+          103.756389,
+          1.342685
+        ]
       },
       "properties": {
         "id": "case-108",
@@ -1618,14 +2501,20 @@
         "confirmed": "2020-03-02",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster"
+        "source": "https://www.todayonline.com/singapore/covid-19-2-new-cases-singapore-1-which-linked-wizlearn-technologies-cluster",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
+        "residenceArea": "Bukit Batok St 24",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.839951, 1.277077]
+        "coordinates": [
+          103.839951,
+          1.277077
+        ]
       },
       "properties": {
         "id": "case-109",
@@ -1633,14 +2522,22 @@
         "confirmed": "2020-03-02",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new"
+        "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Everton Park",
+        "placesVisited": [
+          "Fish Market Sakuraya (154 West Coast Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.872077, 1.314510]
+        "coordinates": [
+          103.872077,
+          1.31451
+        ]
       },
       "properties": {
         "id": "case-110",
@@ -1648,14 +2545,22 @@
         "confirmed": "2020-03-03",
         "discharged": "2020-03-07",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new"
+        "source": "https://www.straitstimes.com/singapore/health/two-new-coronavirus-cases-in-singapore-one-linked-to-wizlearn-technologies-no-new",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Upper Boon Keng Road",
+        "placesVisited": [
+          "Wizlearn Technologies Pte Ltd"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.898378, 1.395071]
+        "coordinates": [
+          103.898378,
+          1.395071
+        ]
       },
       "properties": {
         "id": "case-111",
@@ -1663,14 +2568,23 @@
         "confirmed": "2020-03-03",
         "discharged": "2020-03-13",
         "hospital": "National University Hospital",
-        "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at"
+        "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Compassvale Street",
+        "placesVisited": [
+          "Malaysia",
+          "Sengkang General Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.745864, 1.328742]
+        "coordinates": [
+          103.745864,
+          1.328742
+        ]
       },
       "properties": {
         "id": "case-112",
@@ -1678,14 +2592,23 @@
         "confirmed": "2020-03-04",
         "discharged": "2020-03-09",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at"
+        "source": "https://www.straitstimes.com/singapore/health/2-new-covid-19-cases-in-singapore-including-non-teaching-staff-at-pre-school-at",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": [
+          "Creative O Preschoolers' Bay (31 International Business Park)",
+          "Bukit Batok Polyclinic"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.846681, 1.301110]
+        "coordinates": [
+          103.846681,
+          1.30111
+        ]
       },
       "properties": {
         "id": "case-113",
@@ -1693,14 +2616,26 @@
         "confirmed": "2020-03-04",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
+        "nationality": "French (Singapore Work Pass Holder)",
+        "residenceArea": "Mount Sophia",
+        "placesVisited": [
+          "France",
+          "Portugal",
+          "UK",
+          "Istanbul",
+          "Gleneagles Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.699016, 1.351254]
+        "coordinates": [
+          103.699016,
+          1.351254
+        ]
       },
       "properties": {
         "id": "case-114",
@@ -1708,14 +2643,20 @@
         "confirmed": "2020-03-04",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Westwood Avenue Area",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.698853, 1.351309]
+        "coordinates": [
+          103.698853,
+          1.351309
+        ]
       },
       "properties": {
         "id": "case-115",
@@ -1723,14 +2664,23 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Westwood Avenue Area",
+        "placesVisited": [
+          "SAFRA Jurong",
+          "Pioneer Polyclinic"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.694850, 1.347016]
+        "coordinates": [
+          103.69485,
+          1.347016
+        ]
       },
       "properties": {
         "id": "case-116",
@@ -1738,14 +2688,22 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 81",
+        "placesVisited": [
+          "SAFRA Jurong"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.761804, 1.385030]
+        "coordinates": [
+          103.761804,
+          1.38503
+        ]
       },
       "properties": {
         "id": "case-117",
@@ -1753,14 +2711,27 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner"
+        "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Senja Road",
+        "placesVisited": [
+          "SAFRA Jurong",
+          "Malaysia",
+          "Shops at 131 Marsiling Rise",
+          "Shops at 731 Yishun Street 72",
+          "Petir Park (141 Petir Road)",
+          "Zhenghua Nature Park (466 Segar Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.699113, 1.351306]
+        "coordinates": [
+          103.699113,
+          1.351306
+        ]
       },
       "properties": {
         "id": "case-118",
@@ -1768,14 +2739,22 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Westwood Avenue Area",
+        "placesVisited": [
+          "Pioneer Polyclinic"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.804395, 1.295340]
+        "coordinates": [
+          103.804395,
+          1.29534
+        ]
       },
       "properties": {
         "id": "case-119",
@@ -1783,14 +2762,20 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "Alexandra Hospital",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Stirling Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.701032, 1.339948]
+        "coordinates": [
+          103.701032,
+          1.339948
+        ]
       },
       "properties": {
         "id": "case-120",
@@ -1798,14 +2783,23 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 65",
+        "placesVisited": [
+          "SAFRA Jurong",
+          "Boon Lay Shopping Centre (221 Boon Lay Place)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.723178, 1.333006]
+        "coordinates": [
+          103.723178,
+          1.333006
+        ]
       },
       "properties": {
         "id": "case-121",
@@ -1813,14 +2807,22 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Corporation Drive",
+        "placesVisited": [
+          "SAFRA Jurong"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.770944, 1.374906]
+        "coordinates": [
+          103.770944,
+          1.374906
+        ]
       },
       "properties": {
         "id": "case-122",
@@ -1828,14 +2830,23 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Petir Road",
+        "placesVisited": [
+          "Westgate (3 Gateway Drive)",
+          "Keat Hong Community Club (2 Choa Chu Kang Loop)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.879886, 1.394462]
+        "coordinates": [
+          103.879886,
+          1.394462
+        ]
       },
       "properties": {
         "id": "case-123",
@@ -1843,14 +2854,23 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Fernvale Close",
+        "placesVisited": [
+          "South Africa",
+          "France"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.817590, 1.455223]
+        "coordinates": [
+          103.81759,
+          1.455223
+        ]
       },
       "properties": {
         "id": "case-124",
@@ -1858,14 +2878,22 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Admiralty Link",
+        "placesVisited": [
+          "Germany"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.699033, 1.346008]
+        "coordinates": [
+          103.699033,
+          1.346008
+        ]
       },
       "properties": {
         "id": "case-125",
@@ -1873,14 +2901,22 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 72",
+        "placesVisited": [
+          "SAFRA Jurong"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.903789, 1.321523]
+        "coordinates": [
+          103.903789,
+          1.321523
+        ]
       },
       "properties": {
         "id": "case-126",
@@ -1888,14 +2924,22 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Eunos Crescent",
+        "placesVisited": [
+          "Singapore General Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.769303, 1.379119]
+        "coordinates": [
+          103.769303,
+          1.379119
+        ]
       },
       "properties": {
         "id": "case-127",
@@ -1903,14 +2947,20 @@
         "confirmed": "2020-03-05",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Panjang Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.698386, 1.345729]
+        "coordinates": [
+          103.698386,
+          1.345729
+        ]
       },
       "properties": {
         "id": "case-128",
@@ -1918,14 +2968,22 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 72",
+        "placesVisited": [
+          "SAFRA Jurong"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.695432, 1.342809]
+        "coordinates": [
+          103.695432,
+          1.342809
+        ]
       },
       "properties": {
         "id": "case-129",
@@ -1933,14 +2991,24 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 71",
+        "placesVisited": [
+          "Pioneer Polyclinic",
+          "Shop at 966 Jurong West Street 91",
+          "Jurong Port Road Food Centre (29A Jurong Port Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.695487, 1.342738]
+        "coordinates": [
+          103.695487,
+          1.342738
+        ]
       },
       "properties": {
         "id": "case-130",
@@ -1948,14 +3016,23 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot"
+        "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 71",
+        "placesVisited": [
+          "Jurong Port Road Food Centre",
+          "Bukit Batok Community Club (21 Bukit Batok Central)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.747576, 1.320352]
+        "coordinates": [
+          103.747576,
+          1.320352
+        ]
       },
       "properties": {
         "id": "case-131",
@@ -1963,14 +3040,23 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Pandan Gardens",
+        "placesVisited": [
+          "Liang Guan Hak Kee (8 Pandan Crescent)",
+          "Ayer Rajah Zone 3 Residents? Committee (32 Teban Gardens Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.819286, 1.301882]
+        "coordinates": [
+          103.819286,
+          1.301882
+        ]
       },
       "properties": {
         "id": "case-132",
@@ -1978,14 +3064,22 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Tanglin Road",
+        "placesVisited": [
+          "Camden Medical Centre (1 Orchard Boulevard)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.697797, 1.338205]
+        "coordinates": [
+          103.697797,
+          1.338205
+        ]
       },
       "properties": {
         "id": "case-133",
@@ -1993,14 +3087,22 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
+        "nationality": "Indonesian (Singapore Social Visit Pass Holder)",
+        "residenceArea": "Jurong West Street 61",
+        "placesVisited": [
+          "Pioneer Polyclinic"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.695875, 1.342309]
+        "coordinates": [
+          103.695875,
+          1.342309
+        ]
       },
       "properties": {
         "id": "case-134",
@@ -2008,14 +3110,22 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 71.",
+        "placesVisited": [
+          "Malaysia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.820229, 1.277084]
+        "coordinates": [
+          103.820229,
+          1.277084
+        ]
       },
       "properties": {
         "id": "case-135",
@@ -2023,14 +3133,22 @@
         "confirmed": "2020-03-06",
         "discharged": "2020-03-14",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Telok Blangah Crescent",
+        "placesVisited": [
+          "ST Electronics (100 Jurong East Street 21)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.843497, 1.276834]
+        "coordinates": [
+          103.843497,
+          1.276834
+        ]
       },
       "properties": {
         "id": "case-136",
@@ -2038,14 +3156,24 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
+        "nationality": "Italian (Singapore Work Pass Holder)",
+        "residenceArea": "Tanjong Pagar Road",
+        "placesVisited": [
+          "USA",
+          "Italy",
+          "Raffles Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.723260, 1.348075]
+        "coordinates": [
+          103.72326,
+          1.348075
+        ]
       },
       "properties": {
         "id": "case-137",
@@ -2053,14 +3181,22 @@
         "confirmed": "2020-03-06",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 41",
+        "placesVisited": [
+          "SAFRA Jurong"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.903466, 1.387737]
+        "coordinates": [
+          103.903466,
+          1.387737
+        ]
       },
       "properties": {
         "id": "case-138",
@@ -2068,14 +3204,22 @@
         "confirmed": "2020-03-06",
         "discharged": "2020-03-09",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Rivervale Drive",
+        "placesVisited": [
+          "SAFRA Punggol (9 Sentul Crescent)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.695005, 1.347019]
+        "coordinates": [
+          103.695005,
+          1.347019
+        ]
       },
       "properties": {
         "id": "case-139",
@@ -2083,14 +3227,20 @@
         "confirmed": "2020-03-07",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 81",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.694918, 1.346944]
+        "coordinates": [
+          103.694918,
+          1.346944
+        ]
       },
       "properties": {
         "id": "case-140",
@@ -2098,14 +3248,22 @@
         "confirmed": "2020-03-07",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 81",
+        "placesVisited": [
+          "Landom Distributions Pte Ltd (31 Jurong Port Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.703837, 1.341118]
+        "coordinates": [
+          103.703837,
+          1.341118
+        ]
       },
       "properties": {
         "id": "case-141",
@@ -2113,14 +3271,22 @@
         "confirmed": "2020-03-07",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 64",
+        "placesVisited": [
+          "Nanyang Technological University (NTU) Innovation Centre (71 Nanyang Drive)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.694720, 1.346971]
+        "coordinates": [
+          103.69472,
+          1.346971
+        ]
       },
       "properties": {
         "id": "case-142",
@@ -2128,14 +3294,23 @@
         "confirmed": "2020-03-07",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 81",
+        "placesVisited": [
+          "First Page Digital Singapore (144 Robinson Road)",
+          "The Aperia Mall (12 Kallang Avenue)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.818950, 1.301665]
+        "coordinates": [
+          103.81895,
+          1.301665
+        ]
       },
       "properties": {
         "id": "case-143",
@@ -2143,14 +3318,22 @@
         "confirmed": "2020-03-07",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Tanglin Road",
+        "placesVisited": [
+          "Thailand"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.699223, 1.349417]
+        "coordinates": [
+          103.699223,
+          1.349417
+        ]
       },
       "properties": {
         "id": "case-144",
@@ -2158,14 +3341,20 @@
         "confirmed": "2020-03-07",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 74",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.752622, 1.378768]
+        "coordinates": [
+          103.752622,
+          1.378768
+        ]
       },
       "properties": {
         "id": "case-145",
@@ -2173,14 +3362,22 @@
         "confirmed": "2020-03-08",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Teck Whye Lane",
+        "placesVisited": [
+          "16 Teck Whye Lane"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.841689, 1.387775]
+        "coordinates": [
+          103.841689,
+          1.387775
+        ]
       },
       "properties": {
         "id": "case-146",
@@ -2188,14 +3385,20 @@
         "confirmed": "2020-03-08",
         "discharged": "2020-03-14",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Yio Chu Kang Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.841208, 1.298611]
+        "coordinates": [
+          103.841208,
+          1.298611
+        ]
       },
       "properties": {
         "id": "case-147",
@@ -2203,14 +3406,22 @@
         "confirmed": "2020-03-08",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Indonesian",
+        "residenceArea": "Oxley Road",
+        "placesVisited": [
+          "Seletar Airport"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.793523, 1.321682]
+        "coordinates": [
+          103.793523,
+          1.321682
+        ]
       },
       "properties": {
         "id": "case-148",
@@ -2218,14 +3429,23 @@
         "confirmed": "2020-03-08",
         "discharged": "2020-03-11",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Lim Tai See",
+        "placesVisited": [
+          "Indonesia",
+          "Marina Bay Sands Casino (10 Bayfront Avenue)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.733052, 1.346399]
+        "coordinates": [
+          103.733052,
+          1.346399
+        ]
       },
       "properties": {
         "id": "case-149",
@@ -2233,14 +3453,23 @@
         "confirmed": "2020-03-08",
         "discharged": "2020-03-16",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong East St 32",
+        "placesVisited": [
+          "Tan Tock Seng Hospital",
+          "Tong Whye Temple Senior Citizen Club (306 Jurong East Street 32)."
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.703917, 1.340784]
+        "coordinates": [
+          103.703917,
+          1.340784
+        ]
       },
       "properties": {
         "id": "case-150",
@@ -2248,14 +3477,22 @@
         "confirmed": "2020-03-08",
         "discharged": "2020-03-14",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Jurong West St 64",
+        "placesVisited": [
+          "Nanyang Community Club"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.832160, 1.426123]
+        "coordinates": [
+          103.83216,
+          1.426123
+        ]
       },
       "properties": {
         "id": "case-151",
@@ -2263,14 +3500,23 @@
         "confirmed": "2020-03-08",
         "discharged": "2020-03-08",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Yishun Ring Road",
+        "placesVisited": [
+          "Yishun Polyclinic",
+          "Mei Hwan Drive"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.835872, 1.279567]
+        "coordinates": [
+          103.835872,
+          1.279567
+        ]
       },
       "properties": {
         "id": "case-152",
@@ -2278,14 +3524,22 @@
         "confirmed": "2020-03-08",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Indonesian",
+        "residenceArea": "",
+        "placesVisited": [
+          "Indonesia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.757606, 1.380032]
+        "coordinates": [
+          103.757606,
+          1.380032
+        ]
       },
       "properties": {
         "id": "case-153",
@@ -2293,14 +3547,23 @@
         "confirmed": "2020-03-08",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Teck Whye",
+        "placesVisited": [
+          "Indonesia",
+          "Choa Chu Kang Polyclinic"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.854469, 1.294890]
+        "coordinates": [
+          103.854469,
+          1.29489
+        ]
       },
       "properties": {
         "id": "case-154",
@@ -2308,14 +3571,23 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "British",
+        "residenceArea": "Raffles Hotel (1 Beach Road)",
+        "placesVisited": [
+          "Switzerland",
+          "UK"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.713167, 1.346321]
+        "coordinates": [
+          103.713167,
+          1.346321
+        ]
       },
       "properties": {
         "id": "case-155",
@@ -2323,14 +3595,20 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceArea": "Boon Lay Place",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.699230, 1.349410]
+        "coordinates": [
+          103.69923,
+          1.34941
+        ]
       },
       "properties": {
         "id": "case-156",
@@ -2338,14 +3616,20 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Jurong West Street 74",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.694574, 1.347203]
+        "coordinates": [
+          103.694574,
+          1.347203
+        ]
       },
       "properties": {
         "id": "case-157",
@@ -2353,14 +3637,20 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Jurong West Street 81",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.771087, 1.376270]
+        "coordinates": [
+          103.771087,
+          1.37627
+        ]
       },
       "properties": {
         "id": "case-158",
@@ -2368,14 +3658,22 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Pending Road",
+        "placesVisited": [
+          "Farrer Park Hospital (1 Farrer Park)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.771198, 1.376457]
+        "coordinates": [
+          103.771198,
+          1.376457
+        ]
       },
       "properties": {
         "id": "case-159",
@@ -2383,14 +3681,22 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Pending Road",
+        "placesVisited": [
+          "Farrer Park Hospital (1 Farrer Park)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.752447, 1.379252]
+        "coordinates": [
+          103.752447,
+          1.379252
+        ]
       },
       "properties": {
         "id": "case-160",
@@ -2398,14 +3704,22 @@
         "confirmed": "2020-03-09",
         "discharged": "2020-03-14",
         "hospital": "KK Women’s and Children’s Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Teck Whye Lane",
+        "placesVisited": [
+          "The Orange Tree Preschool @ Choa Chu Kang (10 Choa Chu Kang Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.852038, 1.348476]
+        "coordinates": [
+          103.852038,
+          1.348476
+        ]
       },
       "properties": {
         "id": "case-161",
@@ -2413,14 +3727,20 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bishan Street 13",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.827501, 1.282576]
+        "coordinates": [
+          103.827501,
+          1.282576
+        ]
       },
       "properties": {
         "id": "case-162",
@@ -2428,14 +3748,23 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Kim Tian Road",
+        "placesVisited": [
+          "Indonesia",
+          "Shop at 26 Jalan Membina"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.816150, 1.287692]
+        "coordinates": [
+          103.81615,
+          1.287692
+        ]
       },
       "properties": {
         "id": "case-163",
@@ -2443,14 +3772,23 @@
         "confirmed": "2020-03-09",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Redhill Road",
+        "placesVisited": [
+          "Funan Mall (107 North Bridge Road)",
+          "PUB Recreation Club (48 Woodleigh Park)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.693066, 1.338144]
+        "coordinates": [
+          103.693066,
+          1.338144
+        ]
       },
       "properties": {
         "id": "case-164",
@@ -2458,14 +3796,20 @@
         "confirmed": "2020-03-10",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "Jurong West St 93",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.880107, 1.332946]
+        "coordinates": [
+          103.880107,
+          1.332946
+        ]
       },
       "properties": {
         "id": "case-165",
@@ -2473,14 +3817,22 @@
         "confirmed": "2020-03-10",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Mulia",
+        "placesVisited": [
+          "France"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.768978, 1.379084]
+        "coordinates": [
+          103.768978,
+          1.379084
+        ]
       },
       "properties": {
         "id": "case-166",
@@ -2488,14 +3840,22 @@
         "confirmed": "2020-03-10",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid19-new-cases-safra-mar-10-12521660",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Panjang Road",
+        "placesVisited": [
+          "Samwoh Corporate Pte Ltd (25E Sungei Kadut Street 1)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.743317, 1.337108]
+        "coordinates": [
+          103.743317,
+          1.337108
+        ]
       },
       "properties": {
         "id": "case-167",
@@ -2503,14 +3863,23 @@
         "confirmed": "2020-03-10",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Filipino (Singapore Work Pass holder)",
+        "residenceArea": "",
+        "placesVisited": [
+          "Philippines",
+          "NTFGH"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.903477, 1.388427]
+        "coordinates": [
+          103.903477,
+          1.388427
+        ]
       },
       "properties": {
         "id": "case-168",
@@ -2518,14 +3887,20 @@
         "confirmed": "2020-03-10",
         "discharged": "",
         "hospital": "Sengkang Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Rivervale Street",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.837341, 1.415088]
+        "coordinates": [
+          103.837341,
+          1.415088
+        ]
       },
       "properties": {
         "id": "case-169",
@@ -2533,14 +3908,23 @@
         "confirmed": "2020-03-10",
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Yishun Street 81",
+        "placesVisited": [
+          "France",
+          "Health Promotion Board"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.836032, 1.279708]
+        "coordinates": [
+          103.836032,
+          1.279708
+        ]
       },
       "properties": {
         "id": "case-170",
@@ -2548,14 +3932,22 @@
         "confirmed": "2020-03-10",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Indonesian",
+        "residenceArea": "",
+        "placesVisited": [
+          "Indonesia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.952953, 1.320602]
+        "coordinates": [
+          103.952953,
+          1.320602
+        ]
       },
       "properties": {
         "id": "case-171",
@@ -2563,14 +3955,23 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jalan Haji Salam",
+        "placesVisited": [
+          "France",
+          "Spain"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.885600, 1.312140]
+        "coordinates": [
+          103.8856,
+          1.31214
+        ]
       },
       "properties": {
         "id": "case-172",
@@ -2578,14 +3979,23 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Filipino (Singapore Work Pass holder)",
+        "residenceArea": "Lorong 28 Geylang",
+        "placesVisited": [
+          "Philippines",
+          "AXA Singapore (8 Shenton Way)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.805245, 1.272658]
+        "coordinates": [
+          103.805245,
+          1.272658
+        ]
       },
       "properties": {
         "id": "case-173",
@@ -2593,14 +4003,22 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Telok Blangah Street 31",
+        "placesVisited": [
+          "France"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.766238, 1.377656]
+        "coordinates": [
+          103.766238,
+          1.377656
+        ]
       },
       "properties": {
         "id": "case-174",
@@ -2608,14 +4026,20 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Gangsa Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.766155, 1.339760]
+        "coordinates": [
+          103.766155,
+          1.33976
+        ]
       },
       "properties": {
         "id": "case-175",
@@ -2623,14 +4047,22 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Toh Tuck Road",
+        "placesVisited": [
+          "France"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.779442, 1.303856]
+        "coordinates": [
+          103.779442,
+          1.303856
+        ]
       },
       "properties": {
         "id": "case-176",
@@ -2638,14 +4070,24 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "British",
+        "residenceArea": "Dover Road area",
+        "placesVisited": [
+          "Japan",
+          "UK",
+          "Gleneagles Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.805243, 1.272568]
+        "coordinates": [
+          103.805243,
+          1.272568
+        ]
       },
       "properties": {
         "id": "case-177",
@@ -2653,14 +4095,24 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Telok Blangah St 31",
+        "placesVisited": [
+          "US",
+          "UK",
+          "France"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.743350, 1.337025]
+        "coordinates": [
+          103.74335,
+          1.337025
+        ]
       },
       "properties": {
         "id": "case-178",
@@ -2668,14 +4120,22 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710"
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
+        "nationality": "Filipino (Singapore Work Pass holder)",
+        "residenceArea": "Jurong East St 21",
+        "placesVisited": [
+          "Philippines"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.699406, 1.347178]
+        "coordinates": [
+          103.699406,
+          1.347178
+        ]
       },
       "properties": {
         "id": "case-179",
@@ -2683,14 +4143,20 @@
         "confirmed": "2020-03-11",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West St 73",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847568, 1.356170]
+        "coordinates": [
+          103.847568,
+          1.35617
+        ]
       },
       "properties": {
         "id": "case-180",
@@ -2698,14 +4164,20 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bishan Street 23",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.814932, 1.322876]
+        "coordinates": [
+          103.814932,
+          1.322876
+        ]
       },
       "properties": {
         "id": "case-181",
@@ -2713,14 +4185,22 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "Gleneagles Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Indonesian",
+        "residenceArea": "Bukit Timah Road",
+        "placesVisited": [
+          "Indonesia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.814664, 1.322908]
+        "coordinates": [
+          103.814664,
+          1.322908
+        ]
       },
       "properties": {
         "id": "case-182",
@@ -2728,14 +4208,22 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "Gleneagles Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Indonesian",
+        "residenceArea": "Bukit Timah Road",
+        "placesVisited": [
+          "Indonesia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.764504, 1.386454]
+        "coordinates": [
+          103.764504,
+          1.386454
+        ]
       },
       "properties": {
         "id": "case-183",
@@ -2743,14 +4231,27 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Panjang Ring Road",
+        "placesVisited": [
+          "Malaysia",
+          "Masjid Al-Muttaqin (5140 Ang Mo Kio Avenue 6)",
+          "Masjid Al-Iman (10 Bukit Panjang Ring Road)",
+          "Masjid Kassim (450 Changi Road)",
+          "Masjid Hajjah Fatimah (4001 Beach Road)",
+          "Pergas (448 Changi Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.885565, 1.312517]
+        "coordinates": [
+          103.885565,
+          1.312517
+        ]
       },
       "properties": {
         "id": "case-184",
@@ -2758,14 +4259,20 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
+        "residenceArea": "Lorong 28 Geylang",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.888309, 1.326435]
+        "coordinates": [
+          103.888309,
+          1.326435
+        ]
       },
       "properties": {
         "id": "case-185",
@@ -2773,14 +4280,20 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Circuit Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.777783, 1.435130]
+        "coordinates": [
+          103.777783,
+          1.43513
+        ]
       },
       "properties": {
         "id": "case-186",
@@ -2788,14 +4301,22 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Woodlands Street 13",
+        "placesVisited": [
+          "Samwoh Corporate Pte Ltd (25E Sungei Kadut Street 1)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.856526, 1.323617]
+        "coordinates": [
+          103.856526,
+          1.323617
+        ]
       },
       "properties": {
         "id": "case-187",
@@ -2803,14 +4324,23 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Whampoa Drive",
+        "placesVisited": [
+          "Malaysia",
+          "Masjid Hajjah Rahimabi Kebun Limau (76 Kim Keat Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.843540, 1.416466]
+        "coordinates": [
+          103.84354,
+          1.416466
+        ]
       },
       "properties": {
         "id": "case-188",
@@ -2818,14 +4348,23 @@
         "confirmed": "2020-03-12",
         "discharged": "",
         "hospital": "Khoo Teck Phuat Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Yishun Street 51",
+        "placesVisited": [
+          "Northpoint City (930 Yishun Avenue 2)",
+          "743 Yishun Avenue 5"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.862367, 1.323157]
+        "coordinates": [
+          103.862367,
+          1.323157
+        ]
       },
       "properties": {
         "id": "case-189",
@@ -2833,14 +4372,22 @@
         "confirmed": "2020-03-12",
         "discharged": "2020-03-16",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Indian (Singapore Work Pass Holder)",
+        "residenceArea": "St George's Road",
+        "placesVisited": [
+          "Sumitomo Mitsui Banking Corporation (3 Temasek Ave)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.844618, 1.424696]
+        "coordinates": [
+          103.844618,
+          1.424696
+        ]
       },
       "properties": {
         "id": "case-190",
@@ -2848,14 +4395,20 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.945250, 1.371089]
+        "coordinates": [
+          103.94525,
+          1.371089
+        ]
       },
       "properties": {
         "id": "case-191",
@@ -2863,14 +4416,20 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.860527, 1.301035]
+        "coordinates": [
+          103.860527,
+          1.301035
+        ]
       },
       "properties": {
         "id": "case-192",
@@ -2878,14 +4437,20 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "American",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.806737, 1.275108]
+        "coordinates": [
+          103.806737,
+          1.275108
+        ]
       },
       "properties": {
         "id": "case-193",
@@ -2893,14 +4458,25 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
+        "residenceArea": "",
+        "placesVisited": [
+          "Germany",
+          "Czech Republic",
+          "Austria",
+          "Hungary"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.806742, 1.275159]
+        "coordinates": [
+          103.806742,
+          1.275159
+        ]
       },
       "properties": {
         "id": "case-194",
@@ -2908,14 +4484,25 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Chinese (Singapore Work Pass Holder)",
+        "residenceArea": "",
+        "placesVisited": [
+          "Germany",
+          "Czech Republic",
+          "Austria",
+          "Hungary"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.758149, 1.344640]
+        "coordinates": [
+          103.758149,
+          1.34464
+        ]
       },
       "properties": {
         "id": "case-195",
@@ -2923,14 +4510,23 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": [
+          "USA",
+          "Canada"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.795787, 1.307542]
+        "coordinates": [
+          103.795787,
+          1.307542
+        ]
       },
       "properties": {
         "id": "case-196",
@@ -2938,14 +4534,20 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.832365, 1.448257]
+        "coordinates": [
+          103.832365,
+          1.448257
+        ]
       },
       "properties": {
         "id": "case-197",
@@ -2953,14 +4555,22 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": [
+          "Malaysia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.863451, 1.385496]
+        "coordinates": [
+          103.863451,
+          1.385496
+        ]
       },
       "properties": {
         "id": "case-198",
@@ -2968,14 +4578,20 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.887923, 1.380210]
+        "coordinates": [
+          103.887923,
+          1.38021
+        ]
       },
       "properties": {
         "id": "case-199",
@@ -2983,14 +4599,22 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": [
+          "Malaysia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.880267, 1.332945]
+        "coordinates": [
+          103.880267,
+          1.332945
+        ]
       },
       "properties": {
         "id": "case-200",
@@ -2998,14 +4622,20 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.752598, 1.379265]
+        "coordinates": [
+          103.752598,
+          1.379265
+        ]
       },
       "properties": {
         "id": "case-201",
@@ -3013,14 +4643,20 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Teck Whye Lane",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.889821, 1.390446]
+        "coordinates": [
+          103.889821,
+          1.390446
+        ]
       },
       "properties": {
         "id": "case-202",
@@ -3028,14 +4664,24 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Anchorvale Drive",
+        "placesVisited": [
+          "Malaysia",
+          "Masjid Al-Mawaddah (151 Compassvale Bow)",
+          "Masjid Jamae (Chulia) (218 South Bridge Road) and Masjid Al-Istiqamah (2 Serangoon North Avenue 2)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.949548, 1.368221]
+        "coordinates": [
+          103.949548,
+          1.368221
+        ]
       },
       "properties": {
         "id": "case-203",
@@ -3043,14 +4689,22 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "Changi General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Pasir Ris Street 51",
+        "placesVisited": [
+          "Indonesia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.843426, 1.276546]
+        "coordinates": [
+          103.843426,
+          1.276546
+        ]
       },
       "properties": {
         "id": "case-204",
@@ -3058,14 +4712,20 @@
         "confirmed": "2020-03-13",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "American (Singapore Work Pass Holder)",
+        "residenceArea": "Tanjong Pagar Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.965361, 1.356557]
+        "coordinates": [
+          103.965361,
+          1.356557
+        ]
       },
       "properties": {
         "id": "case-205",
@@ -3073,14 +4733,23 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Filipino (Singapore Long Term Visit Pass Holder)",
+        "residenceArea": "Flora Drive.",
+        "placesVisited": [
+          "Philippines",
+          "DNATA Cargo (45 Airport Cargo Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.882944, 1.343233]
+        "coordinates": [
+          103.882944,
+          1.343233
+        ]
       },
       "properties": {
         "id": "case-206",
@@ -3088,14 +4757,22 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "New Zeland (Singapore Long Term Visit Pass Holder)",
+        "residenceArea": "Upper Paya Lebar Road",
+        "placesVisited": [
+          "USA"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.838047, 1.427005]
+        "coordinates": [
+          103.838047,
+          1.427005
+        ]
       },
       "properties": {
         "id": "case-207",
@@ -3103,14 +4780,22 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Yishun Central.",
+        "placesVisited": [
+          "UK"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.824743, 1.286571]
+        "coordinates": [
+          103.824743,
+          1.286571
+        ]
       },
       "properties": {
         "id": "case-208",
@@ -3118,14 +4803,22 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Tiong Bahru Road",
+        "placesVisited": [
+          "SGH"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.868362, 1.351793]
+        "coordinates": [
+          103.868362,
+          1.351793
+        ]
       },
       "properties": {
         "id": "case-209",
@@ -3133,14 +4826,23 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Serangoon Avenue 3.",
+        "placesVisited": [
+          "USA",
+          "SGH"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.796034, 1.316306]
+        "coordinates": [
+          103.796034,
+          1.316306
+        ]
       },
       "properties": {
         "id": "case-210",
@@ -3148,14 +4850,23 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "German (Singapore Long Term Visit Pass Holder)",
+        "residenceArea": "Leedon Park",
+        "placesVisited": [
+          "Germany",
+          "Switzerland"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.862468, 1.305071]
+        "coordinates": [
+          103.862468,
+          1.305071
+        ]
       },
       "properties": {
         "id": "case-211",
@@ -3163,14 +4874,20 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Filipino (Singapore Long Term Visit Pass Holder)",
+        "residenceArea": "Crawford Lane",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.845632, 1.326226]
+        "coordinates": [
+          103.845632,
+          1.326226
+        ]
       },
       "properties": {
         "id": "case-212",
@@ -3178,14 +4895,22 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392"
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
+        "nationality": "Indonesian",
+        "residenceArea": "Ibis Hotel Novena (6 Irrawaddy Road)",
+        "placesVisited": [
+          "Mount Elizabeth Hospital"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.871545, 1.373000]
+        "coordinates": [
+          103.871545,
+          1.373
+        ]
       },
       "properties": {
         "id": "case-213",
@@ -3193,14 +4918,22 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Serangoon North Avenue 3.",
+        "placesVisited": [
+          "Indonesia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.695648, 1.342635]
+        "coordinates": [
+          103.695648,
+          1.342635
+        ]
       },
       "properties": {
         "id": "case-214",
@@ -3208,14 +4941,23 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Jurong West Street 71.",
+        "placesVisited": [
+          "Youth Go! (403 Fajar Road)",
+          "Project 180 @ Simei (145 Simei Street 2) and Singapore University of Social Sciences (463 Clementi Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.804098, 1.293372]
+        "coordinates": [
+          103.804098,
+          1.293372
+        ]
       },
       "properties": {
         "id": "case-215",
@@ -3223,14 +4965,23 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Mei Ling Street",
+        "placesVisited": [
+          "Thailand",
+          "Cash Box (1 Jurong West Central 2)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.742881, 1.353495]
+        "coordinates": [
+          103.742881,
+          1.353495
+        ]
       },
       "properties": {
         "id": "case-216",
@@ -3238,14 +4989,24 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Bukit Batok West Avenue 6.",
+        "placesVisited": [
+          "Germany",
+          "Czech Republic",
+          "SAP Asia (30 Pasir Panjang Road)"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.846603, 1.301193]
+        "coordinates": [
+          103.846603,
+          1.301193
+        ]
       },
       "properties": {
         "id": "case-217",
@@ -3253,14 +5014,20 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Spanish (Singapore Long Term Pass Holder)",
+        "residenceArea": "Mount Sophia",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.771130, 1.376271]
+        "coordinates": [
+          103.77113,
+          1.376271
+        ]
       },
       "properties": {
         "id": "case-218",
@@ -3268,14 +5035,20 @@
         "confirmed": "2020-03-14",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "Pending Road",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.845233, 1.357388]
+        "coordinates": [
+          103.845233,
+          1.357388
+        ]
       },
       "properties": {
         "id": "case-219",
@@ -3283,14 +5056,20 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.784831, 1.304553]
+        "coordinates": [
+          103.784831,
+          1.304553
+        ]
       },
       "properties": {
         "id": "case-220",
@@ -3298,14 +5077,22 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Permanent Resident",
+        "residenceArea": "",
+        "placesVisited": [
+          "France"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.843478, 1.276801]
+        "coordinates": [
+          103.843478,
+          1.276801
+        ]
       },
       "properties": {
         "id": "case-221",
@@ -3313,14 +5100,22 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
+        "residenceArea": "",
+        "placesVisited": [
+          "MY World Preschool Ltd (52 Lengkok Bahru)."
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.866442, 1.366740]
+        "coordinates": [
+          103.866442,
+          1.36674
+        ]
       },
       "properties": {
         "id": "case-222",
@@ -3328,14 +5123,25 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "French (Singapore Work Pass Holder)",
+        "residenceArea": "",
+        "placesVisited": [
+          "France",
+          "Spain",
+          "Philippines",
+          ""
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.861073, 1.365640]
+        "coordinates": [
+          103.861073,
+          1.36564
+        ]
       },
       "properties": {
         "id": "case-223",
@@ -3343,14 +5149,23 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": [
+          "USA",
+          "Australia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.761516, 1.386716]
+        "coordinates": [
+          103.761516,
+          1.386716
+        ]
       },
       "properties": {
         "id": "case-224",
@@ -3358,14 +5173,22 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": [
+          "Malaysia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.841402, 1.316543]
+        "coordinates": [
+          103.841402,
+          1.316543
+        ]
       },
       "properties": {
         "id": "case-225",
@@ -3373,14 +5196,22 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Singapore Citizen",
+        "residenceArea": "",
+        "placesVisited": [
+          "Indonesia"
+        ]
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.795330, 1.330974]
+        "coordinates": [
+          103.79533,
+          1.330974
+        ]
       },
       "properties": {
         "id": "case-226",
@@ -3388,14 +5219,20 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
+        "nationality": "Dutch",
+        "residenceArea": "",
+        "placesVisited": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.784607, 1.281088]
+        "coordinates": [
+          103.784607,
+          1.281088
+        ]
       },
       "properties": {
         "id": "case-227",
@@ -3410,7 +5247,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.952747, 1.337383]
+        "coordinates": [
+          103.952747,
+          1.337383
+        ]
       },
       "properties": {
         "id": "case-228",
@@ -3425,7 +5265,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.853668, 1.325238]
+        "coordinates": [
+          103.853668,
+          1.325238
+        ]
       },
       "properties": {
         "id": "case-229",
@@ -3440,7 +5283,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.830870, 1.316632]
+        "coordinates": [
+          103.83087,
+          1.316632
+        ]
       },
       "properties": {
         "id": "case-230",
@@ -3455,7 +5301,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.837508, 1.291656]
+        "coordinates": [
+          103.837508,
+          1.291656
+        ]
       },
       "properties": {
         "id": "case-231",
@@ -3470,7 +5319,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.837559, 1.291785]
+        "coordinates": [
+          103.837559,
+          1.291785
+        ]
       },
       "properties": {
         "id": "case-232",
@@ -3485,7 +5337,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322122]
+        "coordinates": [
+          103.847238,
+          1.322122
+        ]
       },
       "properties": {
         "id": "case-233",
@@ -3500,7 +5355,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.835885, 1.279625]
+        "coordinates": [
+          103.835885,
+          1.279625
+        ]
       },
       "properties": {
         "id": "case-234",
@@ -3515,7 +5373,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.835885, 1.279625]
+        "coordinates": [
+          103.835885,
+          1.279625
+        ]
       },
       "properties": {
         "id": "case-235",
@@ -3530,7 +5391,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322122]
+        "coordinates": [
+          103.847238,
+          1.322122
+        ]
       },
       "properties": {
         "id": "case-236",
@@ -3545,7 +5409,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322122]
+        "coordinates": [
+          103.847238,
+          1.322122
+        ]
       },
       "properties": {
         "id": "case-237",
@@ -3560,7 +5427,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322122]
+        "coordinates": [
+          103.847238,
+          1.322122
+        ]
       },
       "properties": {
         "id": "case-238",
@@ -3575,7 +5445,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322122]
+        "coordinates": [
+          103.847238,
+          1.322122
+        ]
       },
       "properties": {
         "id": "case-239",
@@ -3590,7 +5463,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.783173, 1.293735]
+        "coordinates": [
+          103.783173,
+          1.293735
+        ]
       },
       "properties": {
         "id": "case-240",
@@ -3605,7 +5481,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322122]
+        "coordinates": [
+          103.847238,
+          1.322122
+        ]
       },
       "properties": {
         "id": "case-241",
@@ -3620,7 +5499,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322122]
+        "coordinates": [
+          103.847238,
+          1.322122
+        ]
       },
       "properties": {
         "id": "case-242",
@@ -3635,7 +5517,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [103.847238, 1.322122]
+        "coordinates": [
+          103.847238,
+          1.322122
+        ]
       },
       "properties": {
         "id": "case-243",
