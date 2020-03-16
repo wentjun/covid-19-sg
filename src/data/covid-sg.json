@@ -90,7 +90,7 @@
         "confirmed": "2020-01-25",
         "discharged": "2020-02-12",
         "hospital": "Sengkang General Hospital",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/fourth-confirmed-imported-case-of-wuhan-coronavirus-infection-in-singapore",
         "nationality": "Chinese",
         "residenceAreas": [
           "Village Hotel Sentosa"
@@ -116,7 +116,7 @@
         "confirmed": "2020-01-27",
         "discharged": "2020-02-18",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/fifth-confirmed-imported-case-of-wuhan-coronavirus-infection-in-singapore-27Jan",
         "nationality": "Chinese",
         "residenceAreas": [
           "Ceylon Road"
@@ -141,7 +141,7 @@
         "confirmed": "2020-01-27",
         "discharged": "2020-02-20",
         "hospital": "Changi General Hospital",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore",
         "nationality": "Chinese",
         "residenceAreas": [
           "Pasir Ris Grove"
@@ -164,7 +164,7 @@
         "confirmed": "2020-01-27",
         "discharged": "2020-02-04",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore",
         "nationality": "Chinese",
         "residenceAreas": [
           "Marina Bay Sands (10 Bayfront Avenue)"
@@ -847,7 +847,7 @@
         "confirmed": "2020-02-07",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Henderson Crescent"
@@ -902,7 +902,7 @@
         "confirmed": "2020-02-07",
         "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Jurong East Street 32"
@@ -927,7 +927,7 @@
         "confirmed": "2020-02-08",
         "discharged": "2020-02-18",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Choa Chu Kang Avenue 3"
@@ -1006,7 +1006,7 @@
         "confirmed": "2020-02-08",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/four-more-cases-discharged-three-new-confirmed-cases-of-novel-coronavirus-infection",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Upper Serangoon Road"
@@ -1035,7 +1035,7 @@
         "confirmed": "2020-02-08",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/four-more-cases-discharged-three-new-confirmed-cases-of-novel-coronavirus-infection",
         "nationality": "Bangladesh (Singapore Work Pass Holder)",
         "residenceAreas": [
           "The Leo Dormitory (25 Kaki Bukit Road)"
@@ -1063,7 +1063,7 @@
         "confirmed": "2020-02-08",
         "discharged": "2020-03-07",
         "hospital": "Sengkang General Hospital",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/four-more-cases-discharged-three-new-confirmed-cases-of-novel-coronavirus-infection",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Fernvale Close"
@@ -1115,7 +1115,7 @@
         "confirmed": "2020-02-10",
         "discharged": "2020-02-14",
         "hospital": "KK Women’s and Children’s Hospital",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed-10feb",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": []
@@ -1294,7 +1294,7 @@
         "confirmed": "2020-02-12",
         "discharged": "2020-02-28",
         "hospital": "Tan Tock Seng Hospital",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
         "nationality": "Bangladesh (Singapore Work Pass Holder)",
         "residenceAreas": [
           "Campbell Lane"
@@ -1320,7 +1320,7 @@
         "confirmed": "2020-02-12",
         "discharged": "2020-03-14",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Hillview Avenue"
@@ -1346,7 +1346,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-03-01",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Ang Mo Kio Avenue 5"
@@ -1371,7 +1371,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-19",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Mei Hwan Drive"
@@ -1397,7 +1397,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
         "nationality": "Bangladesh (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
@@ -1422,7 +1422,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Senja Road"
@@ -1448,7 +1448,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-25",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Jalan Kelichap"
@@ -1474,7 +1474,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Wilkinson Road"
@@ -1500,7 +1500,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-03-01",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Ang Mo Kio Ave 3"
@@ -1525,7 +1525,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-03-04",
         "hospital": "National University Hospital",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Jurong West Street 64"
@@ -1552,7 +1552,7 @@
         "confirmed": "2020-02-13",
         "discharged": "2020-02-25",
         "hospital": "Singapore General Hospital",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Tanjong Pagar Road"
@@ -1575,7 +1575,7 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-21",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Potong Pasir Avenue 3"
@@ -1601,7 +1601,7 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-02-23",
         "hospital": "National University Hospital",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Jurong West Street 81"
@@ -1677,7 +1677,7 @@
         "confirmed": "2020-02-14",
         "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "",
+        "source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
           "Jurong West Street 64"

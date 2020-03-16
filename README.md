@@ -15,13 +15,16 @@ Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, 
 
 | fields        | description           |
 | ------------- |:-------------|
-| geometry.coordinates     | coordinates of the area of residence (other fallback values might include locations such as workplace, if the former is not made available) |
-| properties.id      | unique ID of each case (for internal use)      |
-| properties.title | Alias for each case from official sources      |    
-| properties.confirmed | Date  of confirmed diagnosis    |   
-| properties.discharged | Date of recovery/discharge     |   
-| properties.hospital | Location of hospitalisation      |    
-| properties.source | news source (incomplete)     |  
+| geometry.coordinates     | coordinates of the place of residence (other fallback values might include locations such as workplace, if the former is not made available) |
+| properties.id      | unique ID of each case (for internal use) |
+| properties.title | Alias for each case from official sources |    
+| properties.confirmed | Date of confirmed diagnosis |   
+| properties.discharged | Date of recovery/discharge |   
+| properties.hospital | Location of hospitalisation     
+| properties.source | news source URL |  
+| properties.nationality | Nationality/Residency of the individual |  
+| properties.residenceAreas | List of places of residence |  
+| properties.placesVisited | List of places visited by the individual |  
 
 - `locations.json` (in GEOJSON `FeatureCollection` format) consists of meta data of transmission clusters and other notable COVID-19 locations (hotspots, hospitals etc) in Singapore.
 
