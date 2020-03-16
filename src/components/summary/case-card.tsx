@@ -50,6 +50,9 @@ export const CaseCard: React.FC<CaseCardProps> = (props) => {
             discharged={selectedCase.properties.discharged}
             hospital={selectedCase.properties.hospital}
             source={selectedCase.properties.source}
+            residenceAreas={selectedCase.properties.residenceAreas}
+            placesVisited={selectedCase.properties.placesVisited}
+            nationality={selectedCase.properties.nationality}
           />
           : selectedCluster && <ClusterContent
             location={selectedCluster.properties.location}

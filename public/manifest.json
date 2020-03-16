@@ -31,6 +31,11 @@
       "src": "bacteria-256.png",
       "type": "image/png",
       "sizes": "256x256"
+    },
+    {
+      "src": "bacteria-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
