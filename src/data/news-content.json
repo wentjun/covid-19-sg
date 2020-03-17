@@ -1,5 +1,97 @@
 [
   {
+    "patient": "Case 244",
+    "content": "<li>Case 244 is an imported case involving a 53 year-old male Singapore Citizen who had been in Germany from 26 February to 29 February, Italy from 29 February to 7 March, and Switzerland from 7 March to 14 March. He is linked to Case 243.</li>"
+  },
+  {
+    "patient": "Case 245",
+    "content": "<li>Case 245 is a 76 year-old male Singaporean Citizen with no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 246",
+    "content": "<li>Case 246 is an imported case involving a 39 year-old male Canadian national who had been in Japan from 23 February to 7 March.</li>"
+  },
+  {
+    "patient": "Case 247",
+    "content": "<li>Case 247 is an imported case involving a 41 year-old male Singapore Citizen who had been in the United Kingdom from 5 March to 8 March, and again from 10 March to 12 March, and France from 8 March to 10 March.</li>"
+  },
+  {
+    "patient": "Case 248",
+    "content": "<li>Case 248 is a 23 year-old female Malaysian national who is a Singapore Work Pass holder, and had been in Malaysia from 12 March to 13 March.</li>"
+  },
+  {
+    "patient": "Case 249",
+    "content": "<li>Case 249 is an imported case involving a 42 year-old male Singapore Permanent Resident who had been in the United States from 4 March to 16 March.</li>"
+  },
+  {
+    "patient": "Case 250",
+    "content": "<li>Case 250 is an imported case involving a 28 year-old male British national who is a Singapore Work Pass holder, and had been in the United Kingdom and Austria from 28 February to 15 March.</li>"
+  },
+  {
+    "patient": "Case 251",
+    "content": "<li>Case 251 is a 59 year-old female Singapore Citizen with no recent travel history to affected countries and regions. She is a family member of Case 186 .</li>"
+  },
+  {
+    "patient": "Case 252",
+    "content": "<li>Case 252 is a 66 year-old male Singapore Citizen, who had been in Malaysia from 25 February to 29 February.</li>"
+  },
+  {
+    "patient": "Case 253",
+    "content": "<li>Case 253 is an imported case involving a 24 year-old male Singapore Citizen who had been in Spain from 12 February to 16 March.</li>"
+  },
+  {
+    "patient": "Case 254",
+    "content": "<li>Case 254 is an imported case involving a 43 year-old female Singapore Permanent Resident who had been in France from 22 February to 13 March.</li>"
+  },
+  {
+    "patient": "Case 255",
+    "content": "<li>Case 255 is an imported case involving a 44 year-old male Swedish national, who is a Singapore Work Pass holder, and had been in Norway, Denmark and Sweden from 1 March to 9 March.</li>"
+  },
+  {
+    "patient": "Case 256",
+    "content": "<li>Case 256 is a 32 year-old female Filipino national who is a Singapore Work Pass holder, and has no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 257",
+    "content": "<li>Case 257 is a 19 year-old male French national, who is a Singapore Long Term Pass holder, and had been in the United Kingdom from 16 October 2019 to 14 March 2020.</li>"
+  },
+  {
+    "patient": "Case 258",
+    "content": "<li>Case 258 is an imported case involving a 47 year-old male Indian national who had been in Europe from 9 February to 15 March.</li>"
+  },
+  {
+    "patient": "Case 259",
+    "content": "<li>Case 259 is an imported case involving a 30 year-old female Singapore Citizen, who had been in the Philippines from 7 March to 9 March.</li>"
+  },
+  {
+    "patient": "Case 260",
+    "content": "<li>Case 260 is a 48 year-old female Singapore Permanent Resident who has no recent travel history to affected countries and regions.</li>"
+  },
+  {
+    "patient": "Case 261",
+    "content": "<li>Case 261 is an imported case involving a 30 year-old male American national, who had been in the United States from 23 February to 9 March, and France from 9 March to 15 March.</li>"
+  },
+  {
+    "patient": "Case 262",
+    "content": "<li>Case 262 is an imported case involving a 20 year-old female Indonesian national, who had been in the United Kingdom from late January to 16 March.</li>"
+  },
+  {
+    "patient": "Case 263",
+    "content": "<li>Case 263 is an imported case involving a 52 year-old female Singapore Citizen who was in Spain from 6 March to 8 March and again from 9 March to 14 March, and Portugal from 8 March to 9 March.</li>"
+  },
+  {
+    "patient": "Case 264",
+    "content": "<li>Case 264 is an imported case involving a 41 year-old female Indonesian national who arrived in Singapore on 16 March.</li>"
+  },
+  {
+    "patient": "Case 265",
+    "content": "<li>Case 265 is an imported case involving a 25 year-old female Singapore Citizen who had been in the United Kingdom from 6 March to 14 March.</li>"
+  },
+  {
+    "patient": "Case 266",
+    "content": "<li>Case 266 is an imported case involving a 63 year-old male Singapore Citizen who had been in Spain from 6 March to 8 March and again from 9 March to 14 March, and Portugal from 8 March to 9 March.</li>"
+  },
+  {
     "patient": "Case 227",
     "content": "<li>Case 227 is a 53 year-old male Singapore Citizen who had been in France.</li>"
   },
@@ -581,7 +673,7 @@
   },
   {
     "patient": "Case 109",
-    "content": "<li>Case 109 is a 70 year-old male Singapore Citizen who has no recent travel history to affected countries and regions.&#xA0;</li>"
+    "content": "<li>Case 109 is a 70 year-old male Singapore Citizen who has no recent travel history to affected countries and regions.</li>"
   },
   {
     "patient": "Case 107",
@@ -857,7 +949,7 @@
   },
   {
     "patient": "Case 40",
-    "content": "<li>36 year-old male&#xA0;Singapore Citizen</li> <li>No recent travel history to China</li> <li>Had been placed under home quarantine as he works at Yong Thai Hang, and was identified to be a close contact of Cases 19 and 20</li>"
+    "content": "<li>36 year-old maleSingapore Citizen</li> <li>No recent travel history to China</li> <li>Had been placed under home quarantine as he works at Yong Thai Hang, and was identified to be a close contact of Cases 19 and 20</li>"
   },
   {
     "patient": "Case 39",
@@ -913,7 +1005,7 @@
   },
   {
     "patient": "Case 26",
-    "content": "<li>Female Chinese national who arrived in Singapore from Wuhan on 21 Jan</li> <li>Daughter of Case 13, a 73 year-old female Chinese national who arrived in Singapore from Wuhan and subsequently tested positive for the COVID-19&#xA0;infection on 30 Jan</li>"
+    "content": "<li>Female Chinese national who arrived in Singapore from Wuhan on 21 Jan</li> <li>Daughter of Case 13, a 73 year-old female Chinese national who arrived in Singapore from Wuhan and subsequently tested positive for the COVID-19infection on 30 Jan</li>"
   },
   {
     "patient": "Case 25",
