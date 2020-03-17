@@ -3403,7 +3403,7 @@
           "Tanjong Pagar Road"
         ],
         "placesVisited": [
-          "USA",
+          "United States",
           "Italy",
           "Raffles Hospital"
         ]
@@ -3853,7 +3853,7 @@
         ],
         "placesVisited": [
           "Switzerland",
-          "UK"
+          "United Kingdom"
         ]
       }
     },
@@ -4392,7 +4392,7 @@
         ],
         "placesVisited": [
           "Japan",
-          "UK",
+          "United Kingdom",
           "Gleneagles Hospital"
         ]
       }
@@ -4418,8 +4418,8 @@
           "Telok Blangah St 31"
         ],
         "placesVisited": [
-          "US",
-          "UK",
+          "United States",
+          "United Kingdom",
           "France"
         ]
       }
@@ -4857,7 +4857,7 @@
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [
-          "USA",
+          "United States",
           "Canada"
         ]
       }
@@ -5087,7 +5087,7 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Filipino (Singapore Long Term Visit Pass Holder)",
         "residenceAreas": [
-          "Flora Drive."
+          "Flora Drive"
         ],
         "placesVisited": [
           "Philippines",
@@ -5116,7 +5116,7 @@
           "Upper Paya Lebar Road"
         ],
         "placesVisited": [
-          "USA"
+          "United States"
         ]
       }
     },
@@ -5138,10 +5138,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
-          "Yishun Central."
+          "Yishun Central"
         ],
         "placesVisited": [
-          "UK"
+          "United Kingdom"
         ]
       }
     },
@@ -5166,7 +5166,7 @@
           "Tiong Bahru Road"
         ],
         "placesVisited": [
-          "SGH"
+          "Singapore General Hospital"
         ]
       }
     },
@@ -5188,11 +5188,11 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
-          "Serangoon Avenue 3."
+          "Serangoon Avenue 3"
         ],
         "placesVisited": [
-          "USA",
-          "SGH"
+          "United States",
+          "Singapore General Hospital"
         ]
       }
     },
@@ -5288,7 +5288,7 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
-          "Serangoon North Avenue 3."
+          "Serangoon North Avenue 3"
         ],
         "placesVisited": [
           "Indonesia"
@@ -5313,7 +5313,7 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
-          "Jurong West Street 71."
+          "Jurong West Street 71"
         ],
         "placesVisited": [
           "Youth Go! (403 Fajar Road)",
@@ -5365,7 +5365,7 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
-          "Bukit Batok West Avenue 6."
+          "Bukit Batok West Avenue 6"
         ],
         "placesVisited": [
           "Germany",
@@ -5437,8 +5437,14 @@
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceAreas": [],
-        "placesVisited": []
+        "residenceAreas": [
+          "Bishan St 22"
+        ],
+        "placesVisited": [
+          "Sengkang Fire Station",
+          "Meiben Mold Manufacture Pte Ltd (26 Ang Mo Kio Industrial Park 2)",
+          "Furama Riverfront (405\nHavelock Road)"
+        ]
       }
     },
     {
@@ -5458,7 +5464,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Permanent Resident",
-        "residenceAreas": [],
+        "residenceAreas": [
+          "Dover Rise"
+        ],
         "placesVisited": [
           "France"
         ]
@@ -5481,9 +5489,13 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Filipino (Singapore Work Pass Holder)",
-        "residenceAreas": [],
+        "residenceAreas": [
+          "Tanjong Pagar Road"
+        ],
         "placesVisited": [
-          "MY World Preschool Ltd (52 Lengkok Bahru)."
+          "MY World Preschool Ltd (52 Lengkok Bahru)",
+          "Training Masters Workforce Institute (10 Arumugan Road)",
+          "OUE Downtown Gallery (6A Shenton Way)"
         ]
       }
     },
@@ -5504,12 +5516,14 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "French (Singapore Work Pass Holder)",
-        "residenceAreas": [],
+        "residenceAreas": [
+          "Kensington Park Road"
+        ],
         "placesVisited": [
           "France",
           "Spain",
           "Philippines",
-          ""
+          "Airbus Singapore Pte Ltd (12 Seletar Aerospace Link)"
         ]
       }
     },
@@ -5530,9 +5544,11 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceAreas": [],
+        "residenceAreas": [
+          "Serangoon Garden Terrace"
+        ],
         "placesVisited": [
-          "USA",
+          "United States",
           "Australia"
         ]
       }
@@ -5554,7 +5570,9 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceAreas": [],
+        "residenceAreas": [
+          "Senja Road"
+        ],
         "placesVisited": [
           "Malaysia"
         ]
@@ -5577,9 +5595,12 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
-        "residenceAreas": [],
+        "residenceAreas": [
+          "Newton Road"
+        ],
         "placesVisited": [
-          "Indonesia"
+          "Indonesia",
+          "Mount Elizabeth Hospital"
         ]
       }
     },
@@ -5600,8 +5621,13 @@
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Dutch",
-        "residenceAreas": [],
-        "placesVisited": []
+        "residenceAreas": [
+          "Sixth Avenue"
+        ],
+        "placesVisited": [
+          "The Netherlands",
+          "Gleneagles Hospital"
+        ]
       }
     },
     {
@@ -5619,7 +5645,14 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [
+          "Pasir Panjang Road"
+        ],
+        "placesVisited": [
+          "France"
+        ]
       }
     },
     {
@@ -5637,7 +5670,14 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "Changi General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [
+          "Sea Breeze Avenue"
+        ],
+        "placesVisited": [
+          "Bedok Polyclinic"
+        ]
       }
     },
     {
@@ -5655,7 +5695,14 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [
+          "Kim Keat Road"
+        ],
+        "placesVisited": [
+          "Spain"
+        ]
       }
     },
     {
@@ -5673,7 +5720,14 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [
+          "Ewe Boon Road"
+        ],
+        "placesVisited": [
+          "Eastern Europe"
+        ]
       }
     },
     {
@@ -5691,7 +5745,14 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Australian (Singapore Work Pass Holder)",
+        "residenceAreas": [
+          "Robertson Quay"
+        ],
+        "placesVisited": [
+          "United States"
+        ]
       }
     },
     {
@@ -5709,7 +5770,14 @@
         "confirmed": "2020-03-15",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Australian (Singapore Work Pass Holder)",
+        "residenceAreas": [
+          "Robertson Quay"
+        ],
+        "placesVisited": [
+          "United States"
+        ]
       }
     },
     {
@@ -5727,7 +5795,12 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "British (Singapore Long Term Pass)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ]
       }
     },
     {
@@ -5745,7 +5818,10 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": []
       }
     },
     {
@@ -5763,7 +5839,10 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "Singapore General Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": []
       }
     },
     {
@@ -5781,7 +5860,10 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": []
       }
     },
     {
@@ -5799,7 +5881,10 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Indonesian (Singapore Work Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": []
       }
     },
     {
@@ -5817,7 +5902,10 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Belgium",
+        "residenceAreas": [],
+        "placesVisited": []
       }
     },
     {
@@ -5835,7 +5923,12 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "British (Singapore Work Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "France"
+        ]
       }
     },
     {
@@ -5853,7 +5946,12 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National University Hospital",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Spain"
+        ]
       }
     },
     {
@@ -5871,7 +5969,12 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "British (Singapore Work Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "France"
+        ]
       }
     },
     {
@@ -5889,7 +5992,12 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Malaysia"
+        ]
       }
     },
     {
@@ -5907,7 +6015,14 @@
         "confirmed": "2020-03-16",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
-        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378"
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Germany",
+          "Italy",
+          "Switzerland"
+        ]
       }
     }
   ]
