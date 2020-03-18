@@ -8,6 +8,7 @@ export interface PointProperties {
   nationality: string;
   residenceAreas: string[];
   placesVisited: string[];
+  age: number;
 
   // props which are used when adjusting date range
   isDateEndRange?: boolean; // used to determine which point to highlight
