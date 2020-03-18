@@ -21,7 +21,8 @@
         "residenceAreas": [
           "Shangri-La Rasa Sentosa Resort & Spa"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 66
       }
     },
     {
@@ -51,7 +52,8 @@
           "Orchard Road",
           "Marina Bay Sands",
           "Gardens by the Bay"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -72,7 +74,8 @@
         "source": "https://www.straitstimes.com/singapore/health/singapore-confirms-2-more-wuhan-virus-cases-bringing-total-to-three-infected",
         "nationality": "Chinese",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 37
       }
     },
     {
@@ -98,7 +101,8 @@
         "placesVisited": [
           "USS",
           "Vivocity"
-        ]
+        ],
+        "age": 36
       }
     },
     {
@@ -123,7 +127,8 @@
         ],
         "placesVisited": [
           "Tan Tock Seng Hospital"
-        ]
+        ],
+        "age": 56
       }
     },
     {
@@ -146,7 +151,8 @@
         "residenceAreas": [
           "Pasir Ris Grove"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 56
       }
     },
     {
@@ -171,7 +177,8 @@
         ],
         "placesVisited": [
           "Raffles Hospital"
-        ]
+        ],
+        "age": 35
       }
     },
     {
@@ -197,7 +204,8 @@
         "placesVisited": [
           "Tan Tock Seng Hospital",
           "The Life Church and Missions Singapore (146B Paya Lebar Road)"
-        ]
+        ],
+        "age": 56
       }
     },
     {
@@ -223,7 +231,8 @@
         "placesVisited": [
           "Tan Tock Seng Hospital",
           "The Life Church and Missions Singapore (146B Paya Lebar Road)"
-        ]
+        ],
+        "age": 56
       }
     },
     {
@@ -246,7 +255,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Marina South Pier"
-        ]
+        ],
+        "age": 56
       }
     },
     {
@@ -267,7 +277,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838",
         "nationality": "Chinese",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 31
       }
     },
     {
@@ -295,7 +306,8 @@
           "Orchard Road",
           "Geylang",
           "Tan Tock Seng Hospital"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -322,7 +334,8 @@
         "placesVisited": [
           "Changi Airport",
           "Jewel"
-        ]
+        ],
+        "age": 73
       }
     },
     {
@@ -345,7 +358,8 @@
         "residenceAreas": [
           "Jurong East Street 13"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 31
       }
     },
     {
@@ -366,7 +380,8 @@
         "source": "https://www.straitstimes.com/singapore/health/wuhan-virus-first-singaporean-confirmed-to-have-virus-she-was-on-scoot-flight-from",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 47
       }
     },
     {
@@ -391,7 +406,8 @@
         ],
         "placesVisited": [
           "Singapore General Hospital"
-        ]
+        ],
+        "age": 38
       }
     },
     {
@@ -412,7 +428,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-2-new-imported-cases-no-evidence-of-community-spread-12379384",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 47
       }
     },
     {
@@ -435,7 +452,8 @@
         "residenceAreas": [
           "Home Suite View Hotel (12 Lorong 12 Geylang)"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 31
       }
     },
     {
@@ -461,7 +479,8 @@
         "placesVisited": [
           "Yong Thai Hang (24 Cavan Road)",
           "Tan Tock Seng Hospital Emergency Department"
-        ]
+        ],
+        "age": 28
       }
     },
     {
@@ -486,7 +505,8 @@
         ],
         "placesVisited": [
           "Yong Thai Hang (24 Cavan Road)"
-        ]
+        ],
+        "age": 48
       }
     },
     {
@@ -509,7 +529,8 @@
         "residenceAreas": [
           "Jalan Bukit Merah"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 44
       }
     },
     {
@@ -530,7 +551,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 41
       }
     },
     {
@@ -551,7 +573,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 17
       }
     },
     {
@@ -578,7 +601,8 @@
           "Yong Thai Hang 24 Cavan Road",
           "Hougang Polyclinic",
           "Jalan Besar"
-        ]
+        ],
+        "age": 32
       }
     },
     {
@@ -605,7 +629,8 @@
           "Hougang Polyclinic",
           "Diamond Industries Jewellery Company (Harbour Drive)",
           "Pasir Panjang Hawker Centre"
-        ]
+        ],
+        "age": 40
       }
     },
     {
@@ -626,7 +651,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-number-cases-12395928",
         "nationality": "Chinese",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 42
       }
     },
     {
@@ -653,7 +679,8 @@
           "Tiong Bahru Plaza",
           "Tiong Bahru Market",
           "Beo Crescent Market and Food Centre"
-        ]
+        ],
+        "age": 45
       }
     },
     {
@@ -676,7 +703,8 @@
         "residenceAreas": [
           "Jalan Bukit Merah"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 0
       }
     },
     {
@@ -699,7 +727,8 @@
         "residenceAreas": [
           "Mount Elizabeth Novena Hospital"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 41
       }
     },
     {
@@ -726,7 +755,8 @@
           "Far East Square (19 China Street)",
           "Junction 8 (9 Bishan Place)",
           "Grand Hyatt Singapore"
-        ]
+        ],
+        "age": 27
       }
     },
     {
@@ -752,7 +782,8 @@
         "placesVisited": [
           "Malaysia",
           "The Life Church and Missions Singapore (146B Paya Lebar Road)"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -780,7 +811,8 @@
           "Parkway East Hospital",
           "Changi Airport",
           "Singapore Zoo"
-        ]
+        ],
+        "age": 42
       }
     },
     {
@@ -804,7 +836,8 @@
         "placesVisited": [
           "Malaysia",
           "Sengkang General Hospital Emergency Department"
-        ]
+        ],
+        "age": 39
       }
     },
     {
@@ -829,7 +862,8 @@
         ],
         "placesVisited": [
           "Yong Thai Hang"
-        ]
+        ],
+        "age": 40
       }
     },
     {
@@ -856,7 +890,8 @@
           "Redhill Market",
           "Hawker centre at Bukit Merah",
           "Bukit Merah Polyclinic"
-        ]
+        ],
+        "age": 64
       }
     },
     {
@@ -884,7 +919,8 @@
           "KK Women's and Children's Hospital (KKH)",
           "Grand Hyatt Singapore",
           "Ng Teng Fong General Hospital (NTFGH)"
-        ]
+        ],
+        "age": 38
       }
     },
     {
@@ -909,7 +945,8 @@
         ],
         "placesVisited": [
           "Ng Teng Fong General Hospital (NTFGH)"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -937,7 +974,8 @@
           "The Life Church and Missions Singapore",
           "Marina Bay Sands",
           "Chinatown and Plaza Singapura"
-        ]
+        ],
+        "age": 52
       }
     },
     {
@@ -963,7 +1001,8 @@
         "placesVisited": [
           "Malaysia",
           "Grand Hyatt Singapore"
-        ]
+        ],
+        "age": 51
       }
     },
     {
@@ -988,7 +1027,8 @@
         ],
         "placesVisited": [
           "Yong Thai Hang"
-        ]
+        ],
+        "age": 36
       }
     },
     {
@@ -1017,7 +1057,8 @@
           "Paya Lebar Methodist Church (5 Boundary Road)",
           "Braddell Heights Residents' Committee",
           "Pat's Schoolhouse Kovan (755 Upper Serangoon Road)"
-        ]
+        ],
+        "age": 71
       }
     },
     {
@@ -1045,7 +1086,8 @@
           "Bedok Polyclinic",
           "Mustafa Centre (145 Syed Alwi Road)",
           "8 Seletar Aerospace Heights"
-        ]
+        ],
+        "age": 39
       }
     },
     {
@@ -1071,7 +1113,8 @@
         "placesVisited": [
           "Malaysia",
           "Resorts World Sentosa"
-        ]
+        ],
+        "age": 54
       }
     },
     {
@@ -1097,7 +1140,8 @@
         "placesVisited": [
           "Certis Cisco Centre (20 Jalan Afifi)",
           "Chingay 2020"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -1118,7 +1162,8 @@
         "source": "https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed-10feb",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 2
       }
     },
     {
@@ -1144,7 +1189,8 @@
         "placesVisited": [
           "Resort World Sentosa Casino (8 Sentosa Gateway)",
           "Tan Tock Seng Hospital"
-        ]
+        ],
+        "age": 35
       }
     },
     {
@@ -1169,7 +1215,8 @@
         ],
         "placesVisited": [
           "8 Seletar Aerospace Heights"
-        ]
+        ],
+        "age": 39
       }
     },
     {
@@ -1199,7 +1246,8 @@
           "Fusionopolis (1 Fusionopolis Place)",
           "Grace Assembly of God (Tanglin) (355 Tanglin Road)",
           "Grace Assembly of God (Bukit Batok) (1 Bukit Batok West Avenue 4)"
-        ]
+        ],
+        "age": 34
       }
     },
     {
@@ -1225,7 +1273,8 @@
         "placesVisited": [
           "Grace Assembly of God (Tanglin)",
           "Grace Assembly of God (Bukit Batok)"
-        ]
+        ],
+        "age": 46
       }
     },
     {
@@ -1250,7 +1299,8 @@
         ],
         "placesVisited": [
           "DBS Asia Central at Marina Bay Financial Centre (12 Marina Boulevard)"
-        ]
+        ],
+        "age": 62
       }
     },
     {
@@ -1276,7 +1326,8 @@
         "placesVisited": [
           "Grace Assembly of God (Tanglin)",
           "Grace Assembly of God (Bukit Batok)"
-        ]
+        ],
+        "age": 48
       }
     },
     {
@@ -1302,7 +1353,8 @@
         "placesVisited": [
           "8 Seletar Aerospace Heights",
           "Tan Tock Seng Hospital"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -1328,7 +1380,8 @@
         "placesVisited": [
           "Grace Assembly of God",
           "National University of Singapore"
-        ]
+        ],
+        "age": 54
       }
     },
     {
@@ -1353,7 +1406,8 @@
         ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin) (355 Tanglin Road)"
-        ]
+        ],
+        "age": 55
       }
     },
     {
@@ -1379,7 +1433,8 @@
         "placesVisited": [
           "Pulau Bukom",
           "Church of Christ the King (2221 Ang Mo Kio Avenue 8)"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -1404,7 +1459,8 @@
           "Seletar Aerospace Heights Construction Site",
           "Tan Tock Seng Hospital",
           "Government quarantine facility"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -1430,7 +1486,8 @@
         "placesVisited": [
           "Grace Assembly of God (Tanglin)",
           "Grace Assembly of God (Bukit Batok)"
-        ]
+        ],
+        "age": 26
       }
     },
     {
@@ -1456,7 +1513,8 @@
         "placesVisited": [
           "Grace Assembly of God (Tanglin)",
           "Grace Assembly of God (Bukit Batok)"
-        ]
+        ],
+        "age": 55
       }
     },
     {
@@ -1482,7 +1540,8 @@
         "placesVisited": [
           "Farrer Park Hospital Emergency Care Clinic",
           "Mount Elizabeth Hospital Emergency Department"
-        ]
+        ],
+        "age": 61
       }
     },
     {
@@ -1507,7 +1566,8 @@
         ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin)"
-        ]
+        ],
+        "age": 51
       }
     },
     {
@@ -1534,7 +1594,8 @@
           "Ng Teng Fong General Hospital",
           "Pioneer Polyclinic",
           "Legacy Office Supplies Pte Ltd (56 Senang Crescent)"
-        ]
+        ],
+        "age": 57
       }
     },
     {
@@ -1557,7 +1618,8 @@
         "residenceAreas": [
           "Tanjong Pagar Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 44
       }
     },
     {
@@ -1583,7 +1645,8 @@
         "placesVisited": [
           "PUB",
           "Marisson Hotel Bugis (103 Beach Road)"
-        ]
+        ],
+        "age": 54
       }
     },
     {
@@ -1608,7 +1671,8 @@
         ],
         "placesVisited": [
           "Taxi Driver"
-        ]
+        ],
+        "age": 50
       }
     },
     {
@@ -1633,7 +1697,8 @@
         ],
         "placesVisited": [
           "Church of Christ the King (2221 Ang Mo Kio Avenue 8)"
-        ]
+        ],
+        "age": 61
       }
     },
     {
@@ -1659,7 +1724,8 @@
         "placesVisited": [
           "Grace Assembly of God",
           "God's Kingdom Bread of Life Church (37 Jalan Pemimpin)"
-        ]
+        ],
+        "age": 28
       }
     },
     {
@@ -1686,7 +1752,8 @@
           "Grace Assembly of God (Bukit Batok)",
           "Ng Teng Fong General Hospital",
           "NUH"
-        ]
+        ],
+        "age": 56
       }
     },
     {
@@ -1711,7 +1778,8 @@
         ],
         "placesVisited": [
           "Bethany Presbyterian Church (344A Paya Lebar Road)"
-        ]
+        ],
+        "age": 79
       }
     },
     {
@@ -1734,7 +1802,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Government quarantine facility"
-        ]
+        ],
+        "age": 26
       }
     },
     {
@@ -1760,7 +1829,8 @@
         "placesVisited": [
           "God's Kingdom Bread of Life Church (37 Jalan Pemimpin)",
           "HipVan Singapore (19 Kallang Avenue)"
-        ]
+        ],
+        "age": 27
       }
     },
     {
@@ -1786,7 +1856,8 @@
         "placesVisited": [
           "Fernvale Lane",
           "God's Kingdom Bread of Life (37 Jalan Pemimpin)"
-        ]
+        ],
+        "age": 25
       }
     },
     {
@@ -1812,7 +1883,8 @@
         "placesVisited": [
           "Marina Bay Sands Casino (10 Bayfront Avenue)",
           "Aim Heng Car Services Pte Ltd (Woodlands Industrial Park)"
-        ]
+        ],
+        "age": 40
       }
     },
     {
@@ -1837,7 +1909,8 @@
         ],
         "placesVisited": [
           "Grace Assembly of God (Tanglin) (355 Tanglin Road)"
-        ]
+        ],
+        "age": 43
       }
     },
     {
@@ -1863,7 +1936,8 @@
         "placesVisited": [
           "Alexandra Hospital Urgent Care Centre",
           "Hi-Yew Technology Pte Ltd (3031A Ubi Road)"
-        ]
+        ],
+        "age": 29
       }
     },
     {
@@ -1884,7 +1958,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-new-cases-rsaf-serviceman-grace-assembly-god-12439772",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 71
       }
     },
     {
@@ -1905,7 +1980,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-update-feb-17-12441176",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 1
       }
     },
     {
@@ -1930,7 +2006,8 @@
         ],
         "placesVisited": [
           "Tan Tock Seng Hospital"
-        ]
+        ],
+        "age": 35
       }
     },
     {
@@ -1955,7 +2032,8 @@
         ],
         "placesVisited": [
           "VWO-run Community Hospital"
-        ]
+        ],
+        "age": 57
       }
     },
     {
@@ -1980,7 +2058,8 @@
         ],
         "placesVisited": [
           "FoodXchange@Admiralty (8A Admiralty Street)"
-        ]
+        ],
+        "age": 35
       }
     },
     {
@@ -2005,7 +2084,8 @@
         ],
         "placesVisited": [
           "National University Hospital"
-        ]
+        ],
+        "age": 38
       }
     },
     {
@@ -2028,7 +2108,8 @@
         "residenceAreas": [
           "Lower Delta Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 50
       }
     },
     {
@@ -2054,7 +2135,8 @@
         "placesVisited": [
           "Ng Teng Fong General Hospital",
           "Jurong Polyclinic"
-        ]
+        ],
+        "age": 57
       }
     },
     {
@@ -2080,7 +2162,8 @@
         "placesVisited": [
           "Philemon Singapore Pte Ltd (16 Kallang Place)",
           "Malaysia"
-        ]
+        ],
+        "age": 54
       }
     },
     {
@@ -2106,7 +2189,8 @@
         "placesVisited": [
           "Lonza Biologics (35 Tuas South Avenue 6)",
           "Bugis Junction"
-        ]
+        ],
+        "age": 35
       }
     },
     {
@@ -2131,7 +2215,8 @@
         ],
         "placesVisited": [
           "Khoo Teck Puat Hospital"
-        ]
+        ],
+        "age": 36
       }
     },
     {
@@ -2154,7 +2239,8 @@
         "residenceAreas": [
           "Bukit Batok East Avenue 5"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 24
       }
     },
     {
@@ -2175,7 +2261,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-singapore-update-feb-22-12460526",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 32
       }
     },
     {
@@ -2198,7 +2285,8 @@
         "residenceAreas": [
           "Hougang St 91"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 30
       }
     },
     {
@@ -2224,7 +2312,8 @@
         "placesVisited": [
           "Affinity Equity Partners (8 Temasek Boulevard)",
           "Bishan Community Club (51 Bishan St 13)"
-        ]
+        ],
+        "age": 41
       }
     },
     {
@@ -2249,7 +2338,8 @@
         ],
         "placesVisited": [
           "Tan Tock Seng Hospital"
-        ]
+        ],
+        "age": 75
       }
     },
     {
@@ -2272,7 +2362,8 @@
         "residenceAreas": [
           "Rivervale Drive"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 58
       }
     },
     {
@@ -2295,7 +2386,8 @@
         "residenceAreas": [
           "Serangoon Ave 3"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 47
       }
     },
     {
@@ -2318,7 +2410,8 @@
         "residenceAreas": [
           "Bukit Batok Street 31"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 38
       }
     },
     {
@@ -2341,7 +2434,8 @@
         "residenceAreas": [
           "Jalan Jurong Kechil"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 64
       }
     },
     {
@@ -2369,7 +2463,8 @@
           "Singapore Aviation Academy (1 Aviation Drive)",
           "Toa Payoh Hub (490 Lorong 6 Toa Payoh)",
           "Toa Payoh Sport Centre (297 Lorong 6 Toa Payoh)"
-        ]
+        ],
+        "age": 44
       }
     },
     {
@@ -2394,7 +2489,8 @@
         ],
         "placesVisited": [
           "Raffles Institution"
-        ]
+        ],
+        "age": 12
       }
     },
     {
@@ -2420,7 +2516,8 @@
         "placesVisited": [
           "Wizlearn Technologies Pte Ltd",
           "Agency for Integrated Care (5 Maxwell Road)"
-        ]
+        ],
+        "age": 44
       }
     },
     {
@@ -2443,7 +2540,8 @@
         "residenceAreas": [
           "Jurong West St 61"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 24
       }
     },
     {
@@ -2468,7 +2566,8 @@
         ],
         "placesVisited": [
           "Pioneer Polyclinic"
-        ]
+        ],
+        "age": 27
       }
     },
     {
@@ -2491,7 +2590,8 @@
         "residenceAreas": [
           "Holland Ave"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 20
       }
     },
     {
@@ -2518,7 +2618,8 @@
           "Batam",
           "Asia Asset Recovery Pte Ltd (2019 Bukit Batok Industrial Park A)",
           "Eye Clinic @ NTFGH"
-        ]
+        ],
+        "age": 61
       }
     },
     {
@@ -2543,7 +2644,8 @@
         ],
         "placesVisited": [
           "Eye Clinic @ NTFGH"
-        ]
+        ],
+        "age": 41
       }
     },
     {
@@ -2569,7 +2671,8 @@
         "placesVisited": [
           "Batam",
           "Asia Asset Recovery Pte Ltd (2019 Bukit Batok Industrial Park A)"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -2594,7 +2697,8 @@
         ],
         "placesVisited": [
           "Batam"
-        ]
+        ],
+        "age": 25
       }
     },
     {
@@ -2619,7 +2723,8 @@
         ],
         "placesVisited": [
           "Toa Payoh Hub (490 Lor 6 Toa Payoh)"
-        ]
+        ],
+        "age": 49
       }
     },
     {
@@ -2644,7 +2749,8 @@
         ],
         "placesVisited": [
           "WinTech Nano-Technology Services Pte Ltd (10 Science Park Road)"
-        ]
+        ],
+        "age": 54
       }
     },
     {
@@ -2670,7 +2776,8 @@
         "placesVisited": [
           "Jakarta (Indonesia)",
           "Tan Tock Seng Hospital"
-        ]
+        ],
+        "age": 68
       }
     },
     {
@@ -2693,7 +2800,8 @@
         "residenceAreas": [
           "Bukit Batok St 24"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 34
       }
     },
     {
@@ -2718,7 +2826,8 @@
         ],
         "placesVisited": [
           "Fish Market Sakuraya (154 West Coast Road)"
-        ]
+        ],
+        "age": 70
       }
     },
     {
@@ -2743,7 +2852,8 @@
         ],
         "placesVisited": [
           "Wizlearn Technologies Pte Ltd"
-        ]
+        ],
+        "age": 33
       }
     },
     {
@@ -2769,7 +2879,8 @@
         "placesVisited": [
           "Malaysia",
           "Sengkang General Hospital"
-        ]
+        ],
+        "age": 43
       }
     },
     {
@@ -2793,7 +2904,8 @@
         "placesVisited": [
           "Creative O Preschoolers' Bay (31 International Business Park)",
           "Bukit Batok Polyclinic"
-        ]
+        ],
+        "age": 62
       }
     },
     {
@@ -2822,7 +2934,8 @@
           "UK",
           "Istanbul",
           "Gleneagles Hospital"
-        ]
+        ],
+        "age": 42
       }
     },
     {
@@ -2845,7 +2958,8 @@
         "residenceAreas": [
           "Westwood Avenue Area"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 62
       }
     },
     {
@@ -2871,7 +2985,8 @@
         "placesVisited": [
           "SAFRA Jurong",
           "Pioneer Polyclinic"
-        ]
+        ],
+        "age": 62
       }
     },
     {
@@ -2896,7 +3011,8 @@
         ],
         "placesVisited": [
           "SAFRA Jurong"
-        ]
+        ],
+        "age": 50
       }
     },
     {
@@ -2926,7 +3042,8 @@
           "Shops at 731 Yishun Street 72",
           "Petir Park (141 Petir Road)",
           "Zhenghua Nature Park (466 Segar Road)"
-        ]
+        ],
+        "age": 52
       }
     },
     {
@@ -2951,7 +3068,8 @@
         ],
         "placesVisited": [
           "Pioneer Polyclinic"
-        ]
+        ],
+        "age": 33
       }
     },
     {
@@ -2974,7 +3092,8 @@
         "residenceAreas": [
           "Stirling Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 55
       }
     },
     {
@@ -3000,7 +3119,8 @@
         "placesVisited": [
           "SAFRA Jurong",
           "Boon Lay Shopping Centre (221 Boon Lay Place)"
-        ]
+        ],
+        "age": 62
       }
     },
     {
@@ -3025,7 +3145,8 @@
         ],
         "placesVisited": [
           "SAFRA Jurong"
-        ]
+        ],
+        "age": 54
       }
     },
     {
@@ -3051,7 +3172,8 @@
         "placesVisited": [
           "Westgate (3 Gateway Drive)",
           "Keat Hong Community Club (2 Choa Chu Kang Loop)"
-        ]
+        ],
+        "age": 64
       }
     },
     {
@@ -3077,7 +3199,8 @@
         "placesVisited": [
           "South Africa",
           "France"
-        ]
+        ],
+        "age": 47
       }
     },
     {
@@ -3102,7 +3225,8 @@
         ],
         "placesVisited": [
           "Germany"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -3127,7 +3251,8 @@
         ],
         "placesVisited": [
           "SAFRA Jurong"
-        ]
+        ],
+        "age": 65
       }
     },
     {
@@ -3152,7 +3277,8 @@
         ],
         "placesVisited": [
           "Singapore General Hospital"
-        ]
+        ],
+        "age": 77
       }
     },
     {
@@ -3175,7 +3301,8 @@
         "residenceAreas": [
           "Bukit Panjang Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 64
       }
     },
     {
@@ -3200,7 +3327,8 @@
         ],
         "placesVisited": [
           "SAFRA Jurong"
-        ]
+        ],
+        "age": 70
       }
     },
     {
@@ -3227,7 +3355,8 @@
           "Pioneer Polyclinic",
           "Shop at 966 Jurong West Street 91",
           "Jurong Port Road Food Centre (29A Jurong Port Road)"
-        ]
+        ],
+        "age": 68
       }
     },
     {
@@ -3253,7 +3382,8 @@
         "placesVisited": [
           "Jurong Port Road Food Centre",
           "Bukit Batok Community Club (21 Bukit Batok Central)"
-        ]
+        ],
+        "age": 66
       }
     },
     {
@@ -3279,7 +3409,8 @@
         "placesVisited": [
           "Liang Guan Hak Kee (8 Pandan Crescent)",
           "Ayer Rajah Zone 3 Residents? Committee (32 Teban Gardens Road)"
-        ]
+        ],
+        "age": 66
       }
     },
     {
@@ -3304,7 +3435,8 @@
         ],
         "placesVisited": [
           "Camden Medical Centre (1 Orchard Boulevard)"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -3329,7 +3461,8 @@
         ],
         "placesVisited": [
           "Pioneer Polyclinic"
-        ]
+        ],
+        "age": 62
       }
     },
     {
@@ -3354,7 +3487,8 @@
         ],
         "placesVisited": [
           "Malaysia"
-        ]
+        ],
+        "age": 56
       }
     },
     {
@@ -3379,7 +3513,8 @@
         ],
         "placesVisited": [
           "ST Electronics (100 Jurong East Street 21)"
-        ]
+        ],
+        "age": 40
       }
     },
     {
@@ -3406,7 +3541,8 @@
           "United States",
           "Italy",
           "Raffles Hospital"
-        ]
+        ],
+        "age": 36
       }
     },
     {
@@ -3431,7 +3567,8 @@
         ],
         "placesVisited": [
           "SAFRA Jurong"
-        ]
+        ],
+        "age": 60
       }
     },
     {
@@ -3456,7 +3593,8 @@
         ],
         "placesVisited": [
           "SAFRA Punggol (9 Sentul Crescent)"
-        ]
+        ],
+        "age": 26
       }
     },
     {
@@ -3479,7 +3617,8 @@
         "residenceAreas": [
           "Jurong West Street 81"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 71
       }
     },
     {
@@ -3504,7 +3643,8 @@
         ],
         "placesVisited": [
           "Landom Distributions Pte Ltd (31 Jurong Port Road)"
-        ]
+        ],
+        "age": 62
       }
     },
     {
@@ -3529,7 +3669,8 @@
         ],
         "placesVisited": [
           "Nanyang Technological University (NTU) Innovation Centre (71 Nanyang Drive)"
-        ]
+        ],
+        "age": 69
       }
     },
     {
@@ -3555,7 +3696,8 @@
         "placesVisited": [
           "First Page Digital Singapore (144 Robinson Road)",
           "The Aperia Mall (12 Kallang Avenue)"
-        ]
+        ],
+        "age": 26
       }
     },
     {
@@ -3580,7 +3722,8 @@
         ],
         "placesVisited": [
           "Thailand"
-        ]
+        ],
+        "age": 42
       }
     },
     {
@@ -3603,7 +3746,8 @@
         "residenceAreas": [
           "Jurong West Street 74"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 58
       }
     },
     {
@@ -3628,7 +3772,8 @@
         ],
         "placesVisited": [
           "16 Teck Whye Lane"
-        ]
+        ],
+        "age": 67
       }
     },
     {
@@ -3651,7 +3796,8 @@
         "residenceAreas": [
           "Yio Chu Kang Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 64
       }
     },
     {
@@ -3676,7 +3822,8 @@
         ],
         "placesVisited": [
           "Seletar Airport"
-        ]
+        ],
+        "age": 64
       }
     },
     {
@@ -3702,7 +3849,8 @@
         "placesVisited": [
           "Indonesia",
           "Marina Bay Sands Casino (10 Bayfront Avenue)"
-        ]
+        ],
+        "age": 67
       }
     },
     {
@@ -3728,7 +3876,8 @@
         "placesVisited": [
           "Tan Tock Seng Hospital",
           "Tong Whye Temple Senior Citizen Club (306 Jurong East Street 32)."
-        ]
+        ],
+        "age": 62
       }
     },
     {
@@ -3753,7 +3902,8 @@
         ],
         "placesVisited": [
           "Nanyang Community Club"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -3779,7 +3929,8 @@
         "placesVisited": [
           "Yishun Polyclinic",
           "Mei Hwan Drive"
-        ]
+        ],
+        "age": 51
       }
     },
     {
@@ -3802,7 +3953,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Indonesia"
-        ]
+        ],
+        "age": 65
       }
     },
     {
@@ -3828,7 +3980,8 @@
         "placesVisited": [
           "Indonesia",
           "Choa Chu Kang Polyclinic"
-        ]
+        ],
+        "age": 65
       }
     },
     {
@@ -3854,7 +4007,8 @@
         "placesVisited": [
           "Switzerland",
           "United Kingdom"
-        ]
+        ],
+        "age": 52
       }
     },
     {
@@ -3877,7 +4031,8 @@
         "residenceAreas": [
           "Boon Lay Place"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 47
       }
     },
     {
@@ -3900,7 +4055,8 @@
         "residenceAreas": [
           "Jurong West Street 74"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 50
       }
     },
     {
@@ -3923,7 +4079,8 @@
         "residenceAreas": [
           "Jurong West Street 81"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 54
       }
     },
     {
@@ -3948,7 +4105,8 @@
         ],
         "placesVisited": [
           "Farrer Park Hospital (1 Farrer Park)"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -3973,7 +4131,8 @@
         ],
         "placesVisited": [
           "Farrer Park Hospital (1 Farrer Park)"
-        ]
+        ],
+        "age": 59
       }
     },
     {
@@ -3998,7 +4157,8 @@
         ],
         "placesVisited": [
           "The Orange Tree Preschool @ Choa Chu Kang (10 Choa Chu Kang Road)"
-        ]
+        ],
+        "age": 5
       }
     },
     {
@@ -4021,7 +4181,8 @@
         "residenceAreas": [
           "Bishan Street 13"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 73
       }
     },
     {
@@ -4047,7 +4208,8 @@
         "placesVisited": [
           "Indonesia",
           "Shop at 26 Jalan Membina"
-        ]
+        ],
+        "age": 28
       }
     },
     {
@@ -4073,7 +4235,8 @@
         "placesVisited": [
           "Funan Mall (107 North Bridge Road)",
           "PUB Recreation Club (48 Woodleigh Park)"
-        ]
+        ],
+        "age": 27
       }
     },
     {
@@ -4096,7 +4259,8 @@
         "residenceAreas": [
           "Jurong West St 93"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 57
       }
     },
     {
@@ -4121,7 +4285,8 @@
         ],
         "placesVisited": [
           "France"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -4146,7 +4311,8 @@
         ],
         "placesVisited": [
           "Samwoh Corporate Pte Ltd (25E Sungei Kadut Street 1)"
-        ]
+        ],
+        "age": 55
       }
     },
     {
@@ -4170,7 +4336,8 @@
         "placesVisited": [
           "Philippines",
           "NTFGH"
-        ]
+        ],
+        "age": 35
       }
     },
     {
@@ -4193,7 +4360,8 @@
         "residenceAreas": [
           "Rivervale Street"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 47
       }
     },
     {
@@ -4219,7 +4387,8 @@
         "placesVisited": [
           "France",
           "Health Promotion Board"
-        ]
+        ],
+        "age": 40
       }
     },
     {
@@ -4242,7 +4411,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Indonesia"
-        ]
+        ],
+        "age": 56
       }
     },
     {
@@ -4268,7 +4438,8 @@
         "placesVisited": [
           "France",
           "Spain"
-        ]
+        ],
+        "age": 27
       }
     },
     {
@@ -4294,7 +4465,8 @@
         "placesVisited": [
           "Philippines",
           "AXA Singapore (8 Shenton Way)"
-        ]
+        ],
+        "age": 42
       }
     },
     {
@@ -4319,7 +4491,8 @@
         ],
         "placesVisited": [
           "France"
-        ]
+        ],
+        "age": 31
       }
     },
     {
@@ -4342,7 +4515,8 @@
         "residenceAreas": [
           "Gangsa Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 67
       }
     },
     {
@@ -4367,7 +4541,8 @@
         ],
         "placesVisited": [
           "France"
-        ]
+        ],
+        "age": 44
       }
     },
     {
@@ -4394,7 +4569,8 @@
           "Japan",
           "United Kingdom",
           "Gleneagles Hospital"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -4421,7 +4597,8 @@
           "United States",
           "United Kingdom",
           "France"
-        ]
+        ],
+        "age": 26
       }
     },
     {
@@ -4446,7 +4623,8 @@
         ],
         "placesVisited": [
           "Philippines"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -4469,7 +4647,8 @@
         "residenceAreas": [
           "Jurong West St 73"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 66
       }
     },
     {
@@ -4492,7 +4671,8 @@
         "residenceAreas": [
           "Bishan Street 23"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 71
       }
     },
     {
@@ -4517,7 +4697,8 @@
         ],
         "placesVisited": [
           "Indonesia"
-        ]
+        ],
+        "age": 83
       }
     },
     {
@@ -4542,7 +4723,8 @@
         ],
         "placesVisited": [
           "Indonesia"
-        ]
+        ],
+        "age": 76
       }
     },
     {
@@ -4572,7 +4754,8 @@
           "Masjid Kassim (450 Changi Road)",
           "Masjid Hajjah Fatimah (4001 Beach Road)",
           "Pergas (448 Changi Road)"
-        ]
+        ],
+        "age": 29
       }
     },
     {
@@ -4595,7 +4778,8 @@
         "residenceAreas": [
           "Lorong 28 Geylang"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 35
       }
     },
     {
@@ -4618,7 +4802,8 @@
         "residenceAreas": [
           "Circuit Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 34
       }
     },
     {
@@ -4643,7 +4828,8 @@
         ],
         "placesVisited": [
           "Samwoh Corporate Pte Ltd (25E Sungei Kadut Street 1)"
-        ]
+        ],
+        "age": 64
       }
     },
     {
@@ -4669,7 +4855,8 @@
         "placesVisited": [
           "Malaysia",
           "Masjid Hajjah Rahimabi Kebun Limau (76 Kim Keat Road)"
-        ]
+        ],
+        "age": 48
       }
     },
     {
@@ -4695,7 +4882,8 @@
         "placesVisited": [
           "Northpoint City (930 Yishun Avenue 2)",
           "743 Yishun Avenue 5"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -4720,7 +4908,8 @@
         ],
         "placesVisited": [
           "Sumitomo Mitsui Banking Corporation (3 Temasek Ave)"
-        ]
+        ],
+        "age": 36
       }
     },
     {
@@ -4741,7 +4930,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 53
       }
     },
     {
@@ -4762,7 +4952,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 24
       }
     },
     {
@@ -4783,7 +4974,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "American",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 32
       }
     },
     {
@@ -4809,7 +5001,8 @@
           "Czech Republic",
           "Austria",
           "Hungary"
-        ]
+        ],
+        "age": 26
       }
     },
     {
@@ -4835,7 +5028,8 @@
           "Czech Republic",
           "Austria",
           "Hungary"
-        ]
+        ],
+        "age": 24
       }
     },
     {
@@ -4859,7 +5053,8 @@
         "placesVisited": [
           "United States",
           "Canada"
-        ]
+        ],
+        "age": 47
       }
     },
     {
@@ -4880,7 +5075,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 73
       }
     },
     {
@@ -4903,7 +5099,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Malaysia"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -4924,7 +5121,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 61
       }
     },
     {
@@ -4947,7 +5145,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Malaysia"
-        ]
+        ],
+        "age": 37
       }
     },
     {
@@ -4968,7 +5167,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 62
       }
     },
     {
@@ -4991,7 +5191,8 @@
         "residenceAreas": [
           "Teck Whye Lane"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 52
       }
     },
     {
@@ -5018,7 +5219,8 @@
           "Malaysia",
           "Masjid Al-Mawaddah (151 Compassvale Bow)",
           "Masjid Jamae (Chulia) (218 South Bridge Road) and Masjid Al-Istiqamah (2 Serangoon North Avenue 2)"
-        ]
+        ],
+        "age": 44
       }
     },
     {
@@ -5043,7 +5245,8 @@
         ],
         "placesVisited": [
           "Indonesia"
-        ]
+        ],
+        "age": 36
       }
     },
     {
@@ -5066,7 +5269,8 @@
         "residenceAreas": [
           "Tanjong Pagar Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 32
       }
     },
     {
@@ -5092,7 +5296,8 @@
         "placesVisited": [
           "Philippines",
           "DNATA Cargo (45 Airport Cargo Road)"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -5117,7 +5322,8 @@
         ],
         "placesVisited": [
           "United States"
-        ]
+        ],
+        "age": 33
       }
     },
     {
@@ -5142,7 +5348,8 @@
         ],
         "placesVisited": [
           "United Kingdom"
-        ]
+        ],
+        "age": 40
       }
     },
     {
@@ -5167,7 +5374,8 @@
         ],
         "placesVisited": [
           "Singapore General Hospital"
-        ]
+        ],
+        "age": 26
       }
     },
     {
@@ -5193,7 +5401,8 @@
         "placesVisited": [
           "United States",
           "Singapore General Hospital"
-        ]
+        ],
+        "age": 32
       }
     },
     {
@@ -5219,7 +5428,8 @@
         "placesVisited": [
           "Germany",
           "Switzerland"
-        ]
+        ],
+        "age": 56
       }
     },
     {
@@ -5242,7 +5452,8 @@
         "residenceAreas": [
           "Crawford Lane"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 35
       }
     },
     {
@@ -5267,7 +5478,8 @@
         ],
         "placesVisited": [
           "Mount Elizabeth Hospital"
-        ]
+        ],
+        "age": 64
       }
     },
     {
@@ -5292,7 +5504,8 @@
         ],
         "placesVisited": [
           "Indonesia"
-        ]
+        ],
+        "age": 48
       }
     },
     {
@@ -5318,7 +5531,8 @@
         "placesVisited": [
           "Youth Go! (403 Fajar Road)",
           "Project 180 @ Simei (145 Simei Street 2) and Singapore University of Social Sciences (463 Clementi Road)"
-        ]
+        ],
+        "age": 29
       }
     },
     {
@@ -5344,7 +5558,8 @@
         "placesVisited": [
           "Thailand",
           "Cash Box (1 Jurong West Central 2)"
-        ]
+        ],
+        "age": 65
       }
     },
     {
@@ -5371,7 +5586,8 @@
           "Germany",
           "Czech Republic",
           "SAP Asia (30 Pasir Panjang Road)"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -5394,7 +5610,8 @@
         "residenceAreas": [
           "Mount Sophia"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 22
       }
     },
     {
@@ -5417,7 +5634,8 @@
         "residenceAreas": [
           "Pending Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 55
       }
     },
     {
@@ -5444,7 +5662,8 @@
           "Sengkang Fire Station",
           "Meiben Mold Manufacture Pte Ltd (26 Ang Mo Kio Industrial Park 2)",
           "Furama Riverfront (405\nHavelock Road)"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -5469,7 +5688,8 @@
         ],
         "placesVisited": [
           "France"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -5496,7 +5716,8 @@
           "MY World Preschool Ltd (52 Lengkok Bahru)",
           "Training Masters Workforce Institute (10 Arumugan Road)",
           "OUE Downtown Gallery (6A Shenton Way)"
-        ]
+        ],
+        "age": 28
       }
     },
     {
@@ -5524,7 +5745,8 @@
           "Spain",
           "Philippines",
           "Airbus Singapore Pte Ltd (12 Seletar Aerospace Link)"
-        ]
+        ],
+        "age": 41
       }
     },
     {
@@ -5550,7 +5772,8 @@
         "placesVisited": [
           "United States",
           "Australia"
-        ]
+        ],
+        "age": 60
       }
     },
     {
@@ -5575,7 +5798,8 @@
         ],
         "placesVisited": [
           "Malaysia"
-        ]
+        ],
+        "age": 50
       }
     },
     {
@@ -5601,7 +5825,8 @@
         "placesVisited": [
           "Indonesia",
           "Mount Elizabeth Hospital"
-        ]
+        ],
+        "age": 63
       }
     },
     {
@@ -5627,7 +5852,8 @@
         "placesVisited": [
           "The Netherlands",
           "Gleneagles Hospital"
-        ]
+        ],
+        "age": 49
       }
     },
     {
@@ -5652,7 +5878,8 @@
         ],
         "placesVisited": [
           "France"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -5677,7 +5904,8 @@
         ],
         "placesVisited": [
           "Bedok Polyclinic"
-        ]
+        ],
+        "age": 67
       }
     },
     {
@@ -5702,7 +5930,8 @@
         ],
         "placesVisited": [
           "Spain"
-        ]
+        ],
+        "age": 26
       }
     },
     {
@@ -5727,7 +5956,8 @@
         ],
         "placesVisited": [
           "Eastern Europe"
-        ]
+        ],
+        "age": 38
       }
     },
     {
@@ -5752,7 +5982,8 @@
         ],
         "placesVisited": [
           "United States"
-        ]
+        ],
+        "age": 78
       }
     },
     {
@@ -5777,7 +6008,8 @@
         ],
         "placesVisited": [
           "United States"
-        ]
+        ],
+        "age": 65
       }
     },
     {
@@ -5803,7 +6035,8 @@
         "placesVisited": [
           "UK",
           "Parkway East Hospital"
-        ]
+        ],
+        "age": 61
       }
     },
     {
@@ -5828,7 +6061,8 @@
         ],
         "placesVisited": [
           "Bukit Merah Polyclinic"
-        ]
+        ],
+        "age": 86
       }
     },
     {
@@ -5853,7 +6087,8 @@
         ],
         "placesVisited": [
           "SGH Staff Clinic"
-        ]
+        ],
+        "age": 31
       }
     },
     {
@@ -5876,7 +6111,8 @@
         "residenceAreas": [
           "Bishan Street 22"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 30
       }
     },
     {
@@ -5899,7 +6135,8 @@
         "residenceAreas": [
           "Beach Road"
         ],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 36
       }
     },
     {
@@ -5924,7 +6161,8 @@
         ],
         "placesVisited": [
           "Raffles Hospital"
-        ]
+        ],
+        "age": 83
       }
     },
     {
@@ -5949,7 +6187,8 @@
         ],
         "placesVisited": [
           "France"
-        ]
+        ],
+        "age": 28
       }
     },
     {
@@ -5974,7 +6213,8 @@
         ],
         "placesVisited": [
           "Spain"
-        ]
+        ],
+        "age": 27
       }
     },
     {
@@ -5999,7 +6239,8 @@
         ],
         "placesVisited": [
           "France"
-        ]
+        ],
+        "age": 28
       }
     },
     {
@@ -6024,7 +6265,8 @@
         ],
         "placesVisited": [
           "Malaysia"
-        ]
+        ],
+        "age": 64
       }
     },
     {
@@ -6052,7 +6294,8 @@
           "Italy",
           "Switzerland",
           "River Valley Road"
-        ]
+        ],
+        "age": 36
       }
     },
     {
@@ -6077,7 +6320,8 @@
         ],
         "placesVisited": [
           "River Valley Road"
-        ]
+        ],
+        "age": 53
       }
     },
     {
@@ -6102,7 +6346,8 @@
         ],
         "placesVisited": [
           "Marina One West Tower (9 Straits View)"
-        ]
+        ],
+        "age": 76
       }
     },
     {
@@ -6128,7 +6373,8 @@
         "placesVisited": [
           "Japan",
           "Singtel Comcentre (31 Exeter Road)"
-        ]
+        ],
+        "age": 39
       }
     },
     {
@@ -6154,7 +6400,8 @@
         "placesVisited": [
           "UK",
           "France"
-        ]
+        ],
+        "age": 41
       }
     },
     {
@@ -6177,7 +6424,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Malaysia"
-        ]
+        ],
+        "age": 23
       }
     },
     {
@@ -6200,7 +6448,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "USA"
-        ]
+        ],
+        "age": 42
       }
     },
     {
@@ -6224,7 +6473,8 @@
         "placesVisited": [
           "UK",
           "Austria"
-        ]
+        ],
+        "age": 28
       }
     },
     {
@@ -6245,7 +6495,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 59
       }
     },
     {
@@ -6268,7 +6519,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Malaysia"
-        ]
+        ],
+        "age": 66
       }
     },
     {
@@ -6291,7 +6543,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Spain"
-        ]
+        ],
+        "age": 24
       }
     },
     {
@@ -6314,7 +6567,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "France"
-        ]
+        ],
+        "age": 43
       }
     },
     {
@@ -6339,7 +6593,8 @@
           "Norway",
           "Denmark",
           "Sweden"
-        ]
+        ],
+        "age": 44
       }
     },
     {
@@ -6360,7 +6615,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Filipino (Singapore Work Pass holder)",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 32
       }
     },
     {
@@ -6383,7 +6639,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "UK"
-        ]
+        ],
+        "age": 19
       }
     },
     {
@@ -6406,7 +6663,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Europe"
-        ]
+        ],
+        "age": 47
       }
     },
     {
@@ -6429,7 +6687,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Philippines"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -6450,7 +6709,8 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": []
+        "placesVisited": [],
+        "age": 48
       }
     },
     {
@@ -6474,7 +6734,8 @@
         "placesVisited": [
           "USA",
           "France"
-        ]
+        ],
+        "age": 30
       }
     },
     {
@@ -6497,7 +6758,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "UK"
-        ]
+        ],
+        "age": 20
       }
     },
     {
@@ -6521,7 +6783,8 @@
         "placesVisited": [
           "Spain",
           "Portugal"
-        ]
+        ],
+        "age": 52
       }
     },
     {
@@ -6544,7 +6807,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "Indonesia"
-        ]
+        ],
+        "age": 41
       }
     },
     {
@@ -6567,7 +6831,8 @@
         "residenceAreas": [],
         "placesVisited": [
           "UK"
-        ]
+        ],
+        "age": 25
       }
     },
     {
@@ -6591,7 +6856,8 @@
         "placesVisited": [
           "Spain",
           "Portugal"
-        ]
+        ],
+        "age": 63
       }
     }
   ]

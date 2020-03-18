@@ -29,7 +29,7 @@ export const ArticleLink = styled.a`
 export type CaseContent = PointProperties;
 
 export const CaseContent: React.FC<CaseContent> = (props) => {
-  const { title, confirmed, hospital, discharged, nationality, residenceAreas, placesVisited } = props;
+  const { title, confirmed, hospital, discharged, nationality, residenceAreas, placesVisited, age } = props;
   const dispatch = useDispatch();
   const selectedCase = useSelector((state: RootState) => state.control.selectedCase);
 
@@ -60,6 +60,10 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
               </>
             : null
         }
+      </Description>
+      <Description>
+        <span>Age: </span>
+        <strong>{age}</strong>
       </Description>
       <Description>
         <span>Nationality: </span>
