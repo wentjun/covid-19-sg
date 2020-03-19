@@ -2506,7 +2506,7 @@
         "id": "case-97",
         "title": "Case 97",
         "confirmed": "2020-02-28",
-        "discharged": "",
+        "discharged": "2020-03-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid-19-wizlearn-science-park-cluster-coronavirus-12480290",
         "nationality": "Singapore Permanent Resident",
@@ -2688,7 +2688,7 @@
         "id": "case-104",
         "title": "Case 104",
         "confirmed": "2020-03-01",
-        "discharged": "",
+        "discharged": "2020-03-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
         "nationality": "Myanmar (Singapore Work Pass Holder)",
@@ -2714,7 +2714,7 @@
         "id": "case-105",
         "title": "Case 105",
         "confirmed": "2020-03-01",
-        "discharged": "",
+        "discharged": "2020-03-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-covid-19-cases-update-moh-12487992",
         "nationality": "Singapore Citizen",
@@ -3136,7 +3136,7 @@
         "id": "case-121",
         "title": "Case 121",
         "confirmed": "2020-03-05",
-        "discharged": "",
+        "discharged": "2020-03-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
@@ -3242,7 +3242,7 @@
         "id": "case-125",
         "title": "Case 125",
         "confirmed": "2020-03-06",
-        "discharged": "",
+        "discharged": "2020-03-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
@@ -3478,7 +3478,7 @@
         "id": "case-134",
         "title": "Case 134",
         "confirmed": "2020-03-06",
-        "discharged": "",
+        "discharged": "2020-03-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Singapore Citizen",
@@ -3530,7 +3530,7 @@
         "id": "case-136",
         "title": "Case 136",
         "confirmed": "2020-03-06",
-        "discharged": "",
+        "discharged": "2020-03-19",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-mar-7-cases-12512420t",
         "nationality": "Italian (Singapore Work Pass Holder)",
@@ -6876,10 +6876,12 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 72
       }
     },
     {
@@ -6898,10 +6900,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "British",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Switzerland",
+          "UK"
+        ],
+        "age": 64
       }
     },
     {
@@ -6920,10 +6925,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 19
       }
     },
     {
@@ -6942,10 +6949,16 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Croatia",
+          "Bosnia",
+          "Serbia",
+          "Slovenia",
+          "Austria"
+        ],
+        "age": 62
       }
     },
     {
@@ -6964,10 +6977,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 29
       }
     },
     {
@@ -6986,10 +7001,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Eastern Europe"
+        ],
+        "age": 65
       }
     },
     {
@@ -7008,10 +7025,12 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 69
       }
     },
     {
@@ -7030,10 +7049,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "American (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 50
       }
     },
     {
@@ -7052,10 +7073,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 27
       }
     },
     {
@@ -7074,10 +7097,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21
       }
     },
     {
@@ -7096,10 +7121,12 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 55
       }
     },
     {
@@ -7118,10 +7145,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "American",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Switzerland",
+          "US"
+        ],
+        "age": 48
       }
     },
     {
@@ -7140,10 +7170,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Philippines"
+        ],
+        "age": 71
       }
     },
     {
@@ -7162,10 +7194,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21
       }
     },
     {
@@ -7184,10 +7218,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "USA",
+          "Canada"
+        ],
+        "age": 46
       }
     },
     {
@@ -7206,10 +7243,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Swiss",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "France"
+        ],
+        "age": 76
       }
     },
     {
@@ -7228,10 +7267,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 62
       }
     },
     {
@@ -7250,10 +7291,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 32
       }
     },
     {
@@ -7272,10 +7315,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Thai (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Thailand"
+        ],
+        "age": 42
       }
     },
     {
@@ -7294,10 +7339,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "British (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 54
       }
     },
     {
@@ -7316,10 +7363,12 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 26
       }
     },
     {
@@ -7338,10 +7387,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 71
       }
     },
     {
@@ -7360,10 +7411,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 62
       }
     },
     {
@@ -7382,10 +7435,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 69
       }
     },
     {
@@ -7404,10 +7459,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Indian (Singapore Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 52
       }
     },
     {
@@ -7426,10 +7483,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Turkey"
+        ],
+        "age": 64
       }
     },
     {
@@ -7448,10 +7507,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "British (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 30
       }
     },
     {
@@ -7470,10 +7531,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 58
       }
     },
     {
@@ -7492,10 +7555,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 55
       }
     },
     {
@@ -7514,10 +7579,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 25
       }
     },
     {
@@ -7536,10 +7603,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Indonesian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 31
       }
     },
     {
@@ -7558,10 +7627,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "India"
+        ],
+        "age": 44
       }
     },
     {
@@ -7580,10 +7651,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Philippines"
+        ],
+        "age": 29
       }
     },
     {
@@ -7602,10 +7675,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "German (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Switzerland",
+          "Austria"
+        ],
+        "age": 28
       }
     },
     {
@@ -7624,10 +7700,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Austria",
+          "Switzerland"
+        ],
+        "age": 63
       }
     },
     {
@@ -7646,10 +7725,12 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 49
       }
     },
     {
@@ -7668,10 +7749,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 27
       }
     },
     {
@@ -7690,10 +7773,14 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK",
+          "Switzerland",
+          "Austria"
+        ],
+        "age": 27
       }
     },
     {
@@ -7712,10 +7799,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 24
       }
     },
     {
@@ -7734,10 +7823,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 56
       }
     },
     {
@@ -7756,10 +7847,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Philippines"
+        ],
+        "age": 22
       }
     },
     {
@@ -7778,10 +7871,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 59
       }
     },
     {
@@ -7800,10 +7895,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Croatia",
+          "Austria"
+        ],
+        "age": 60
       }
     },
     {
@@ -7822,10 +7920,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 58
       }
     },
     {
@@ -7844,10 +7944,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Singapore"
+        ],
+        "age": 80
       }
     },
     {
@@ -7866,10 +7968,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
-        "nationality": "",
+        "nationality": "French",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "France",
+          "Germany"
+        ],
+        "age": 30
       }
     },
     {
@@ -7888,6 +7993,712 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
+        "nationality": "British (Singapore Work Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-314",
+        "title": "Case 314",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-315",
+        "title": "Case 315",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-316",
+        "title": "Case 316",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-317",
+        "title": "Case 317",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-318",
+        "title": "Case 318",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-319",
+        "title": "Case 319",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-320",
+        "title": "Case 320",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-321",
+        "title": "Case 321",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-322",
+        "title": "Case 322",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-323",
+        "title": "Case 323",
+        "confirmed": "2020-02-18",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-324",
+        "title": "Case 324",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-325",
+        "title": "Case 325",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-326",
+        "title": "Case 326",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-327",
+        "title": "Case 327",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-328",
+        "title": "Case 328",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-329",
+        "title": "Case 329",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-330",
+        "title": "Case 330",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-331",
+        "title": "Case 331",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-332",
+        "title": "Case 332",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-333",
+        "title": "Case 333",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-334",
+        "title": "Case 334",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-335",
+        "title": "Case 335",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-336",
+        "title": "Case 336",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-337",
+        "title": "Case 337",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-338",
+        "title": "Case 338",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-339",
+        "title": "Case 339",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-340",
+        "title": "Case 340",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-341",
+        "title": "Case 341",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-342",
+        "title": "Case 342",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-343",
+        "title": "Case 343",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-344",
+        "title": "Case 344",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-345",
+        "title": "Case 345",
+        "confirmed": "2020-02-19",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
         "nationality": "",
         "residenceAreas": [],
         "placesVisited": [],
