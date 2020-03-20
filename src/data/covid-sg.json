@@ -8017,10 +8017,10 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": ""
+        "age": 58
       }
     },
     {
@@ -8039,10 +8039,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 57
       }
     },
     {
@@ -8061,10 +8063,12 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Malaysia (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 25
       }
     },
     {
@@ -8083,10 +8087,12 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 29
       }
     },
     {
@@ -8105,10 +8111,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "China (Singapore Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": ""
+        "age": 58
       }
     },
     {
@@ -8127,10 +8133,12 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Philippines (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Phillippines"
+        ],
+        "age": 67
       }
     },
     {
@@ -8149,10 +8157,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 34
       }
     },
     {
@@ -8171,10 +8181,10 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": ""
+        "age": 65
       }
     },
     {
@@ -8193,10 +8203,13 @@
         "discharged": "",
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Switzerland",
+          "France"
+        ],
+        "age": 46
       }
     },
     {
@@ -8215,10 +8228,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 24
       }
     },
     {
@@ -8237,10 +8252,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Brazil (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 45
       }
     },
     {
@@ -8259,10 +8276,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Philippines (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 38
       }
     },
     {
@@ -8281,10 +8300,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK",
+          "Netherlands"
+        ],
+        "age": 33
       }
     },
     {
@@ -8303,10 +8325,15 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Switzerland",
+          "Italy",
+          "Austria",
+          "Germany"
+        ],
+        "age": 38
       }
     },
     {
@@ -8325,10 +8352,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK",
+          "Switzerland"
+        ],
+        "age": 63
       }
     },
     {
@@ -8347,10 +8377,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Turkey"
+        ],
+        "age": 64
       }
     },
     {
@@ -8369,10 +8401,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": ""
+        "age": 67
       }
     },
     {
@@ -8391,10 +8423,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 49
       }
     },
     {
@@ -8413,10 +8447,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "US (Singapore Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 36
       }
     },
     {
@@ -8435,10 +8471,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Columbia (Singapore Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "US"
+        ],
+        "age": 48
       }
     },
     {
@@ -8457,10 +8495,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "US"
+        ],
+        "age": 32
       }
     },
     {
@@ -8479,10 +8519,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": ""
+        "age": 57
       }
     },
     {
@@ -8501,10 +8541,10 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": ""
+        "age": 60
       }
     },
     {
@@ -8523,10 +8563,13 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Switzerland (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "France",
+          "Switzerland"
+        ],
+        "age": 31
       }
     },
     {
@@ -8545,10 +8588,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": ""
+        "age": 57
       }
     },
     {
@@ -8567,10 +8610,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Philippines"
+        ],
+        "age": 66
       }
     },
     {
@@ -8589,10 +8634,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Philippines"
+        ],
+        "age": 27
       }
     },
     {
@@ -8611,10 +8658,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Germany (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 31
       }
     },
     {
@@ -8633,10 +8682,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "Thailand"
+        ],
+        "age": 31
       }
     },
     {
@@ -8655,10 +8706,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 20
       }
     },
     {
@@ -8677,10 +8730,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21
       }
     },
     {
@@ -8699,10 +8754,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "",
+        "nationality": "German (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": ""
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 30
       }
     }
   ]
