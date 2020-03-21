@@ -3,6 +3,7 @@ export interface PointProperties {
   title: string;
   confirmed: string;
   discharged: string;
+  death: string;
   hospital: string;
   source: string;
   nationality: string;

@@ -62,15 +62,20 @@ export const Legend: React.FC<LegendProps> = (props) => {
   const totalCases = features.length;
   const dischargedCases = (features.filter(({ properties }) =>
     new Date(properties.discharged) < new Date(dateEndRange))).length;
-  const hospitalisedCases = totalCases - dischargedCases;
+  const deathCases = (features.filter(({ properties }) =>
+    new Date(properties.death) < new Date(dateEndRange))).length;
+  const hospitalisedCases = totalCases - dischargedCases - deathCases;
 
   const mostRecentDateConfirmed = Math.max.apply(null, features.map(e => +new Date(e.properties.confirmed)));
   const mostRecentDateDischarged = Math.max.apply(null, features.map(e => (e.properties.discharged ? +new Date(e.properties.discharged) : 0)));
+  const mostRecentDateDeath = Math.max.apply(null, features.map(e => (e.properties.death ? +new Date(e.properties.death) : 0)));
 
   const latestConfirmedCount = (features.filter(feature =>
     new Date(feature.properties.confirmed).getTime() === mostRecentDateConfirmed)).length;
   const latestDischargedCount = (features.filter(feature =>
     new Date(feature.properties.discharged).getTime() === mostRecentDateDischarged)).length;
+  const latestDeathCount = (features.filter(feature =>
+    new Date(feature.properties.death).getTime() === mostRecentDateDeath)).length;
 
   return (
     <SummaryWrapper>
@@ -87,6 +92,12 @@ export const Legend: React.FC<LegendProps> = (props) => {
         <span>Discharged: {dischargedCases}</span>
         <UpArrow type='discharged'/>
         <span>{latestDischargedCount}</span>
+      </Breakdown>
+      <Breakdown>
+        <Dot type='hospitalised'/>
+        <span>Death: {deathCases}</span>
+        <UpArrow type='hospitalised'/>
+        <span>{latestDeathCount}</span>
       </Breakdown>
     </SummaryWrapper>
   );
