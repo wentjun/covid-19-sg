@@ -3203,7 +3203,7 @@
         "id": "case-119",
         "title": "Case 119",
         "confirmed": "2020-03-05",
-        "discharged": "",
+        "discharged": "2020-03-22",
         "hospital": "Alexandra Hospital",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
@@ -4178,7 +4178,7 @@
         "id": "case-155",
         "title": "Case 155",
         "confirmed": "2020-03-09",
-        "discharged": "",
+        "discharged": "2020-03-22",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Malaysian (Singapore Work Pass holder)",
@@ -5313,7 +5313,7 @@
         "id": "case-198",
         "title": "Case 198",
         "confirmed": "2020-03-13",
-        "discharged": "",
+        "discharged": "2020-03-22",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
@@ -8251,7 +8251,7 @@
         "id": "case-311",
         "title": "Case 311",
         "confirmed": "2020-03-18",
-        "discharged": "",
+        "discharged": "2020-03-22",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
         "nationality": "Singapore Citizen",
@@ -8326,7 +8326,7 @@
       "properties": {
         "id": "case-314",
         "title": "Case 314",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8349,7 +8349,7 @@
       "properties": {
         "id": "case-315",
         "title": "Case 315",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8374,7 +8374,7 @@
       "properties": {
         "id": "case-316",
         "title": "Case 316",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8399,7 +8399,7 @@
       "properties": {
         "id": "case-317",
         "title": "Case 317",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8424,7 +8424,7 @@
       "properties": {
         "id": "case-318",
         "title": "Case 318",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8447,7 +8447,7 @@
       "properties": {
         "id": "case-319",
         "title": "Case 319",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8472,7 +8472,7 @@
       "properties": {
         "id": "case-320",
         "title": "Case 320",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8497,7 +8497,7 @@
       "properties": {
         "id": "case-321",
         "title": "Case 321",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8520,7 +8520,7 @@
       "properties": {
         "id": "case-322",
         "title": "Case 322",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8546,7 +8546,7 @@
       "properties": {
         "id": "case-323",
         "title": "Case 323",
-        "confirmed": "2020-02-18",
+        "confirmed": "2020-03-18",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8571,7 +8571,7 @@
       "properties": {
         "id": "case-324",
         "title": "Case 324",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8596,7 +8596,7 @@
       "properties": {
         "id": "case-325",
         "title": "Case 325",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8621,7 +8621,7 @@
       "properties": {
         "id": "case-326",
         "title": "Case 326",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8647,7 +8647,7 @@
       "properties": {
         "id": "case-327",
         "title": "Case 327",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8675,7 +8675,7 @@
       "properties": {
         "id": "case-328",
         "title": "Case 328",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8701,7 +8701,7 @@
       "properties": {
         "id": "case-329",
         "title": "Case 329",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8726,7 +8726,7 @@
       "properties": {
         "id": "case-330",
         "title": "Case 330",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8749,7 +8749,7 @@
       "properties": {
         "id": "case-331",
         "title": "Case 331",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8774,7 +8774,7 @@
       "properties": {
         "id": "case-332",
         "title": "Case 332",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8799,7 +8799,7 @@
       "properties": {
         "id": "case-333",
         "title": "Case 333",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8824,7 +8824,7 @@
       "properties": {
         "id": "case-334",
         "title": "Case 334",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8849,7 +8849,7 @@
       "properties": {
         "id": "case-335",
         "title": "Case 335",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8872,7 +8872,7 @@
       "properties": {
         "id": "case-336",
         "title": "Case 336",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8895,7 +8895,7 @@
       "properties": {
         "id": "case-337",
         "title": "Case 337",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8921,7 +8921,7 @@
       "properties": {
         "id": "case-338",
         "title": "Case 338",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8944,7 +8944,7 @@
       "properties": {
         "id": "case-339",
         "title": "Case 339",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8969,7 +8969,7 @@
       "properties": {
         "id": "case-340",
         "title": "Case 340",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -8994,7 +8994,7 @@
       "properties": {
         "id": "case-341",
         "title": "Case 341",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -9019,7 +9019,7 @@
       "properties": {
         "id": "case-342",
         "title": "Case 342",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -9044,7 +9044,7 @@
       "properties": {
         "id": "case-343",
         "title": "Case 343",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -9069,7 +9069,7 @@
       "properties": {
         "id": "case-344",
         "title": "Case 344",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -9094,7 +9094,7 @@
       "properties": {
         "id": "case-345",
         "title": "Case 345",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
@@ -9119,7 +9119,7 @@
       "properties": {
         "id": "case-346",
         "title": "Case 346",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9142,7 +9142,7 @@
       "properties": {
         "id": "case-347",
         "title": "Case 347",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9165,7 +9165,7 @@
       "properties": {
         "id": "case-348",
         "title": "Case 348",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9188,7 +9188,7 @@
       "properties": {
         "id": "case-349",
         "title": "Case 349",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9211,7 +9211,7 @@
       "properties": {
         "id": "case-350",
         "title": "Case 350",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9234,7 +9234,7 @@
       "properties": {
         "id": "case-351",
         "title": "Case 351",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9257,7 +9257,7 @@
       "properties": {
         "id": "case-352",
         "title": "Case 352",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": " Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9280,7 +9280,7 @@
       "properties": {
         "id": "case-353",
         "title": "Case 353",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9303,7 +9303,7 @@
       "properties": {
         "id": "case-354",
         "title": "Case 354",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9326,7 +9326,7 @@
       "properties": {
         "id": "case-355",
         "title": "Case 355",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9349,7 +9349,7 @@
       "properties": {
         "id": "case-356",
         "title": "Case 356",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9372,7 +9372,7 @@
       "properties": {
         "id": "case-357",
         "title": "Case 357",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "Mount Elizabeth Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9395,7 +9395,7 @@
       "properties": {
         "id": "case-358",
         "title": "Case 358",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9418,7 +9418,7 @@
       "properties": {
         "id": "case-359",
         "title": "Case 359",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9441,7 +9441,7 @@
       "properties": {
         "id": "case-360",
         "title": "Case 360",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9464,7 +9464,7 @@
       "properties": {
         "id": "case-361",
         "title": "Case 361",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9487,7 +9487,7 @@
       "properties": {
         "id": "case-362",
         "title": "Case 362",
-        "confirmed": "2020-02-19",
+        "confirmed": "2020-03-19",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9510,7 +9510,7 @@
       "properties": {
         "id": "case-363",
         "title": "Case 363",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9533,7 +9533,7 @@
       "properties": {
         "id": "case-364",
         "title": "Case 364",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9556,7 +9556,7 @@
       "properties": {
         "id": "case-365",
         "title": "Case 365",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9579,7 +9579,7 @@
       "properties": {
         "id": "case-366",
         "title": "Case 366",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9602,7 +9602,7 @@
       "properties": {
         "id": "case-367",
         "title": "Case 367",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9625,7 +9625,7 @@
       "properties": {
         "id": "case-368",
         "title": "Case 368",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9648,7 +9648,7 @@
       "properties": {
         "id": "case-369",
         "title": "Case 369",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9671,7 +9671,7 @@
       "properties": {
         "id": "case-370",
         "title": "Case 370",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9694,7 +9694,7 @@
       "properties": {
         "id": "case-371",
         "title": "Case 371",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9717,7 +9717,7 @@
       "properties": {
         "id": "case-372",
         "title": "Case 372",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9740,7 +9740,7 @@
       "properties": {
         "id": "case-373",
         "title": "Case 373",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9763,7 +9763,7 @@
       "properties": {
         "id": "case-374",
         "title": "Case 374",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9786,7 +9786,7 @@
       "properties": {
         "id": "case-375",
         "title": "Case 375",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9809,7 +9809,7 @@
       "properties": {
         "id": "case-376",
         "title": "Case 376",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9832,7 +9832,7 @@
       "properties": {
         "id": "case-377",
         "title": "Case 377",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9855,7 +9855,7 @@
       "properties": {
         "id": "case-378",
         "title": "Case 378",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9878,7 +9878,7 @@
       "properties": {
         "id": "case-379",
         "title": "Case 379",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9901,7 +9901,7 @@
       "properties": {
         "id": "case-380",
         "title": "Case 380",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9924,7 +9924,7 @@
       "properties": {
         "id": "case-381",
         "title": "Case 381",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9947,7 +9947,7 @@
       "properties": {
         "id": "case-382",
         "title": "Case 382",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9970,7 +9970,7 @@
       "properties": {
         "id": "case-383",
         "title": "Case 383",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -9993,7 +9993,7 @@
       "properties": {
         "id": "case-384",
         "title": "Case 384",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -10016,7 +10016,7 @@
       "properties": {
         "id": "case-385",
         "title": "Case 385",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
@@ -10039,7 +10039,7 @@
       "properties": {
         "id": "case-386",
         "title": "Case 386",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10062,7 +10062,7 @@
       "properties": {
         "id": "case-387",
         "title": "Case 387",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10085,7 +10085,7 @@
       "properties": {
         "id": "case-388",
         "title": "Case 388",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10108,7 +10108,7 @@
       "properties": {
         "id": "case-389",
         "title": "Case 389",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10131,7 +10131,7 @@
       "properties": {
         "id": "case-390",
         "title": "Case 390",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10154,7 +10154,7 @@
       "properties": {
         "id": "case-391",
         "title": "Case 391",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10177,7 +10177,7 @@
       "properties": {
         "id": "case-392",
         "title": "Case 392",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10200,7 +10200,7 @@
       "properties": {
         "id": "case-393",
         "title": "Case 393",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10223,7 +10223,7 @@
       "properties": {
         "id": "case-394",
         "title": "Case 394",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10246,7 +10246,7 @@
       "properties": {
         "id": "case-395",
         "title": "Case 395",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10269,7 +10269,7 @@
       "properties": {
         "id": "case-396",
         "title": "Case 396",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10292,7 +10292,7 @@
       "properties": {
         "id": "case-397",
         "title": "Case 397",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10315,7 +10315,7 @@
       "properties": {
         "id": "case-398",
         "title": "Case 398",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10338,7 +10338,7 @@
       "properties": {
         "id": "case-399",
         "title": "Case 399",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10361,7 +10361,7 @@
       "properties": {
         "id": "case-400",
         "title": "Case 400",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10384,7 +10384,7 @@
       "properties": {
         "id": "case-401",
         "title": "Case 401",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10407,7 +10407,7 @@
       "properties": {
         "id": "case-402",
         "title": "Case 402",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Mount Elizabeth Novena Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10430,7 +10430,7 @@
       "properties": {
         "id": "case-403",
         "title": "Case 403",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Mount Elizabeth Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10453,7 +10453,7 @@
       "properties": {
         "id": "case-404",
         "title": "Case 404",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10476,7 +10476,7 @@
       "properties": {
         "id": "case-405",
         "title": "Case 405",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10499,7 +10499,7 @@
       "properties": {
         "id": "case-406",
         "title": "Case 406",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10522,7 +10522,7 @@
       "properties": {
         "id": "case-407",
         "title": "Case 407",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10545,7 +10545,7 @@
       "properties": {
         "id": "case-408",
         "title": "Case 408",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10568,7 +10568,7 @@
       "properties": {
         "id": "case-409",
         "title": "Case 409",
-        "confirmed": "2020-02-20",
+        "confirmed": "2020-03-20",
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10591,7 +10591,7 @@
       "properties": {
         "id": "case-410",
         "title": "Case 410",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10614,7 +10614,7 @@
       "properties": {
         "id": "case-411",
         "title": "Case 411",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10637,7 +10637,7 @@
       "properties": {
         "id": "case-412",
         "title": "Case 412",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10660,7 +10660,7 @@
       "properties": {
         "id": "case-413",
         "title": "Case 413",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10683,7 +10683,7 @@
       "properties": {
         "id": "case-414",
         "title": "Case 414",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10706,7 +10706,7 @@
       "properties": {
         "id": "case-415",
         "title": "Case 415",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10729,7 +10729,7 @@
       "properties": {
         "id": "case-416",
         "title": "Case 416",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10752,7 +10752,7 @@
       "properties": {
         "id": "case-417",
         "title": "Case 417",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10775,7 +10775,7 @@
       "properties": {
         "id": "case-418",
         "title": "Case 418",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10798,7 +10798,7 @@
       "properties": {
         "id": "case-419",
         "title": "Case 419",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10821,7 +10821,7 @@
       "properties": {
         "id": "case-420",
         "title": "Case 420",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10844,7 +10844,7 @@
       "properties": {
         "id": "case-421",
         "title": "Case 421",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10867,7 +10867,7 @@
       "properties": {
         "id": "case-422",
         "title": "Case 422",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10890,7 +10890,7 @@
       "properties": {
         "id": "case-423",
         "title": "Case 423",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10913,7 +10913,7 @@
       "properties": {
         "id": "case-424",
         "title": "Case 424",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10936,7 +10936,7 @@
       "properties": {
         "id": "case-425",
         "title": "Case 425",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10959,7 +10959,7 @@
       "properties": {
         "id": "case-426",
         "title": "Case 426",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -10982,7 +10982,7 @@
       "properties": {
         "id": "case-427",
         "title": "Case 427",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -11005,7 +11005,7 @@
       "properties": {
         "id": "case-428",
         "title": "Case 428",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -11028,7 +11028,7 @@
       "properties": {
         "id": "case-429",
         "title": "Case 429",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -11051,7 +11051,7 @@
       "properties": {
         "id": "case-430",
         "title": "Case 430",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -11074,7 +11074,7 @@
       "properties": {
         "id": "case-431",
         "title": "Case 431",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
@@ -11097,10 +11097,539 @@
       "properties": {
         "id": "case-432",
         "title": "Case 432",
-        "confirmed": "2020-02-21",
+        "confirmed": "2020-03-21",
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-433",
+        "title": "Case 433",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-434",
+        "title": "Case 434",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-435",
+        "title": "Case 435",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-436",
+        "title": "Case 436",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-437",
+        "title": "Case 437",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-438",
+        "title": "Case 438",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-439",
+        "title": "Case 439",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-440",
+        "title": "Case 440",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-441",
+        "title": "Case 441",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-442",
+        "title": "Case 442",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-443",
+        "title": "Case 443",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-444",
+        "title": "Case 444",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-445",
+        "title": "Case 445",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-446",
+        "title": "Case 446",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-447",
+        "title": "Case 447",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-448",
+        "title": "Case 448",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-449",
+        "title": "Case 449",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-450",
+        "title": "Case 450",
+        "confirmed": "2020-03-21",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-451",
+        "title": "Case 451",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-452",
+        "title": "Case 452",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-453",
+        "title": "Case 453",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-454",
+        "title": "Case 454",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-455",
+        "title": "Case 455",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "",
         "residenceAreas": [],
         "placesVisited": [],
