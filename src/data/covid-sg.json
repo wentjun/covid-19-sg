@@ -3089,7 +3089,7 @@
         "id": "case-115",
         "title": "Case 115",
         "confirmed": "2020-03-05",
-        "discharged": "",
+        "discharged": "2020-03-23",
         "hospital": "National University Hospital",
         "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
         "nationality": "Singapore Citizen",
@@ -4573,7 +4573,7 @@
         "id": "case-170",
         "title": "Case 170",
         "confirmed": "2020-03-10",
-        "discharged": "",
+        "discharged": "2020-03-23",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Indonesian",
@@ -4791,7 +4791,7 @@
         "id": "case-178",
         "title": "Case 178",
         "confirmed": "2020-03-11",
-        "discharged": "",
+        "discharged": "2020-03-23",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid19-new-cases-safra-jurong-mar-11-12526710",
         "nationality": "Filipino (Singapore Work Pass holder)",
@@ -4979,7 +4979,7 @@
         "id": "case-185",
         "title": "Case 185",
         "confirmed": "2020-03-12",
-        "discharged": "",
+        "discharged": "2020-03-23",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Singapore Citizen",
@@ -5655,7 +5655,7 @@
         "id": "case-211",
         "title": "Case 211",
         "confirmed": "2020-03-14",
-        "discharged": "",
+        "discharged": "2020-03-23",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "Filipino (Singapore Long Term Visit Pass Holder)",
@@ -6312,7 +6312,7 @@
         "id": "case-235",
         "title": "Case 235",
         "confirmed": "2020-03-16",
-        "discharged": "",
+        "discharged": "2020-03-23",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
         "nationality": "Singapore Citizen",
@@ -6963,7 +6963,7 @@
         "id": "case-260",
         "title": "Case 260",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-03-23",
         "hospital": "Farrer Park Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Singapore Permanent Resident",
@@ -7746,7 +7746,7 @@
         "id": "case-291",
         "title": "Case 291",
         "confirmed": "2020-03-18",
-        "discharged": "",
+        "discharged": "2020-03-23",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
         "nationality": "Indian (Singapore Long Term Pass Holder)",
@@ -11634,6 +11634,1248 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-456",
+        "title": "Case 456",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-457",
+        "title": "Case 457",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-458",
+        "title": "Case 458",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-459",
+        "title": "Case 459",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-460",
+        "title": "Case 460",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-461",
+        "title": "Case 461",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-462",
+        "title": "Case 462",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-463",
+        "title": "Case 463",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-464",
+        "title": "Case 464",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-465",
+        "title": "Case 465",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-466",
+        "title": "Case 466",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-467",
+        "title": "Case 467",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-468",
+        "title": "Case 468",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-469",
+        "title": "Case 469",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-470",
+        "title": "Case 470",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-471",
+        "title": "Case 471",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-472",
+        "title": "Case 472",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-473",
+        "title": "Case 473",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-474",
+        "title": "Case 474",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-475",
+        "title": "Case 475",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-476",
+        "title": "Case 476",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-477",
+        "title": "Case 477",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-478",
+        "title": "Case 478",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-479",
+        "title": "Case 479",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-480",
+        "title": "Case 480",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-481",
+        "title": "Case 481",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-482",
+        "title": "Case 482",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-483",
+        "title": "Case 483",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-484",
+        "title": "Case 484",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-485",
+        "title": "Case 485",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-486",
+        "title": "Case 486",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-487",
+        "title": "Case 487",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-488",
+        "title": "Case 488",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-489",
+        "title": "Case 489",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-490",
+        "title": "Case 490",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-491",
+        "title": "Case 491",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-492",
+        "title": "Case 492",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-493",
+        "title": "Case 493",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-494",
+        "title": "Case 494",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-495",
+        "title": "Case 495",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-496",
+        "title": "Case 496",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-497",
+        "title": "Case 497",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-498",
+        "title": "Case 498",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-499",
+        "title": "Case 499",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-500",
+        "title": "Case 500",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-501",
+        "title": "Case 501",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-502",
+        "title": "Case 502",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-503",
+        "title": "Case 503",
+        "confirmed": "2020-03-22",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-504",
+        "title": "Case 504",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-505",
+        "title": "Case 505",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-506",
+        "title": "Case 506",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-507",
+        "title": "Case 507",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-508",
+        "title": "Case 508",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-509",
+        "title": "Case 509",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
         "death": ""
       }
     }

@@ -15,7 +15,7 @@ Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, 
 
 | fields        | description           |
 | ------------- |:-------------|
-| geometry.coordinates     | coordinates of the place of residence (other fallback values might include locations such as workplace, if the former is not made available) |
+| geometry.coordinates     | coordinates of the place of residence (other fallback values might include locations such as location of hospitalisation, if the former is not made available) |
 | properties.id      | unique ID of each case (for internal use) |
 | properties.title | Alias for each case from official sources |    
 | properties.confirmed | Date of confirmed diagnosis |   
