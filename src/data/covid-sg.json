@@ -1118,7 +1118,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/four-more-cases-discharged-three-new-confirmed-cases-of-novel-coronavirus-infection",
-        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "nationality": "Bangladeshi (Singapore Work Pass Holder)",
         "residenceAreas": [
           "The Leo Dormitory (25 Kaki Bukit Road)"
         ],
@@ -1255,7 +1255,7 @@
         "discharged": "2020-03-07",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/novel-coronavirus-confirmed-cases-singapore-feb-11-12421724",
-        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "nationality": "Bangladeshi (Singapore Work Pass Holder)",
         "residenceAreas": [
           "Veerasamy Road"
         ],
@@ -1397,7 +1397,7 @@
         "discharged": "2020-02-28",
         "hospital": "Tan Tock Seng Hospital",
         "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
-        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "nationality": "Bangladeshi (Singapore Work Pass Holder)",
         "residenceAreas": [
           "Campbell Lane"
         ],
@@ -1508,7 +1508,7 @@
         "discharged": "2020-02-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/eight-more-confirmed-cases-of-covid-19-infection",
-        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "nationality": "Bangladeshi (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "Seletar Aerospace Heights Construction Site",
@@ -1866,7 +1866,7 @@
         "discharged": "2020-03-02",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-singapore-cases-feb-15-12437852",
-        "nationality": "Bangladesh (Singapore Work Pass Holder)",
+        "nationality": "Bangladeshi (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "Government quarantine facility"
@@ -5521,7 +5521,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
-        "nationality": "New Zeland (Singapore Long Term Visit Pass Holder)",
+        "nationality": "New Zealander (Singapore Long Term Visit Pass Holder)",
         "residenceAreas": [
           "Upper Paya Lebar Road"
         ],
@@ -5822,7 +5822,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
-        "nationality": "Spain (Singapore Long Term Pass Holder)",
+        "nationality": "Spanish (Singapore Long Term Pass Holder)",
         "residenceAreas": [
           "Mount Sophia"
         ],
@@ -6392,7 +6392,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
-        "nationality": "Belgium",
+        "nationality": "Belgian",
         "residenceAreas": [
           "Jalan Besar"
         ],
@@ -6841,7 +6841,7 @@
         "discharged": "2020-03-21",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
-        "nationality": "Swedish (Singapore Work Pass holder)",
+        "nationality": "Swede (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [
           "Norway",
@@ -8378,7 +8378,7 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "Malaysia (Singapore Work Pass Holder)",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "Malaysia"
@@ -8428,7 +8428,7 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "China (Singapore Long Term Pass Holder)",
+        "nationality": "Chinese (Singapore Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 58,
@@ -8451,7 +8451,7 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "Philippines (Singapore Work Pass Holder)",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "Phillippines"
@@ -8575,7 +8575,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "Brazil (Singapore Work Pass Holder)",
+        "nationality": "Brazilian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "UK"
@@ -8600,7 +8600,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "Philippines (Singapore Work Pass Holder)",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "UK"
@@ -8778,7 +8778,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "US (Singapore Long Term Pass Holder)",
+        "nationality": "American (Singapore Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "UK"
@@ -8803,7 +8803,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "Columbia (Singapore Long Term Pass Holder)",
+        "nationality": "Columbian (Singapore Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "US"
@@ -8899,7 +8899,7 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "Switzerland (Singapore Work Pass Holder)",
+        "nationality": "Swiss (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "France",
@@ -8998,7 +8998,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
-        "nationality": "Germany (Singapore Work Pass Holder)",
+        "nationality": "German (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "UK"
@@ -9560,7 +9560,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
-        "nationality": "Netherlands (Singapore Work Pass holder)",
+        "nationality": "Dutch (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 33,
@@ -9675,7 +9675,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
-        "nationality": "Malaysia (Singapore Work Pass Holder)",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 73,
@@ -9882,7 +9882,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
-        "nationality": "Swedish (Singapore Work Pass holder)",
+        "nationality": "Swede (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 62,
@@ -10066,7 +10066,7 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Switzerland (Singapore Work Pass Holder)",
+        "nationality": "Swiss (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 30,
@@ -10112,7 +10112,7 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Russia (Singapore Work Pass Holder)",
+        "nationality": "Russian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 36,
@@ -10227,7 +10227,7 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Philippines (Singapore Long TermPass Holder)",
+        "nationality": "Filipino (Singapore Long TermPass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 66,
@@ -10296,7 +10296,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Ireland (Singapore Work Pass Holder)",
+        "nationality": "Irish (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 43,
@@ -10411,7 +10411,7 @@
         "discharged": "",
         "hospital": "Mount Elizabeth Novena Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Indonesia",
+        "nationality": "Indonesian",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 22,
@@ -10434,7 +10434,7 @@
         "discharged": "",
         "hospital": "Mount Elizabeth Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Indonesia (Long Term Pass Holder)",
+        "nationality": "Indonesian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 77,
@@ -10457,7 +10457,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Australia (Long Term Pass Holder)",
+        "nationality": "Australian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 28,
@@ -10526,7 +10526,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Spain",
+        "nationality": "Spanish",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 25,
@@ -10572,7 +10572,7 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Australia (Singapore Work Pass Holder)",
+        "nationality": "Australian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 23,
@@ -10687,7 +10687,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Australia (Long Term Pass Holder)",
+        "nationality": "Australian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 37,
@@ -10710,7 +10710,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Indonesia",
+        "nationality": "Indonesian",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 64,
@@ -10756,7 +10756,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "France (Long Term Pass Holder)",
+        "nationality": "French (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 18,
@@ -10802,7 +10802,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Netherlands",
+        "nationality": "Dutch",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 45,
@@ -11239,7 +11239,7 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
-        "nationality": "US",
+        "nationality": "American",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 55,
@@ -11262,7 +11262,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
-        "nationality": "Denmark (Long Term Pass Holder)",
+        "nationality": "Danish (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 55,
@@ -11584,7 +11584,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
-        "nationality": "India (Long Term Pass Holder)",
+        "nationality": "Indian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 41,
@@ -11653,10 +11653,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 24,
         "death": ""
       }
     },
@@ -11676,10 +11676,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Myanmar (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 40,
         "death": ""
       }
     },
@@ -11699,10 +11699,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 20,
         "death": ""
       }
     },
@@ -11722,10 +11722,10 @@
         "discharged": "",
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 67,
         "death": ""
       }
     },
@@ -11745,10 +11745,10 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "New Zealander",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 23,
         "death": ""
       }
     },
@@ -11768,10 +11768,10 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 49,
         "death": ""
       }
     },
@@ -11791,10 +11791,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 20,
         "death": ""
       }
     },
@@ -11814,10 +11814,10 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 64,
         "death": ""
       }
     },
@@ -11837,10 +11837,10 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 23,
         "death": ""
       }
     },
@@ -11860,10 +11860,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 41,
         "death": ""
       }
     },
@@ -11883,10 +11883,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 55,
         "death": ""
       }
     },
@@ -11906,10 +11906,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 20,
         "death": ""
       }
     },
@@ -11929,10 +11929,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 28,
         "death": ""
       }
     },
@@ -11952,10 +11952,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 43,
         "death": ""
       }
     },
@@ -11975,10 +11975,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 24,
         "death": ""
       }
     },
@@ -11998,10 +11998,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -12021,10 +12021,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 19,
         "death": ""
       }
     },
@@ -12044,10 +12044,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 25,
         "death": ""
       }
     },
@@ -12067,10 +12067,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -12090,10 +12090,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -12113,10 +12113,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Indonesian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 68,
         "death": ""
       }
     },
@@ -12136,10 +12136,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Irish (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 44,
         "death": ""
       }
     },
@@ -12159,10 +12159,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 80,
         "death": ""
       }
     },
@@ -12182,10 +12182,10 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Indonesian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 35,
         "death": ""
       }
     },
@@ -12205,10 +12205,10 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 52,
         "death": ""
       }
     },
@@ -12228,10 +12228,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 37,
         "death": ""
       }
     },
@@ -12251,10 +12251,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 35,
         "death": ""
       }
     },
@@ -12274,10 +12274,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 28,
         "death": ""
       }
     },
@@ -12297,10 +12297,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 21,
         "death": ""
       }
     },
@@ -12320,10 +12320,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 20,
         "death": ""
       }
     },
@@ -12343,10 +12343,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -12366,10 +12366,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 72,
         "death": ""
       }
     },
@@ -12389,10 +12389,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 36,
         "death": ""
       }
     },
@@ -12412,10 +12412,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 25,
         "death": ""
       }
     },
@@ -12435,10 +12435,10 @@
         "discharged": "",
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 36,
         "death": ""
       }
     },
@@ -12458,10 +12458,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -12481,10 +12481,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Indian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 24,
         "death": ""
       }
     },
@@ -12504,10 +12504,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 23,
         "death": ""
       }
     },
@@ -12527,10 +12527,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 24,
         "death": ""
       }
     },
@@ -12550,10 +12550,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 29,
         "death": ""
       }
     },
@@ -12573,10 +12573,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 21,
         "death": ""
       }
     },
@@ -12596,10 +12596,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 63,
         "death": ""
       }
     },
@@ -12619,10 +12619,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -12642,10 +12642,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 27,
         "death": ""
       }
     },
@@ -12665,10 +12665,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 24,
         "death": ""
       }
     },
@@ -12688,10 +12688,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 65,
         "death": ""
       }
     },
@@ -12711,10 +12711,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Indian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 74,
         "death": ""
       }
     },
@@ -12734,10 +12734,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 26,
         "death": ""
       }
     },
@@ -12757,10 +12757,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 32,
         "death": ""
       }
     },
@@ -12780,10 +12780,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 24,
         "death": ""
       }
     },
@@ -12803,10 +12803,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Australian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 49,
         "death": ""
       }
     },
@@ -12826,10 +12826,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 29,
         "death": ""
       }
     },
@@ -12849,10 +12849,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 23,
         "death": ""
       }
     },
@@ -12872,10 +12872,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 53,
         "death": ""
       }
     }
