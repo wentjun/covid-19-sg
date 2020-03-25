@@ -9125,7 +9125,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "India"
+        ],
         "age": 59,
         "death": ""
       }
@@ -9148,7 +9150,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 27,
         "death": ""
       }
@@ -9194,7 +9198,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -9263,7 +9269,12 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Moscow",
+          "Russia",
+          "Copenhagen",
+          "Denmark"
+        ],
         "age": 43,
         "death": ""
       }
@@ -9309,7 +9320,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 59,
         "death": ""
       }
@@ -9332,7 +9345,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Australian (Long Term Visit Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 38,
         "death": ""
       }
@@ -9355,7 +9370,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Australian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "India"
+        ],
         "age": 27,
         "death": ""
       }
@@ -9378,7 +9395,12 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "German",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Germany",
+          "US",
+          "France",
+          "Monaco"
+        ],
         "age": 41,
         "death": ""
       }
@@ -9447,7 +9469,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 26,
         "death": ""
       }
@@ -9470,7 +9494,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Thailand"
+        ],
         "age": 32,
         "death": ""
       }
@@ -9493,7 +9519,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "German (Long Term Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Germany",
+          "Holland"
+        ],
         "age": 45,
         "death": ""
       }
@@ -9516,7 +9545,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 49,
         "death": ""
       }
@@ -9562,7 +9593,11 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Dutch (Singapore Work Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Austria",
+          "Netherlands",
+          "UK"
+        ],
         "age": 33,
         "death": ""
       }
@@ -9585,7 +9620,11 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK",
+          "Switzerland",
+          "Austria"
+        ],
         "age": 26,
         "death": ""
       }
@@ -9608,7 +9647,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
         "age": 25,
         "death": ""
       }
@@ -9654,7 +9695,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Thailand"
+        ],
         "age": 34,
         "death": ""
       }
@@ -9677,7 +9720,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 73,
         "death": ""
       }
@@ -9700,7 +9745,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -9723,7 +9770,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -9746,7 +9795,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 51,
         "death": ""
       }
@@ -9769,7 +9820,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 23,
         "death": ""
       }
@@ -9792,7 +9845,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 25,
         "death": ""
       }
@@ -9815,7 +9870,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -9838,7 +9895,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 59,
         "death": ""
       }
@@ -9861,7 +9920,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "UK (Long Term Visit Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 38,
         "death": ""
       }
@@ -9884,7 +9945,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Swede (Singapore Work Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 62,
         "death": ""
       }
@@ -9907,7 +9970,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Switzerland"
+        ],
         "age": 34,
         "death": ""
       }
@@ -9930,7 +9995,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Spain"
+        ],
         "age": 27,
         "death": ""
       }
@@ -9953,7 +10020,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 55,
         "death": ""
       }
@@ -9976,7 +10045,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 42,
         "death": ""
       }
@@ -10022,7 +10093,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -10068,7 +10141,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Swiss (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "France",
+          "Switzerland"
+        ],
         "age": 30,
         "death": ""
       }
@@ -10114,7 +10190,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Russian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "India"
+        ],
         "age": 36,
         "death": ""
       }
@@ -10137,7 +10215,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 35,
         "death": ""
       }
@@ -10160,7 +10240,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Australian",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Australia",
+          "US"
+        ],
         "age": 53,
         "death": ""
       }
@@ -10183,7 +10266,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 54,
         "death": ""
       }
@@ -10206,7 +10291,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -10229,7 +10316,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Filipino (Singapore Long TermPass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Philippines"
+        ],
         "age": 66,
         "death": ""
       }
@@ -10298,7 +10387,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Irish (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Ireland"
+        ],
         "age": 43,
         "death": ""
       }
@@ -10344,7 +10435,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 23,
         "death": ""
       }
@@ -10367,7 +10460,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 56,
         "death": ""
       }
@@ -10390,7 +10485,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 20,
         "death": ""
       }
@@ -10413,7 +10510,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Indonesian",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 22,
         "death": ""
       }
@@ -10436,7 +10535,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Indonesian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 77,
         "death": ""
       }
@@ -10459,7 +10560,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Australian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia",
+          "Philippines"
+        ],
         "age": 28,
         "death": ""
       }
@@ -10482,7 +10586,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 25,
         "death": ""
       }
@@ -10551,7 +10657,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 27,
         "death": ""
       }
@@ -10574,7 +10682,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Australian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 23,
         "death": ""
       }
@@ -10597,7 +10707,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 20,
         "death": ""
       }
@@ -10620,7 +10732,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 30,
         "death": ""
       }
@@ -10643,7 +10757,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 19,
         "death": ""
       }
@@ -10666,7 +10782,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Switzerland"
+        ],
         "age": 29,
         "death": ""
       }
@@ -10689,7 +10807,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Australian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 37,
         "death": ""
       }
@@ -10712,7 +10832,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Indonesian",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 64,
         "death": ""
       }
@@ -10735,7 +10857,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -10758,7 +10882,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "French (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 18,
         "death": ""
       }
@@ -10781,7 +10907,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 44,
         "death": ""
       }
@@ -10827,7 +10955,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -10850,7 +10980,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 23,
         "death": ""
       }
@@ -10873,7 +11005,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 56,
         "death": ""
       }
@@ -10896,7 +11030,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Ireland"
+        ],
         "age": 24,
         "death": ""
       }
@@ -10919,7 +11055,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 24,
         "death": ""
       }
@@ -10942,7 +11080,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 21,
         "death": ""
       }
@@ -10988,7 +11128,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 39,
         "death": ""
       }
@@ -11011,7 +11153,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -11034,7 +11178,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Germany",
+          "UK"
+        ],
         "age": 31,
         "death": ""
       }
@@ -11080,7 +11227,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 58,
         "death": ""
       }
@@ -11103,7 +11252,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 53,
         "death": ""
       }
@@ -11126,7 +11277,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Canada"
+        ],
         "age": 24,
         "death": ""
       }
@@ -11149,7 +11302,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
         "age": 36,
         "death": ""
       }
@@ -11172,7 +11327,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
         "age": 30,
         "death": ""
       }
@@ -11195,7 +11352,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Philippines"
+        ],
         "age": 46,
         "death": ""
       }
@@ -11218,7 +11377,11 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "UK (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Demark",
+          "Switzerland",
+          "France"
+        ],
         "age": 33,
         "death": ""
       }
@@ -11241,7 +11404,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "American",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 55,
         "death": ""
       }
@@ -11264,7 +11429,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Danish (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Denmark"
+        ],
         "age": 55,
         "death": ""
       }
@@ -11287,7 +11454,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 55,
         "death": ""
       }
@@ -11310,7 +11479,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US",
+          "Mexico"
+        ],
         "age": 57,
         "death": ""
       }
@@ -11379,7 +11551,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "0"
+        ],
         "age": 44,
         "death": ""
       }
@@ -11402,7 +11576,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -11425,7 +11601,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Indonesian (Long Term Visit Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 26,
         "death": ""
       }
@@ -11448,7 +11626,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 32,
         "death": ""
       }
@@ -11471,7 +11651,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -11494,7 +11676,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -11563,7 +11747,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -11586,7 +11772,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Indian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 41,
         "death": ""
       }
@@ -11609,7 +11797,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 47,
         "death": ""
       }
@@ -11632,7 +11822,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 29,
         "death": ""
       }
@@ -11655,7 +11847,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 24,
         "death": ""
       }
@@ -11701,7 +11895,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 20,
         "death": ""
       }
@@ -11747,7 +11943,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "New Zealander",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 23,
         "death": ""
       }
@@ -11770,7 +11968,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
         "age": 49,
         "death": ""
       }
@@ -11793,7 +11993,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 20,
         "death": ""
       }
@@ -11816,7 +12018,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia",
+          "Indonesia"
+        ],
         "age": 64,
         "death": ""
       }
@@ -11839,7 +12044,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 23,
         "death": ""
       }
@@ -11862,7 +12069,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 41,
         "death": ""
       }
@@ -11885,7 +12094,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 55,
         "death": ""
       }
@@ -11908,7 +12119,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 20,
         "death": ""
       }
@@ -11931,7 +12144,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 28,
         "death": ""
       }
@@ -11954,7 +12169,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Spain",
+          "Malaysia"
+        ],
         "age": 43,
         "death": ""
       }
@@ -11977,7 +12195,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 24,
         "death": ""
       }
@@ -12000,7 +12220,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -12023,7 +12245,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 19,
         "death": ""
       }
@@ -12046,7 +12270,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 25,
         "death": ""
       }
@@ -12069,7 +12295,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -12092,7 +12320,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Ireland"
+        ],
         "age": 22,
         "death": ""
       }
@@ -12115,7 +12345,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Indonesian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 68,
         "death": ""
       }
@@ -12230,7 +12462,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 37,
         "death": ""
       }
@@ -12253,7 +12487,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 35,
         "death": ""
       }
@@ -12276,7 +12512,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 28,
         "death": ""
       }
@@ -12299,7 +12537,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -12322,7 +12562,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 20,
         "death": ""
       }
@@ -12345,7 +12587,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -12368,7 +12612,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 72,
         "death": ""
       }
@@ -12391,7 +12637,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 36,
         "death": ""
       }
@@ -12414,7 +12662,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 25,
         "death": ""
       }
@@ -12437,7 +12687,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "France",
+          "UK"
+        ],
         "age": 36,
         "death": ""
       }
@@ -12460,7 +12713,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -12483,7 +12738,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Indian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 24,
         "death": ""
       }
@@ -12506,7 +12763,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 23,
         "death": ""
       }
@@ -12529,7 +12788,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Sweden"
+        ],
         "age": 24,
         "death": ""
       }
@@ -12552,7 +12813,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 29,
         "death": ""
       }
@@ -12575,7 +12838,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -12598,7 +12863,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 63,
         "death": ""
       }
@@ -12621,7 +12888,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -12644,7 +12913,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "US"
+        ],
         "age": 27,
         "death": ""
       }
@@ -12667,7 +12938,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Switzerland",
+          "Iceland"
+        ],
         "age": 24,
         "death": ""
       }
@@ -12690,7 +12964,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 65,
         "death": ""
       }
@@ -12713,7 +12989,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Indian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 74,
         "death": ""
       }
@@ -12736,7 +13014,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 26,
         "death": ""
       }
@@ -12759,7 +13039,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Netherlands",
+          "UK"
+        ],
         "age": 32,
         "death": ""
       }
@@ -12782,7 +13065,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 24,
         "death": ""
       }
@@ -12805,7 +13090,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Australian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "France",
+          "UK"
+        ],
         "age": 49,
         "death": ""
       }
@@ -12828,7 +13116,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 29,
         "death": ""
       }
@@ -12851,7 +13141,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 23,
         "death": ""
       }
@@ -12874,7 +13166,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
         "age": 53,
         "death": ""
       }
@@ -12897,7 +13191,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
         "age": 52,
         "death": ""
       }
@@ -12920,7 +13216,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
         "age": 53,
         "death": ""
       }
@@ -12943,7 +13241,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -13012,7 +13312,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "USA"
+        ],
         "age": 24,
         "death": ""
       }
@@ -13058,7 +13360,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "France",
+          "UK"
+        ],
         "age": 37,
         "death": ""
       }
@@ -13081,7 +13386,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Australian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "USA"
+        ],
         "age": 46,
         "death": ""
       }
@@ -13104,7 +13411,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "German",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Germany"
+        ],
         "age": 44,
         "death": ""
       }
@@ -13150,7 +13459,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
         "age": 37,
         "death": ""
       }
@@ -13173,7 +13484,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "USA"
+        ],
         "age": 45,
         "death": ""
       }
@@ -13196,7 +13509,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Filipino (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Philippines"
+        ],
         "age": 9,
         "death": ""
       }
@@ -13265,7 +13580,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "USA"
+        ],
         "age": 22,
         "death": ""
       }
@@ -13334,7 +13651,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Europe"
+        ],
         "age": 19,
         "death": ""
       }
@@ -13357,7 +13676,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "USA"
+        ],
         "age": 35,
         "death": ""
       }
@@ -13403,7 +13724,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "ASEAN"
+        ],
         "age": 44,
         "death": ""
       }
@@ -13449,7 +13772,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "UK (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Europe"
+        ],
         "age": 34,
         "death": ""
       }
@@ -13518,7 +13843,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Europe"
+        ],
         "age": 22,
         "death": ""
       }
@@ -13541,7 +13868,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "ASEAN"
+        ],
         "age": 50,
         "death": ""
       }
@@ -13587,7 +13916,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "USA"
+        ],
         "age": 23,
         "death": ""
       }
@@ -13610,7 +13941,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Europe"
+        ],
         "age": 20,
         "death": ""
       }
@@ -13633,7 +13966,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Europe"
+        ],
         "age": 23,
         "death": ""
       }
@@ -13656,7 +13991,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Europe"
+        ],
         "age": 19,
         "death": ""
       }
@@ -13679,7 +14016,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Europe"
+        ],
         "age": 55,
         "death": ""
       }
@@ -13702,7 +14041,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Indonesian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "ASEAN"
+        ],
         "age": 75,
         "death": ""
       }
@@ -13725,7 +14066,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 27,
         "death": ""
       }
@@ -13748,7 +14091,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 25,
         "death": ""
       }
@@ -13771,7 +14116,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Spain"
+        ],
         "age": 44,
         "death": ""
       }
@@ -13794,7 +14141,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -13840,7 +14189,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 22,
         "death": ""
       }
@@ -13863,7 +14214,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 21,
         "death": ""
       }
@@ -13909,7 +14262,10 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Malaysian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Turkey",
+          "United Arab Emirates"
+        ],
         "age": 24,
         "death": ""
       }
@@ -13932,7 +14288,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "UK"
+        ],
         "age": 24,
         "death": ""
       }
@@ -13955,7 +14313,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "UK (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Australia"
+        ],
         "age": 27,
         "death": ""
       }
@@ -13978,7 +14338,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Pakistan"
+        ],
         "age": 68,
         "death": ""
       }
@@ -14001,7 +14363,9 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
         "age": 17,
         "death": ""
       }
