@@ -2520,7 +2520,7 @@
         "id": "case-94",
         "title": "Case 94",
         "confirmed": "2020-02-26",
-        "discharged": "",
+        "discharged": "2020-03-24",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-new-cases-discharged-feb-27-moh-12475870",
         "nationality": "Singapore Citizen",
@@ -3773,7 +3773,7 @@
         "id": "case-140",
         "title": "Case 140",
         "confirmed": "2020-03-07",
-        "discharged": "",
+        "discharged": "2020-03-24",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
@@ -10158,7 +10158,7 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
-        "nationality": "Singapore Citizen",
+        "nationality": "Australian",
         "residenceAreas": [],
         "placesVisited": [],
         "age": 53,
@@ -11642,8 +11642,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.949581,
+          1.340227
         ]
       },
       "properties": {
@@ -11665,8 +11665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.949581,
+          1.340227
         ]
       },
       "properties": {
@@ -11711,8 +11711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.80127,
+          1.286607
         ]
       },
       "properties": {
@@ -11734,8 +11734,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.783272,
+          1.293685
         ]
       },
       "properties": {
@@ -11757,8 +11757,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.783272,
+          1.293685
         ]
       },
       "properties": {
@@ -11780,8 +11780,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.949581,
+          1.340227
         ]
       },
       "properties": {
@@ -11803,8 +11803,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.745359,
+          1.333777
         ]
       },
       "properties": {
@@ -11826,8 +11826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.745359,
+          1.333777
         ]
       },
       "properties": {
@@ -12171,8 +12171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.783272,
+          1.293685
         ]
       },
       "properties": {
@@ -12194,8 +12194,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.838147,
+          1.424575
         ]
       },
       "properties": {
@@ -12378,8 +12378,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.893408,
+          1.395467
         ]
       },
       "properties": {
@@ -12424,8 +12424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.80127,
+          1.286607
         ]
       },
       "properties": {
@@ -12876,6 +12876,1133 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 53,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-510",
+        "title": "Case 510",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 52,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-511",
+        "title": "Case 511",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 53,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-512",
+        "title": "Case 512",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-513",
+        "title": "Case 513",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-514",
+        "title": "Case 514",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Indian",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 18,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-515",
+        "title": "Case 515",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-516",
+        "title": "Case 516",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 42,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-517",
+        "title": "Case 517",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-518",
+        "title": "Case 518",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Australian (Long Term Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 46,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-519",
+        "title": "Case 519",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "German",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-520",
+        "title": "Case 520",
+        "confirmed": "2020-03-23",
+        "discharged": "2020-03-24",
+        "hospital": "",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 71,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-521",
+        "title": "Case 521",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-522",
+        "title": "Case 522",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 45,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-523",
+        "title": "Case 523",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Filipino (Long Term Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 9,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-524",
+        "title": "Case 524",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 61,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-525",
+        "title": "Case 525",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 64,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-526",
+        "title": "Case 526",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-527",
+        "title": "Case 527",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-528",
+        "title": "Case 528",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 50,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-529",
+        "title": "Case 529",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 19,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-530",
+        "title": "Case 530",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-531",
+        "title": "Case 531",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Indian (Singapore Work Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 43,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-532",
+        "title": "Case 532",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-533",
+        "title": "Case 533",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 61,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-534",
+        "title": "Case 534",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "UK (Singapore Work Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-535",
+        "title": "Case 535",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 61,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.837691,
+          1.341861
+        ]
+      },
+      "properties": {
+        "id": "case-536",
+        "title": "Case 536",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "Mount Alvernia Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 86,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-537",
+        "title": "Case 537",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-538",
+        "title": "Case 538",
+        "confirmed": "2020-03-23",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 50,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-539",
+        "title": "Case 539",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 74,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-540",
+        "title": "Case 540",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-541",
+        "title": "Case 541",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 20,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-542",
+        "title": "Case 542",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-543",
+        "title": "Case 543",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 19,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-544",
+        "title": "Case 544",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 55,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-545",
+        "title": "Case 545",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Indonesian (Long Term Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 75,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-546",
+        "title": "Case 546",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-547",
+        "title": "Case 547",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-548",
+        "title": "Case 548",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-549",
+        "title": "Case 549",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-550",
+        "title": "Case 550",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-551",
+        "title": "Case 551",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-552",
+        "title": "Case 552",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-553",
+        "title": "Case 553",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 57,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-554",
+        "title": "Case 554",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Malaysian (Long Term Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-555",
+        "title": "Case 555",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-556",
+        "title": "Case 556",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "UK (Singapore Work Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-557",
+        "title": "Case 557",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 68,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-558",
+        "title": "Case 558",
+        "confirmed": "2020-03-24",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 17,
         "death": ""
       }
     }
