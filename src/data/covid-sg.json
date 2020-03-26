@@ -3748,7 +3748,7 @@
         "id": "case-139",
         "title": "Case 139",
         "confirmed": "2020-03-07",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-cases-safra-jurong-singapore-12515592",
         "nationality": "Singapore Citizen",
@@ -4228,7 +4228,7 @@
         "id": "case-157",
         "title": "Case 157",
         "confirmed": "2020-03-09",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Permanent Resident",
@@ -5160,7 +5160,7 @@
         "id": "case-192",
         "title": "Case 192",
         "confirmed": "2020-03-13",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "American",
@@ -5288,7 +5288,7 @@
         "id": "case-197",
         "title": "Case 197",
         "confirmed": "2020-03-13",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-singapore-moh-update-mar-13-new-cases-12535314",
         "nationality": "Singapore Citizen",
@@ -5984,7 +5984,7 @@
         "id": "case-223",
         "title": "Case 223",
         "confirmed": "2020-03-15",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
@@ -6230,7 +6230,7 @@
         "id": "case-232",
         "title": "Case 232",
         "confirmed": "2020-03-15",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
         "nationality": "Australian (Singapore Work Pass Holder)",
@@ -6364,7 +6364,7 @@
         "id": "case-237",
         "title": "Case 237",
         "confirmed": "2020-03-16",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
         "nationality": "Indonesian (Singapore Work Pass Holder)",
@@ -6524,7 +6524,7 @@
         "id": "case-243",
         "title": "Case 243",
         "confirmed": "2020-03-16",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
         "nationality": "Singapore Citizen",
@@ -7419,7 +7419,7 @@
         "id": "case-278",
         "title": "Case 278",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
         "nationality": "American",
@@ -9292,7 +9292,7 @@
         "id": "case-353",
         "title": "Case 353",
         "confirmed": "2020-03-19",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
@@ -9890,7 +9890,7 @@
         "id": "case-377",
         "title": "Case 377",
         "confirmed": "2020-03-20",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
@@ -13034,7 +13034,7 @@
         "id": "case-504",
         "title": "Case 504",
         "confirmed": "2020-03-23",
-        "discharged": "",
+        "discharged": "2020-03-26",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
@@ -16042,6 +16042,1202 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-632",
+        "title": "Case 632",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-633",
+        "title": "Case 633",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-634",
+        "title": "Case 634",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-635",
+        "title": "Case 635",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-636",
+        "title": "Case 636",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-637",
+        "title": "Case 637",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-638",
+        "title": "Case 638",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-639",
+        "title": "Case 639",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-640",
+        "title": "Case 640",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-641",
+        "title": "Case 641",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-642",
+        "title": "Case 642",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-643",
+        "title": "Case 643",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-644",
+        "title": "Case 644",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-645",
+        "title": "Case 645",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-646",
+        "title": "Case 646",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-647",
+        "title": "Case 647",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-648",
+        "title": "Case 648",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-649",
+        "title": "Case 649",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-650",
+        "title": "Case 650",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-651",
+        "title": "Case 651",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-652",
+        "title": "Case 652",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-653",
+        "title": "Case 653",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-654",
+        "title": "Case 654",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-655",
+        "title": "Case 655",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-656",
+        "title": "Case 656",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-657",
+        "title": "Case 657",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-658",
+        "title": "Case 658",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-659",
+        "title": "Case 659",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-660",
+        "title": "Case 660",
+        "confirmed": "2020-03-25",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-661",
+        "title": "Case 661",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-662",
+        "title": "Case 662",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-663",
+        "title": "Case 663",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-664",
+        "title": "Case 664",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-665",
+        "title": "Case 665",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-666",
+        "title": "Case 666",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-667",
+        "title": "Case 667",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-668",
+        "title": "Case 668",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-669",
+        "title": "Case 669",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-670",
+        "title": "Case 670",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-671",
+        "title": "Case 671",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-672",
+        "title": "Case 672",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-673",
+        "title": "Case 673",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-674",
+        "title": "Case 674",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-675",
+        "title": "Case 675",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-676",
+        "title": "Case 676",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-677",
+        "title": "Case 677",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-678",
+        "title": "Case 678",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-679",
+        "title": "Case 679",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-680",
+        "title": "Case 680",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-681",
+        "title": "Case 681",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-682",
+        "title": "Case 682",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-683",
+        "title": "Case 683",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
         "nationality": "",
         "residenceAreas": [],
         "placesVisited": [],
