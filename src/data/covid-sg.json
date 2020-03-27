@@ -4285,7 +4285,7 @@
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
-          "Pending Road"
+          "0 Road"
         ],
         "placesVisited": [
           "Farrer Park Hospital (1 Farrer Park)"
@@ -11551,9 +11551,7 @@
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [
-          "0"
-        ],
+        "placesVisited": [],
         "age": 44,
         "death": ""
       }
@@ -14386,10 +14384,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 22,
         "death": ""
       }
     },
@@ -14409,10 +14409,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 24,
         "death": ""
       }
     },
@@ -14432,10 +14434,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "France"
+        ],
+        "age": 30,
         "death": ""
       }
     },
@@ -14455,10 +14459,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 28,
         "death": ""
       }
     },
@@ -14478,10 +14484,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 25,
         "death": ""
       }
     },
@@ -14501,10 +14509,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "French (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 29,
         "death": ""
       }
     },
@@ -14524,10 +14532,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 46,
         "death": ""
       }
     },
@@ -14547,10 +14557,12 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 67,
         "death": ""
       }
     },
@@ -14570,10 +14582,12 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 70,
         "death": ""
       }
     },
@@ -14593,10 +14607,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 30,
         "death": ""
       }
     },
@@ -14616,10 +14632,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 22,
         "death": ""
       }
     },
@@ -14639,10 +14657,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 50,
         "death": ""
       }
     },
@@ -14662,10 +14680,12 @@
         "discharged": "",
         "hospital": " Mount Elizabeth Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "British",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 52,
         "death": ""
       }
     },
@@ -14685,10 +14705,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 26,
         "death": ""
       }
     },
@@ -14708,10 +14728,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 45,
         "death": ""
       }
     },
@@ -14731,10 +14751,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 24,
         "death": ""
       }
     },
@@ -14754,10 +14774,10 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 28,
         "death": ""
       }
     },
@@ -14777,10 +14797,12 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -14803,7 +14825,7 @@
         "nationality": "",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 37,
         "death": ""
       }
     },
@@ -14823,10 +14845,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 11,
         "death": ""
       }
     },
@@ -14846,10 +14868,12 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 25,
         "death": ""
       }
     },
@@ -14869,10 +14893,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "American (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 35,
         "death": ""
       }
     },
@@ -14892,10 +14916,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 47,
         "death": ""
       }
     },
@@ -14915,10 +14939,12 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 3,
         "death": ""
       }
     },
@@ -14938,10 +14964,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 61,
         "death": ""
       }
     },
@@ -14961,10 +14987,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 37,
         "death": ""
       }
     },
@@ -14984,10 +15010,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 38,
         "death": ""
       }
     },
@@ -15007,10 +15033,10 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 51,
         "death": ""
       }
     },
@@ -15030,10 +15056,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 25,
         "death": ""
       }
     },
@@ -15053,10 +15081,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "British (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 62,
         "death": ""
       }
     },
@@ -15076,10 +15106,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 47,
         "death": ""
       }
     },
@@ -15099,10 +15129,12 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -15122,10 +15154,12 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Portugal"
+        ],
+        "age": 64,
         "death": ""
       }
     },
@@ -15145,10 +15179,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 24,
         "death": ""
       }
     },
@@ -15168,10 +15204,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 24,
         "death": ""
       }
     },
@@ -15191,10 +15229,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Chinese (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 23,
         "death": ""
       }
     },
@@ -15214,10 +15252,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 19,
         "death": ""
       }
     },
@@ -15237,10 +15275,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 35,
         "death": ""
       }
     },
@@ -15260,10 +15300,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 50,
         "death": ""
       }
     },
@@ -15283,10 +15323,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Indian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 35,
         "death": ""
       }
     },
@@ -15306,10 +15346,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 32,
         "death": ""
       }
     },
@@ -15352,10 +15394,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 47,
         "death": ""
       }
     },
@@ -15375,10 +15417,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 56,
         "death": ""
       }
     },
@@ -15398,10 +15440,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 23,
         "death": ""
       }
     },
@@ -15421,10 +15463,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Filipino (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 36,
         "death": ""
       }
     },
@@ -15444,10 +15486,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 29,
         "death": ""
       }
     },
@@ -15467,10 +15509,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 55,
         "death": ""
       }
     },
@@ -15490,10 +15532,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 40,
         "death": ""
       }
     },
@@ -15513,10 +15557,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "French (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Canada"
+        ],
+        "age": 18,
         "death": ""
       }
     },
@@ -15536,10 +15582,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 30,
         "death": ""
       }
     },
@@ -15559,10 +15605,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 25,
         "death": ""
       }
     },
@@ -15582,10 +15628,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 24,
         "death": ""
       }
     },
@@ -15605,10 +15653,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -15628,10 +15676,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Thailand"
+        ],
+        "age": 62,
         "death": ""
       }
     },
@@ -15651,10 +15701,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 62,
         "death": ""
       }
     },
@@ -15674,10 +15724,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Germany"
+        ],
+        "age": 44,
         "death": ""
       }
     },
@@ -15697,10 +15749,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 39,
         "death": ""
       }
     },
@@ -15720,10 +15774,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 26,
         "death": ""
       }
     },
@@ -15743,10 +15797,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "UK (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 29,
         "death": ""
       }
     },
@@ -15766,10 +15820,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 65,
         "death": ""
       }
     },
@@ -15789,10 +15843,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 18,
         "death": ""
       }
     },
@@ -15812,10 +15868,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 50,
         "death": ""
       }
     },
@@ -15835,10 +15891,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 27,
         "death": ""
       }
     },
@@ -15858,10 +15916,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Indonesian (Long Term Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 58,
         "death": ""
       }
     },
@@ -15881,10 +15941,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 48,
         "death": ""
       }
     },
@@ -15904,10 +15964,12 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Philippines"
+        ],
+        "age": 27,
         "death": ""
       }
     },
@@ -15927,10 +15989,10 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "UK (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 44,
         "death": ""
       }
     },
@@ -15950,10 +16012,12 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 18,
         "death": ""
       }
     },
@@ -15973,10 +16037,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 23,
         "death": ""
       }
     },
@@ -15996,10 +16062,12 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Pakistan"
+        ],
+        "age": 46,
         "death": ""
       }
     },
@@ -16019,10 +16087,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 43,
         "death": ""
       }
     },
@@ -16042,10 +16110,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Indian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 3,
         "death": ""
       }
     },
@@ -16065,10 +16133,10 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 32,
         "death": ""
       }
     },
@@ -16088,10 +16156,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 35,
         "death": ""
       }
     },
@@ -16111,10 +16181,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Taiwan",
+          "Philippines"
+        ],
+        "age": 42,
         "death": ""
       }
     },
@@ -16134,10 +16207,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -16157,10 +16232,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 22,
         "death": ""
       }
     },
@@ -16180,10 +16257,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Chinese (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 24,
         "death": ""
       }
     },
@@ -16203,10 +16280,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 49,
         "death": ""
       }
     },
@@ -16226,10 +16303,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 40,
         "death": ""
       }
     },
@@ -16249,10 +16328,14 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UAE",
+          "UK",
+          "Gemany"
+        ],
+        "age": 18,
         "death": ""
       }
     },
@@ -16272,10 +16355,14 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UAE",
+          "UK",
+          "Gemany"
+        ],
+        "age": 55,
         "death": ""
       }
     },
@@ -16295,10 +16382,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 19,
         "death": ""
       }
     },
@@ -16318,10 +16407,10 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 51,
         "death": ""
       }
     },
@@ -16341,10 +16430,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 52,
         "death": ""
       }
     },
@@ -16364,10 +16453,13 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Thailand",
+          "Malaysia"
+        ],
+        "age": 27,
         "death": ""
       }
     },
@@ -16387,10 +16479,12 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 56,
         "death": ""
       }
     },
@@ -16410,10 +16504,12 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 46,
         "death": ""
       }
     },
@@ -16433,10 +16529,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "French (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Sri Lanka"
+        ],
+        "age": 26,
         "death": ""
       }
     },
@@ -16456,10 +16554,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Australia"
+        ],
+        "age": 36,
         "death": ""
       }
     },
@@ -16479,10 +16579,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 19,
         "death": ""
       }
     },
@@ -16502,10 +16604,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Thailand"
+        ],
+        "age": 31,
         "death": ""
       }
     },
@@ -16525,10 +16629,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Australian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 37,
         "death": ""
       }
     },
@@ -16548,10 +16652,12 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 25,
         "death": ""
       }
     },
@@ -16571,10 +16677,13 @@
         "discharged": "",
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Italy",
+          "Switzerland"
+        ],
+        "age": 66,
         "death": ""
       }
     },
@@ -16594,10 +16703,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Indian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 30,
         "death": ""
       }
     },
@@ -16617,10 +16726,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 30,
         "death": ""
       }
     },
@@ -16640,10 +16749,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "British (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 46,
         "death": ""
       }
     },
@@ -16663,10 +16772,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Bangladeshi (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 28,
         "death": ""
       }
     },
@@ -16686,10 +16795,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 27,
         "death": ""
       }
     },
@@ -16709,10 +16818,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Filipino (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -16732,10 +16841,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 44,
         "death": ""
       }
     },
@@ -16755,10 +16864,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "British (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 42,
         "death": ""
       }
     },
@@ -16778,10 +16889,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -16801,10 +16914,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "American",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 38,
         "death": ""
       }
     },
@@ -16824,10 +16937,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -16847,10 +16962,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 32,
         "death": ""
       }
     },
@@ -16870,10 +16985,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 40,
         "death": ""
       }
     },
@@ -16893,10 +17010,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Indian (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "India"
+        ],
+        "age": 31,
         "death": ""
       }
     },
@@ -16916,10 +17035,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "British (Singapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "France"
+        ],
+        "age": 54,
         "death": ""
       }
     },
@@ -16939,10 +17060,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Australian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 34,
         "death": ""
       }
     },
@@ -16962,10 +17083,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 29,
         "death": ""
       }
     },
@@ -16985,10 +17108,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 24,
         "death": ""
       }
     },
@@ -17008,10 +17133,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "USA"
+        ],
+        "age": 27,
         "death": ""
       }
     },
@@ -17031,10 +17158,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 59,
         "death": ""
       }
     },
@@ -17054,10 +17183,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 51,
         "death": ""
       }
     },
@@ -17077,10 +17206,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Thailand"
+        ],
+        "age": 29,
         "death": ""
       }
     },
@@ -17100,10 +17231,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 40,
         "death": ""
       }
     },
@@ -17123,10 +17254,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 71,
         "death": ""
       }
     },
@@ -17146,10 +17277,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "American (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 45,
         "death": ""
       }
     },
@@ -17169,10 +17300,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "British",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 19,
         "death": ""
       }
     },
@@ -17192,10 +17323,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "New Zealander (Sinapore Work Pass Holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Indonesian"
+        ],
+        "age": 42,
         "death": ""
       }
     },
@@ -17215,10 +17348,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -17238,10 +17371,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 40,
         "death": ""
       }
     }
