@@ -4122,7 +4122,7 @@
         "id": "case-153",
         "title": "Case 153",
         "confirmed": "2020-03-08",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
@@ -4280,7 +4280,7 @@
         "id": "case-159",
         "title": "Case 159",
         "confirmed": "2020-03-09",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
@@ -5790,7 +5790,7 @@
         "id": "case-216",
         "title": "Case 216",
         "confirmed": "2020-03-14",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
@@ -5869,7 +5869,7 @@
         "id": "case-219",
         "title": "Case 219",
         "confirmed": "2020-03-15",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
@@ -6285,7 +6285,7 @@
         "id": "case-234",
         "title": "Case 234",
         "confirmed": "2020-03-16",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
         "nationality": "Singapore Citizen",
@@ -6740,7 +6740,7 @@
         "id": "case-251",
         "title": "Case 251",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Singapore Citizen",
@@ -6938,7 +6938,7 @@
         "id": "case-259",
         "title": "Case 259",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Singapore Citizen",
@@ -8048,7 +8048,7 @@
         "id": "case-303",
         "title": "Case 303",
         "confirmed": "2020-03-18",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
         "nationality": "Malaysian (Singapore Long Term Pass Holder)",
@@ -8850,7 +8850,7 @@
         "id": "case-335",
         "title": "Case 335",
         "confirmed": "2020-03-19",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
         "nationality": "Singapore Citizen",
@@ -10359,7 +10359,7 @@
         "id": "case-396",
         "title": "Case 396",
         "confirmed": "2020-03-20",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
@@ -13934,7 +13934,7 @@
         "id": "case-541",
         "title": "Case 541",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-03-27",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
@@ -17375,6 +17375,1133 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-684",
+        "title": "Case 684",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-685",
+        "title": "Case 685",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-686",
+        "title": "Case 686",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-687",
+        "title": "Case 687",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-688",
+        "title": "Case 688",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-689",
+        "title": "Case 689",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-690",
+        "title": "Case 690",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-691",
+        "title": "Case 691",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-692",
+        "title": "Case 692",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-693",
+        "title": "Case 693",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-694",
+        "title": "Case 694",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-695",
+        "title": "Case 695",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-696",
+        "title": "Case 696",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83548,
+          1.305598
+        ]
+      },
+      "properties": {
+        "id": "case-697",
+        "title": "Case 697",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Mount Elizabeth Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83548,
+          1.305598
+        ]
+      },
+      "properties": {
+        "id": "case-698",
+        "title": "Case 698",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Mount Elizabeth Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-699",
+        "title": "Case 699",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-700",
+        "title": "Case 700",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-701",
+        "title": "Case 701",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-702",
+        "title": "Case 702",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-703",
+        "title": "Case 703",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-704",
+        "title": "Case 704",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-705",
+        "title": "Case 705",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-706",
+        "title": "Case 706",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-707",
+        "title": "Case 707",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-708",
+        "title": "Case 708",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-709",
+        "title": "Case 709",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-710",
+        "title": "Case 710",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-711",
+        "title": "Case 711",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-712",
+        "title": "Case 712",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-713",
+        "title": "Case 713",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-714",
+        "title": "Case 714",
+        "confirmed": "2020-03-26",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-715",
+        "title": "Case 715",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-716",
+        "title": "Case 716",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-717",
+        "title": "Case 717",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-718",
+        "title": "Case 718",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-719",
+        "title": "Case 719",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-720",
+        "title": "Case 720",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-721",
+        "title": "Case 721",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-722",
+        "title": "Case 722",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-723",
+        "title": "Case 723",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-724",
+        "title": "Case 724",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-725",
+        "title": "Case 725",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-726",
+        "title": "Case 726",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-727",
+        "title": "Case 727",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-728",
+        "title": "Case 728",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-729",
+        "title": "Case 729",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-730",
+        "title": "Case 730",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-731",
+        "title": "Case 731",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-732",
+        "title": "Case 732",
+        "confirmed": "2020-03-27",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
         "death": ""
       }
     }
