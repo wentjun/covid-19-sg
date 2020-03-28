@@ -4285,7 +4285,7 @@
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-covid-19-cases-moh-mar-9-12518318",
         "nationality": "Singapore Citizen",
         "residenceAreas": [
-          "0 Road"
+          "Pending Road"
         ],
         "placesVisited": [
           "Farrer Park Hospital (1 Farrer Park)"
@@ -15371,10 +15371,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 66,
         "death": ""
       }
     },
@@ -17323,7 +17323,7 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
-        "nationality": "New Zealander (Sinapore Work Pass Holder)",
+        "nationality": "New Zealander (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [
           "Indonesian"
@@ -17394,10 +17394,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -17417,10 +17419,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "New Zealander (Long Term Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 59,
         "death": ""
       }
     },
@@ -17440,10 +17442,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "UK (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 37,
         "death": ""
       }
     },
@@ -17463,10 +17465,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 77,
         "death": ""
       }
     },
@@ -17486,10 +17488,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 76,
         "death": ""
       }
     },
@@ -17509,10 +17511,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 76,
         "death": ""
       }
     },
@@ -17532,10 +17534,13 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Thailand",
+          "Malaysia"
+        ],
+        "age": 31,
         "death": ""
       }
     },
@@ -17555,10 +17560,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "UK (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 39,
         "death": ""
       }
     },
@@ -17578,10 +17583,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 67,
         "death": ""
       }
     },
@@ -17601,10 +17608,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 30,
         "death": ""
       }
     },
@@ -17624,10 +17631,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 41,
         "death": ""
       }
     },
@@ -17647,10 +17654,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Indian",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 1,
         "death": ""
       }
     },
@@ -17670,10 +17677,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 54,
         "death": ""
       }
     },
@@ -17693,10 +17700,10 @@
         "discharged": "",
         "hospital": "Mount Elizabeth Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 57,
         "death": ""
       }
     },
@@ -17716,10 +17723,10 @@
         "discharged": "",
         "hospital": "Mount Elizabeth Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 60,
         "death": ""
       }
     },
@@ -17739,10 +17746,10 @@
         "discharged": "",
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 53,
         "death": ""
       }
     },
@@ -17762,10 +17769,12 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Europe"
+        ],
+        "age": 55,
         "death": ""
       }
     },
@@ -17785,10 +17794,12 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 50,
         "death": ""
       }
     },
@@ -17808,10 +17819,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Europe"
+        ],
+        "age": 61,
         "death": ""
       }
     },
@@ -17831,10 +17844,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Europe"
+        ],
+        "age": 58,
         "death": ""
       }
     },
@@ -17854,10 +17869,12 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Europe"
+        ],
+        "age": 19,
         "death": ""
       }
     },
@@ -17877,10 +17894,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 2,
         "death": ""
       }
     },
@@ -17900,10 +17917,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 6,
         "death": ""
       }
     },
@@ -17923,10 +17940,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 11,
         "death": ""
       }
     },
@@ -17946,10 +17963,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 13,
         "death": ""
       }
     },
@@ -17969,10 +17986,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 26,
         "death": ""
       }
     },
@@ -17992,10 +18009,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 28,
         "death": ""
       }
     },
@@ -18015,10 +18032,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Europe"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -18038,10 +18057,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Europe"
+        ],
+        "age": 38,
         "death": ""
       }
     },
@@ -18061,10 +18082,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "UK (Long Term Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 59,
         "death": ""
       }
     },
@@ -18084,10 +18105,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "South Korean (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 27,
         "death": ""
       }
     },
@@ -18107,10 +18128,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 71,
         "death": ""
       }
     },
@@ -18130,10 +18153,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 67,
         "death": ""
       }
     },
@@ -18153,10 +18176,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Indian (Long Term Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 19,
         "death": ""
       }
     },
@@ -18176,10 +18199,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 33,
         "death": ""
       }
     },
@@ -18199,10 +18222,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 29,
         "death": ""
       }
     },
@@ -18222,10 +18247,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Indonesian",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 20,
         "death": ""
       }
     },
@@ -18245,10 +18272,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 68,
         "death": ""
       }
     },
@@ -18268,10 +18295,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 56,
         "death": ""
       }
     },
@@ -18291,10 +18318,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 27,
         "death": ""
       }
     },
@@ -18314,10 +18343,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 29,
         "death": ""
       }
     },
@@ -18337,10 +18366,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 23,
         "death": ""
       }
     },
@@ -18360,10 +18391,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 59,
         "death": ""
       }
     },
@@ -18383,10 +18414,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 59,
         "death": ""
       }
     },
@@ -18406,10 +18439,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -18429,10 +18462,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 53,
         "death": ""
       }
     },
@@ -18452,10 +18485,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 26,
         "death": ""
       }
     },
@@ -18475,10 +18508,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 32,
         "death": ""
       }
     },
@@ -18498,10 +18531,12 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 23,
         "death": ""
       }
     }
