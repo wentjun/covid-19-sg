@@ -18556,10 +18556,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Australian",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US",
+          "UK"
+        ],
+        "age": 52,
         "death": ""
       }
     },
@@ -18579,10 +18582,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 31,
         "death": ""
       }
     },
@@ -18602,10 +18605,12 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Irish (Singapore Work Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Vietnam"
+        ],
+        "age": 29,
         "death": ""
       }
     },
@@ -18625,10 +18630,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "French (Long Term Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 43,
         "death": ""
       }
     },
@@ -18648,10 +18655,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 28,
         "death": ""
       }
     },
@@ -18671,10 +18680,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 57,
         "death": ""
       }
     },
@@ -18694,10 +18705,12 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 30,
         "death": ""
       }
     },
@@ -18717,10 +18730,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Chinese (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 25,
         "death": ""
       }
     },
@@ -18740,10 +18753,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 42,
         "death": ""
       }
     },
@@ -18763,10 +18776,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 39,
         "death": ""
       }
     },
@@ -18786,10 +18799,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 69,
         "death": ""
       }
     },
@@ -18809,10 +18824,12 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 40,
         "death": ""
       }
     },
@@ -18832,10 +18849,10 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 36,
         "death": ""
       }
     },
@@ -18855,10 +18872,10 @@
         "discharged": "",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 38,
         "death": ""
       }
     },
@@ -18878,10 +18895,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 51,
         "death": ""
       }
     },
@@ -18901,10 +18918,10 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 36,
         "death": ""
       }
     },
@@ -18924,10 +18941,12 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 24,
         "death": ""
       }
     },
@@ -18947,10 +18966,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -18970,10 +18989,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 71,
         "death": ""
       }
     },
@@ -18993,10 +19012,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 70,
         "death": ""
       }
     },
@@ -19016,10 +19035,12 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Canada"
+        ],
+        "age": 24,
         "death": ""
       }
     },
@@ -19039,10 +19060,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 22,
         "death": ""
       }
     },
@@ -19062,10 +19085,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Laos"
+        ],
+        "age": 25,
         "death": ""
       }
     },
@@ -19085,10 +19110,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 42,
         "death": ""
       }
     },
@@ -19108,10 +19133,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -19131,10 +19156,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 23,
         "death": ""
       }
     },
@@ -19154,10 +19181,13 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK",
+          "France"
+        ],
+        "age": 1,
         "death": ""
       }
     },
@@ -19177,10 +19207,12 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Turkey"
+        ],
+        "age": 64,
         "death": ""
       }
     },
@@ -19200,10 +19232,10 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "South African (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 36,
         "death": ""
       }
     },
@@ -19223,10 +19255,12 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Indian (Long Term Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -19246,10 +19280,12 @@
         "discharged": "",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -19269,10 +19305,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Spanish (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 51,
         "death": ""
       }
     },
@@ -19292,10 +19328,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 31,
         "death": ""
       }
     },
@@ -19315,10 +19351,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 50,
         "death": ""
       }
     },
@@ -19338,10 +19374,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 28,
         "death": ""
       }
     },
@@ -19361,10 +19397,10 @@
         "discharged": "",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 42,
         "death": ""
       }
     },
@@ -19384,10 +19420,12 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Pakistan"
+        ],
+        "age": 44,
         "death": ""
       }
     },
@@ -19407,10 +19445,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 47,
         "death": ""
       }
     },
@@ -19430,10 +19470,13 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK",
+          "Portugal"
+        ],
+        "age": 30,
         "death": ""
       }
     },
@@ -19453,10 +19496,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 43,
         "death": ""
       }
     },
@@ -19476,10 +19521,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Indian (Long Term Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 55,
         "death": ""
       }
     },
@@ -19499,10 +19544,12 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "US"
+        ],
+        "age": 24,
         "death": ""
       }
     },
@@ -19522,10 +19569,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 29,
         "death": ""
       }
     },
@@ -19545,10 +19592,10 @@
         "discharged": "",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 35,
         "death": ""
       }
     },
@@ -19568,10 +19615,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "France"
+        ],
+        "age": 29,
         "death": ""
       }
     },
@@ -19591,10 +19640,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -19614,10 +19665,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 55,
         "death": ""
       }
     },
@@ -19637,10 +19688,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Filippino (Singapore Work Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 50,
         "death": ""
       }
     },
@@ -19660,10 +19711,12 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Philippines"
+        ],
+        "age": 43,
         "death": ""
       }
     },
@@ -19683,10 +19736,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21,
         "death": ""
       }
     },
@@ -19706,10 +19761,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 19,
         "death": ""
       }
     },
@@ -19729,10 +19786,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 23,
         "death": ""
       }
     },
@@ -19752,10 +19811,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 31,
         "death": ""
       }
     },
@@ -19775,10 +19834,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 51,
         "death": ""
       }
     },
@@ -19798,10 +19857,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 40,
         "death": ""
       }
     },
@@ -19821,10 +19882,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 57,
         "death": ""
       }
     },
@@ -19844,10 +19905,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 50,
         "death": ""
       }
     },
@@ -19867,10 +19928,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 60,
         "death": ""
       }
     },
@@ -19890,10 +19951,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Indonesian (Long Term Pass holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 40,
         "death": ""
       }
     },
@@ -19913,10 +19974,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Permanent Resident",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 50,
         "death": ""
       }
     },
@@ -19936,10 +19997,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 23,
         "death": ""
       }
     },
@@ -19962,7 +20023,7 @@
         "nationality": "",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 22,
         "death": ""
       }
     },
@@ -19982,10 +20043,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 18,
         "death": ""
       }
     },
@@ -20005,10 +20066,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Malaysian (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 26,
         "death": ""
       }
     },
@@ -20028,10 +20089,10 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Indonesian (Long Term Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 35,
         "death": ""
       }
     },
@@ -20051,10 +20112,12 @@
         "discharged": "",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "Turkey"
+        ],
+        "age": 29,
         "death": ""
       }
     },
@@ -20074,10 +20137,10 @@
         "discharged": "",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 39,
         "death": ""
       }
     },
@@ -20097,10 +20160,12 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
-        "placesVisited": [],
-        "age": "",
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 22,
         "death": ""
       }
     },
@@ -20120,10 +20185,10 @@
         "discharged": "",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Myanmar (Singapore Work Pass Holder)",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 39,
         "death": ""
       }
     },
@@ -20143,10 +20208,10 @@
         "discharged": "",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
-        "nationality": "",
+        "nationality": "Singapore Citizen",
         "residenceAreas": [],
         "placesVisited": [],
-        "age": "",
+        "age": 28,
         "death": ""
       }
     }
