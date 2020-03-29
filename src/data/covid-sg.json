@@ -5518,7 +5518,7 @@
         "id": "case-206",
         "title": "Case 206",
         "confirmed": "2020-03-14",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-singapore-health-march-14-12538392",
         "nationality": "New Zealander (Singapore Long Term Visit Pass Holder)",
@@ -6763,7 +6763,7 @@
         "id": "case-252",
         "title": "Case 252",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Singapore Citizen",
@@ -7190,7 +7190,7 @@
         "id": "case-269",
         "title": "Case 269",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
         "nationality": "Singapore Citizen",
@@ -8327,7 +8327,7 @@
         "id": "case-314",
         "title": "Case 314",
         "confirmed": "2020-03-18",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
         "nationality": "Singapore Citizen",
@@ -8727,7 +8727,7 @@
         "id": "case-330",
         "title": "Case 330",
         "confirmed": "2020-03-19",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
         "nationality": "Singapore Citizen",
@@ -9120,7 +9120,7 @@
         "id": "case-346",
         "title": "Case 346",
         "confirmed": "2020-03-19",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
@@ -9815,7 +9815,7 @@
         "id": "case-374",
         "title": "Case 374",
         "confirmed": "2020-03-20",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
@@ -10015,7 +10015,7 @@
         "id": "case-382",
         "title": "Case 382",
         "confirmed": "2020-03-20",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
@@ -11025,7 +11025,7 @@
         "id": "case-423",
         "title": "Case 423",
         "confirmed": "2020-03-21",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
@@ -11100,7 +11100,7 @@
         "id": "case-426",
         "title": "Case 426",
         "confirmed": "2020-03-21",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
@@ -11297,7 +11297,7 @@
         "id": "case-434",
         "title": "Case 434",
         "confirmed": "2020-03-21",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
@@ -12982,7 +12982,7 @@
         "id": "case-502",
         "title": "Case 502",
         "confirmed": "2020-03-22",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Indian (Long Term Pass Holder)",
@@ -15211,7 +15211,7 @@
         "id": "case-593",
         "title": "Case 593",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
         "nationality": "Singapore Citizen",
@@ -15405,7 +15405,7 @@
         "id": "case-601",
         "title": "Case 601",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-03-29",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
         "nationality": "Singapore Citizen",
@@ -20244,6 +20244,972 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-803",
+        "title": "Case 803",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-804",
+        "title": "Case 804",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-805",
+        "title": "Case 805",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-806",
+        "title": "Case 806",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-807",
+        "title": "Case 807",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-808",
+        "title": "Case 808",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-809",
+        "title": "Case 809",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-810",
+        "title": "Case 810",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-811",
+        "title": "Case 811",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-812",
+        "title": "Case 812",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-813",
+        "title": "Case 813",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-814",
+        "title": "Case 814",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-815",
+        "title": "Case 815",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-816",
+        "title": "Case 816",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-817",
+        "title": "Case 817",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-818",
+        "title": "Case 818",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-819",
+        "title": "Case 819",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-820",
+        "title": "Case 820",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-821",
+        "title": "Case 821",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-822",
+        "title": "Case 822",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-823",
+        "title": "Case 823",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-824",
+        "title": "Case 824",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-825",
+        "title": "Case 825",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-826",
+        "title": "Case 826",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-827",
+        "title": "Case 827",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-828",
+        "title": "Case 828",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-829",
+        "title": "Case 829",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-830",
+        "title": "Case 830",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-831",
+        "title": "Case 831",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-832",
+        "title": "Case 832",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-833",
+        "title": "Case 833",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-834",
+        "title": "Case 834",
+        "confirmed": "2020-03-28",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-835",
+        "title": "Case 835",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-836",
+        "title": "Case 836",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-837",
+        "title": "Case 837",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-838",
+        "title": "Case 838",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-839",
+        "title": "Case 839",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-840",
+        "title": "Case 840",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-841",
+        "title": "Case 841",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-842",
+        "title": "Case 842",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-843",
+        "title": "Case 843",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-844",
+        "title": "Case 844",
+        "confirmed": "2020-03-29",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
+        "nationality": "",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": "",
         "death": ""
       }
     }
