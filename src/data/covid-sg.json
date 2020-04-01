@@ -5954,7 +5954,7 @@
         "id": "case-222",
         "title": "Case 222",
         "confirmed": "2020-03-15",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "French (Singapore Work Pass Holder)",
@@ -6497,7 +6497,7 @@
         "id": "case-242",
         "title": "Case 242",
         "confirmed": "2020-03-16",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-moh-17-new-cases-imported-covid-19-largest-increase-12542378",
         "nationality": "Singapore Citizen",
@@ -6664,7 +6664,7 @@
         "id": "case-248",
         "title": "Case 248",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Malaysian (Singapore Work Pass Holder)",
@@ -7012,7 +7012,7 @@
         "id": "case-262",
         "title": "Case 262",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Indonesian",
@@ -7721,7 +7721,7 @@
         "id": "case-290",
         "title": "Case 290",
         "confirmed": "2020-03-18",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
         "nationality": "Singapore Citizen",
@@ -7921,7 +7921,7 @@
         "id": "case-298",
         "title": "Case 298",
         "confirmed": "2020-03-18",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
         "nationality": "Singapore Citizen",
@@ -8425,7 +8425,7 @@
         "id": "case-318",
         "title": "Case 318",
         "confirmed": "2020-03-18",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
         "nationality": "Chinese (Singapore Long Term Pass Holder)",
@@ -10702,7 +10702,7 @@
         "id": "case-410",
         "title": "Case 410",
         "confirmed": "2020-03-21",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
@@ -11986,7 +11986,7 @@
         "id": "case-462",
         "title": "Case 462",
         "confirmed": "2020-03-22",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
@@ -14660,7 +14660,7 @@
         "id": "case-570",
         "title": "Case 570",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
         "nationality": "Singapore Citizen",
@@ -19380,7 +19380,7 @@
         "id": "case-766",
         "title": "Case 766",
         "confirmed": "2020-03-27",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
         "nationality": "Singapore Citizen",
@@ -19621,7 +19621,7 @@
         "id": "case-776",
         "title": "Case 776",
         "confirmed": "2020-03-27",
-        "discharged": "",
+        "discharged": "2020-03-31",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
         "nationality": "Singapore Citizen",
@@ -22071,6 +22071,1115 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-880",
+        "title": "Case 880",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-881",
+        "title": "Case 881",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-882",
+        "title": "Case 882",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-883",
+        "title": "Case 883",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-884",
+        "title": "Case 884",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-885",
+        "title": "Case 885",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Denmark"
+        ],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-886",
+        "title": "Case 886",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-887",
+        "title": "Case 887",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 62,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-888",
+        "title": "Case 888",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-889",
+        "title": "Case 889",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 65,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-890",
+        "title": "Case 890",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-891",
+        "title": "Case 891",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-892",
+        "title": "Case 892",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Canada"
+        ],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-893",
+        "title": "Case 893",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-894",
+        "title": "Case 894",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-895",
+        "title": "Case 895",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 43,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-896",
+        "title": "Case 896",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Filipino (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-897",
+        "title": "Case 897",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Sri Lankan (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-898",
+        "title": "Case 898",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Filipino (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 53,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-899",
+        "title": "Case 899",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-900",
+        "title": "Case 900",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 50,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-901",
+        "title": "Case 901",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Turkey"
+        ],
+        "age": 54,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-902",
+        "title": "Case 902",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Sri Lankan (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-903",
+        "title": "Case 903",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-904",
+        "title": "Case 904",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-905",
+        "title": "Case 905",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-906",
+        "title": "Case 906",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Italian",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-907",
+        "title": "Case 907",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Dutch (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 50,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-908",
+        "title": "Case 908",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-909",
+        "title": "Case 909",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 58,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-910",
+        "title": "Case 910",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 59,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-911",
+        "title": "Case 911",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 78,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-912",
+        "title": "Case 912",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-913",
+        "title": "Case 913",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Australia"
+        ],
+        "age": 66,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-914",
+        "title": "Case 914",
+        "confirmed": "3/30/2020",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 55,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-915",
+        "title": "Case 915",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-916",
+        "title": "Case 916",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 46,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-917",
+        "title": "Case 917",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-918",
+        "title": "Case 918",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 86,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-919",
+        "title": "Case 919",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 56,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-920",
+        "title": "Case 920",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 55,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-921",
+        "title": "Case 921",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-922",
+        "title": "Case 922",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-923",
+        "title": "Case 923",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 20,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-924",
+        "title": "Case 924",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-925",
+        "title": "Case 925",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-926",
+        "title": "Case 926",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
         "death": ""
       }
     }
