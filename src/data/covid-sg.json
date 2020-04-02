@@ -6608,7 +6608,7 @@
         "id": "case-246",
         "title": "Case 246",
         "confirmed": "2020-03-16",
-        "discharged": "",
+        "discharged": "2020-04-01",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "Canadian",
@@ -6888,7 +6888,7 @@
         "id": "case-257",
         "title": "Case 257",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-04-01",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "French (Singapore Long Term Pass holder)",
@@ -12347,7 +12347,7 @@
           "Indonesia"
         ],
         "age": 68,
-        "death": ""
+        "death": "2020-04-02"
       }
     },
     {
@@ -13886,7 +13886,7 @@
         "id": "case-539",
         "title": "Case 539",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-04-01",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
@@ -17983,7 +17983,7 @@
         "id": "case-709",
         "title": "Case 709",
         "confirmed": "2020-03-26",
-        "discharged": "",
+        "discharged": "2020-04-01",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
         "nationality": "Singapore Citizen",
@@ -20794,7 +20794,7 @@
         "id": "case-827",
         "title": "Case 827",
         "confirmed": "2020-03-28",
-        "discharged": "",
+        "discharged": "2020-04-01",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
         "nationality": "Singapore Citizen",
@@ -23148,6 +23148,1753 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-927",
+        "title": "Case 927",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 61,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-928",
+        "title": "Case 928",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Indonesian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 72,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-929",
+        "title": "Case 929",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-930",
+        "title": "Case 930",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-931",
+        "title": "Case 931",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-932",
+        "title": "Case 932",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-933",
+        "title": "Case 933",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Thailand"
+        ],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-934",
+        "title": "Case 934",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-935",
+        "title": "Case 935",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 80,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-936",
+        "title": "Case 936",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 63,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-937",
+        "title": "Case 937",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 42,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-938",
+        "title": "Case 938",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "India",
+        "residenceAreas": [],
+        "placesVisited": [
+          "India"
+        ],
+        "age": 64,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-939",
+        "title": "Case 939",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Chinese (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-940",
+        "title": "Case 940",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-941",
+        "title": "Case 941",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 52,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-942",
+        "title": "Case 942",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 58,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-943",
+        "title": "Case 943",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Switzerland (Singapore Work Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Switzerland"
+        ],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-944",
+        "title": "Case 944",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Indonesia",
+          "UK",
+          "US"
+        ],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-945",
+        "title": "Case 945",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 54,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-946",
+        "title": "Case 946",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "India (Long Term Pass Holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-947",
+        "title": "Case 947",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-948",
+        "title": "Case 948",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 54,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-949",
+        "title": "Case 949",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [
+          "India"
+        ],
+        "age": 20,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-950",
+        "title": "Case 950",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Netherlands",
+          "Austria",
+          "Slovenia"
+        ],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-951",
+        "title": "Case 951",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-952",
+        "title": "Case 952",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UAE"
+        ],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-953",
+        "title": "Case 953",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 51,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-954",
+        "title": "Case 954",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 53,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-955",
+        "title": "Case 955",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Australian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "South Africa"
+        ],
+        "age": 53,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-956",
+        "title": "Case 956",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-957",
+        "title": "Case 957",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 73,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-958",
+        "title": "Case 958",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-959",
+        "title": "Case 959",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-960",
+        "title": "Case 960",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK",
+          "US"
+        ],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-961",
+        "title": "Case 961",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-962",
+        "title": "Case 962",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Chinese (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Ethiopia"
+        ],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-963",
+        "title": "Case 963",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-964",
+        "title": "Case 964",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-965",
+        "title": "Case 965",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-966",
+        "title": "Case 966",
+        "confirmed": "2020-03-31",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-967",
+        "title": "Case 967",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 47,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-968",
+        "title": "Case 968",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Brazilian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Brazil"
+        ],
+        "age": 2,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-969",
+        "title": "Case 969",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Brazilian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Brazil"
+        ],
+        "age": 42,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-970",
+        "title": "Case 970",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 67,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-971",
+        "title": "Case 971",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 58,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-972",
+        "title": "Case 972",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-973",
+        "title": "Case 973",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Sri Lankan (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-974",
+        "title": "Case 974",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-975",
+        "title": "Case 975",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-976",
+        "title": "Case 976",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 42,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-977",
+        "title": "Case 977",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-978",
+        "title": "Case 978",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-979",
+        "title": "Case 979",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-980",
+        "title": "Case 980",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-981",
+        "title": "Case 981",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 80,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-982",
+        "title": "Case 982",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-983",
+        "title": "Case 983",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 102,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-984",
+        "title": "Case 984",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 88,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-985",
+        "title": "Case 985",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 70,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-986",
+        "title": "Case 986",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 88,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-987",
+        "title": "Case 987",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 86,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-988",
+        "title": "Case 988",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 85,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-989",
+        "title": "Case 989",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 52,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-990",
+        "title": "Case 990",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 86,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-991",
+        "title": "Case 991",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 7,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-992",
+        "title": "Case 992",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-993",
+        "title": "Case 993",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-994",
+        "title": "Case 994",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 46,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-995",
+        "title": "Case 995",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 54,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-996",
+        "title": "Case 996",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-997",
+        "title": "Case 997",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "India"
+        ],
+        "age": 50,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-998",
+        "title": "Case 998",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "British (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-999",
+        "title": "Case 999",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1000",
+        "title": "Case 1000",
+        "confirmed": "2020-04-01",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 54,
         "death": ""
       }
     }
