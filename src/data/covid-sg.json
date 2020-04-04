@@ -5734,7 +5734,7 @@
         "id": "case-214",
         "title": "Case 214",
         "confirmed": "2020-03-14",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-imported-12539904",
         "nationality": "Singapore Citizen",
@@ -9489,7 +9489,7 @@
         "id": "case-361",
         "title": "Case 361",
         "confirmed": "2020-03-19",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Citizen",
@@ -10336,7 +10336,7 @@
         "id": "case-395",
         "title": "Case 395",
         "confirmed": "2020-03-20",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
@@ -11372,7 +11372,7 @@
         "id": "case-437",
         "title": "Case 437",
         "confirmed": "2020-03-21",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "UK (Singapore Work Pass Holder)",
@@ -11569,7 +11569,7 @@
         "id": "case-445",
         "title": "Case 445",
         "confirmed": "2020-03-21",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-covid-19-travel-europe-asean-12564824",
         "nationality": "Singapore Citizen",
@@ -12630,7 +12630,7 @@
         "id": "case-488",
         "title": "Case 488",
         "confirmed": "2020-03-22",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
@@ -12806,7 +12806,7 @@
         "id": "case-495",
         "title": "Case 495",
         "confirmed": "2020-03-22",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
@@ -13234,7 +13234,7 @@
         "id": "case-512",
         "title": "Case 512",
         "confirmed": "2020-03-23",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
@@ -15355,7 +15355,7 @@
         "id": "case-599",
         "title": "Case 599",
         "confirmed": "2020-03-25",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
         "nationality": "Singapore Citizen",
@@ -15428,7 +15428,7 @@
         "id": "case-602",
         "title": "Case 602",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
         "nationality": "Singapore Citizen",
@@ -15902,7 +15902,7 @@
         "id": "case-622",
         "title": "Case 622",
         "confirmed": "2020-03-25",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
         "nationality": "Singapore Citizen",
@@ -17413,7 +17413,7 @@
         "id": "case-684",
         "title": "Case 684",
         "confirmed": "2020-03-26",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
         "nationality": "Singapore Permanent Resident",
@@ -18347,7 +18347,7 @@
         "id": "case-723",
         "title": "Case 723",
         "confirmed": "2020-03-27",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
         "nationality": "Singapore Citizen",
@@ -21505,7 +21505,7 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 88,
-        "death": ""
+        "death": "2020-04-04"
       }
     },
     {
@@ -21826,7 +21826,7 @@
         "id": "case-869",
         "title": "Case 869",
         "confirmed": "2020-03-30",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid-19-coronavirus-singapore-cases-moh-mar-30-12589390",
         "nationality": "Singapore Permanent Resident",
@@ -22206,7 +22206,7 @@
         "id": "case-885",
         "title": "Case 885",
         "confirmed": "3/30/2020",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
         "nationality": "Singapore Citizen",
@@ -24080,7 +24080,7 @@
         "id": "case-964",
         "title": "Case 964",
         "confirmed": "2020-03-31",
-        "discharged": "",
+        "discharged": "2020-04-03",
         "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
         "nationality": "Indian (Singapore Work Pass holder)",
@@ -25330,8 +25330,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.838147,
+          1.424575
         ]
       },
       "properties": {
@@ -25339,7 +25339,7 @@
         "title": "Case 1018",
         "confirmed": "2020-04-01",
         "discharged": "",
-        "hospital": "KTPH",
+        "hospital": "Khoo Teck Puat Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-mustafa-centre-keppel-maxwell-mrt-clusters-12602008",
         "nationality": "Bangladeshi (Long Term Pass holder)",
         "residenceAreas": [],
@@ -25658,8 +25658,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.893408,
+          1.395467
         ]
       },
       "properties": {
@@ -25667,7 +25667,7 @@
         "title": "Case 1032",
         "confirmed": "2020-04-02",
         "discharged": "",
-        "hospital": "SKH",
+        "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-mustafa-centre-keppel-maxwell-mrt-clusters-12602008",
         "nationality": "Chinese (Singapore Work Pass holder)",
         "residenceAreas": [],
@@ -25681,8 +25681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.893408,
+          1.395467
         ]
       },
       "properties": {
@@ -25690,7 +25690,7 @@
         "title": "Case 1033",
         "confirmed": "2020-04-02",
         "discharged": "",
-        "hospital": "SKH",
+        "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-mustafa-centre-keppel-maxwell-mrt-clusters-12602008",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
@@ -25704,8 +25704,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.847236,
-          1.322143
+          103.893408,
+          1.395467
         ]
       },
       "properties": {
@@ -25713,7 +25713,7 @@
         "title": "Case 1034",
         "confirmed": "2020-04-02",
         "discharged": "",
-        "hospital": "SKH",
+        "hospital": "Sengkang General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-mustafa-centre-keppel-maxwell-mrt-clusters-12602008",
         "nationality": "Singapore Citizen",
         "residenceAreas": [],
@@ -26070,6 +26070,1519 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1050",
+        "title": "Case 1050",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Chinese (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 56,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1051",
+        "title": "Case 1051",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-1052",
+        "title": "Case 1052",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 55,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1053",
+        "title": "Case 1053",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 47,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1054",
+        "title": "Case 1054",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1055",
+        "title": "Case 1055",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 61,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1056",
+        "title": "Case 1056",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1057",
+        "title": "Case 1057",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Dutch (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 46,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-1058",
+        "title": "Case 1058",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UAE"
+        ],
+        "age": 7,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846869,
+          1.310839
+        ]
+      },
+      "properties": {
+        "id": "case-1059",
+        "title": "Case 1059",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "KK Women’s and Children’s Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UAE"
+        ],
+        "age": 5,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1060",
+        "title": "Case 1060",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "US"
+        ],
+        "age": 66,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1061",
+        "title": "Case 1061",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-1062",
+        "title": "Case 1062",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1063",
+        "title": "Case 1063",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 63,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-1064",
+        "title": "Case 1064",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 47,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1065",
+        "title": "Case 1065",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Filipino (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1066",
+        "title": "Case 1066",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 69,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-1067",
+        "title": "Case 1067",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 72,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-1068",
+        "title": "Case 1068",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-1069",
+        "title": "Case 1069",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 53,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1070",
+        "title": "Case 1070",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1071",
+        "title": "Case 1071",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 84,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-1072",
+        "title": "Case 1072",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1073",
+        "title": "Case 1073",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-1074",
+        "title": "Case 1074",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1075",
+        "title": "Case 1075",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Filipino (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 67,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1076",
+        "title": "Case 1076",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 54,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1077",
+        "title": "Case 1077",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1078",
+        "title": "Case 1078",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-1079",
+        "title": "Case 1079",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-1080",
+        "title": "Case 1080",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 85,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1081",
+        "title": "Case 1081",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 62,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1082",
+        "title": "Case 1082",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 38,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-1083",
+        "title": "Case 1083",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Chinese (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-1084",
+        "title": "Case 1084",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-1085",
+        "title": "Case 1085",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Malaysia"
+        ],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-1086",
+        "title": "Case 1086",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Filipino (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-1087",
+        "title": "Case 1087",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 18,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-1088",
+        "title": "Case 1088",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "UK"
+        ],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1089",
+        "title": "Case 1089",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 43,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1090",
+        "title": "Case 1090",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 73,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1091",
+        "title": "Case 1091",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 48,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1092",
+        "title": "Case 1092",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Romania"
+        ],
+        "age": 61,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1093",
+        "title": "Case 1093",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1094",
+        "title": "Case 1094",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1095",
+        "title": "Case 1095",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 61,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1096",
+        "title": "Case 1096",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1097",
+        "title": "Case 1097",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "UK (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1098",
+        "title": "Case 1098",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1099",
+        "title": "Case 1099",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [
+          "US"
+        ],
+        "age": 54,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1100",
+        "title": "Case 1100",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1101",
+        "title": "Case 1101",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1102",
+        "title": "Case 1102",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1103",
+        "title": "Case 1103",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 42,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1104",
+        "title": "Case 1104",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1105",
+        "title": "Case 1105",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 55,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-1106",
+        "title": "Case 1106",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1107",
+        "title": "Case 1107",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1108",
+        "title": "Case 1108",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80127,
+          1.286607
+        ]
+      },
+      "properties": {
+        "id": "case-1109",
+        "title": "Case 1109",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Alexandra Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Indonesian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [
+          "Indonesia"
+        ],
+        "age": 72,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1110",
+        "title": "Case 1110",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1111",
+        "title": "Case 1111",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Burmese (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-1112",
+        "title": "Case 1112",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Burmese (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-1113",
+        "title": "Case 1113",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 42,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-1114",
+        "title": "Case 1114",
+        "confirmed": "2020-04-03",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/covid-19-new-clusters-ce-la-vi-singapore-cricket-club-apr-3-12606542",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
         "death": ""
       }
     }
