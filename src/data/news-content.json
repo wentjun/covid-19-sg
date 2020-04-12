@@ -1,5 +1,9 @@
 [
   {
+    "patient": "Case 1604",
+     "content": "<li>The cause of death for Case 1604 is ischaemic heart disease, and is not due to complications from COVID-19 infection.</li>"
+  },
+  {
     "patient": "Case 244",
     "content": "<li>Case 244 is an imported case involving a 53 year-old male Singapore Citizen who had been in Germany from 26 February to 29 February, Italy from 29 February to 7 March, and Switzerland from 7 March to 14 March. He is linked to Case 243.</li>"
   },
