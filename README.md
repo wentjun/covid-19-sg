@@ -1,7 +1,7 @@
 <div align="center">
 
-# COVID-19 Singapore Tracker (https://covid-tracker.com/) - Visualising COVID-19/Wuhan virus/coronavirus cases and cluster zones in Singapore #
-
+# COVID-19 Singapore Tracker (https://covid-tracker.com/) - Visualising COVID-19/coronavirus cases and cluster zones in Singapore #
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24355ce3-3a38-491f-9e1a-602949c4c42f/deploy-status)](https://app.netlify.com/sites/jovial-agnesi-b755d5/deploys) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/wentjun/covid-19-sg/issues)
 </div>
 
 ----
