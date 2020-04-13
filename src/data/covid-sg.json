@@ -3033,7 +3033,7 @@
         "id": "case-113",
         "title": "Case 113",
         "confirmed": "2020-03-04",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.straitstimes.com/singapore/health/5-new-covid-19-cases-in-spore-including-4-linked-to-a-new-cluster-a-private-dinner",
         "nationality": "French (Singapore Work Pass Holder)",
@@ -3393,7 +3393,7 @@
         "id": "case-126",
         "title": "Case 126",
         "confirmed": "2020-03-05",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.todayonline.com/singapore/covid-19-13-new-cases-singapore-safra-jurong-cluster-new-hotspot",
         "nationality": "Singapore Citizen",
@@ -4843,7 +4843,7 @@
         "id": "case-180",
         "title": "Case 180",
         "confirmed": "2020-03-12",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid19-new-cases-mar-12-update-12531088",
         "nationality": "Singapore Citizen",
@@ -6986,7 +6986,7 @@
         "id": "case-261",
         "title": "Case 261",
         "confirmed": "2020-03-17",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-singapore-moh-mar-17-12547614",
         "nationality": "American (Singapore Work Pass Holder)",
@@ -8200,7 +8200,7 @@
         "id": "case-309",
         "title": "Case 309",
         "confirmed": "2020-03-18",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-47-new-cases-imported-travel-self-isolation-overseas-12551968",
         "nationality": "Singapore Citizen",
@@ -8597,7 +8597,7 @@
         "id": "case-325",
         "title": "Case 325",
         "confirmed": "2020-03-19",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-32-new-cases-moh-update-coronavirus-12555736",
         "nationality": "Filipino (Singapore Work Pass Holder)",
@@ -9418,7 +9418,7 @@
         "id": "case-358",
         "title": "Case 358",
         "confirmed": "2020-03-19",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-40-new-cases-most-imported-united-kingdom-12560382",
         "nationality": "Singapore Permanent Resident",
@@ -10286,7 +10286,7 @@
         "id": "case-393",
         "title": "Case 393",
         "confirmed": "2020-03-20",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
@@ -10652,7 +10652,7 @@
         "id": "case-408",
         "title": "Case 408",
         "confirmed": "2020-03-20",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National University Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-47-new-cases-total-432-12563332",
         "nationality": "Singapore Citizen",
@@ -12011,7 +12011,7 @@
         "id": "case-463",
         "title": "Case 463",
         "confirmed": "2020-03-22",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-covid-19-12567298",
         "nationality": "Singapore Citizen",
@@ -13506,7 +13506,7 @@
         "id": "case-523",
         "title": "Case 523",
         "confirmed": "2020-03-23",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "KK Women’s and Children’s Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Filipino (Long Term Pass Holder)",
@@ -13531,7 +13531,7 @@
         "id": "case-524",
         "title": "Case 524",
         "confirmed": "2020-03-23",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
@@ -14236,7 +14236,7 @@
         "id": "case-553",
         "title": "Case 553",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-imported-travel-history-uk-us-malaysia-12570840",
         "nationality": "Singapore Citizen",
@@ -15017,7 +15017,7 @@
         "id": "case-585",
         "title": "Case 585",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "KK Women's and Children's Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
         "nationality": "Filipino (Singapore Work Pass Holder)",
@@ -15593,7 +15593,7 @@
         "id": "case-609",
         "title": "Case 609",
         "confirmed": "2020-03-24",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/new-covid-19-cases-pcf-sparkletots-fengshan-mar-25-12574708",
         "nationality": "Singapore Citizen",
@@ -16688,7 +16688,7 @@
         "id": "case-654",
         "title": "Case 654",
         "confirmed": "2020-03-25",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
         "nationality": "Singapore Citizen",
@@ -17292,7 +17292,7 @@
         "id": "case-679",
         "title": "Case 679",
         "confirmed": "2020-03-26",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-new-cases-pcf-sparkletots-dover-school-imported-12578622",
         "nationality": "American (Singapore Work Pass Holder)",
@@ -17771,7 +17771,7 @@
         "id": "case-699",
         "title": "Case 699",
         "confirmed": "2020-03-26",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "Alexandra Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
         "nationality": "Singapore Permanent Resident",
@@ -18301,7 +18301,7 @@
         "id": "case-721",
         "title": "Case 721",
         "confirmed": "2020-03-27",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-moh-update-49-new-cases-singpost-cluster-12582990",
         "nationality": "Singapore Citizen",
@@ -19525,7 +19525,7 @@
         "id": "case-772",
         "title": "Case 772",
         "confirmed": "2020-03-28",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
         "nationality": "Singapore Citizen",
@@ -19911,7 +19911,7 @@
         "id": "case-788",
         "title": "Case 788",
         "confirmed": "2020-03-28",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
         "nationality": "Singapore Citizen",
@@ -19934,7 +19934,7 @@
         "id": "case-789",
         "title": "Case 789",
         "confirmed": "2020-03-28",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
         "nationality": "Singapore Citizen",
@@ -20026,7 +20026,7 @@
         "id": "case-793",
         "title": "Case 793",
         "confirmed": "2020-03-28",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-moh-march-28-70-new-cases-singpost-12585664",
         "nationality": "Singapore Citizen",
@@ -21047,7 +21047,7 @@
         "id": "case-836",
         "title": "Case 836",
         "confirmed": "2020-03-29",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/singapore-new-covid-19-cases-sengkang-nurse-bridal-studio-12587350",
         "nationality": "Singapore Citizen",
@@ -21803,7 +21803,7 @@
         "id": "case-868",
         "title": "Case 868",
         "confirmed": "2020-03-29",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "Ng Teng Fong General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid-19-coronavirus-singapore-cases-moh-mar-30-12589390",
         "nationality": "Bangladeshi (Long Term Pass holder)",
@@ -23033,7 +23033,7 @@
         "id": "case-920",
         "title": "Case 920",
         "confirmed": "2020-03-31",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "Changi General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-new-cases-clusters-mar-31-12593978",
         "nationality": "Singapore Citizen",
@@ -23313,7 +23313,7 @@
         "id": "case-932",
         "title": "Case 932",
         "confirmed": "2020-03-31",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
         "nationality": "Singapore Citizen",
@@ -23768,7 +23768,7 @@
         "id": "case-951",
         "title": "Case 951",
         "confirmed": "2020-03-31",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "Singapore General Hospital",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
         "nationality": "Singapore Citizen",
@@ -23864,7 +23864,7 @@
         "id": "case-955",
         "title": "Case 955",
         "confirmed": "2020-03-31",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-1000-cases-lee-ah-mooi-old-age-home-12598556",
         "nationality": "Australian (Singapore Work Pass holder)",
@@ -25432,7 +25432,7 @@
         "id": "case-1022",
         "title": "Case 1022",
         "confirmed": "2020-04-01",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid19-new-cases-mustafa-centre-keppel-maxwell-mrt-clusters-12602008",
         "nationality": "Singapore Citizen",
@@ -27765,7 +27765,7 @@
         "id": "case-1122",
         "title": "Case 1122",
         "confirmed": "2020-04-03",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.channelnewsasia.com/news/singapore/covid-19-cluster-sungei-tengah-toh-guan-cochrane-orange-ballroom-12609544",
         "nationality": "French (Long Term Pass holder)",
@@ -35634,7 +35634,7 @@
         "id": "case-1463",
         "title": "Case 1463",
         "confirmed": "2020-04-07",
-        "discharged": "",
+        "discharged": "2020-04-12",
         "hospital": "National Centre for Infectious Diseases",
         "source": "https://www.moh.gov.sg/news-highlights/details/33-more-cases-discharged-106-new-cases-of-covid-19-infection-confirmed",
         "nationality": "Singapore Citizen",
@@ -54881,6 +54881,5365 @@
         "residenceAreas": [],
         "placesVisited": [],
         "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2300",
+        "title": "Case 2300",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2301",
+        "title": "Case 2301",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2302",
+        "title": "Case 2302",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2303",
+        "title": "Case 2303",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 38,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2304",
+        "title": "Case 2304",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 48,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2305",
+        "title": "Case 2305",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2306",
+        "title": "Case 2306",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2307",
+        "title": "Case 2307",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2308",
+        "title": "Case 2308",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2309",
+        "title": "Case 2309",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2310",
+        "title": "Case 2310",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2311",
+        "title": "Case 2311",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2312",
+        "title": "Case 2312",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 45,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2313",
+        "title": "Case 2313",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2314",
+        "title": "Case 2314",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2315",
+        "title": "Case 2315",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2316",
+        "title": "Case 2316",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2317",
+        "title": "Case 2317",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2318",
+        "title": "Case 2318",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2319",
+        "title": "Case 2319",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2320",
+        "title": "Case 2320",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 51,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2321",
+        "title": "Case 2321",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2322",
+        "title": "Case 2322",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2323",
+        "title": "Case 2323",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2324",
+        "title": "Case 2324",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2325",
+        "title": "Case 2325",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 43,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2326",
+        "title": "Case 2326",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 46,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2327",
+        "title": "Case 2327",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2328",
+        "title": "Case 2328",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2329",
+        "title": "Case 2329",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2330",
+        "title": "Case 2330",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2331",
+        "title": "Case 2331",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2332",
+        "title": "Case 2332",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2333",
+        "title": "Case 2333",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 43,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2334",
+        "title": "Case 2334",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2335",
+        "title": "Case 2335",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2336",
+        "title": "Case 2336",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2337",
+        "title": "Case 2337",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2338",
+        "title": "Case 2338",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2339",
+        "title": "Case 2339",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 42,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2340",
+        "title": "Case 2340",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2341",
+        "title": "Case 2341",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2342",
+        "title": "Case 2342",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2343",
+        "title": "Case 2343",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2344",
+        "title": "Case 2344",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 38,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2345",
+        "title": "Case 2345",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Myanmar (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 43,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2346",
+        "title": "Case 2346",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2347",
+        "title": "Case 2347",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2348",
+        "title": "Case 2348",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 47,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2349",
+        "title": "Case 2349",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2350",
+        "title": "Case 2350",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2351",
+        "title": "Case 2351",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2352",
+        "title": "Case 2352",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2353",
+        "title": "Case 2353",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 47,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2354",
+        "title": "Case 2354",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2355",
+        "title": "Case 2355",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2356",
+        "title": "Case 2356",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 43,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2357",
+        "title": "Case 2357",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2358",
+        "title": "Case 2358",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2359",
+        "title": "Case 2359",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2360",
+        "title": "Case 2360",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2361",
+        "title": "Case 2361",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2362",
+        "title": "Case 2362",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2363",
+        "title": "Case 2363",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-2364",
+        "title": "Case 2364",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2365",
+        "title": "Case 2365",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2366",
+        "title": "Case 2366",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2367",
+        "title": "Case 2367",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2368",
+        "title": "Case 2368",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2369",
+        "title": "Case 2369",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2370",
+        "title": "Case 2370",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2371",
+        "title": "Case 2371",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2372",
+        "title": "Case 2372",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2373",
+        "title": "Case 2373",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2374",
+        "title": "Case 2374",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 52,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2375",
+        "title": "Case 2375",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2376",
+        "title": "Case 2376",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 67,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2377",
+        "title": "Case 2377",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Myanmar (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2378",
+        "title": "Case 2378",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 47,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2379",
+        "title": "Case 2379",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 48,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2380",
+        "title": "Case 2380",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2381",
+        "title": "Case 2381",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2382",
+        "title": "Case 2382",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 38,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2383",
+        "title": "Case 2383",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2384",
+        "title": "Case 2384",
+        "confirmed": "2020-04-10",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2385",
+        "title": "Case 2385",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 60,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2386",
+        "title": "Case 2386",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 48,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2387",
+        "title": "Case 2387",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893408,
+          1.395467
+        ]
+      },
+      "properties": {
+        "id": "case-2388",
+        "title": "Case 2388",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Sengkang General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2389",
+        "title": "Case 2389",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2390",
+        "title": "Case 2390",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2391",
+        "title": "Case 2391",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2392",
+        "title": "Case 2392",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2393",
+        "title": "Case 2393",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2394",
+        "title": "Case 2394",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2395",
+        "title": "Case 2395",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2396",
+        "title": "Case 2396",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2397",
+        "title": "Case 2397",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2398",
+        "title": "Case 2398",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2399",
+        "title": "Case 2399",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2400",
+        "title": "Case 2400",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 21,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2401",
+        "title": "Case 2401",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 56,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745359,
+          1.333777
+        ]
+      },
+      "properties": {
+        "id": "case-2402",
+        "title": "Case 2402",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Ng Teng Fong General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949581,
+          1.340227
+        ]
+      },
+      "properties": {
+        "id": "case-2403",
+        "title": "Case 2403",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Changi General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 68,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2404",
+        "title": "Case 2404",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2405",
+        "title": "Case 2405",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2406",
+        "title": "Case 2406",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 23,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2407",
+        "title": "Case 2407",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2408",
+        "title": "Case 2408",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 43,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2409",
+        "title": "Case 2409",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 48,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2410",
+        "title": "Case 2410",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2411",
+        "title": "Case 2411",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2412",
+        "title": "Case 2412",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2413",
+        "title": "Case 2413",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2414",
+        "title": "Case 2414",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "0",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2415",
+        "title": "Case 2415",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 69,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2416",
+        "title": "Case 2416",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "0",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2417",
+        "title": "Case 2417",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2418",
+        "title": "Case 2418",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2419",
+        "title": "Case 2419",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2420",
+        "title": "Case 2420",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2421",
+        "title": "Case 2421",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 42,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2422",
+        "title": "Case 2422",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2423",
+        "title": "Case 2423",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2424",
+        "title": "Case 2424",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 48,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2425",
+        "title": "Case 2425",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2426",
+        "title": "Case 2426",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2427",
+        "title": "Case 2427",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2428",
+        "title": "Case 2428",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2429",
+        "title": "Case 2429",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 45,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2430",
+        "title": "Case 2430",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 38,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2431",
+        "title": "Case 2431",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 46,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2432",
+        "title": "Case 2432",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 45,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2433",
+        "title": "Case 2433",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2434",
+        "title": "Case 2434",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2435",
+        "title": "Case 2435",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2436",
+        "title": "Case 2436",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Myanmar (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2437",
+        "title": "Case 2437",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2438",
+        "title": "Case 2438",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2439",
+        "title": "Case 2439",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2440",
+        "title": "Case 2440",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2441",
+        "title": "Case 2441",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2442",
+        "title": "Case 2442",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2443",
+        "title": "Case 2443",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2444",
+        "title": "Case 2444",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2445",
+        "title": "Case 2445",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2446",
+        "title": "Case 2446",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2447",
+        "title": "Case 2447",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2448",
+        "title": "Case 2448",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2449",
+        "title": "Case 2449",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2450",
+        "title": "Case 2450",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2451",
+        "title": "Case 2451",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2452",
+        "title": "Case 2452",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2453",
+        "title": "Case 2453",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2454",
+        "title": "Case 2454",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 31,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2455",
+        "title": "Case 2455",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2456",
+        "title": "Case 2456",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 45,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2457",
+        "title": "Case 2457",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2458",
+        "title": "Case 2458",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2459",
+        "title": "Case 2459",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2460",
+        "title": "Case 2460",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2461",
+        "title": "Case 2461",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2462",
+        "title": "Case 2462",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2463",
+        "title": "Case 2463",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2464",
+        "title": "Case 2464",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2465",
+        "title": "Case 2465",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2466",
+        "title": "Case 2466",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2467",
+        "title": "Case 2467",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2468",
+        "title": "Case 2468",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2469",
+        "title": "Case 2469",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 30,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2470",
+        "title": "Case 2470",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2471",
+        "title": "Case 2471",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2472",
+        "title": "Case 2472",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2473",
+        "title": "Case 2473",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2474",
+        "title": "Case 2474",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Myanmar (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2475",
+        "title": "Case 2475",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2476",
+        "title": "Case 2476",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2477",
+        "title": "Case 2477",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 49,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2478",
+        "title": "Case 2478",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2479",
+        "title": "Case 2479",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.956767,
+          1.333302
+        ]
+      },
+      "properties": {
+        "id": "case-2480",
+        "title": "Case 2480",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore Expo and MAX Atria (CIF)",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 55,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2481",
+        "title": "Case 2481",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Myanmar (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 37,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2482",
+        "title": "Case 2482",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2483",
+        "title": "Case 2483",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2484",
+        "title": "Case 2484",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 47,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2485",
+        "title": "Case 2485",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 35,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2486",
+        "title": "Case 2486",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Chinese (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 53,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2487",
+        "title": "Case 2487",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Myanmar (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 47,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2488",
+        "title": "Case 2488",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835877,
+          1.279631
+        ]
+      },
+      "properties": {
+        "id": "case-2489",
+        "title": "Case 2489",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "Singapore General Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Myanmar (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-2490",
+        "title": "Case 2490",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2491",
+        "title": "Case 2491",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 50,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2492",
+        "title": "Case 2492",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2493",
+        "title": "Case 2493",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 38,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2494",
+        "title": "Case 2494",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 19,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2495",
+        "title": "Case 2495",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 46,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2496",
+        "title": "Case 2496",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2497",
+        "title": "Case 2497",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2498",
+        "title": "Case 2498",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 39,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2499",
+        "title": "Case 2499",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 63,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2500",
+        "title": "Case 2500",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2501",
+        "title": "Case 2501",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "TTSH",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 38,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783272,
+          1.293685
+        ]
+      },
+      "properties": {
+        "id": "case-2502",
+        "title": "Case 2502",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "National University Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 56,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2503",
+        "title": "Case 2503",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Malaysian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 58,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2504",
+        "title": "Case 2504",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 32,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2505",
+        "title": "Case 2505",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2506",
+        "title": "Case 2506",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 44,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838147,
+          1.424575
+        ]
+      },
+      "properties": {
+        "id": "case-2507",
+        "title": "Case 2507",
+        "confirmed": "2020-04-12",
+        "discharged": "",
+        "hospital": "Khoo Teck Puat Hospital",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 57,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2508",
+        "title": "Case 2508",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2509",
+        "title": "Case 2509",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 24,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2510",
+        "title": "Case 2510",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 50,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2511",
+        "title": "Case 2511",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 45,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2512",
+        "title": "Case 2512",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2513",
+        "title": "Case 2513",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2514",
+        "title": "Case 2514",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Indian (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2515",
+        "title": "Case 2515",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 27,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2516",
+        "title": "Case 2516",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 33,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2517",
+        "title": "Case 2517",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2518",
+        "title": "Case 2518",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 22,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2519",
+        "title": "Case 2519",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 34,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2520",
+        "title": "Case 2520",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 29,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2521",
+        "title": "Case 2521",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Singapore Work Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2522",
+        "title": "Case 2522",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 36,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2523",
+        "title": "Case 2523",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2524",
+        "title": "Case 2524",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 58,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2525",
+        "title": "Case 2525",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2526",
+        "title": "Case 2526",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 41,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2527",
+        "title": "Case 2527",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 28,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2528",
+        "title": "Case 2528",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 26,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2529",
+        "title": "Case 2529",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 38,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2530",
+        "title": "Case 2530",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Bangladeshi (Long Term Pass holder)",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 25,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2531",
+        "title": "Case 2531",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Citizen",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 40,
+        "death": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847236,
+          1.322143
+        ]
+      },
+      "properties": {
+        "id": "case-2532",
+        "title": "Case 2532",
+        "confirmed": "2020-04-11",
+        "discharged": "",
+        "hospital": "National Centre for Infectious Diseases",
+        "source": "https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-moh-cases-clusters-mbs-mcdonalds-12635076",
+        "nationality": "Singapore Permanent Resident",
+        "residenceAreas": [],
+        "placesVisited": [],
+        "age": 43,
         "death": ""
       }
     }
