@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import { MapState } from '../../redux/reducers/map-reducer';
 import { ControlState } from '../../redux/reducers/control-reducer';
-import { Legend } from './legend';
+import Legend from './legend';
 import { CaseCard } from './case-card';
 import { Cluster } from '../control/control';
 
@@ -66,4 +66,4 @@ const Summary: React.FC<SummaryProps> = ({ selectedCase, dateEndRange, clusterDa
   );
 };
 
-export default Summary;
+export default React.memo(Summary);

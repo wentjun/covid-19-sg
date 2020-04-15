@@ -65,3 +65,5 @@ export const CaseCard: React.FC<CaseCardProps> = (props) => {
     </CaseCardWrapper>
   );
 };
+
+export default React.memo(CaseCard);

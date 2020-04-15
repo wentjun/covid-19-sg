@@ -102,3 +102,5 @@ export const Legend: React.FC<LegendProps> = (props) => {
     </SummaryWrapper>
   );
 };
+
+export default React.memo(Legend);
