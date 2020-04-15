@@ -109,3 +109,5 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
     </CaseContentWrapper>
   );
 };
+
+export default React.memo(CaseContent);

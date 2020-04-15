@@ -250,4 +250,4 @@ const Control: React.FC<ControlProps> = (props) => {
   );
 };
 
-export default Control;
+export default React.memo(Control);

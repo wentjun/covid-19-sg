@@ -50,3 +50,5 @@ export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
     </CasesContainer>
   </>;
 };
+
+export default React.memo(ClusterContent);
