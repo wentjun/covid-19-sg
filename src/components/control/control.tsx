@@ -107,8 +107,8 @@ const ToggleType = styled.div`
 const Checkbox = styled.input`
   min-width: 15px;
   min-height: 15px;
-  width: 15px
-  height: 15px
+  width: 15px;
+  height: 15px;
 `;
 
 const ToggleSliderGroup = styled(ToggleGroup)`
