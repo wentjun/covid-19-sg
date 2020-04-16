@@ -1,5 +1,9 @@
 [
   {
+    "patient": "Case 3381",
+     "content": "<li>Case 3381, an 80 year-old male Malaysian national, has passed away on 14 April from causes not related to COVID-19 infection. Under MOH’s enhanced surveillance, he had been tested for COVID-19 after his demise, and his test result came back positive.</li>"
+  },
+  {
     "patient": "Case 1604",
      "content": "<li>The cause of death for Case 1604 is ischaemic heart disease, and is not due to complications from COVID-19 infection.</li>"
   },
