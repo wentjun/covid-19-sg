@@ -20,7 +20,7 @@ const SummaryWrapper = styled.div`
   bottom: 1rem;
   left: 1rem;
   font-size: 0.8rem;
-  max-width: 45vw;
+  max-width: 48vw;
   display: flex;
   flex-direction: column;
 `;
