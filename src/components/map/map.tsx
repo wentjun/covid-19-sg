@@ -201,10 +201,10 @@ class Map extends React.Component<MapProps> {
           'step',
           ['get', 'point_count'],
           20,
-          20,
-          25,
+          100,
           30,
-          30
+          750,
+          40
         ]
       }
     });
