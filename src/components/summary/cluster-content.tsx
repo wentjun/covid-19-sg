@@ -23,18 +23,30 @@ const CaseCount = Title;
 
 export type ClusterContentProps =  Omit<LocationProperties, 'type'> & {
   onCaseClick: (patient: number) => void;
+  importedCaseCount?: number;
 };
 
 export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
-  const { cases, location, onCaseClick } = props;
+  const { cases, location, onCaseClick, importedCaseCount } = props;
   
   return <>
     <Title>{location}</Title>
     <br />
-    <div>
-      <span>Confirmed Cases:</span>
-      <CaseCount>{` ${cases.length}`}</CaseCount>
-    </div>   
+    {
+      location === 'Changi Airport (Imported Cases)'      
+      ? (
+        <div>
+          <span>Imported Cases:</span>
+          <CaseCount>{importedCaseCount}</CaseCount>
+        </div>
+      )
+      : (
+        <div>
+          <span>Confirmed Cases:</span>
+          <CaseCount>{` ${cases.length}`}</CaseCount>
+        </div>
+      )
+      }   
     <span>Cases (click to view more):</span>
     <CasesContainer>
       {cases.map((patient: number, index) =>
