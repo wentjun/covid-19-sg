@@ -7,7 +7,7 @@ const mapStateToProps = (state: RootState) => ({
   clusterData: state.map.clusterData,
   dateEndRange: state.control.dateEndRange,
   selectedCase: state.control.selectedCase,
-  selectedCluster: state.control.selectedCluster
+  selectedCluster: state.control.selectedCluster,
 });
 
 export default connect(mapStateToProps)(Summary);
