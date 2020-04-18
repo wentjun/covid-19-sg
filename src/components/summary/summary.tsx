@@ -40,7 +40,8 @@ const Summary: React.FC<SummaryProps> = ({ selectedCase, dateEndRange, clusterDa
         if (!selectedCluster) {
           return;
         }
-        return <CaseCard type='transmission' selectedCluster={selectedCluster} />;
+        const importedCaseCount = (clusterData.features.filter(({ properties: { transmissionSource } }) => transmissionSource === 'Imported')).length;
+        return <CaseCard type='transmission' selectedCluster={selectedCluster} importedCaseCount={importedCaseCount} />;
     }
   };
 

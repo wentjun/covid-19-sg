@@ -14,6 +14,7 @@ interface CaseCardProps {
   selectedCase?: Feature<Point, PointProperties>;
   selectedCluster?: Feature<Polygon, LocationProperties>;
   type: Cluster;
+  importedCaseCount?: number;
 }
 
 const CaseCardWrapper = styled.div`
@@ -27,7 +28,7 @@ const CaseCardWrapper = styled.div`
 `;
 
 export const CaseCard: React.FC<CaseCardProps> = (props) => {
-  const { type, selectedCase, selectedCluster } = props;
+  const { type, selectedCase, selectedCluster, importedCaseCount } = props;
   const dispatch = useDispatch();
   const clusterData = useSelector((state: RootState) => state.map.clusterData);
 
@@ -55,11 +56,13 @@ export const CaseCard: React.FC<CaseCardProps> = (props) => {
             nationality={selectedCase.properties.nationality}
             age={selectedCase.properties.age}
             death={selectedCase.properties.death}
+            transmissionSource={selectedCase.properties.transmissionSource}
           />
           : selectedCluster && <ClusterContent
             location={selectedCluster.properties.location}
             cases={selectedCluster.properties.cases}
             onCaseClick={selectCase}
+            importedCaseCount={importedCaseCount}
           />
       }
     </CaseCardWrapper>
