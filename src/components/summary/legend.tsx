@@ -60,8 +60,9 @@ const UpArrow = styled.div<DotProps>`
 export const Legend: React.FC<LegendProps> = (props) => {
   const { clusterData: { features }, dateEndRange } = props;
   const totalCases = features.length;
+  // 3 of them died not due to COVID-19
   const dischargedCases = (features.filter(({ properties }) =>
-    new Date(properties.discharged) < new Date(dateEndRange))).length;
+    new Date(properties.discharged) < new Date(dateEndRange))).length - 3;
   const deathCases = (features.filter(({ properties }) =>
     new Date(properties.death) < new Date(dateEndRange))).length;
   const hospitalisedCases = totalCases - dischargedCases - deathCases;
