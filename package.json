@@ -5,15 +5,15 @@
   "dependencies": {
     "@styled-icons/fa-solid": "^10.0.0",
     "antd": "^4.1.4",
-    "mapbox-gl": "^1.8.1",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "mapbox-gl": "^1.9.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
     "react-redux": "^7.2.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "3.4.1",
     "redux-observable": "^1.2.0",
-    "rxjs": "^6.5.4",
-    "styled-components": "^5.0.1",
+    "rxjs": "^6.5.5",
+    "styled-components": "^5.1.0",
     "typesafe-actions": "^4.4.2",
     "typescript": "^3.8.3"
   },
@@ -22,7 +22,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "local:build": "react-scripts build && http-server build"
+    "local:build": "react-scripts build && http-server build",
+    "lint": "npm run lint:ts && npm run lint:css",
+    "lint:ts": "eslint src --ext=.ts,.tsx --cache",
+    "lint:css": "stylelint './src/**/*.tsx'"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -42,14 +45,24 @@
   "devDependencies": {
     "@types/geojson": "^7946.0.7",
     "@types/jest": "^25.1.4",
-    "@types/mapbox-gl": "^1.8.1",
+    "@types/mapbox-gl": "^1.9.0",
     "@types/node": "^13.9.1",
     "@types/react": "^16.9.23",
     "@types/react-dom": "^16.9.5",
     "@types/react-redux": "^7.1.7",
-    "@types/styled-components": "^5.0.1",
+    "@types/styled-components": "^5.1.0",
+    "@typescript-eslint/eslint-plugin": "^2.28.0",
+    "@typescript-eslint/parser": "^2.28.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-typescript": "^7.2.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^3.0.0",
     "redux-devtools": "^3.5.0",
-    "tslint": "^6.1.0",
-    "tslint-react": "^4.2.0"
+    "stylelint": "^13.3.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0"
   }
 }
