@@ -24,6 +24,8 @@ export const Information: React.FC = () => {
   const dispatch = useDispatch();
 
   return (
-    <InformationIconWrapper onClick={(e) => dispatch(setModal('information'))} />
+    <InformationIconWrapper onClick={() => dispatch(setModal('information'))} />
   );
 };
+
+export default Information;

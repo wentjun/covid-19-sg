@@ -18,13 +18,13 @@ const mapStateToProps = (state: RootState) => ({
   displayTransmissionClusters: state.control.displayTransmissionClusters,
   displayCaseClusters: state.control.displayCaseClusters,
   selectedCluster: state.control.selectedCluster,
-  selectedCase: state.control.selectedCase
+  selectedCase: state.control.selectedCase,
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({
   mapReady: () => actions.mapReady(),
   setSelectedCase: (selectedCase) => actions.setSelectedCase(selectedCase),
-  setSelectedCluster: (selectedCluster) => actions.setSelectedCluster(selectedCluster)
+  setSelectedCluster: (selectedCluster) => actions.setSelectedCluster(selectedCluster),
 }, dispatch);
 
 export default connect(mapStateToProps, mapDispatchToProps)(Map);

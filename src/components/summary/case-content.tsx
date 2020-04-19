@@ -1,7 +1,7 @@
 import React from 'react';
-import { PointProperties } from '../../shared/models/PointProperties';
 import styled from 'styled-components';
 import { useDispatch, useSelector } from 'react-redux';
+import { PointProperties } from '../../shared/models/PointProperties';
 import { RootState } from '../../redux/reducers';
 import { setModal } from '../../redux/actions';
 import { Title } from './cluster-content';
@@ -30,13 +30,15 @@ export const ArticleLink = styled.a`
 export type CaseContent = PointProperties;
 
 export const CaseContent: React.FC<CaseContent> = (props) => {
-  const { title, confirmed, hospital, discharged, nationality, residenceAreas, placesVisited, age, death, transmissionSource } = props;
+  const {
+    title, confirmed, hospital, discharged, nationality, residenceAreas, placesVisited, age, death, transmissionSource,
+  } = props;
   const dispatch = useDispatch();
   const selectedCase = useSelector((state: RootState) => state.control.selectedCase);
 
   const openModal = () => {
     if (!selectedCase) {
-      return ;
+      return;
     }
     dispatch(setModal('case'));
   };
@@ -55,20 +57,26 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
       <Description>
         {
           discharged
-            ? <>
+            ? (
+              <>
                 <span>Discharged: </span>
-                <strong>{discharged}</strong><br />
+                <strong>{discharged}</strong>
+                <br />
               </>
+            )
             : null
         }
       </Description>
       <Description>
         {
           death
-            ? <>
+            ? (
+              <>
                 <span>Death: </span>
-                <strong>{death}</strong><br />
+                <strong>{death}</strong>
+                <br />
               </>
+            )
             : null
         }
       </Description>
@@ -87,27 +95,27 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
       <Description>
         <span>Places of Residence: </span>
         {
-          residenceAreas.map((area, index) =>
-            <React.Fragment key={index}>
+          residenceAreas.map((area, index) => (
+            <React.Fragment key={area}>
               {(index ? ', ' : '')}
               <strong>
                 {area}
               </strong>
             </React.Fragment>
-          )
+          ))
         }
       </Description>
       <Description>
         <span>Places Visited: </span>
         {
-          placesVisited.map((area, index) =>
-            <React.Fragment key={index}>
+          placesVisited.map((area, index) => (
+            <React.Fragment key={area}>
               {(index ? ', ' : '')}
               <strong>
                 {area}
               </strong>
             </React.Fragment>
-          )
+          ))
         }
       </Description>
       <ModalLink onClick={openModal}>Read more</ModalLink>

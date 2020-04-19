@@ -31,11 +31,11 @@ interface SnackbarUpdate {
   onDismiss: () => void;
 }
 
-const SnackbarUpdate: React.FC<SnackbarUpdate> = ({ onDismiss }) => {
-  return <SnackbarWrapper>
+const SnackbarUpdate: React.FC<SnackbarUpdate> = ({ onDismiss }) => (
+  <SnackbarWrapper>
     <span>New updates available!</span>
     <DismissSpan onClick={onDismiss}>Click here to refresh.</DismissSpan>
-  </SnackbarWrapper>;
-};
+  </SnackbarWrapper>
+);
 
 export default SnackbarUpdate;

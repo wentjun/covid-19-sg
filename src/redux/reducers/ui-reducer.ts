@@ -10,18 +10,18 @@ export interface UiState {
 }
 
 const initialState: UiState = {
-  modal: null
+  modal: null,
 };
 
 export const uiReducer = (
   state: UiState = initialState,
-  action: Action
+  action: Action,
 ): UiState => {
   switch (action.type) {
     case getType(actions.setModal):
       return {
         ...state,
-        modal: action.payload.modal
+        modal: action.payload.modal,
       };
 
     default:

@@ -10,7 +10,7 @@ type Action = ActionType<typeof actions>;
 
 const mapStateToProps = (state: RootState) => ({
   modal: state.ui.modal,
-  selectedCase: state.control.selectedCase
+  selectedCase: state.control.selectedCase,
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({

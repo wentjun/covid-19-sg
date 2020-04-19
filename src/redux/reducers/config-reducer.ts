@@ -12,25 +12,25 @@ export interface ConfigState {
 const initialState: ConfigState = {
   isServiceWorkerInitialised: false,
   hasServiceWorkerUpdates: false,
-  serviceWorkerRegistration: null
+  serviceWorkerRegistration: null,
 };
 
 export const configReducer = (
   state: ConfigState = initialState,
-  action: Action
+  action: Action,
 ): ConfigState => {
   switch (action.type) {
     case getType(actions.initialiseServiceWorker):
       return {
         ...state,
-        isServiceWorkerInitialised: !initialState.isServiceWorkerInitialised
+        isServiceWorkerInitialised: !initialState.isServiceWorkerInitialised,
       };
 
     case getType(actions.updateServiceWorker):
       return {
         ...state,
         hasServiceWorkerUpdates: !initialState.hasServiceWorkerUpdates,
-        serviceWorkerRegistration: action.payload.serviceWorkerRegistration
+        serviceWorkerRegistration: action.payload.serviceWorkerRegistration,
       };
 
     default:

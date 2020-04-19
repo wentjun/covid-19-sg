@@ -127,7 +127,7 @@ const ToggleSliderGroup = styled(ToggleGroup)`
 
 const START_DATE = new Date('2020-01-23').setHours(0, 0, 0, 0);
 const DIFFERENCE = new Date().setHours(23, 59, 59, 0) - START_DATE;
-const DAYS  = Math.ceil(DIFFERENCE / (1000 * 60 * 60 * 24));
+const DAYS = Math.ceil(DIFFERENCE / (1000 * 60 * 60 * 24));
 
 const Control: React.FC<ControlProps> = (props) => {
   const {
@@ -143,7 +143,7 @@ const Control: React.FC<ControlProps> = (props) => {
     setDateRange,
     dateEndRange,
     selectedCase,
-    selectedCluster
+    selectedCluster,
   } = props;
   const clusterLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'cluster');
   const otherLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'other');
@@ -159,13 +159,14 @@ const Control: React.FC<ControlProps> = (props) => {
 
   const handleSelect = (value: string, type: Cluster) => {
     if (type === 'transmission') {
-      const selectedFeature = transmissionClusterData.features.find(({ properties: { location } }) => location ===  value);
+      const selectedFeature = transmissionClusterData.features
+        .find(({ properties: { location } }) => location === value);
       if (!selectedFeature) {
         return;
       }
       setSelectedCluster({
         ...selectedFeature,
-        shouldTriggerZoom: true
+        shouldTriggerZoom: true,
       });
     } else if (type === 'case') {
       const selectedFeature = clusterData.features.find(({ properties: { id } }) => id === value);
@@ -174,7 +175,7 @@ const Control: React.FC<ControlProps> = (props) => {
       }
       setSelectedCase({
         ...selectedFeature,
-        shouldTriggerZoom: true
+        shouldTriggerZoom: true,
       });
     }
   };
@@ -198,27 +199,31 @@ const Control: React.FC<ControlProps> = (props) => {
           <StyledSelect
             showSearch
             disabled={!displayTransmissionClusters || !ready}
-            // style={{ width: '200px', maxWidth: '100%' }}
             placeholder='Select a Location'
             optionFilterProp='children'
-            //@ts-ignore
             onChange={(value: string) => handleSelect(value, 'transmission')}
             aria-label='Go to selected location'
             value={selectedCluster?.properties.location}
           >
             <OptGroup label='Transmission Clusters'>
               {
-                clusterLocations.map(({ properties: { location } }) => <Option key={location} value={location}>{location}</Option>)
+                clusterLocations.map(({ properties: { location } }) => (
+                  <Option key={location} value={location}>{location}</Option>
+                ))
               }
             </OptGroup>
             <OptGroup label='Notable Locations'>
               {
-                otherLocations.map(({ properties: { location } }) => <Option key={location} value={location}>{location}</Option>)
+                otherLocations.map(({ properties: { location } }) => (
+                  <Option key={location} value={location}>{location}</Option>
+                ))
               }
             </OptGroup>
             <OptGroup label='Hospitals'>
               {
-                hospitals.map(({ properties: { location } }) => <Option key={location} value={location}>{location}</Option>)
+                hospitals.map(({ properties: { location } }) => (
+                  <Option key={location} value={location}>{location}</Option>
+                ))
               }
             </OptGroup>
           </StyledSelect>
@@ -237,16 +242,14 @@ const Control: React.FC<ControlProps> = (props) => {
           <StyledSelect
             showSearch
             disabled={!ready}
-            // style={{ width: '200px' }}
             placeholder='Select a Case'
             optionFilterProp='children'
-                        //@ts-ignore
             onChange={(value: string) => handleSelect(value, 'case')}
             aria-label='Go to selected case'
             value={selectedCase?.properties.id}
           >
             {
-              clusterData.features.map(({ properties: { id, title } }) =>  <Option key={id} value={id}>{title}</Option>)
+              clusterData.features.map(({ properties: { id, title } }) => <Option key={id} value={id}>{title}</Option>)
             }
           </StyledSelect>
         </ToggleType>
@@ -263,7 +266,11 @@ const Control: React.FC<ControlProps> = (props) => {
           defaultValue={DAYS}
           disabled={!ready}
         />
-        <RangeSpan>2020-01-23 to {dateEndRange.toLocaleDateString('fr-CA')}</RangeSpan>
+        <RangeSpan>
+          2020-01-23 to
+          {' '}
+          {dateEndRange.toLocaleDateString('fr-CA')}
+        </RangeSpan>
       </ToggleSliderGroup>
     </ControlWrapper>
   );

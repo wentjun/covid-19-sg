@@ -1,6 +1,6 @@
 import React from 'react';
-import { LocationProperties } from '../../shared/models/Location';
 import styled from 'styled-components';
+import { LocationProperties } from '../../shared/models/Location';
 
 export const Title = styled.span`
   font-weight: bold;
@@ -21,46 +21,50 @@ const CasesContainer = styled.div`
 
 const CaseCount = Title;
 
-export type ClusterContentProps =  Omit<LocationProperties, 'type'> & {
+export type ClusterContentProps = Omit<LocationProperties, 'type'> & {
   onCaseClick: (patient: number) => void;
   importedCaseCount?: number;
 };
 
 export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
-  const { cases, location, onCaseClick, importedCaseCount } = props;
-  
-  return <>
-    <Title>{location}</Title>
-    <br />
-    {
-      location === 'Changi Airport (Imported Cases)'      
-      ? (
-        <div>
-          <span>Imported Cases:</span>
-          <CaseCount>{importedCaseCount}</CaseCount>
-        </div>
-      )
-      : (
-        <div>
-          <span>Confirmed Cases:</span>
-          <CaseCount>{` ${cases.length}`}</CaseCount>
-        </div>
-      )
-      }   
-    <span>Cases (click to view more):</span>
-    <CasesContainer>
-      {cases.map((patient: number, index) =>
-        <React.Fragment key={index}>
-          {(index ? ', ' : '')}
-          <CaseSpan
-            onClick={() => onCaseClick(patient)}
-          >
-            {`#${patient}`}
-          </CaseSpan>
-        </React.Fragment>
-      )}
-    </CasesContainer>
-  </>;
+  const {
+    cases, location, onCaseClick, importedCaseCount,
+  } = props;
+
+  return (
+    <>
+      <Title>{location}</Title>
+      <br />
+      {
+      location === 'Changi Airport (Imported Cases)'
+        ? (
+          <div>
+            <span>Imported Cases:</span>
+            <CaseCount>{importedCaseCount}</CaseCount>
+          </div>
+        )
+        : (
+          <div>
+            <span>Confirmed Cases:</span>
+            <CaseCount>{` ${cases.length}`}</CaseCount>
+          </div>
+        )
+      }
+      <span>Cases (click to view more):</span>
+      <CasesContainer>
+        {cases.map((patient: number) => (
+          <React.Fragment key={patient}>
+            {(index ? ', ' : '')}
+            <CaseSpan
+              onClick={() => onCaseClick(patient)}
+            >
+              {`#${patient}`}
+            </CaseSpan>
+          </React.Fragment>
+        ))}
+      </CasesContainer>
+    </>
+  );
 };
 
 export default React.memo(ClusterContent);

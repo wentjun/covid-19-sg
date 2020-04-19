@@ -29,5 +29,12 @@ module.exports = {
     }],
     'class-methods-use-this': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
+    'jsx-a11y/label-has-associated-control': [ 2, {
+      'required': {
+          'some': [ 'nesting', 'id' ]
+      },
+      'allowChildren': false,
+    }],
+    'import/no-cycle': 'off', // todo : fix this
   }
 };
