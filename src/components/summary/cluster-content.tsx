@@ -2,7 +2,7 @@ import React from 'react';
 import { LocationProperties } from '../../shared/models/Location';
 import styled from 'styled-components';
 
-const Title = styled.span`
+export const Title = styled.span`
   font-weight: bold;
 `;
 

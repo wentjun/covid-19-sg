@@ -1,13 +1,10 @@
-import React, { Suspense } from 'react';
-import styled from 'styled-components';
-import { MapState } from '../../redux/reducers/map-reducer';
-import { Point, Feature } from 'geojson';
-import { PointProperties } from '../../shared/models/PointProperties';
-import { ControlState, SelectedCluster, SelectedCase } from '../../redux/reducers/control-reducer';
-import { groupedOptions, casesOptions } from './options';
-// const ReactSelect = React.lazy(() => import('react-select'));
 import Select from 'antd/es/select';
-import 'antd/dist/antd.css';
+import 'antd/es/select/style/css';
+import React from 'react';
+import styled from 'styled-components';
+import { ControlState, SelectedCase, SelectedCluster } from '../../redux/reducers/control-reducer';
+import { MapState } from '../../redux/reducers/map-reducer';
+
 const { Option, OptGroup } = Select;
 
 interface ControlProps {
@@ -53,15 +50,13 @@ const ControlWrapper = styled.div`
   }
 `;
 
-const ClusterSelect = styled.select`
-  font-size: 16px;
-  width: 100%;
-`;
+const StyledSelect = styled(Select)`
+  width: 140px;
 
-// const Select = styled(ReactSelect)`
-//   height: 25px;
-//   width: 100%;
-// `;
+  @media (min-width: 768px) {
+    width: 200px;
+  }
+`;
 
 const Slider = styled.input`
   width: 100%;
@@ -153,8 +148,6 @@ const Control: React.FC<ControlProps> = (props) => {
   const clusterLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'cluster');
   const otherLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'other');
   const hospitals = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'hospital');
-  const selectedCaseIndex = clusterData.features.findIndex(({ properties: { id } }) => id === selectedCase?.properties.id);
-  const selectedLocationIndex = transmissionClusterData.features.findIndex(({ properties: { location } }) => location === selectedCluster?.properties.location);
 
   const handleCheck = (e: React.ChangeEvent<HTMLInputElement>, type: Cluster) => {
     if (type === 'transmission') {
@@ -202,43 +195,16 @@ const Control: React.FC<ControlProps> = (props) => {
         />
         <ToggleType>
           <label htmlFor='transmissionClusters'>Locations</label>
-          {/* <ClusterSelect
-            id='jumptoCluster'
-            disabled={!displayTransmissionClusters || !ready}
-            onChange={(e) => handleClusterSelect(e, 'transmission')}
-            value={selectedLocationIndex}
-            aria-label='Go to selected location'
-          >
-            <option disabled value='-1'>- select a transmission cluster -</option>
-            {
-              clusterLocations.map(({ properties: { location } }, index) => <option key={location} value={index}>{location}</option>)
-            }
-            <option disabled>- notable locations -</option>
-            {
-              otherLocations.map(({ properties: { location } }, index) => <option key={location} value={clusterLocations.length + index}>{location}</option>)
-            }
-            <option disabled>- hospitals -</option>
-            {
-              hospitals.map(({ properties: { location } }, index) => <option key={location} value={clusterLocations.length + otherLocations.length + index}>{location}</option>)
-            }
-          </ClusterSelect> */}
-          {/* <Suspense fallback={<div>Loading Options...</div>}>
-            <Select
-              aria-label='Go to selected location'
-              placeholder='Select a Location'
-              required
-              options={groupedOptions}
-              disabled={!displayTransmissionClusters || !ready}
-            />
-          </Suspense> */}
-          <Select
+          <StyledSelect
             showSearch
             disabled={!displayTransmissionClusters || !ready}
-            style={{ width: '200px', maxWidth: '100%' }}
+            // style={{ width: '200px', maxWidth: '100%' }}
             placeholder='Select a Location'
             optionFilterProp='children'
+            //@ts-ignore
             onChange={(value: string) => handleSelect(value, 'transmission')}
             aria-label='Go to selected location'
+            value={selectedCluster?.properties.location}
           >
             <OptGroup label='Transmission Clusters'>
               {
@@ -255,7 +221,7 @@ const Control: React.FC<ControlProps> = (props) => {
                 hospitals.map(({ properties: { location } }) => <Option key={location} value={location}>{location}</Option>)
               }
             </OptGroup>
-          </Select>
+          </StyledSelect>
         </ToggleType>
       </ToggleGroup>
       <ToggleGroup>
@@ -268,31 +234,21 @@ const Control: React.FC<ControlProps> = (props) => {
         />
         <ToggleType>
           <label htmlFor='caseClusters'>Cases Clusters</label>
-          {/* <ClusterSelect
-            id='jumptoCase'
-            disabled={!ready}
-            onChange={(e) => handleClusterSelect(e, 'case')}
-            value={selectedCaseIndex}
-            aria-label='Go to selected case'
-          >
-            <option disabled value='-1'>- select a case -</option>
-            {
-              clusterData.features.map(({ properties: { id, title } }: Feature<Point, PointProperties>, index) => <option key={id} value={index}>{title}</option>)
-            }
-          </ClusterSelect> */}
-          <Select
+          <StyledSelect
             showSearch
             disabled={!ready}
-            style={{ width: '200px' }}
+            // style={{ width: '200px' }}
             placeholder='Select a Case'
             optionFilterProp='children'
+                        //@ts-ignore
             onChange={(value: string) => handleSelect(value, 'case')}
             aria-label='Go to selected case'
+            value={selectedCase?.properties.id}
           >
             {
               clusterData.features.map(({ properties: { id, title } }) =>  <Option key={id} value={id}>{title}</Option>)
             }
-          </Select>
+          </StyledSelect>
         </ToggleType>
       </ToggleGroup>
       <ToggleSliderGroup>

@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../redux/reducers';
 import { setModal } from '../../redux/actions';
+import { Title } from './cluster-content';
 
 const CaseContentWrapper = styled.div`
   display: flex;
@@ -42,7 +43,7 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
 
   return (
     <CaseContentWrapper>
-      <h3>{title}</h3>
+      <Title>{title}</Title>
       <Description>
         <span>Confirmed on: </span>
         <strong>{confirmed}</strong>
