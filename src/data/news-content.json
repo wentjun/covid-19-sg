@@ -1,5 +1,9 @@
 [
   {
+    "patient": "Case 4754",
+     "content": "<li>Case 4754, a 40 year-old male Malaysian national, has passed away on 18 April 2020. He was confirmed to have COVID-19 infection on 17 April. The cause of death was acute myocardial infarction with cardiogenic shock, and was not due to complications from COVID-19 infection.</li>"
+  },
+  {
     "patient": "Case 3381",
      "content": "<li>Case 3381, an 80 year-old male Malaysian national, has passed away on 14 April from causes not related to COVID-19 infection. Under MOH’s enhanced surveillance, he had been tested for COVID-19 after his demise, and his test result came back positive.</li>"
   },
