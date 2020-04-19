@@ -11,9 +11,6 @@ const CaseContentWrapper = styled.div`
   flex-direction: column;
 `;
 
-const Description = styled.div`
-`;
-
 const ModalLink = styled.a`
   color: #f62459;
   text-decoration: underline;
@@ -24,7 +21,7 @@ const ModalLink = styled.a`
 `;
 
 export const ArticleLink = styled.a`
-  color: #f62459
+  color: #f62459;
 `;
 
 export type CaseContent = PointProperties;
@@ -46,15 +43,15 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
   return (
     <CaseContentWrapper>
       <Title>{title}</Title>
-      <Description>
+      <div>
         <span>Confirmed on: </span>
         <strong>{confirmed}</strong>
-      </Description>
-      <Description>
+      </div>
+      <div>
         <span>Hospitalised at: </span>
         <strong>{hospital}</strong>
-      </Description>
-      <Description>
+      </div>
+      <div>
         {
           discharged
             ? (
@@ -66,8 +63,8 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
             )
             : null
         }
-      </Description>
-      <Description>
+      </div>
+      <div>
         {
           death
             ? (
@@ -79,20 +76,20 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
             )
             : null
         }
-      </Description>
-      <Description>
+      </div>
+      <div>
         <span>Age: </span>
         <strong>{age}</strong>
-      </Description>
-      <Description>
+      </div>
+      <div>
         <span>Source: </span>
         <strong>{transmissionSource}</strong>
-      </Description>
-      <Description>
+      </div>
+      <div>
         <span>Nationality: </span>
         <strong>{nationality}</strong>
-      </Description>
-      <Description>
+      </div>
+      <div>
         <span>Places of Residence: </span>
         {
           residenceAreas.map((area, index) => (
@@ -104,8 +101,8 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
             </React.Fragment>
           ))
         }
-      </Description>
-      <Description>
+      </div>
+      <div>
         <span>Places Visited: </span>
         {
           placesVisited.map((area, index) => (
@@ -117,7 +114,7 @@ export const CaseContent: React.FC<CaseContent> = (props) => {
             </React.Fragment>
           ))
         }
-      </Description>
+      </div>
       <ModalLink onClick={openModal}>Read more</ModalLink>
     </CaseContentWrapper>
   );

@@ -13,7 +13,7 @@ interface DotProps {
 }
 
 const SummaryWrapper = styled.div`
-  background-color: rgba(0,0,0, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
   padding: 0.5rem;
   font-size: 0.8rem;
@@ -46,7 +46,7 @@ const Dot = styled.span<DotProps>`
   background-color: ${({ type }) => dotColour(type)};
   border-radius: 50%;
   display: inline-block;
-  margin-right: 0.5rem
+  margin-right: 0.5rem;
 `;
 
 const UpArrow = styled.div<DotProps>`

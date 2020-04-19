@@ -26,7 +26,7 @@ interface ControlProps {
 export type Cluster = 'case' | 'transmission';
 
 const ControlWrapper = styled.div`
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
   width: 30vw;
   position: absolute;
@@ -34,7 +34,6 @@ const ControlWrapper = styled.div`
   top: 1rem;
   left: 1rem;
   padding: 0.5rem;
-
   display: flex;
   flex-direction: column;
 
@@ -54,7 +53,7 @@ const StyledSelect = styled(Select)`
   width: 140px;
 
   @media (min-width: 768px) {
-    width: 200px;
+    width: 250px;
   }
 `;
 
@@ -99,6 +98,7 @@ const ToggleGroup = styled.div`
 const ToggleType = styled.div`
   display: flex;
   flex-direction: column;
+
   > * {
     padding-bottom: 0.2rem;
   }
@@ -201,7 +201,7 @@ const Control: React.FC<ControlProps> = (props) => {
             disabled={!displayTransmissionClusters || !ready}
             placeholder='Select a Location'
             optionFilterProp='children'
-            onChange={(value: string) => handleSelect(value, 'transmission')}
+            onChange={(value: any) => handleSelect(value, 'transmission')}
             aria-label='Go to selected location'
             value={selectedCluster?.properties.location}
           >
@@ -244,7 +244,7 @@ const Control: React.FC<ControlProps> = (props) => {
             disabled={!ready}
             placeholder='Select a Case'
             optionFilterProp='children'
-            onChange={(value: string) => handleSelect(value, 'case')}
+            onChange={(value: any) => handleSelect(value, 'case')}
             aria-label='Go to selected case'
             value={selectedCase?.properties.id}
           >

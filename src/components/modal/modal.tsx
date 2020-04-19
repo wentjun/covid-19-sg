@@ -22,7 +22,7 @@ export const ModalWrapper = styled.div`
 `;
 
 export const ModalWindow = styled.div`
-  background-color: #100C07;
+  background-color: #100c07;
   color: white;
   display: flex;
   flex-direction: column;

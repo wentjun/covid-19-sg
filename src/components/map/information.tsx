@@ -15,7 +15,8 @@ const InformationIconWrapper = styled(QuestionCircle)`
   pointer-events: auto;
   cursor: pointer;
 
-  &:hover, :active {
+  &:hover,
+  :active {
     color: #29f1c3;
   }
 `;

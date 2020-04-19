@@ -18,7 +18,7 @@ interface CaseCardProps {
 }
 
 const CaseCardWrapper = styled.div`
-  background-color: rgba(0,0,0, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
   padding: 0.5rem;
   font-size: 0.8rem;

@@ -8,8 +8,8 @@ export const Title = styled.span`
 
 const CaseSpan = styled(Title)`
   &:hover {
-   color: #f62459;
-   cursor: pointer;
+    color: #f62459;
+    cursor: pointer;
   }
 `;
 
@@ -52,8 +52,9 @@ export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
       }
       <span>Cases (click to view more):</span>
       <CasesContainer>
-        {cases.map((patient: number) => (
-          <React.Fragment key={patient}>
+        {cases.map((patient: number, index) => (
+          // eslint-disable-next-line react/no-array-index-key
+          <React.Fragment key={index}>
             {(index ? ', ' : '')}
             <CaseSpan
               onClick={() => onCaseClick(patient)}

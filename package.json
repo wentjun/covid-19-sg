@@ -26,7 +26,8 @@
     "local:build": "react-scripts build && http-server build",
     "lint": "npm run lint:ts && npm run lint:css",
     "lint:ts": "eslint src --ext=.ts,.tsx --cache",
-    "lint:css": "stylelint './src/**/*.tsx'"
+    "lint:css": "stylelint './src/**/*.tsx'",
+    "deploy": "npm run lint && npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"
