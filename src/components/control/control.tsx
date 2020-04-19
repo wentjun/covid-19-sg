@@ -1,9 +1,14 @@
-import React from 'react';
+import React, { Suspense } from 'react';
 import styled from 'styled-components';
 import { MapState } from '../../redux/reducers/map-reducer';
 import { Point, Feature } from 'geojson';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { ControlState, SelectedCluster, SelectedCase } from '../../redux/reducers/control-reducer';
+import { groupedOptions, casesOptions } from './options';
+// const ReactSelect = React.lazy(() => import('react-select'));
+import Select from 'antd/es/select';
+import 'antd/dist/antd.css';
+const { Option, OptGroup } = Select;
 
 interface ControlProps {
   toggleDisplayTransmissionClusters: (displayTransmissionClusters: boolean) => void;
@@ -24,7 +29,7 @@ interface ControlProps {
 export type Cluster = 'case' | 'transmission';
 
 const ControlWrapper = styled.div`
-  background-color: rgba(0,0,0, 0.5);
+  background-color: rgba(0,0,0,0.5);
   color: white;
   width: 30vw;
   position: absolute;
@@ -52,6 +57,11 @@ const ClusterSelect = styled.select`
   font-size: 16px;
   width: 100%;
 `;
+
+// const Select = styled(ReactSelect)`
+//   height: 25px;
+//   width: 100%;
+// `;
 
 const Slider = styled.input`
   width: 100%;
@@ -154,15 +164,21 @@ const Control: React.FC<ControlProps> = (props) => {
     }
   };
 
-  const handleClusterSelect = (e: React.ChangeEvent<HTMLSelectElement>, type: Cluster) => {
+  const handleSelect = (value: string, type: Cluster) => {
     if (type === 'transmission') {
-      const selectedFeature = transmissionClusterData.features[Number(e.target.value)];
+      const selectedFeature = transmissionClusterData.features.find(({ properties: { location } }) => location ===  value);
+      if (!selectedFeature) {
+        return;
+      }
       setSelectedCluster({
         ...selectedFeature,
         shouldTriggerZoom: true
       });
     } else if (type === 'case') {
-      const selectedFeature = clusterData.features[Number(e.target.value)];
+      const selectedFeature = clusterData.features.find(({ properties: { id } }) => id === value);
+      if (!selectedFeature) {
+        return;
+      }
       setSelectedCase({
         ...selectedFeature,
         shouldTriggerZoom: true
@@ -186,7 +202,7 @@ const Control: React.FC<ControlProps> = (props) => {
         />
         <ToggleType>
           <label htmlFor='transmissionClusters'>Locations</label>
-          <ClusterSelect
+          {/* <ClusterSelect
             id='jumptoCluster'
             disabled={!displayTransmissionClusters || !ready}
             onChange={(e) => handleClusterSelect(e, 'transmission')}
@@ -205,7 +221,41 @@ const Control: React.FC<ControlProps> = (props) => {
             {
               hospitals.map(({ properties: { location } }, index) => <option key={location} value={clusterLocations.length + otherLocations.length + index}>{location}</option>)
             }
-          </ClusterSelect>
+          </ClusterSelect> */}
+          {/* <Suspense fallback={<div>Loading Options...</div>}>
+            <Select
+              aria-label='Go to selected location'
+              placeholder='Select a Location'
+              required
+              options={groupedOptions}
+              disabled={!displayTransmissionClusters || !ready}
+            />
+          </Suspense> */}
+          <Select
+            showSearch
+            disabled={!displayTransmissionClusters || !ready}
+            style={{ width: '200px', maxWidth: '100%' }}
+            placeholder='Select a Location'
+            optionFilterProp='children'
+            onChange={(value: string) => handleSelect(value, 'transmission')}
+            aria-label='Go to selected location'
+          >
+            <OptGroup label='Transmission Clusters'>
+              {
+                clusterLocations.map(({ properties: { location } }) => <Option key={location} value={location}>{location}</Option>)
+              }
+            </OptGroup>
+            <OptGroup label='Notable Locations'>
+              {
+                otherLocations.map(({ properties: { location } }) => <Option key={location} value={location}>{location}</Option>)
+              }
+            </OptGroup>
+            <OptGroup label='Hospitals'>
+              {
+                hospitals.map(({ properties: { location } }) => <Option key={location} value={location}>{location}</Option>)
+              }
+            </OptGroup>
+          </Select>
         </ToggleType>
       </ToggleGroup>
       <ToggleGroup>
@@ -218,7 +268,7 @@ const Control: React.FC<ControlProps> = (props) => {
         />
         <ToggleType>
           <label htmlFor='caseClusters'>Cases Clusters</label>
-          <ClusterSelect
+          {/* <ClusterSelect
             id='jumptoCase'
             disabled={!ready}
             onChange={(e) => handleClusterSelect(e, 'case')}
@@ -229,7 +279,20 @@ const Control: React.FC<ControlProps> = (props) => {
             {
               clusterData.features.map(({ properties: { id, title } }: Feature<Point, PointProperties>, index) => <option key={id} value={index}>{title}</option>)
             }
-          </ClusterSelect>
+          </ClusterSelect> */}
+          <Select
+            showSearch
+            disabled={!ready}
+            style={{ width: '200px' }}
+            placeholder='Select a Case'
+            optionFilterProp='children'
+            onChange={(value: string) => handleSelect(value, 'case')}
+            aria-label='Go to selected case'
+          >
+            {
+              clusterData.features.map(({ properties: { id, title } }) =>  <Option key={id} value={id}>{title}</Option>)
+            }
+          </Select>
         </ToggleType>
       </ToggleGroup>
       <ToggleSliderGroup>
