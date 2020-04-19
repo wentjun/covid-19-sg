@@ -1,12 +1,12 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Point, Feature, Polygon } from 'geojson';
+import { useDispatch, useSelector } from 'react-redux';
 import { PointProperties } from '../../shared/models/PointProperties';
 import { ClusterContent } from './cluster-content';
 import { CaseContent } from './case-content';
 import { Cluster } from '../control/control';
 import { LocationProperties } from '../../shared/models/Location';
-import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../redux/reducers';
 import { setSelectedCase } from '../../redux/actions';
 
@@ -18,7 +18,7 @@ interface CaseCardProps {
 }
 
 const CaseCardWrapper = styled.div`
-  background-color: rgba(0,0,0, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
   padding: 0.5rem;
   font-size: 0.8rem;
@@ -28,15 +28,18 @@ const CaseCardWrapper = styled.div`
 `;
 
 export const CaseCard: React.FC<CaseCardProps> = (props) => {
-  const { type, selectedCase, selectedCluster, importedCaseCount } = props;
+  const {
+    type, selectedCase, selectedCluster, importedCaseCount,
+  } = props;
   const dispatch = useDispatch();
   const clusterData = useSelector((state: RootState) => state.map.clusterData);
 
   const selectCase = (e: number) => {
-    const selectedCase =  (clusterData.features.filter((feature: Feature<Point, PointProperties>) => feature.properties.id === `case-${e}`))[0];
+    const selected = (clusterData.features
+      .filter((feature: Feature<Point, PointProperties>) => feature.properties.id === `case-${e}`))[0];
     dispatch(setSelectedCase({
-      ...selectedCase,
-      shouldTriggerZoom: true
+      ...selected,
+      shouldTriggerZoom: true,
     }));
   };
 
@@ -44,7 +47,8 @@ export const CaseCard: React.FC<CaseCardProps> = (props) => {
     <CaseCardWrapper>
       {
         type === 'case'
-          ? selectedCase && <CaseContent
+          ? selectedCase && (
+          <CaseContent
             id={selectedCase.properties.id}
             title={selectedCase.properties.title}
             confirmed={selectedCase.properties.confirmed}
@@ -58,12 +62,15 @@ export const CaseCard: React.FC<CaseCardProps> = (props) => {
             death={selectedCase.properties.death}
             transmissionSource={selectedCase.properties.transmissionSource}
           />
-          : selectedCluster && <ClusterContent
-            location={selectedCluster.properties.location}
-            cases={selectedCluster.properties.cases}
-            onCaseClick={selectCase}
-            importedCaseCount={importedCaseCount}
-          />
+          )
+          : selectedCluster && (
+            <ClusterContent
+              location={selectedCluster.properties.location}
+              cases={selectedCluster.properties.cases}
+              onCaseClick={selectCase}
+              importedCaseCount={importedCaseCount}
+            />
+          )
       }
     </CaseCardWrapper>
   );

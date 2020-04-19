@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/prefer-default-export
 export enum MapSchema {
   Source = 'covid-cluster-source',
   ClusterLayer = 'covid-cluster-layer',

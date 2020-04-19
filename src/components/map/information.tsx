@@ -15,7 +15,8 @@ const InformationIconWrapper = styled(QuestionCircle)`
   pointer-events: auto;
   cursor: pointer;
 
-  &:hover, :active {
+  &:hover,
+  :active {
     color: #29f1c3;
   }
 `;
@@ -24,6 +25,8 @@ export const Information: React.FC = () => {
   const dispatch = useDispatch();
 
   return (
-    <InformationIconWrapper onClick={(e) => dispatch(setModal('information'))} />
+    <InformationIconWrapper onClick={() => dispatch(setModal('information'))} />
   );
 };
+
+export default Information;

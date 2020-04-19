@@ -1,9 +1,11 @@
+import Select from 'antd/es/select';
+import 'antd/es/select/style/css';
 import React from 'react';
 import styled from 'styled-components';
+import { ControlState, SelectedCase, SelectedCluster } from '../../redux/reducers/control-reducer';
 import { MapState } from '../../redux/reducers/map-reducer';
-import { Point, Feature } from 'geojson';
-import { PointProperties } from '../../shared/models/PointProperties';
-import { ControlState, SelectedCluster, SelectedCase } from '../../redux/reducers/control-reducer';
+
+const { Option, OptGroup } = Select;
 
 interface ControlProps {
   toggleDisplayTransmissionClusters: (displayTransmissionClusters: boolean) => void;
@@ -24,7 +26,7 @@ interface ControlProps {
 export type Cluster = 'case' | 'transmission';
 
 const ControlWrapper = styled.div`
-  background-color: rgba(0,0,0, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
   width: 30vw;
   position: absolute;
@@ -32,7 +34,6 @@ const ControlWrapper = styled.div`
   top: 1rem;
   left: 1rem;
   padding: 0.5rem;
-
   display: flex;
   flex-direction: column;
 
@@ -48,9 +49,12 @@ const ControlWrapper = styled.div`
   }
 `;
 
-const ClusterSelect = styled.select`
-  font-size: 16px;
-  width: 100%;
+const StyledSelect = styled(Select)`
+  width: 140px;
+
+  @media (min-width: 768px) {
+    width: 250px;
+  }
 `;
 
 const Slider = styled.input`
@@ -94,6 +98,7 @@ const ToggleGroup = styled.div`
 const ToggleType = styled.div`
   display: flex;
   flex-direction: column;
+
   > * {
     padding-bottom: 0.2rem;
   }
@@ -122,7 +127,7 @@ const ToggleSliderGroup = styled(ToggleGroup)`
 
 const START_DATE = new Date('2020-01-23').setHours(0, 0, 0, 0);
 const DIFFERENCE = new Date().setHours(23, 59, 59, 0) - START_DATE;
-const DAYS  = Math.ceil(DIFFERENCE / (1000 * 60 * 60 * 24));
+const DAYS = Math.ceil(DIFFERENCE / (1000 * 60 * 60 * 24));
 
 const Control: React.FC<ControlProps> = (props) => {
   const {
@@ -138,13 +143,11 @@ const Control: React.FC<ControlProps> = (props) => {
     setDateRange,
     dateEndRange,
     selectedCase,
-    selectedCluster
+    selectedCluster,
   } = props;
   const clusterLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'cluster');
   const otherLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'other');
   const hospitals = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'hospital');
-  const selectedCaseIndex = clusterData.features.findIndex(({ properties: { id } }) => id === selectedCase?.properties.id);
-  const selectedLocationIndex = transmissionClusterData.features.findIndex(({ properties: { location } }) => location === selectedCluster?.properties.location);
 
   const handleCheck = (e: React.ChangeEvent<HTMLInputElement>, type: Cluster) => {
     if (type === 'transmission') {
@@ -154,18 +157,25 @@ const Control: React.FC<ControlProps> = (props) => {
     }
   };
 
-  const handleClusterSelect = (e: React.ChangeEvent<HTMLSelectElement>, type: Cluster) => {
+  const handleSelect = (value: string, type: Cluster) => {
     if (type === 'transmission') {
-      const selectedFeature = transmissionClusterData.features[Number(e.target.value)];
+      const selectedFeature = transmissionClusterData.features
+        .find(({ properties: { location } }) => location === value);
+      if (!selectedFeature) {
+        return;
+      }
       setSelectedCluster({
         ...selectedFeature,
-        shouldTriggerZoom: true
+        shouldTriggerZoom: true,
       });
     } else if (type === 'case') {
-      const selectedFeature = clusterData.features[Number(e.target.value)];
+      const selectedFeature = clusterData.features.find(({ properties: { id } }) => id === value);
+      if (!selectedFeature) {
+        return;
+      }
       setSelectedCase({
         ...selectedFeature,
-        shouldTriggerZoom: true
+        shouldTriggerZoom: true,
       });
     }
   };
@@ -186,26 +196,37 @@ const Control: React.FC<ControlProps> = (props) => {
         />
         <ToggleType>
           <label htmlFor='transmissionClusters'>Locations</label>
-          <ClusterSelect
-            id='jumptoCluster'
+          <StyledSelect
+            showSearch
             disabled={!displayTransmissionClusters || !ready}
-            onChange={(e) => handleClusterSelect(e, 'transmission')}
-            value={selectedLocationIndex}
+            placeholder='Select a Location'
+            optionFilterProp='children'
+            onChange={(value: any) => handleSelect(value, 'transmission')}
             aria-label='Go to selected location'
+            value={selectedCluster?.properties.location}
           >
-            <option disabled value='-1'>- select a transmission cluster -</option>
-            {
-              clusterLocations.map(({ properties: { location } }, index) => <option key={location} value={index}>{location}</option>)
-            }
-            <option disabled>- notable locations -</option>
-            {
-              otherLocations.map(({ properties: { location } }, index) => <option key={location} value={clusterLocations.length + index}>{location}</option>)
-            }
-            <option disabled>- hospitals -</option>
-            {
-              hospitals.map(({ properties: { location } }, index) => <option key={location} value={clusterLocations.length + otherLocations.length + index}>{location}</option>)
-            }
-          </ClusterSelect>
+            <OptGroup label='Transmission Clusters'>
+              {
+                clusterLocations.map(({ properties: { location } }) => (
+                  <Option key={location} value={location}>{location}</Option>
+                ))
+              }
+            </OptGroup>
+            <OptGroup label='Notable Locations'>
+              {
+                otherLocations.map(({ properties: { location } }) => (
+                  <Option key={location} value={location}>{location}</Option>
+                ))
+              }
+            </OptGroup>
+            <OptGroup label='Hospitals'>
+              {
+                hospitals.map(({ properties: { location } }) => (
+                  <Option key={location} value={location}>{location}</Option>
+                ))
+              }
+            </OptGroup>
+          </StyledSelect>
         </ToggleType>
       </ToggleGroup>
       <ToggleGroup>
@@ -218,18 +239,19 @@ const Control: React.FC<ControlProps> = (props) => {
         />
         <ToggleType>
           <label htmlFor='caseClusters'>Cases Clusters</label>
-          <ClusterSelect
-            id='jumptoCase'
+          <StyledSelect
+            showSearch
             disabled={!ready}
-            onChange={(e) => handleClusterSelect(e, 'case')}
-            value={selectedCaseIndex}
+            placeholder='Select a Case'
+            optionFilterProp='children'
+            onChange={(value: any) => handleSelect(value, 'case')}
             aria-label='Go to selected case'
+            value={selectedCase?.properties.id}
           >
-            <option disabled value='-1'>- select a case -</option>
             {
-              clusterData.features.map(({ properties: { id, title } }: Feature<Point, PointProperties>, index) => <option key={id} value={index}>{title}</option>)
+              clusterData.features.map(({ properties: { id, title } }) => <Option key={id} value={id}>{title}</Option>)
             }
-          </ClusterSelect>
+          </StyledSelect>
         </ToggleType>
       </ToggleGroup>
       <ToggleSliderGroup>
@@ -244,7 +266,11 @@ const Control: React.FC<ControlProps> = (props) => {
           defaultValue={DAYS}
           disabled={!ready}
         />
-        <RangeSpan>2020-01-23 to {dateEndRange.toLocaleDateString('fr-CA')}</RangeSpan>
+        <RangeSpan>
+          2020-01-23 to
+          {' '}
+          {dateEndRange.toLocaleDateString('fr-CA')}
+        </RangeSpan>
       </ToggleSliderGroup>
     </ControlWrapper>
   );

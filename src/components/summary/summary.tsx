@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import { MapState } from '../../redux/reducers/map-reducer';
 import { ControlState } from '../../redux/reducers/control-reducer';
+// eslint-disable-next-line import/no-named-as-default
 import Legend from './legend';
 import { CaseCard } from './case-card';
 import { Cluster } from '../control/control';
@@ -25,23 +26,28 @@ const SummaryWrapper = styled.div`
   flex-direction: column;
 `;
 
-const Summary: React.FC<SummaryProps> = ({ selectedCase, dateEndRange, clusterData, selectedCluster }) => {
-  const [ cardType, setCardType ] = useState<Cluster | null>(null);
+const Summary: React.FC<SummaryProps> = ({
+  selectedCase, dateEndRange, clusterData, selectedCluster,
+}) => {
+  const [cardType, setCardType] = useState<Cluster | null>(null);
   const displayTransmissionCard = (type: Cluster | null) => {
     switch (type) {
       default:
         return null;
       case 'case':
         if (!selectedCase) {
-          return;
+          return null;
         }
         return <CaseCard type='case' selectedCase={selectedCase} />;
-      case 'transmission':
+      case 'transmission': {
         if (!selectedCluster) {
-          return;
+          return null;
         }
-        const importedCaseCount = (clusterData.features.filter(({ properties: { transmissionSource } }) => transmissionSource === 'Imported')).length;
+        const importedCaseCount = (clusterData.features.filter(({ properties: { transmissionSource } }) => (
+          transmissionSource === 'Imported'))
+        ).length;
         return <CaseCard type='transmission' selectedCluster={selectedCluster} importedCaseCount={importedCaseCount} />;
+      }
     }
   };
 
@@ -62,7 +68,7 @@ const Summary: React.FC<SummaryProps> = ({ selectedCase, dateEndRange, clusterDa
   return (
     <SummaryWrapper>
       {cardType ? displayTransmissionCard(cardType) : null}
-      <Legend dateEndRange={dateEndRange} clusterData={clusterData}/>
+      <Legend dateEndRange={dateEndRange} clusterData={clusterData} />
     </SummaryWrapper>
   );
 };

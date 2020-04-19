@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-
 import Control from './control/control-container';
 import Map from './map/map-container';
 import SnackbarUpdate from './snackbar-update/snackbar-update';
@@ -22,21 +21,11 @@ const AppWrapper = styled.main`
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-
   height: 100vh;
-  height: -moz-available; // webkit
-  height: -webkit-fill-available;  // mozilla
   height: fill-available;
 `;
 
 class App extends React.Component<AppProps, AppState> {
-  constructor(props: AppProps) {
-    super(props);
-    this.state = {
-      isHideSnackbar: false
-    };
-  }
-
   updateServiceWorker() {
     const { serviceWorkerRegistration } = this.props;
     const registrationWaiting = serviceWorkerRegistration?.waiting;
@@ -57,9 +46,8 @@ class App extends React.Component<AppProps, AppState> {
       <AppWrapper>
         <Control />
         <Map />
-        {hasServiceWorkerUpdates &&
-          <SnackbarUpdate onDismiss={() => this.updateServiceWorker()}/>
-        }
+        {hasServiceWorkerUpdates
+          && <SnackbarUpdate onDismiss={() => this.updateServiceWorker()} />}
         <Summary />
         <Modal />
       </AppWrapper>

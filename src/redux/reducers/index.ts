@@ -1,5 +1,4 @@
 import { combineReducers } from 'redux';
-
 import { controlReducer, ControlState } from './control-reducer';
 import { mapReducer, MapState } from './map-reducer';
 import { configReducer, ConfigState } from './config-reducer';
@@ -16,7 +15,7 @@ const reducers = combineReducers({
   control: controlReducer,
   map: mapReducer,
   config: configReducer,
-  ui: uiReducer
+  ui: uiReducer,
 });
 
 export default reducers;

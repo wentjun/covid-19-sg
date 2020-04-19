@@ -1,17 +1,17 @@
-import mapboxgl, { MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds, CirclePaint, NavigationControl } from 'mapbox-gl';
+import mapboxgl, {
+  MapLayerMouseEvent, Map as MapboxContainer, GeoJSONSource, LngLatBounds, CirclePaint, NavigationControl,
+} from 'mapbox-gl';
 import React from 'react';
 import styled from 'styled-components';
+import { Feature, Point, Polygon } from 'geojson';
+import ReactGA from 'react-ga';
+import { createPortal } from 'react-dom';
 import { MapSchema } from '../../shared/models/enums';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { Feature, Point, Polygon } from 'geojson';
 import { MapState } from '../../redux/reducers/map-reducer';
-// import along from '@turf/along';
-// import length from '@turf/length';
 import { ControlState } from '../../redux/reducers/control-reducer';
-import ReactGA from 'react-ga';
 import { LocationProperties } from '../../shared/models/Location';
 import { Information } from './information';
-import { createPortal } from 'react-dom';
 
 export interface MapProps {
   mapReady: () => void;
@@ -51,7 +51,7 @@ const SINGLE_POINT_STYLE: CirclePaint = {
     '#f15a22',
     ['==', ['get', 'discharged'], true],
     '#29f1c3',
-    '#29f1c3'
+    '#29f1c3',
   ],
   'circle-radius': 6,
   'circle-stroke-width': [
@@ -61,21 +61,22 @@ const SINGLE_POINT_STYLE: CirclePaint = {
     12,
     ['has', 'isDateEndRange'],
     6,
-    1
+    1,
   ],
   'circle-stroke-color': [
     'case',
     // ['has', 'isActive'],
     ['==', ['get', 'isActive'], true],
     '#6c7a89',
-    '#bdc3c7'
-  ]
+    '#bdc3c7',
+  ],
 };
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN as string;
 
 class Map extends React.Component<MapProps> {
   private mapContainer: any;
+
   private map?: MapboxContainer;
 
   componentDidMount() {
@@ -89,8 +90,8 @@ class Map extends React.Component<MapProps> {
       selectedCluster,
       displayCaseClusters,
       selectedCase,
-      clusterData
-     } = this.props;
+      clusterData,
+    } = this.props;
 
     if (displayTransmissionClusters !== prevProps.displayTransmissionClusters) {
       if (displayTransmissionClusters) {
@@ -106,7 +107,6 @@ class Map extends React.Component<MapProps> {
         this.map?.setLayoutProperty(MapSchema.ClusterLayer, 'visibility', 'visible');
         this.map?.setLayoutProperty(MapSchema.SinglePointLayer, 'visibility', 'visible');
         this.map?.setLayoutProperty(MapSchema.SinglePointUnclusteredLayer, 'visibility', 'none');
-
       } else {
         this.map?.setLayoutProperty(MapSchema.ClusterCountLayer, 'visibility', 'none');
         this.map?.setLayoutProperty(MapSchema.ClusterLayer, 'visibility', 'none');
@@ -135,122 +135,29 @@ class Map extends React.Component<MapProps> {
     this.map?.remove();
   }
 
-  zoomToTransmissionCluster() {
-    const { selectedCluster } = this.props;
-    if (!selectedCluster) {
-      return;
-    }
-    const { geometry: { coordinates } } = selectedCluster;
-
-    const polygonCoordinates = coordinates[0] as Array<[number, number]>;
-
-    this.zoomIntoTransmissionClusterBounds(polygonCoordinates);
-  }
-
-  loadMap() {
-    const { longitude, latitude, zoom, mapReady } = this.props;
-    this.map = new MapboxContainer({
-      center: [longitude, latitude],
-      container: this.mapContainer,
-      style: 'mapbox://styles/mapbox/dark-v9?optimize=true',
-      zoom,
-      maxZoom: 18
-    });
-    this.map.doubleClickZoom.disable();
-    this.map.on('load', () => {
-      // ensure transmission cluster is "below" case point
-      this.loadTransmissionClusterPolygons();
-      this.loadCluster();
-      this.loadUnclusteredCases();
-      mapReady();
-      this.onTransmissionClusterClick();
-      this.onClusterClick();
-      this.onPointClick();
-      this.loadNavigationControl();
-    });
-  }
-
-  loadCluster() {
-    const { clusterData } = this.props;
-
-    this.map?.addSource(MapSchema.Source, {
-      type: 'geojson',
-      data: clusterData,
-      cluster: true,
-      clusterMaxZoom: 14,
-      clusterRadius: 50,
-      generateId: true
-    });
-
-    this.map?.addLayer({
-      id: MapSchema.ClusterLayer,
-      type: 'circle',
-      source: MapSchema.Source,
-      filter: ['has', 'point_count'],
-      paint: {
-        'circle-color': [
-          'step',
-          ['get', 'point_count'],
-          '#51bbd6',
-          100,
-          '#f1f075',
-          750,
-          '#f28cb1'
-        ],
-        'circle-radius': [
-          'step',
-          ['get', 'point_count'],
-          20,
-          100,
-          30,
-          750,
-          40
-        ]
-      }
-    });
-
-    this.map?.addLayer({
-      id: MapSchema.ClusterCountLayer,
-      type: 'symbol',
-      source: MapSchema.Source,
-      filter: ['has', 'point_count'],
-      layout: {
-        'text-field': '{point_count_abbreviated}',
-        'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
-        'text-size': 12
-      }
-    });
-
-    this.map?.addLayer({
-      id: MapSchema.SinglePointLayer,
-      type: 'circle',
-      source: MapSchema.Source,
-      filter: ['!', ['has', 'point_count']],
-      paint: SINGLE_POINT_STYLE
-    });
-  }
-
-  onClusterClick() {
-    this.map?.on('click', MapSchema.ClusterLayer, (e: MapLayerMouseEvent) => {
+  onTransmissionClusterClick() {
+    const { setSelectedCluster, transmissionClusterData } = this.props;
+    this.map?.on('click', MapSchema.TransmissionClusterLayer, (e: MapLayerMouseEvent) => {
       const features = this.map?.queryRenderedFeatures(e.point, {
-        layers: [MapSchema.ClusterLayer]
+        layers: [MapSchema.TransmissionClusterLayer],
       });
-      const clusterId = features?.[0].properties?.cluster_id;
-      const source = this.map?.getSource(MapSchema.Source) as GeoJSONSource;
-      source.getClusterExpansionZoom(
-        clusterId,
-        (err: Error, zoom: number) => {
-          const geometry = features?.[0]?.geometry;
-          if (err || geometry?.type !== 'Point' || !geometry.coordinates) {
-            return;
-          }
-
-          this.map?.easeTo({
-            center: geometry.coordinates as [number, number],
-            zoom
-          });
-        }
-      );
+      if (features?.[0].geometry.type !== 'Polygon') {
+        return;
+      }
+      const { geometry: { coordinates }, properties } = features[0];
+      const polygonCoordinates = coordinates[0] as Array<[number, number]>;
+      if (!properties) {
+        return;
+      }
+      const { location } = properties as LocationProperties;
+      const selectedCluster = transmissionClusterData.features.find((feature) => (
+        feature.properties.location === location
+      ));
+      if (!selectedCluster) {
+        return;
+      }
+      setSelectedCluster(selectedCluster);
+      this.zoomIntoTransmissionClusterBounds(polygonCoordinates);
     });
   }
 
@@ -268,8 +175,8 @@ class Map extends React.Component<MapProps> {
         ...selectedCase,
         properties: {
           ...selectedCase.properties,
-          isActive: true
-        }
+          isActive: true,
+        },
       });
       const { geometry: { coordinates } } = selectedCase;
       this.flyToCase(coordinates as [number, number]);
@@ -295,38 +202,134 @@ class Map extends React.Component<MapProps> {
     });
   }
 
-  onTransmissionClusterClick() {
-    const { setSelectedCluster, transmissionClusterData } = this.props;
-    this.map?.on('click', MapSchema.TransmissionClusterLayer, (e: MapLayerMouseEvent) => {
+  onClusterClick() {
+    this.map?.on('click', MapSchema.ClusterLayer, (e: MapLayerMouseEvent) => {
       const features = this.map?.queryRenderedFeatures(e.point, {
-        layers: [MapSchema.TransmissionClusterLayer]
+        layers: [MapSchema.ClusterLayer],
       });
-      if (features?.[0].geometry.type !== 'Polygon') {
-        return;
-      }
-      const { geometry: { coordinates } , properties } = features[0];
-      const polygonCoordinates = coordinates[0] as Array<[number, number]>;
-      if (!properties) {
-        return;
-      }
-      const { location } = properties as LocationProperties;
-      const selectedCluster = transmissionClusterData.features.find((feature) => feature.properties.location === location);
-      if (!selectedCluster) {
-        return;
-      }
-      setSelectedCluster(selectedCluster);
-      this.zoomIntoTransmissionClusterBounds(polygonCoordinates);
+      const clusterId = features?.[0].properties?.cluster_id;
+      const source = this.map?.getSource(MapSchema.Source) as GeoJSONSource;
+      source.getClusterExpansionZoom(
+        clusterId,
+        (err: Error, zoom: number) => {
+          const geometry = features?.[0]?.geometry;
+          if (err || geometry?.type !== 'Point' || !geometry.coordinates) {
+            return;
+          }
+
+          this.map?.easeTo({
+            center: geometry.coordinates as [number, number],
+            zoom,
+          });
+        },
+      );
     });
   }
 
-  zoomIntoTransmissionClusterBounds(coordinates: Array<[number, number]>) {
-    const bounds = coordinates.reduce((bounds: any, coord: any) => {
-      return bounds.extend(coord);
-    }, new LngLatBounds(coordinates[0], coordinates[0]));
+  loadCluster() {
+    const { clusterData } = this.props;
 
-    this.map?.fitBounds(bounds, {
+    this.map?.addSource(MapSchema.Source, {
+      type: 'geojson',
+      data: clusterData,
+      cluster: true,
+      clusterMaxZoom: 14,
+      clusterRadius: 50,
+      generateId: true,
+    });
+
+    this.map?.addLayer({
+      id: MapSchema.ClusterLayer,
+      type: 'circle',
+      source: MapSchema.Source,
+      filter: ['has', 'point_count'],
+      paint: {
+        'circle-color': [
+          'step',
+          ['get', 'point_count'],
+          '#51bbd6',
+          100,
+          '#f1f075',
+          750,
+          '#f28cb1',
+        ],
+        'circle-radius': [
+          'step',
+          ['get', 'point_count'],
+          20,
+          100,
+          30,
+          750,
+          40,
+        ],
+      },
+    });
+
+    this.map?.addLayer({
+      id: MapSchema.ClusterCountLayer,
+      type: 'symbol',
+      source: MapSchema.Source,
+      filter: ['has', 'point_count'],
+      layout: {
+        'text-field': '{point_count_abbreviated}',
+        'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+        'text-size': 12,
+      },
+    });
+
+    this.map?.addLayer({
+      id: MapSchema.SinglePointLayer,
+      type: 'circle',
+      source: MapSchema.Source,
+      filter: ['!', ['has', 'point_count']],
+      paint: SINGLE_POINT_STYLE,
+    });
+  }
+
+  loadMap() {
+    const {
+      longitude, latitude, zoom, mapReady,
+    } = this.props;
+    this.map = new MapboxContainer({
+      center: [longitude, latitude],
+      container: this.mapContainer,
+      style: 'mapbox://styles/mapbox/dark-v9?optimize=true',
+      zoom,
+      maxZoom: 18,
+    });
+    this.map.doubleClickZoom.disable();
+    this.map.on('load', () => {
+      // ensure transmission cluster is "below" case point
+      this.loadTransmissionClusterPolygons();
+      this.loadCluster();
+      this.loadUnclusteredCases();
+      mapReady();
+      this.onTransmissionClusterClick();
+      this.onClusterClick();
+      this.onPointClick();
+      this.loadNavigationControl();
+    });
+  }
+
+  zoomToTransmissionCluster() {
+    const { selectedCluster } = this.props;
+    if (!selectedCluster) {
+      return;
+    }
+    const { geometry: { coordinates } } = selectedCluster;
+
+    const polygonCoordinates = coordinates[0] as Array<[number, number]>;
+
+    this.zoomIntoTransmissionClusterBounds(polygonCoordinates);
+  }
+
+  zoomIntoTransmissionClusterBounds(coordinates: Array<[number, number]>) {
+    const clusterBounds = coordinates
+      .reduce((bounds, coord) => bounds.extend(coord), new LngLatBounds(coordinates[0], coordinates[0]));
+
+    this.map?.fitBounds(clusterBounds, {
       padding: 20,
-      linear: true
+      linear: true,
     });
   }
 
@@ -339,67 +342,16 @@ class Map extends React.Component<MapProps> {
       center: coordinates,
       curve: 1.1,
       speed: 2,
-      zoom: (currentZoomLevel > 16) ? currentZoomLevel : 16
+      zoom: (currentZoomLevel > 16) ? currentZoomLevel : 16,
     });
   }
-
-  // todo: how to best display lines between cluster and cases?
-  // onCaseSelect(e: number, clusterPoint: Position): any {
-  //   const { clusterData } = this.props;
-  //   const selectedCase = clusterData.features.find((feature: Feature<Point, PointProperties>) => feature.properties.id === `case-${e}`);
-  //   if (!selectedCase) {
-  //     return;
-  //   }
-  //   const { geometry: { coordinates } } = selectedCase;
-  //   const arc = [];
-  //
-  //   const route: FeatureCollection = {
-  //     type: 'FeatureCollection',
-  //     features: [
-  //       {
-  //         type: 'Feature',
-  //         properties: {},
-  //         geometry: {
-  //           type: 'LineString',
-  //           coordinates: [coordinates, clusterPoint]
-  //         }
-  //       }
-  //     ]
-  //   };
-  //   const distance = length(route)
-  //   const steps = 500;
-  //   if (route.features[0].geometry.type !== 'LineString') {
-  //     return;
-  //   }
-  //   for (let i = 0; i < distance; i += distance / steps) {
-  //     // @ts-ignore
-  //     const segment = along(route.features[0], i, { units: 'kilometers' });
-  //     arc.push(segment.geometry.coordinates);
-  //   }
-  //   route.features[0].geometry.coordinates = arc;
-  //
-  //   this.map?.addSource('route', {
-  //     type: 'geojson',
-  //     data: route
-  //   });
-  //
-  //   this.map?.addLayer({
-  //     id: 'route',
-  //     source: 'route',
-  //     type: 'line',
-  //     paint: {
-  //       'line-width': 2,
-  //       'line-color': '#007cbf'
-  //     }
-  //   });
-  // }
 
   loadTransmissionClusterPolygons() {
     const { transmissionClusterData } = this.props;
 
     this.map?.addSource(MapSchema.TransmissionClusterSource, {
       type: 'geojson',
-      data: transmissionClusterData
+      data: transmissionClusterData,
     });
 
     this.map?.addLayer({
@@ -409,8 +361,8 @@ class Map extends React.Component<MapProps> {
       layout: {},
       paint: {
         'fill-color': '#f62459',
-        'fill-opacity': 0.8
-      }
+        'fill-opacity': 0.8,
+      },
     });
   }
 
@@ -424,14 +376,14 @@ class Map extends React.Component<MapProps> {
     this.map?.addSource(MapSchema.UnclusteredSource, {
       type: 'geojson',
       data: clusterData,
-      cluster: false
+      cluster: false,
     });
 
     this.map?.addLayer({
       id: MapSchema.SinglePointUnclusteredLayer,
       type: 'circle',
       source: MapSchema.UnclusteredSource,
-      paint: SINGLE_POINT_STYLE
+      paint: SINGLE_POINT_STYLE,
     });
 
     this.map?.setLayoutProperty(MapSchema.SinglePointUnclusteredLayer, 'visibility', 'none');
@@ -445,7 +397,11 @@ class Map extends React.Component<MapProps> {
     const portalContainer = document.querySelector('.mapboxgl-ctrl-bottom-right');
     return (
       <MapWrapper>
-        <MapContainer ref={(e) => this.mapContainer = e} />
+        <MapContainer
+          ref={(e) => {
+            this.mapContainer = e;
+          }}
+        />
         { portalContainer
           ? createPortal(<Information />, portalContainer)
           : null }

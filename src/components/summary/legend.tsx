@@ -13,7 +13,7 @@ interface DotProps {
 }
 
 const SummaryWrapper = styled.div`
-  background-color: rgba(0,0,0, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
   padding: 0.5rem;
   font-size: 0.8rem;
@@ -27,10 +27,11 @@ const SummaryTitle = styled.div`
 
 const dotColour = (type: DotProps['type']) => {
   switch (type) {
-    case 'discharged':
-      return '#29f1c3';
+    default:
     case 'hospitalised':
       return '#f15a22';
+    case 'discharged':
+      return '#29f1c3';
   }
 };
 
@@ -45,7 +46,7 @@ const Dot = styled.span<DotProps>`
   background-color: ${({ type }) => dotColour(type)};
   border-radius: 50%;
   display: inline-block;
-  margin-right: 0.5rem
+  margin-right: 0.5rem;
 `;
 
 const UpArrow = styled.div<DotProps>`
@@ -61,43 +62,72 @@ export const Legend: React.FC<LegendProps> = (props) => {
   const { clusterData: { features }, dateEndRange } = props;
   const totalCases = features.length;
   // 3 of them died not due to COVID-19
-  const dischargedCases = (features.filter(({ properties }) =>
-    new Date(properties.discharged) < new Date(dateEndRange))).length - 3;
-  const deathCases = (features.filter(({ properties }) =>
-    new Date(properties.death) < new Date(dateEndRange))).length;
+  const dischargedCases = (features.filter(({ properties }) => (
+    new Date(properties.discharged) < new Date(dateEndRange)))
+  ).length - 3;
+  const deathCases = (features.filter(({ properties }) => new Date(properties.death) < new Date(dateEndRange))).length;
   const hospitalisedCases = totalCases - dischargedCases - deathCases;
 
-  const mostRecentDateConfirmed = Math.max.apply(null, features.map(e => +new Date(e.properties.confirmed)));
-  const mostRecentDateDischarged = Math.max.apply(null, features.map(e => (e.properties.discharged ? +new Date(e.properties.discharged) : 0)));
-  const mostRecentDateDeath = Math.max.apply(null, features.map(e => (e.properties.death ? +new Date(e.properties.death) : 0)));
+  const mostRecentDateConfirmed = Math.max.apply(null, features.map((e) => +new Date(e.properties.confirmed)));
+  const mostRecentDateDischarged = Math.max.apply(
+    null,
+    features.map((e) => (e.properties.discharged ? +new Date(e.properties.discharged) : 0)),
+  );
+  const mostRecentDateDeath = Math.max.apply(
+    null,
+    features.map((e) => (e.properties.death ? +new Date(e.properties.death) : 0)),
+  );
 
-  const latestConfirmedCount = (features.filter(feature =>
-    new Date(feature.properties.confirmed).getTime() === mostRecentDateConfirmed)).length;
-  const latestDischargedCount = (features.filter(feature =>
-    new Date(feature.properties.discharged).getTime() === mostRecentDateDischarged)).length;
-  const latestDeathCount = (features.filter(feature =>
-    new Date(feature.properties.death).getTime() === mostRecentDateDeath)).length;
+  const latestConfirmedCount = (features.filter((feature) => (
+    new Date(feature.properties.confirmed).getTime() === mostRecentDateConfirmed))
+  ).length;
+  const latestDischargedCount = (features.filter((feature) => (
+    new Date(feature.properties.discharged).getTime() === mostRecentDateDischarged))
+  ).length;
+  const latestDeathCount = (features.filter((feature) => (
+    new Date(feature.properties.death).getTime() === mostRecentDateDeath))
+  ).length;
 
   return (
     <SummaryWrapper>
-      <SummaryTitle>Summary ({dateEndRange.toLocaleDateString('fr-CA')})</SummaryTitle>
-      <span>Total confirmed Cases: {totalCases}</span>
+      <SummaryTitle>
+        Summary (
+        {dateEndRange.toLocaleDateString('fr-CA')}
+        )
+      </SummaryTitle>
+      <span>
+        Total confirmed Cases:
+        {' '}
+        {totalCases}
+      </span>
       <Breakdown>
-        <Dot type='hospitalised'/>
-        <span>Hospitalised: {hospitalisedCases}</span>
-        <UpArrow type='hospitalised'/>
+        <Dot type='hospitalised' />
+        <span>
+          Hospitalised:
+          {' '}
+          {hospitalisedCases}
+        </span>
+        <UpArrow type='hospitalised' />
         <span>{latestConfirmedCount}</span>
       </Breakdown>
       <Breakdown>
-        <Dot type='discharged'/>
-        <span>Discharged: {dischargedCases}</span>
-        <UpArrow type='discharged'/>
+        <Dot type='discharged' />
+        <span>
+          Discharged:
+          {' '}
+          {dischargedCases}
+        </span>
+        <UpArrow type='discharged' />
         <span>{latestDischargedCount}</span>
       </Breakdown>
       <Breakdown>
-        <Dot type='hospitalised'/>
-        <span>Death: {deathCases}</span>
-        <UpArrow type='hospitalised'/>
+        <Dot type='hospitalised' />
+        <span>
+          Death:
+          {' '}
+          {deathCases}
+        </span>
+        <UpArrow type='hospitalised' />
         <span>{latestDeathCount}</span>
       </Breakdown>
     </SummaryWrapper>

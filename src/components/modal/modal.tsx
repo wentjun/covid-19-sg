@@ -22,7 +22,7 @@ export const ModalWrapper = styled.div`
 `;
 
 export const ModalWindow = styled.div`
-  background-color: #100C07;
+  background-color: #100c07;
   color: white;
   display: flex;
   flex-direction: column;
@@ -56,9 +56,8 @@ export const MainContent = styled.div`
   flex-direction: column;
 `;
 
-export const Modal: React.FC<Modal> = ({ modal, selectedCase }) => {
-
-  return <>
+export const Modal: React.FC<Modal> = ({ modal, selectedCase }) => (
+  <>
     {(() => {
       switch (modal) {
         default:
@@ -70,5 +69,5 @@ export const Modal: React.FC<Modal> = ({ modal, selectedCase }) => {
           return <InformationModal />;
       }
     })()}
-  </>;
-};
+  </>
+);
