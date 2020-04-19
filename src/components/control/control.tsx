@@ -52,6 +52,7 @@ const ControlWrapper = styled.div`
 const StyledSelect = styled(Select)`
   width: 140px;
   font-size: 16px;
+
   @media (min-width: 768px) {
     width: 250px;
   }
