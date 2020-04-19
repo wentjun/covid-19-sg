@@ -27,6 +27,7 @@ Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, 
 | properties.placesVisited | List of places visited by the individual |  
 | properties.age | Age of individual |  
 | properties.death | Date of death |  
+| properties.transmissionSource | Source of transmission (`Local`, or `Local`) |  
 
 - `locations.json` (in GEOJSON `FeatureCollection` format) consists of meta data of transmission clusters and other notable COVID-19 locations (hotspots, hospitals etc) in Singapore.
 

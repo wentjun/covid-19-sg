@@ -1,8 +1,8 @@
 import { ActionType, getType } from 'typesafe-actions';
+import { Point, Feature, Polygon } from 'geojson';
 import * as actions from '../actions';
 import { LocationProperties } from '../../shared/models/Location';
 import { PointProperties } from '../../shared/models/PointProperties';
-import { Point, Feature, Polygon } from 'geojson';
 
 type Action = ActionType<typeof actions>;
 export type SelectedCase= Feature<Point, PointProperties> & {
@@ -28,12 +28,12 @@ const initialState: ControlState = {
   displayCaseClusters: true,
   dateEndRange: new Date((new Date()).setHours(23, 59, 0, 0)),
   selectedCluster: null,
-  selectedCase: null
+  selectedCase: null,
 };
 
 export const controlReducer = (
   state: ControlState = initialState,
-  action: Action
+  action: Action,
 ): ControlState => {
   switch (action.type) {
     default:
@@ -42,36 +42,36 @@ export const controlReducer = (
     case getType(actions.toggleDisplayTransmissionClusters):
       return {
         ...state,
-        displayTransmissionClusters: action.payload.displayTransmissionClusters
+        displayTransmissionClusters: action.payload.displayTransmissionClusters,
       };
 
     case getType(actions.toggleDisplayCaseClusters):
       return {
         ...state,
-        displayCaseClusters: action.payload.displayCaseClusters
+        displayCaseClusters: action.payload.displayCaseClusters,
       };
 
     case getType(actions.setSelectedCluster):
       return {
         ...state,
-        selectedCluster: action.payload.selectedCluster
+        selectedCluster: action.payload.selectedCluster,
       };
 
     case getType(actions.setSelectedCase):
       return {
         ...state,
-        selectedCase: action.payload.selectedCase
+        selectedCase: action.payload.selectedCase,
       };
 
-    case getType(actions.setDateRange):
+    case getType(actions.setDateRange): {
       const dateEndRange = new Date();
-      dateEndRange.setDate(dateEndRange.getDate() - action.payload.numberOfDays);
+      dateEndRange.setDate(new Date().getDate() - action.payload.numberOfDays);
       dateEndRange.setHours(23, 59);
 
       return {
         ...state,
-        dateEndRange
+        dateEndRange,
       };
+    }
   }
-
 };

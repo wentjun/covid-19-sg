@@ -16,17 +16,17 @@ const mapStateToProps = (state: RootState) => ({
   transmissionClusterData: state.map.transmissionClusterData,
   dateEndRange: state.control.dateEndRange,
   selectedCase: state.control.selectedCase,
-  selectedCluster: state.control.selectedCluster
+  selectedCluster: state.control.selectedCluster,
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<Action>) => bindActionCreators({
-  toggleDisplayTransmissionClusters: (displayTransmissionClusters) =>
-    actions.toggleDisplayTransmissionClusters(displayTransmissionClusters),
-  toggleDisplayCaseClusters: (displayCaseClusters) =>
-    actions.toggleDisplayCaseClusters(displayCaseClusters),
+  toggleDisplayTransmissionClusters: (displayTransmissionClusters) => (
+    actions.toggleDisplayTransmissionClusters(displayTransmissionClusters)
+  ),
+  toggleDisplayCaseClusters: (displayCaseClusters) => actions.toggleDisplayCaseClusters(displayCaseClusters),
   setSelectedCluster: (selectedCluster) => actions.setSelectedCluster(selectedCluster),
   setSelectedCase: (selectedCase) => actions.setSelectedCase(selectedCase),
-  setDateRange: (numberOfDays) => actions.setDateRange(numberOfDays)
+  setDateRange: (numberOfDays) => actions.setDateRange(numberOfDays),
 }, dispatch);
 
 export default connect(mapStateToProps, mapDispatchToProps)(Control);

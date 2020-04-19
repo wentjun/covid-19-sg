@@ -1,10 +1,17 @@
 import React from 'react';
+import { useDispatch } from 'react-redux';
 import newsContent from '../../data/news-content.json';
 import { NewsContent } from '../../shared/models/NewsContent';
-import { useDispatch } from 'react-redux';
 import { setModal } from '../../redux/actions';
 import { ArticleLink } from '../summary/case-content';
-import { ModalWrapper, CloseButton, MainContent, ModalWindow, Header, Title } from './modal';
+import {
+  ModalWrapper,
+  CloseButton,
+  MainContent,
+  ModalWindow,
+  Header,
+  Title,
+} from './modal';
 import { ControlState } from '../../redux/reducers/control-reducer';
 
 interface OwnProps {
@@ -15,11 +22,9 @@ export const CaseModal: React.FC<OwnProps> = ({ selectedCase }) => {
   const dispatch = useDispatch();
   const caseContent = newsContent.find((news: NewsContent) => news.patient === selectedCase?.properties.title);
 
-  const createMarkup = (content: string) => {
-    return {
-      __html: content
-    };
-  };
+  const createMarkup = (content: string) => ({
+    __html: content,
+  });
 
   return (
     <ModalWrapper onClick={() => dispatch(setModal(null))}>
@@ -32,14 +37,21 @@ export const CaseModal: React.FC<OwnProps> = ({ selectedCase }) => {
             &#10005;
           </CloseButton>
         </Header>
-        {caseContent?.content && <MainContent dangerouslySetInnerHTML={createMarkup(caseContent.content)}/>}
-        <i>Summary credits:&nbsp;
-          <ArticleLink href='https://www.gov.sg/article/covid-19-cases-in-singapore' target='_blank' rel='noopener noreferrer'>
+        {caseContent?.content && <MainContent dangerouslySetInnerHTML={createMarkup(caseContent.content)} />}
+        <i>
+          Summary credits:&nbsp;
+          <ArticleLink
+            href='https://www.gov.sg/article/covid-19-cases-in-singapore'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
             gov.sg
           </ArticleLink>
         </i>
-        <i>Read full article over&nbsp;
+        <i>
+          Read full article over&nbsp;
           <ArticleLink
+            // eslint-disable-next-line max-len
             href={selectedCase?.properties.source || 'https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-confirmed-cases-coronavirus-12324270'}
             target='_blank'
             rel='noopener noreferrer'
@@ -51,3 +63,5 @@ export const CaseModal: React.FC<OwnProps> = ({ selectedCase }) => {
     </ModalWrapper>
   );
 };
+
+export default CaseModal;
