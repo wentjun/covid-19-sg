@@ -46,7 +46,7 @@ const Dot = styled.span<DotProps>`
   background-color: ${({ type }) => dotColour(type)};
   border-radius: 50%;
   display: inline-block;
-  margin-right: 0.5rem;
+  margin-right: 0.3rem;
 `;
 
 const UpArrow = styled.div<DotProps>`
@@ -55,17 +55,20 @@ const UpArrow = styled.div<DotProps>`
   border-left: 0.4rem solid transparent;
   border-right: 0.4rem solid transparent;
   border-bottom: 0.4rem solid ${({ type }) => dotColour(type)};
-  margin: 0 0.4rem;
+  margin: 0 0.3rem;
 `;
+
+const NON_COVID_DEATHS = 3;
 
 export const Legend: React.FC<LegendProps> = (props) => {
   const { clusterData: { features }, dateEndRange } = props;
   const totalCases = features.length;
-  // 3 of them died not due to COVID-19
   const dischargedCases = (features.filter(({ properties }) => (
     new Date(properties.discharged) < new Date(dateEndRange)))
-  ).length - 3;
-  const deathCases = (features.filter(({ properties }) => new Date(properties.death) < new Date(dateEndRange))).length;
+  ).length;
+  const deathCases = (features.filter(({ properties }) => (
+    new Date(properties.death) < new Date(dateEndRange)
+  ))).length - NON_COVID_DEATHS; // 3 of them died not due to COVID-19
   const hospitalisedCases = totalCases - dischargedCases - deathCases;
 
   const mostRecentDateConfirmed = Math.max.apply(null, features.map((e) => +new Date(e.properties.confirmed)));
@@ -114,7 +117,6 @@ export const Legend: React.FC<LegendProps> = (props) => {
         <Dot type='discharged' />
         <span>
           Discharged:
-          {' '}
           {dischargedCases}
         </span>
         <UpArrow type='discharged' />
@@ -123,12 +125,20 @@ export const Legend: React.FC<LegendProps> = (props) => {
       <Breakdown>
         <Dot type='hospitalised' />
         <span>
-          Death:
+          Deaths:
           {' '}
           {deathCases}
         </span>
         <UpArrow type='hospitalised' />
         <span>{latestDeathCount}</span>
+      </Breakdown>
+      <Breakdown>
+        <Dot type='hospitalised' />
+        <span>
+          Deaths (non-COVID):
+          {' '}
+          {NON_COVID_DEATHS}
+        </span>
       </Breakdown>
     </SummaryWrapper>
   );
