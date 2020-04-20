@@ -7,7 +7,7 @@
 ----
 This is a website that tracks COVID-19 cases and clusters in Singapore.
 
-Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, and Mapbox. Data is scraped from <a href="https://www.flaticon.com/" title="CNA">Channel NewsAsia</a>, and <a href="https://www.gov.sg/article/covid-19-cases-in-singapore" title="gov.sg">Gov.sg</a> using Cheerio and NodeJS. Polygon data is partially obtained from [nominatim](https://nominatim.openstreetmap.org/).
+Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, and Mapbox. Data is scraped from Singapore's <a href="https://www.moh.gov.sg/covid-19" title="MOH">Ministry of Health</a>, and <a href="https://www.gov.sg/article/covid-19-cases-in-singapore" title="gov.sg">Gov.sg</a> using Cheerio, pdfreader, andd NodeJS. Polygon data is obtained from [nominatim](https://nominatim.openstreetmap.org/) and [openstreetmap](http://polygons.openstreetmap.fr/).
 
 <h4>Data on this website is <a href="https://github.com/wentjun/covid-19-sg/tree/master/src/data" title="data">publicly available</a> (also accessible via `src/data`) for your usage.</h4>
 
@@ -28,6 +28,7 @@ Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, 
 | properties.age | Age of individual |  
 | properties.death | Date of death |  
 | properties.transmissionSource | Source of transmission (`Local`, or `Local`) |  
+| properties.gender | Gender of individual |  
 
 - `locations.json` (in GEOJSON `FeatureCollection` format) consists of meta data of transmission clusters and other notable COVID-19 locations (hotspots, hospitals etc) in Singapore.
 
@@ -39,7 +40,7 @@ Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, 
 | properties.type | official transmission clusters (`cluster`), hospitals (`hospital`) or other notable locations (`other`)      |
 | properties.cases | linked COVID-19 cases      |
 
-- `news-content.json` consists of a short summary of each case in Singapore
+- `news-content.json` consists of a short summary of each case in Singapore (no longer actively maintained)
 
 
 ----
