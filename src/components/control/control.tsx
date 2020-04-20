@@ -1,6 +1,8 @@
 import Select from 'antd/es/select';
 import 'antd/es/select/style/css';
-import React from 'react';
+import React, { useEffect } from 'react';
+import { Subject } from 'rxjs';
+import { debounceTime } from 'rxjs/operators';
 import styled from 'styled-components';
 import { ControlState, SelectedCase, SelectedCluster } from '../../redux/reducers/control-reducer';
 import { MapState } from '../../redux/reducers/map-reducer';
@@ -149,6 +151,15 @@ const Control: React.FC<ControlProps> = (props) => {
   const clusterLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'cluster');
   const otherLocations = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'other');
   const hospitals = transmissionClusterData.features.filter(({ properties: { type } }) => type === 'hospital');
+  const onSearch = new Subject();
+
+  useEffect(() => {
+    onSearch.pipe(
+      debounceTime(100),
+    ).subscribe((value) => {
+      setDateRange(DAYS - Number(value));
+    });
+  }, [onSearch, setDateRange]);
 
   const handleCheck = (e: React.ChangeEvent<HTMLInputElement>, type: Cluster) => {
     if (type === 'transmission') {
@@ -182,7 +193,7 @@ const Control: React.FC<ControlProps> = (props) => {
   };
 
   const handleRangeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setDateRange(DAYS - Number(e.target.value));
+    onSearch.next(e.target.value);
   };
 
   return (
