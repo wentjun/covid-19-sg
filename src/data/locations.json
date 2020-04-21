@@ -10466,6 +10466,103 @@
         "coordinates": [
           [
             [
+              103.676063,
+              1.3286633
+            ],
+            [
+              103.6772549,
+              1.3286702
+            ],
+            [
+              103.6772686,
+              1.33021
+            ],
+            [
+              103.6765821,
+              1.3302544
+            ],
+            [
+              103.676063,
+              1.3286633
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Jurong Apartments (529 Upper Jurong Road)",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.79715,
+              1.45125
+            ],
+            [
+              103.79721,
+              1.45111
+            ],
+            [
+              103.79636,
+              1.45071
+            ],
+            [
+              103.79629,
+              1.45085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Woodlands Lodge II (190 Woodlands Industrial Park E7)",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.74093,
+              1.42085
+            ],
+            [
+              103.74042,
+              1.42045
+            ],
+            [
+              103.74088,
+              1.41992
+            ],
+            [
+              103.74139,
+              1.42033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "8 Sungei Kadut Loop",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
