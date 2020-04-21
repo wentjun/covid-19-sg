@@ -58,7 +58,7 @@ const UpArrow = styled.div<DotProps>`
   margin: 0 0.3rem;
 `;
 
-const NON_COVID_DEATHS = 3;
+const NON_COVID_DEATHS = [4754, 3381, 1604];
 
 export const Legend: React.FC<LegendProps> = (props) => {
   const { clusterData: { features }, dateEndRange } = props;
@@ -66,9 +66,9 @@ export const Legend: React.FC<LegendProps> = (props) => {
   const dischargedCases = (features.filter(({ properties }) => (
     new Date(properties.discharged) < new Date(dateEndRange)))
   ).length;
-  const deathCases = (features.filter(({ properties }) => (
-    new Date(properties.death) < new Date(dateEndRange)
-  ))).length - NON_COVID_DEATHS; // 3 of them died not due to COVID-19
+  const deathCases = (features.filter(({ properties: { death, id } }) => (
+    new Date(death) < new Date(dateEndRange) && !NON_COVID_DEATHS.includes(Number(id.split('-')[1]))
+  ))).length;
   const hospitalisedCases = totalCases - dischargedCases - deathCases;
 
   const mostRecentDateConfirmed = Math.max.apply(null, features.map((e) => +new Date(e.properties.confirmed)));
@@ -137,7 +137,7 @@ export const Legend: React.FC<LegendProps> = (props) => {
         <span>
           Deaths (non-COVID):
           {' '}
-          {NON_COVID_DEATHS}
+          {NON_COVID_DEATHS.length}
         </span>
       </Breakdown>
     </SummaryWrapper>
