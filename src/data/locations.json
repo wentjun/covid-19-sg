@@ -10563,6 +10563,391 @@
         "coordinates": [
           [
             [
+              103.96484,
+              1.35808
+            ],
+            [
+              103.96515,
+              1.35810
+            ],
+            [
+              103.96528,
+              1.35772
+            ],
+            [
+              103.96493,
+              1.35768
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "The Jovell construction site (27 Flora Drive)",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6759091,
+              1.3268243
+            ],
+            [
+              103.6759484,
+              1.3262523
+            ],
+            [
+              103.6762164,
+              1.3262707
+            ],
+            [
+              103.6761876,
+              1.3266901
+            ],
+            [
+              103.6761134,
+              1.326685
+            ],
+            [
+              103.676103,
+              1.3268376
+            ],
+            [
+              103.6759091,
+              1.3268243
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Pesko Engineering Pte Ltd (2 Joo Koon Road)",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.75343,
+              1.39912
+            ],
+            [
+              103.75357,
+              1.39910
+            ],
+            [
+              103.75353,
+              1.39884
+            ],
+            [
+              103.75339,
+              1.39890
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "5 Sungei Kadut Avenue",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.74646,
+              1.43489
+            ],
+            [
+              103.74645,
+              1.43489
+            ],
+            [
+              103.74630,
+              1.43512
+            ],
+            [
+              103.74601,
+              1.43493
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "10 Kranji Link",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6278902,
+              1.2985395
+            ],
+            [
+              103.628165,
+              1.2984398
+            ],
+            [
+              103.6283087,
+              1.2988356
+            ],
+            [
+              103.6280339,
+              1.2989353
+            ],
+            [
+              103.6278902,
+              1.2985395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "32 Tuas View Square",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6280879,
+              1.2990645
+            ],
+            [
+              103.6283492,
+              1.2989697
+            ],
+            [
+              103.6285026,
+              1.2993923
+            ],
+            [
+              103.6282412,
+              1.2994871
+            ],
+            [
+              103.6280879,
+              1.2990645
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "36 Tuas View Square",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6285662,
+              1.3003565
+            ],
+            [
+              103.6288026,
+              1.3002708
+            ],
+            [
+              103.6289443,
+              1.3006612
+            ],
+            [
+              103.6287079,
+              1.3007469
+            ],
+            [
+              103.6285662,
+              1.3003565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "40 Tuas View Square",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.807495,
+              1.4665011
+            ],
+            [
+              103.8078159,
+              1.4659765
+            ],
+            [
+              103.8081879,
+              1.4662039
+            ],
+            [
+              103.8078669,
+              1.4667285
+            ],
+            [
+              103.807495,
+              1.4665011
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "61 Senoko Drive",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.7549682,
+              1.4017279
+            ],
+            [
+              103.7550519,
+              1.4017102
+            ],
+            [
+              103.7550102,
+              1.4015131
+            ],
+            [
+              103.7554643,
+              1.4014172
+            ],
+            [
+              103.7555782,
+              1.4019566
+            ],
+            [
+              103.755037,
+              1.4020537
+            ],
+            [
+              103.7549682,
+              1.4017279
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "8 Sungei Kadut Avenue",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.7551448,
+              1.4042412
+            ],
+            [
+              103.7554746,
+              1.4041907
+            ],
+            [
+              103.7555314,
+              1.4045614
+            ],
+            [
+              103.7552017,
+              1.4046119
+            ],
+            [
+              103.7551448,
+              1.4042412
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "18 Sungei Kadut Avenue",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.87865,
+              1.31210
+            ],
+            [
+              103.87881,
+              1.31215
+            ],
+            [
+              103.87898,
+              1.31140
+            ],
+            [
+              103.87880,
+              1.31137
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Wing Fong Court (10 Lorong 14 Geylang)",
+        "type": "cluster",
+        "cases": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
