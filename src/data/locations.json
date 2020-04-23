@@ -3000,7 +3000,8 @@
           6115,
           6124,
           6146
-        ]
+        ],
+        "caseCount": 2234
       }
     },
     {
@@ -3267,7 +3268,8 @@
           5831,
           6336,
           6564
-        ]
+        ],
+        "caseCount": 167
       }
     },
     {
@@ -4704,7 +4706,8 @@
           5601,
           2762,
           5767
-        ]
+        ],
+        "caseCount": 752
       }
     },
     {
@@ -4856,7 +4859,8 @@
           5826,
           5827,
           5830
-        ]
+        ],
+        "caseCount": 112
       }
     },
     {
@@ -4970,7 +4974,8 @@
           5692,
           3630,
           6178
-        ]
+        ],
+        "caseCount": 162
       }
     },
     {
@@ -5432,7 +5437,8 @@
           6000,
           6226,
           6382
-        ]
+        ],
+        "caseCount": 83
       }
     },
     {
@@ -5560,7 +5566,8 @@
           6306,
           6437,
           6558
-        ]
+        ],
+        "caseCount": 176
       }
     },
     {
@@ -5597,7 +5604,7 @@
         ]
       },
       "properties": {
-        "location": "Kranji Lodge (12 Kranji Road)",
+        "location": "Kranji Lodge I (12 Kranji Road)",
         "type": "cluster",
         "cases": [
           880,
@@ -5714,7 +5721,8 @@
           6394,
           6395,
           6570
-        ]
+        ],
+        "caseCount": 220
       }
     },
     {
@@ -6104,7 +6112,8 @@
           5761,
           6158,
           6239
-        ]
+        ],
+        "caseCount": 186
       }
     },
     {
@@ -6180,7 +6189,8 @@
           6249,
           6262,
           6263
-        ]
+        ],
+        "caseCount": 136
       }
     },
     {
@@ -6238,7 +6248,8 @@
           5772,
           6232,
           6233
-        ]
+        ],
+        "caseCount": 92
       }
     },
     {
@@ -6766,7 +6777,8 @@
           5992,
           6177,
           6584
-        ]
+        ],
+        "caseCount": 21
       }
     },
     {
@@ -6845,7 +6857,8 @@
           6373,
           6551,
           6552
-        ]
+        ],
+        "caseCount": 197
       }
     },
     {
@@ -6922,7 +6935,8 @@
           5008,
           5469,
           6062
-        ]
+        ],
+        "caseCount": 37
       }
     },
     {
@@ -7049,7 +7063,8 @@
           5995,
           5996,
           6368
-        ]
+        ],
+        "caseCount": 97
       }
     },
     {
@@ -7345,7 +7360,8 @@
           6555,
           6560,
           6569
-        ]
+        ],
+        "caseCount": 704
       }
     },
     {
@@ -7465,7 +7481,8 @@
           4742,
           5445,
           5466
-        ]
+        ],
+        "caseCount": 61
       }
     },
     {
@@ -8132,7 +8149,8 @@
           5736,
           5737,
           5334
-        ]
+        ],
+        "caseCount": 41
       }
     },
     {
@@ -8546,7 +8564,8 @@
           5766,
           5925,
           6157
-        ]
+        ],
+        "caseCount": 72
       }
     },
     {
@@ -8714,7 +8733,8 @@
           6007,
           6008,
           6147
-        ]
+        ],
+        "caseCount": 145
       }
     },
     {
@@ -8756,7 +8776,8 @@
           2929,
           3824,
           5926
-        ]
+        ],
+        "caseCount": 13
       }
     },
     {
@@ -8885,7 +8906,7 @@
         ]
       },
       "properties": {
-        "location": "Mandai Lodge (460 Mandai Road)",
+        "location": "Mandai Lodge I (460 Mandai Road)",
         "type": "cluster",
         "cases": [
           2611,
@@ -9058,7 +9079,8 @@
           4706,
           5449,
           5724
-        ]
+        ],
+        "caseCount": 238
       }
     },
     {
@@ -9122,7 +9144,8 @@
           5544,
           5952,
           6429
-        ]
+        ],
+        "caseCount": 28
       }
     },
     {
@@ -9189,7 +9212,8 @@
           6320,
           6272,
           6577
-        ]
+        ],
+        "caseCount": 66
       }
     },
     {
@@ -9380,7 +9404,8 @@
           6517,
           6518,
           6519
-        ]
+        ],
+        "caseCount": 80
       }
     },
     {
@@ -9419,7 +9444,8 @@
           2241,
           3242,
           3243
-        ]
+        ],
+        "caseCount": 8
       }
     },
     {
@@ -9486,7 +9512,8 @@
           5918,
           5919,
           6052
-        ]
+        ],
+        "caseCount": 83
       }
     },
     {
@@ -9546,7 +9573,8 @@
           6061,
           6166,
           6329
-        ]
+        ],
+        "caseCount": 43
       }
     },
     {
@@ -9647,7 +9675,8 @@
           6302,
           6313,
           6409
-        ]
+        ],
+        "caseCount": 153
       }
     },
     {
@@ -9706,7 +9735,8 @@
           6372,
           6579,
           6583
-        ]
+        ],
+        "caseCount": 33
       }
     },
     {
@@ -9822,7 +9852,8 @@
           6231,
           6237,
           6343
-        ]
+        ],
+        "caseCount": 92
       }
     },
     {
@@ -9913,7 +9944,8 @@
           3469,
           3498,
           5625
-        ]
+        ],
+        "caseCount": 15
       }
     },
     {
@@ -9957,7 +9989,8 @@
           4996,
           5005,
           5006
-        ]
+        ],
+        "caseCount": 262
       }
     },
     {
@@ -10014,7 +10047,8 @@
           4882,
           4883,
           6557
-        ]
+        ],
+        "caseCount": 220
       }
     },
     {
@@ -10456,7 +10490,8 @@
           3230,
           3380,
           4895
-        ]
+        ],
+        "caseCount": 25
       }
     },
     {
@@ -10491,7 +10526,8 @@
       "properties": {
         "location": "Jurong Apartments (529 Upper Jurong Road)",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 85
       }
     },
     {
@@ -10584,7 +10620,8 @@
       "properties": {
         "location": "The Jovell construction site (27 Flora Drive)",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 31
       }
     },
     {
@@ -10627,7 +10664,8 @@
       "properties": {
         "location": "Pesko Engineering Pte Ltd (2 Joo Koon Road)",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 51
       }
     },
     {
@@ -10658,7 +10696,8 @@
       "properties": {
         "location": "5 Sungei Kadut Avenue",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 16
       }
     },
     {
@@ -10724,7 +10763,8 @@
       "properties": {
         "location": "32 Tuas View Square",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 39
       }
     },
     {
@@ -10794,7 +10834,8 @@
       "properties": {
         "location": "40 Tuas View Square",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 8
       }
     },
     {
@@ -10829,7 +10870,8 @@
       "properties": {
         "location": "61 Senoko Drive",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 21
       }
     },
     {
@@ -10872,7 +10914,8 @@
       "properties": {
         "location": "8 Sungei Kadut Avenue",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 80
       }
     },
     {
@@ -10907,7 +10950,8 @@
       "properties": {
         "location": "18 Sungei Kadut Avenue",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 51
       }
     },
     {
@@ -10938,7 +10982,256 @@
       "properties": {
         "location": "Wing Fong Court (10 Lorong 14 Geylang)",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6943722,
+              1.3335921
+            ],
+            [
+              103.6943734,
+              1.3326868
+            ],
+            [
+              103.6954745,
+              1.3326883
+            ],
+            [
+              103.6954733,
+              1.3335935
+            ],
+            [
+              103.6943722,
+              1.3335921
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Blue Stars Dormitory (3 Kian Teck Lane)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.7999601,
+              1.4597711
+            ],
+            [
+              103.800129,
+              1.4595003
+            ],
+            [
+              103.8008991,
+              1.4600024
+            ],
+            [
+              103.8007462,
+              1.4602383
+            ],
+            [
+              103.8006431,
+              1.4601774
+            ],
+            [
+              103.8005092,
+              1.4600896
+            ],
+            [
+              103.8003492,
+              1.4599943
+            ],
+            [
+              103.8003278,
+              1.4600211
+            ],
+            [
+              103.7999601,
+              1.4597711
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Hulett Dormitory (20 Senoko Drive)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6268395,
+              1.3133629
+            ],
+            [
+              103.6279875,
+              1.3129124
+            ],
+            [
+              103.6286417,
+              1.314886
+            ],
+            [
+              103.6275584,
+              1.3153204
+            ],
+            [
+              103.6268395,
+              1.3133629
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Seatown Dormitory (69H Tuas South Avenue 1)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.8035735,
+              1.4544049
+            ],
+            [
+              103.8038757,
+              1.4538542
+            ],
+            [
+              103.8046536,
+              1.4542961
+            ],
+            [
+              103.8047253,
+              1.4544705
+            ],
+            [
+              103.8048824,
+              1.4546414
+            ],
+            [
+              103.8055058,
+              1.4550073
+            ],
+            [
+              103.8051535,
+              1.455741
+            ],
+            [
+              103.8050499,
+              1.4557496
+            ],
+            [
+              103.8035735,
+              1.4544049
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Woodlands Dormitory (27 Woodlands Sector 1)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.9706498,
+              1.3744365
+            ],
+            [
+              103.9707755,
+              1.3743132
+            ],
+            [
+              103.9711891,
+              1.3747008
+            ],
+            [
+              103.9710515,
+              1.3748349
+            ],
+            [
+              103.9706498,
+              1.3744365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "12 Loyang Drive",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.74356,
+              1.40860
+            ],
+            [
+              103.74409,
+              1.40858
+            ],
+            [
+              103.74408,
+              1.40834
+            ],
+            [
+              103.74364,
+              1.40837
+            ],
+            [
+              103.74354,
+              1.40849
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "59 Sungei Kadut Loop",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 11
       }
     },
     {
