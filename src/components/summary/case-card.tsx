@@ -69,6 +69,7 @@ export const CaseCard: React.FC<CaseCardProps> = (props) => {
               cases={selectedCluster.properties.cases}
               onCaseClick={selectCase}
               importedCaseCount={importedCaseCount}
+              caseCount={selectedCluster.properties.caseCount}
             />
           )
       }

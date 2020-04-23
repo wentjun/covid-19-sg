@@ -28,7 +28,11 @@ export type ClusterContentProps = Omit<LocationProperties, 'type'> & {
 
 export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
   const {
-    cases, location, onCaseClick, importedCaseCount,
+    cases,
+    location,
+    onCaseClick,
+    importedCaseCount,
+    caseCount,
   } = props;
 
   return (
@@ -46,11 +50,11 @@ export const ClusterContent: React.FC<ClusterContentProps> = (props) => {
         : (
           <div>
             <span>Confirmed Cases:</span>
-            <CaseCount>{` ${cases.length}`}</CaseCount>
+            <CaseCount>{caseCount || cases.length}</CaseCount>
           </div>
         )
       }
-      <span>Cases (click to view more):</span>
+      <span>Known Cases (click to view more):</span>
       <CasesContainer>
         {cases.map((patient: number, index) => (
           // eslint-disable-next-line react/no-array-index-key

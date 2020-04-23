@@ -58,14 +58,14 @@ const UpArrow = styled.div<DotProps>`
   margin: 0 0.3rem;
 `;
 
-const NON_COVID_DEATHS = [4754, 3381, 1604];
+const NON_COVID_DEATHS = [4754, 3381, 1604, 8190];
 
 export const Legend: React.FC<LegendProps> = (props) => {
   const { clusterData: { features }, dateEndRange } = props;
   const totalCases = features.length;
-  const dischargedCases = (features.filter(({ properties }) => (
-    new Date(properties.discharged) < new Date(dateEndRange)))
-  ).length;
+  const dischargedCases = (features.filter(({ properties: { discharged, id } }) => (
+    new Date(discharged) < new Date(dateEndRange) && !NON_COVID_DEATHS.includes(Number(id.split('-')[1]))
+  ))).length;
   const deathCases = (features.filter(({ properties: { death, id } }) => (
     new Date(death) < new Date(dateEndRange) && !NON_COVID_DEATHS.includes(Number(id.split('-')[1]))
   ))).length;
