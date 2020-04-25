@@ -3001,7 +3001,7 @@
           6124,
           6146
         ],
-        "caseCount": 2263
+        "caseCount": 2268
       }
     },
     {
@@ -3269,7 +3269,7 @@
           6336,
           6564
         ],
-        "caseCount": 175
+        "caseCount": 182
       }
     },
     {
@@ -4131,7 +4131,8 @@
           4374,
           5037,
           5514
-        ]
+        ],
+        "caseCount": 78
       }
     },
     {
@@ -4707,7 +4708,7 @@
           2762,
           5767
         ],
-        "caseCount": 871
+        "caseCount": 849
       }
     },
     {
@@ -4975,7 +4976,7 @@
           3630,
           6178
         ],
-        "caseCount": 189
+        "caseCount": 214
       }
     },
     {
@@ -5567,7 +5568,7 @@
           6437,
           6558
         ],
-        "caseCount": 182
+        "caseCount": 194
       }
     },
     {
@@ -5722,7 +5723,7 @@
           6395,
           6570
         ],
-        "caseCount": 271
+        "caseCount": 276
       }
     },
     {
@@ -5882,7 +5883,7 @@
           6241,
           6344
         ],
-        "caseCount": 77
+        "caseCount": 88
       }
     },
     {
@@ -6191,7 +6192,7 @@
           6262,
           6263
         ],
-        "caseCount": 152
+        "caseCount": 159
       }
     },
     {
@@ -6250,7 +6251,7 @@
           6232,
           6233
         ],
-        "caseCount": 96
+        "caseCount": 98
       }
     },
     {
@@ -6779,7 +6780,7 @@
           6177,
           6584
         ],
-        "caseCount": 23
+        "caseCount": 27
       }
     },
     {
@@ -6859,7 +6860,7 @@
           6551,
           6552
         ],
-        "caseCount": 211
+        "caseCount": 244
       }
     },
     {
@@ -6937,7 +6938,7 @@
           5469,
           6062
         ],
-        "caseCount": 37
+        "caseCount": 41
       }
     },
     {
@@ -7362,7 +7363,7 @@
           6560,
           6569
         ],
-        "caseCount": 854
+        "caseCount": 862
       }
     },
     {
@@ -7483,7 +7484,7 @@
           5445,
           5466
         ],
-        "caseCount": 25
+        "caseCount": 29
       }
     },
     {
@@ -8151,7 +8152,7 @@
           5737,
           5334
         ],
-        "caseCount": 41
+        "caseCount": 42
       }
     },
     {
@@ -8736,7 +8737,7 @@
           6008,
           6147
         ],
-        "caseCount": 165
+        "caseCount": 177
       }
     },
     {
@@ -8779,7 +8780,7 @@
           3824,
           5926
         ],
-        "caseCount": 15
+        "caseCount": 22
       }
     },
     {
@@ -8832,7 +8833,7 @@
           5547,
           6411
         ],
-        "caseCount": 133
+        "caseCount": 135
       }
     },
     {
@@ -9083,7 +9084,7 @@
           5449,
           5724
         ],
-        "caseCount": 258
+        "caseCount": 273
       }
     },
     {
@@ -9148,7 +9149,7 @@
           5952,
           6429
         ],
-        "caseCount": 34
+        "caseCount": 36
       }
     },
     {
@@ -9216,7 +9217,7 @@
           6272,
           6577
         ],
-        "caseCount": 89
+        "caseCount": 105
       }
     },
     {
@@ -9326,7 +9327,7 @@
           6581,
           6238
         ],
-        "caseCount": 149
+        "caseCount": 183
       }
     },
     {
@@ -9409,7 +9410,7 @@
           6518,
           6519
         ],
-        "caseCount": 89
+        "caseCount": 90
       }
     },
     {
@@ -9517,7 +9518,7 @@
           5919,
           6052
         ],
-        "caseCount": 86
+        "caseCount": 91
       }
     },
     {
@@ -9578,7 +9579,7 @@
           6166,
           6329
         ],
-        "caseCount": 57
+        "caseCount": 62
       }
     },
     {
@@ -9680,7 +9681,7 @@
           6313,
           6409
         ],
-        "caseCount": 187
+        "caseCount": 204
       }
     },
     {
@@ -9740,7 +9741,7 @@
           6579,
           6583
         ],
-        "caseCount": 48
+        "caseCount": 51
       }
     },
     {
@@ -9857,7 +9858,7 @@
           6237,
           6343
         ],
-        "caseCount": 100
+        "caseCount": 105
       }
     },
     {
@@ -9907,7 +9908,7 @@
           4768,
           4921
         ],
-        "caseCount": 46
+        "caseCount": 47
       }
     },
     {
@@ -9950,7 +9951,7 @@
           3498,
           5625
         ],
-        "caseCount": 20
+        "caseCount": 27
       }
     },
     {
@@ -9995,7 +9996,7 @@
           5005,
           5006
         ],
-        "caseCount": 268
+        "caseCount": 270
       }
     },
     {
@@ -10053,7 +10054,7 @@
           4883,
           6557
         ],
-        "caseCount": 224
+        "caseCount": 264
       }
     },
     {
@@ -10149,7 +10150,7 @@
           5768,
           5928
         ],
-        "caseCount": 19
+        "caseCount": 31
       }
     },
     {
@@ -10533,7 +10534,7 @@
         "location": "Jurong Apartments (529 Upper Jurong Road)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 102
+        "caseCount": 106
       }
     },
     {
@@ -10564,7 +10565,8 @@
       "properties": {
         "location": "Woodlands Lodge II (190 Woodlands Industrial Park E7)",
         "type": "cluster",
-        "cases": []
+        "cases": [],
+        "caseCount": 119
       }
     },
     {
@@ -10628,7 +10630,7 @@
         "location": "The Jovell construction site (27 Flora Drive)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 35
+        "caseCount": 44
       }
     },
     {
@@ -10672,7 +10674,7 @@
         "location": "Pesko Engineering Pte Ltd (2 Joo Koon Road)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 51
+        "caseCount": 54
       }
     },
     {
@@ -10704,7 +10706,7 @@
         "location": "5 Sungei Kadut Avenue",
         "type": "cluster",
         "cases": [],
-        "caseCount": 16
+        "caseCount": 18
       }
     },
     {
@@ -10736,7 +10738,7 @@
         "location": "10 Kranji Link",
         "type": "cluster",
         "cases": [],
-        "caseCount": 14
+        "caseCount": 15
       }
     },
     {
@@ -10772,7 +10774,7 @@
         "location": "32 Tuas View Square",
         "type": "cluster",
         "cases": [],
-        "caseCount": 47
+        "caseCount": 50
       }
     },
     {
@@ -10808,7 +10810,7 @@
         "location": "36 Tuas View Square",
         "type": "cluster",
         "cases": [],
-        "caseCount": 29
+        "caseCount": 31
       }
     },
     {
@@ -10844,7 +10846,7 @@
         "location": "40 Tuas View Square",
         "type": "cluster",
         "cases": [],
-        "caseCount": 8
+        "caseCount": 10
       }
     },
     {
@@ -10960,7 +10962,7 @@
         "location": "18 Sungei Kadut Avenue",
         "type": "cluster",
         "cases": [],
-        "caseCount": 55
+        "caseCount": 57
       }
     },
     {
@@ -11080,7 +11082,7 @@
         "location": "Hulett Dormitory (20 Senoko Drive)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 35
+        "caseCount": 42
       }
     },
     {
@@ -11116,7 +11118,7 @@
         "location": "Seatown Dormitory (69H Tuas South Avenue 1)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 33
+        "caseCount": 159
       }
     },
     {
@@ -11168,7 +11170,7 @@
         "location": "Woodlands Dormitory (27 Woodlands Sector 1)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 73
+        "caseCount": 80
       }
     },
     {
@@ -11204,7 +11206,7 @@
         "location": "12 Loyang Drive",
         "type": "cluster",
         "cases": [],
-        "caseCount": 32
+        "caseCount": 33
       }
     },
     {
@@ -11272,7 +11274,7 @@
         "location": "Alaunia Lodge (Admiralty Road West)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 41
+        "caseCount": 43
       }
     },
     {
@@ -11304,7 +11306,7 @@
         "location": "SSKBJV Dormitory (31A Tanah Merah Coast Road)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 9
+        "caseCount": 12
       }
     },
     {
@@ -11560,7 +11562,7 @@
         "location": "10 Shaw Road",
         "type": "cluster",
         "cases": [],
-        "caseCount": 22
+        "caseCount": 26
       }
     },
     {
@@ -11632,7 +11634,7 @@
         "location": "2 Sungei Kadut Avenue",
         "type": "cluster",
         "cases": [],
-        "caseCount": 13
+        "caseCount": 26
       }
     },
     {
@@ -11700,7 +11702,104 @@
         "location": "11 Tuas Avenue 10",
         "type": "cluster",
         "cases": [],
+        "caseCount": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.72744,
+              1.32255
+            ],
+            [
+              103.72798,
+              1.32226
+            ],
+            [
+              103.72774,
+              1.32183
+            ],
+            [
+              103.72719,
+              1.32216
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "ASPRI-Westlite Papan (5 Jalan Papan)",
+        "type": "cluster",
+        "cases": [],
         "caseCount": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.61345, 1.25268],[103.61396, 1.25271],[103.61397, 1.25226],[103.61345, 1.25226]]]
+      },
+      "properties": {
+        "location": "SCM Tuas Lodge (80 Tuas South Boulevard)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.8354616,1.4265882],[103.8354632,1.426551],[103.8354718,1.4265068],[103.8354883,1.42646],[103.8355112,1.4264206],[103.8359775,1.4261875],[103.8361257,1.4265001],[103.8361431,1.4265368],[103.8362354,1.4267315],[103.8362643,1.4267923],[103.8366951,1.4277011],[103.8370049,1.4283546],[103.8370116,1.4284171],[103.8370015,1.4284813],[103.8369812,1.4285202],[103.8368933,1.4286266],[103.8368511,1.428706],[103.8368258,1.4287769],[103.8368106,1.4288513],[103.8368122,1.4291232],[103.8366862,1.4291339],[103.8366909,1.4291715],[103.8367125,1.4295608],[103.8359714,1.4295763],[103.8359848,1.4299356],[103.8359842,1.4301426],[103.8356388,1.4301528],[103.8356267,1.4301421],[103.835624,1.430126],[103.8355858,1.4292301],[103.8357849,1.4292157],[103.8357769,1.4290997],[103.8356287,1.4291037],[103.8356163,1.4287911],[103.835614,1.4287285],[103.8356111,1.4286529],[103.8355876,1.4280578],[103.8355585,1.4271925],[103.835507,1.4269868],[103.8354616,1.4265882]]]
+      },
+      "properties": {
+        "location": "Northpoint City (930 Yishun Avenue 2)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.89821,1.34416],[103.89881,1.34419],[103.89882,1.34397],[103.89824,1.34394]]]
+      },
+      "properties": {
+        "location": "21 Defu South Street 1",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.83791, 1.29367],[103.83836,1.29342],[103.83805,1.29305],[103.83774,1.29324]]]
+      },
+      "properties": {
+        "location": "8 Martin Place",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[103.75367,1.32020],[103.75406,1.32015],[103.75392,1.31966],[103.75350,1.31979]]]
+      },
+      "properties": {
+        "location": "107 West Coast Vale",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 12
       }
     },
     {
