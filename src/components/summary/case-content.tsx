@@ -24,7 +24,7 @@ export const ArticleLink = styled.a`
   color: #f62459;
 `;
 
-export type CaseContent = PointProperties;
+export type CaseContent = Omit<PointProperties, 'linkedClusters'>;
 
 export const CaseContent: React.FC<CaseContent> = (props) => {
   const {
