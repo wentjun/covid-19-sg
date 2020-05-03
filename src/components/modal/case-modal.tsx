@@ -39,7 +39,8 @@ export const CaseModal: React.FC<OwnProps> = ({ selectedCase }) => {
         </Header>
         {caseContent?.content && <MainContent dangerouslySetInnerHTML={createMarkup(caseContent.content)} />}
         <i>
-          Summary credits:&nbsp;
+          Summary credits:
+          {' '}
           <ArticleLink
             href='https://www.gov.sg/article/covid-19-cases-in-singapore'
             target='_blank'
@@ -49,7 +50,8 @@ export const CaseModal: React.FC<OwnProps> = ({ selectedCase }) => {
           </ArticleLink>
         </i>
         <i>
-          Read full article over&nbsp;
+          Read full article over
+          {' '}
           <ArticleLink
             // eslint-disable-next-line max-len
             href={selectedCase?.properties.source || 'https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-confirmed-cases-coronavirus-12324270'}
@@ -59,6 +61,19 @@ export const CaseModal: React.FC<OwnProps> = ({ selectedCase }) => {
             here
           </ArticleLink>
         </i>
+        <span>
+          Linked Clusters:
+          {' '}
+        </span>
+        {selectedCase?.properties.linkedClusters.map((clusterName, index) => (
+          // eslint-disable-next-line react/no-array-index-key
+          <React.Fragment key={index}>
+            {(index ? ', ' : '')}
+            <span>
+              {clusterName}
+            </span>
+          </React.Fragment>
+        ))}
       </ModalWindow>
     </ModalWrapper>
   );

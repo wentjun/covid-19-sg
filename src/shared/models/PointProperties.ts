@@ -11,6 +11,7 @@ export interface PointProperties {
   placesVisited: string[];
   age: number;
   transmissionSource: 'Imported' | 'Local';
+  linkedClusters: string[];
 
   // props which are used when adjusting date range
   isDateEndRange?: boolean; // used to determine which point to highlight
