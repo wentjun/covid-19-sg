@@ -58,7 +58,7 @@ const UpArrow = styled.div<DotProps>`
   margin: 0 0.3rem;
 `;
 
-const NON_COVID_DEATHS = [4754, 3381, 1604, 8190, 17410];
+const NON_COVID_DEATHS = [4754, 3381, 1604, 8190, 17410, 16370];
 
 export const Legend: React.FC<LegendProps> = (props) => {
   const { clusterData: { features }, dateEndRange } = props;
