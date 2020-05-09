@@ -3001,7 +3001,7 @@
           6124,
           6146
         ],
-        "caseCount": 2529
+        "caseCount": 2535
       }
     },
     {
@@ -3269,7 +3269,7 @@
           6336,
           6564
         ],
-        "caseCount": 301
+        "caseCount": 305
       }
     },
     {
@@ -4711,7 +4711,7 @@
           2762,
           5767
         ],
-        "caseCount": 1053
+        "caseCount": 1079
       }
     },
     {
@@ -4864,7 +4864,7 @@
           5827,
           5830
         ],
-        "caseCount": 183
+        "caseCount": 184
       }
     },
     {
@@ -4979,7 +4979,7 @@
           3630,
           6178
         ],
-        "caseCount": 358
+        "caseCount": 366
       }
     },
     {
@@ -5442,7 +5442,7 @@
           6226,
           6382
         ],
-        "caseCount": 98
+        "caseCount": 100
       }
     },
     {
@@ -5571,7 +5571,7 @@
           6437,
           6558
         ],
-        "caseCount": 257
+        "caseCount": 258
       }
     },
     {
@@ -5726,7 +5726,7 @@
           6395,
           6570
         ],
-        "caseCount": 418
+        "caseCount": 425
       }
     },
     {
@@ -5887,7 +5887,7 @@
           6241,
           6344
         ],
-        "caseCount": 164
+        "caseCount": 169
       }
     },
     {
@@ -6196,7 +6196,7 @@
           6262,
           6263
         ],
-        "caseCount": 176
+        "caseCount": 177
       }
     },
     {
@@ -6785,7 +6785,7 @@
           6177,
           6584
         ],
-        "caseCount": 86
+        "caseCount": 87
       }
     },
     {
@@ -6867,7 +6867,7 @@
           17871,
           19507
         ],
-        "caseCount": 373
+        "caseCount": 380
       }
     },
     {
@@ -6945,7 +6945,7 @@
           5469,
           6062
         ],
-        "caseCount": 136
+        "caseCount": 198
       }
     },
     {
@@ -7073,7 +7073,7 @@
           5996,
           6368
         ],
-        "caseCount": 144
+        "caseCount": 146
       }
     },
     {
@@ -7371,7 +7371,7 @@
           6569,
           17845
         ],
-        "caseCount": 1164
+        "caseCount": 1176
       }
     },
     {
@@ -7493,7 +7493,7 @@
           5445,
           5466
         ],
-        "caseCount": 98
+        "caseCount": 103
       }
     },
     {
@@ -8747,7 +8747,7 @@
           6008,
           6147
         ],
-        "caseCount": 288
+        "caseCount": 296
       }
     },
     {
@@ -8843,7 +8843,7 @@
           5547,
           6411
         ],
-        "caseCount": 262
+        "caseCount": 267
       }
     },
     {
@@ -9094,7 +9094,7 @@
           5449,
           5724
         ],
-        "caseCount": 356
+        "caseCount": 358
       }
     },
     {
@@ -9159,7 +9159,7 @@
           5952,
           6429
         ],
-        "caseCount": 98
+        "caseCount": 107
       }
     },
     {
@@ -9337,7 +9337,7 @@
           6581,
           6238
         ],
-        "caseCount": 381
+        "caseCount": 391
       }
     },
     {
@@ -9528,7 +9528,7 @@
           5919,
           6052
         ],
-        "caseCount": 192
+        "caseCount": 224
       }
     },
     {
@@ -9589,7 +9589,7 @@
           6166,
           6329
         ],
-        "caseCount": 241
+        "caseCount": 257
       }
     },
     {
@@ -9691,7 +9691,7 @@
           6313,
           6409
         ],
-        "caseCount": 478
+        "caseCount": 513
       }
     },
     {
@@ -9918,7 +9918,7 @@
           4768,
           4921
         ],
-        "caseCount": 246
+        "caseCount": 270
       }
     },
     {
@@ -9961,7 +9961,7 @@
           3498,
           5625
         ],
-        "caseCount": 33
+        "caseCount": 44
       }
     },
     {
@@ -10006,7 +10006,7 @@
           5005,
           5006
         ],
-        "caseCount": 339
+        "caseCount": 340
       }
     },
     {
@@ -10064,7 +10064,7 @@
           4883,
           6557
         ],
-        "caseCount": 415
+        "caseCount": 427
       }
     },
     {
@@ -10544,7 +10544,7 @@
         "location": "Jurong Apartments (529 Upper Jurong Road)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 119
+        "caseCount": 120
       }
     },
     {
@@ -10576,7 +10576,7 @@
         "location": "Woodlands Lodge II (190 Woodlands Industrial Park E7)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 208
+        "caseCount": 214
       }
     },
     {
@@ -10640,7 +10640,7 @@
         "location": "The Jovell construction site (27 Flora Drive)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 76
+        "caseCount": 77
       }
     },
     {
@@ -10748,7 +10748,7 @@
         "location": "10 Kranji Link",
         "type": "cluster",
         "cases": [],
-        "caseCount": 34
+        "caseCount": 35
       }
     },
     {
@@ -10856,7 +10856,7 @@
         "location": "40 Tuas View Square",
         "type": "cluster",
         "cases": [],
-        "caseCount": 31
+        "caseCount": 35
       }
     },
     {
@@ -10936,7 +10936,7 @@
         "location": "8 Sungei Kadut Avenue",
         "type": "cluster",
         "cases": [],
-        "caseCount": 145
+        "caseCount": 148
       }
     },
     {
@@ -11092,7 +11092,7 @@
         "location": "Hulett Dormitory (20 Senoko Drive)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 410
+        "caseCount": 425
       }
     },
     {
@@ -11128,7 +11128,7 @@
         "location": "Seatown Dormitory (69H Tuas South Avenue 1)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 330
+        "caseCount": 371
       }
     },
     {
@@ -11180,7 +11180,7 @@
         "location": "Woodlands Dormitory (27 Woodlands Sector 1)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 123
+        "caseCount": 124
       }
     },
     {
@@ -11286,7 +11286,7 @@
         "cases": [
           19509
         ],
-        "caseCount": 171
+        "caseCount": 179
       }
     },
     {
@@ -11318,7 +11318,7 @@
         "location": "SSKBJV Dormitory (31A Tanah Merah Coast Road)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 142
+        "caseCount": 180
       }
     },
     {
@@ -11574,7 +11574,7 @@
         "location": "10 Shaw Road",
         "type": "cluster",
         "cases": [],
-        "caseCount": 185
+        "caseCount": 187
       }
     },
     {
@@ -11645,8 +11645,10 @@
       "properties": {
         "location": "2 Sungei Kadut Avenue",
         "type": "cluster",
-        "cases": [20649],
-        "caseCount": 141
+        "cases": [
+          20649
+        ],
+        "caseCount": 144
       }
     },
     {
@@ -11714,7 +11716,7 @@
         "location": "11 Tuas Avenue 10",
         "type": "cluster",
         "cases": [],
-        "caseCount": 65
+        "caseCount": 76
       }
     },
     {
@@ -11746,7 +11748,7 @@
         "location": "ASPRI-Westlite Papan (5 Jalan Papan)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 29
+        "caseCount": 32
       }
     },
     {
@@ -11778,7 +11780,7 @@
         "location": "SCM Tuas Lodge (80 Tuas South Boulevard)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 113
+        "caseCount": 118
       }
     },
     {
@@ -11988,7 +11990,7 @@
         "location": "21 Defu South Street 1",
         "type": "cluster",
         "cases": [],
-        "caseCount": 70
+        "caseCount": 139
       }
     },
     {
@@ -12052,7 +12054,7 @@
         "location": "107 West Coast Vale",
         "type": "cluster",
         "cases": [],
-        "caseCount": 80
+        "caseCount": 82
       }
     },
     {
@@ -12092,7 +12094,7 @@
         "location": "Kian Teck Hostel (30 Kian Teck Avenue)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 47
+        "caseCount": 49
       }
     },
     {
@@ -12164,7 +12166,7 @@
         "location": "5 Kian Teck Crescent",
         "type": "cluster",
         "cases": [],
-        "caseCount": 46
+        "caseCount": 45
       }
     },
     {
@@ -12196,7 +12198,7 @@
         "location": "3 Sungei Kadut Street 6",
         "type": "cluster",
         "cases": [],
-        "caseCount": 133
+        "caseCount": 134
       }
     },
     {
@@ -12232,7 +12234,7 @@
         "location": "133 Tuas View Square",
         "type": "cluster",
         "cases": [],
-        "caseCount": 9
+        "caseCount": 10
       }
     },
     {
@@ -12444,7 +12446,7 @@
         "location": "3 Senoko Link",
         "type": "cluster",
         "cases": [],
-        "caseCount": 36
+        "caseCount": 37
       }
     },
     {
@@ -12932,7 +12934,7 @@
         "location": "2 Woodlands Industrial Park E1",
         "type": "cluster",
         "cases": [],
-        "caseCount": 22
+        "caseCount": 33
       }
     },
     {
@@ -13249,7 +13251,7 @@
         "location": "17 Shaw Road",
         "type": "cluster",
         "cases": [],
-        "caseCount": 60
+        "caseCount": 62
       }
     },
     {
@@ -13281,7 +13283,7 @@
         "location": "182 Woodlands Industrial Park E5",
         "type": "cluster",
         "cases": [],
-        "caseCount": 47
+        "caseCount": 50
       }
     },
     {
@@ -13991,7 +13993,7 @@
         "location": "9 Benoi Crescent",
         "type": "cluster",
         "cases": [],
-        "caseCount": 13
+        "caseCount": 19
       }
     },
     {
@@ -14063,7 +14065,7 @@
         "location": "2 Fan Yoong Road",
         "type": "cluster",
         "cases": [],
-        "caseCount": 47
+        "caseCount": 51
       }
     },
     {
@@ -14099,7 +14101,7 @@
         "location": "10 Gul Drive",
         "type": "cluster",
         "cases": [],
-        "caseCount": 133
+        "caseCount": 134
       }
     },
     {
@@ -14183,7 +14185,7 @@
         "location": "23 Kaki Bukit Road 6",
         "type": "cluster",
         "cases": [],
-        "caseCount": 31
+        "caseCount": 33
       }
     },
     {
@@ -14267,7 +14269,7 @@
         "location": "JTC Space @ Tuas (16 Tuas Avenue 1)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 32
+        "caseCount": 35
       }
     },
     {
@@ -14715,7 +14717,7 @@
         "location": "15 Tuas View Square",
         "type": "cluster",
         "cases": [],
-        "caseCount": 78
+        "caseCount": 80
       }
     },
     {
@@ -14787,7 +14789,7 @@
         "location": "148 Woodlands Industrial Park E5",
         "type": "cluster",
         "cases": [],
-        "caseCount": 35
+        "caseCount": 36
       }
     },
     {
@@ -14839,7 +14841,7 @@
         "location": "5 Neythal Road",
         "type": "cluster",
         "cases": [],
-        "caseCount": 30
+        "caseCount": 31
       }
     },
     {
@@ -14871,7 +14873,7 @@
         "location": "34 Sungei Kadut Loop",
         "type": "cluster",
         "cases": [],
-        "caseCount": 16
+        "caseCount": 40
       }
     },
     {
@@ -14907,7 +14909,7 @@
         "location": "16 Tuas Avenue 3",
         "type": "cluster",
         "cases": [],
-        "caseCount": 51
+        "caseCount": 54
       }
     },
     {
@@ -14987,7 +14989,7 @@
         "location": "2 Tuas South Street 2",
         "type": "cluster",
         "cases": [],
-        "caseCount": 67
+        "caseCount": 73
       }
     },
     {
@@ -15075,7 +15077,7 @@
         "location": "16 Fan Yoong Road",
         "type": "cluster",
         "cases": [],
-        "caseCount": 11
+        "caseCount": 14
       }
     },
     {
@@ -15309,7 +15311,7 @@
         "location": "15 Gul Way",
         "type": "cluster",
         "cases": [],
-        "caseCount": 23
+        "caseCount": 24
       }
     },
     {
@@ -15425,7 +15427,7 @@
         "location": "64 Woodlands Industrial Park E9",
         "type": "cluster",
         "cases": [],
-        "caseCount": 22
+        "caseCount": 24
       }
     },
     {
@@ -15461,7 +15463,7 @@
         "location": "Hai Leck Engineering Pte Ltd (9 Tuas Avenue 1)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 41
+        "caseCount": 42
       }
     },
     {
@@ -16005,7 +16007,7 @@
         "location": "Melody Springs Construction Site (477A Yishun Street 44)",
         "type": "cluster",
         "cases": [],
-        "caseCount": 50
+        "caseCount": 55
       }
     },
     {
@@ -16041,7 +16043,7 @@
         "location": "6 Tuas Basin Link",
         "type": "cluster",
         "cases": [],
-        "caseCount": 14
+        "caseCount": 15
       }
     },
     {
@@ -16073,7 +16075,7 @@
         "location": "60 Benoi Road",
         "type": "cluster",
         "cases": [],
-        "caseCount": 20
+        "caseCount": 22
       }
     },
     {
@@ -16185,7 +16187,7 @@
         "location": "Clementi N2C3",
         "type": "cluster",
         "cases": [],
-        "caseCount": 32
+        "caseCount": 38
       }
     },
     {
@@ -16431,7 +16433,7 @@
         "location": "9 Tech Park Crescent",
         "type": "cluster",
         "cases": [],
-        "caseCount": 28
+        "caseCount": 29
       }
     },
     {
@@ -16475,7 +16477,7 @@
         "location": "80 Tuas Avenue 1",
         "type": "cluster",
         "cases": [],
-        "caseCount": 18
+        "caseCount": 26
       }
     },
     {
@@ -16579,7 +16581,7 @@
         "location": "20 Benoi Lane",
         "type": "cluster",
         "cases": [],
-        "caseCount": 18
+        "caseCount": 22
       }
     },
     {
@@ -16611,7 +16613,7 @@
         "location": "5 Fourth Chin Bee Road",
         "type": "cluster",
         "cases": [],
-        "caseCount": 55
+        "caseCount": 57
       }
     },
     {
@@ -16643,7 +16645,7 @@
         "location": "36 & 38 Kian Teck Drive",
         "type": "cluster",
         "cases": [],
-        "caseCount": 17
+        "caseCount": 28
       }
     },
     {
@@ -16719,7 +16721,7 @@
         "location": "Tampines Street 62",
         "type": "cluster",
         "cases": [],
-        "caseCount": 77
+        "caseCount": 79
       }
     },
     {
@@ -16931,7 +16933,7 @@
         "location": "4 Sungei Kadut Avenue",
         "type": "cluster",
         "cases": [],
-        "caseCount": 42
+        "caseCount": 50
       }
     },
     {
@@ -17040,6 +17042,186 @@
         "type": "cluster",
         "cases": [],
         "caseCount": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.9027459,
+              1.3363062
+            ],
+            [
+              103.9028902,
+              1.336176
+            ],
+            [
+              103.9029386,
+              1.3362297
+            ],
+            [
+              103.9027944,
+              1.3363599
+            ],
+            [
+              103.9027459,
+              1.3363062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "25 Kaki Bukit Industrial Terrace",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.8080153,
+              1.4668079
+            ],
+            [
+              103.8083292,
+              1.4662998
+            ],
+            [
+              103.8085469,
+              1.4664329
+            ],
+            [
+              103.8087047,
+              1.4665319
+            ],
+            [
+              103.8083922,
+              1.4670397
+            ],
+            [
+              103.8080153,
+              1.4668079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "63 Senoko Drive",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.74309,
+              1.41033
+            ],
+            [
+              103.74327,
+              1.41034
+            ],
+            [
+              103.74324,
+              1.41008
+            ],
+            [
+              103.74307,
+              1.41012
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "53 Sungei Kadut Loop",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6314036,
+              1.3108569
+            ],
+            [
+              103.6316773,
+              1.3107563
+            ],
+            [
+              103.6317938,
+              1.3110734
+            ],
+            [
+              103.6315202,
+              1.311174
+            ],
+            [
+              103.6314036,
+              1.3108569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "11 Tech Park Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6269542,
+              1.3000129
+            ],
+            [
+              103.6270974,
+              1.2999591
+            ],
+            [
+              103.627205,
+              1.3002451
+            ],
+            [
+              103.6270617,
+              1.3002989
+            ],
+            [
+              103.6269542,
+              1.3000129
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "57 Tuas View Walk 2",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 14
       }
     },
     {
