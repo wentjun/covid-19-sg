@@ -18645,6 +18645,38 @@
         "coordinates": [
           [
             [
+              103.85585,
+              1.31295
+            ],
+            [
+              103.85600,
+              1.31285
+            ],
+            [
+              103.85577,
+              1.31257
+            ],
+            [
+              103.85560,
+              1.31267
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "2 Perumal Road",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
