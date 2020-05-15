@@ -2,8 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import { MapState } from '../../redux/reducers/map-reducer';
 import { ControlState } from '../../redux/reducers/control-reducer';
-// eslint-disable-next-line import/no-named-as-default
-import Legend from './legend';
+// import Legend from './legend';
 import { CaseCard } from './case-card';
 import { Cluster } from '../control/control';
 
@@ -68,7 +67,7 @@ const Summary: React.FC<SummaryProps> = ({
   return (
     <SummaryWrapper>
       {cardType ? displayTransmissionCard(cardType) : null}
-      <Legend dateEndRange={dateEndRange} clusterData={clusterData} />
+      {/* <Legend dateEndRange={dateEndRange} clusterData={clusterData} /> */}
     </SummaryWrapper>
   );
 };

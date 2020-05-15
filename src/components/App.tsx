@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Control from './control/control-container';
 import Map from './map/map-container';
 import SnackbarUpdate from './snackbar-update/snackbar-update';
-// import Summary from './summary/summary-container';
+import Summary from './summary/summary-container';
 import Modal from './modal/modal-container';
 
 export interface AppProps {
@@ -48,7 +48,7 @@ class App extends React.Component<AppProps, AppState> {
         <Map />
         {hasServiceWorkerUpdates
           && <SnackbarUpdate onDismiss={() => this.updateServiceWorker()} />}
-        {/* <Summary /> */}
+        <Summary />
         <Modal />
       </AppWrapper>
     );
