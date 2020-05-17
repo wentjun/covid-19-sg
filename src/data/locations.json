@@ -18957,6 +18957,38 @@
         "coordinates": [
           [
             [
+              103.75359,
+              1.40166
+            ],
+            [
+              103.75414,
+              1.40155
+            ],
+            [
+              103.75402,
+              1.40099
+            ],
+            [
+              103.75347,
+              1.40113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "9 Sungei Kadut Avenue",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
