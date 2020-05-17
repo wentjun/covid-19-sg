@@ -26,6 +26,7 @@ const SummaryWrapper = styled.div`
 `;
 
 const Summary: React.FC<SummaryProps> = ({
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   selectedCase, dateEndRange, clusterData, selectedCluster,
 }) => {
   const [cardType, setCardType] = useState<Cluster | null>(null);
