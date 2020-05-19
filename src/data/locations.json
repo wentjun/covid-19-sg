@@ -18989,6 +18989,238 @@
         "coordinates": [
           [
             [
+              103.882641,
+              1.3326203
+            ],
+            [
+              103.8830529,
+              1.3327045
+            ],
+            [
+              103.8830052,
+              1.3329378
+            ],
+            [
+              103.8826706,
+              1.3328694
+            ],
+            [
+              103.8826953,
+              1.3327485
+            ],
+            [
+              103.8826525,
+              1.3327397
+            ],
+            [
+              103.882641,
+              1.3326203
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "2 Kampong Ampat",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6255315,
+              1.3006291
+            ],
+            [
+              103.6256159,
+              1.3005985
+            ],
+            [
+              103.6255883,
+              1.3005224
+            ],
+            [
+              103.6257857,
+              1.3004507
+            ],
+            [
+              103.625839,
+              1.3005976
+            ],
+            [
+              103.6257663,
+              1.3006239
+            ],
+            [
+              103.6257859,
+              1.3006779
+            ],
+            [
+              103.6255767,
+              1.3007538
+            ],
+            [
+              103.6255315,
+              1.3006291
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "43 Tuas View Close",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6277998,
+              1.3007093
+            ],
+            [
+              103.6279359,
+              1.3006588
+            ],
+            [
+              103.6280445,
+              1.3009515
+            ],
+            [
+              103.6279084,
+              1.301002
+            ],
+            [
+              103.6277998,
+              1.3007093
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "117 Tuas View Walk 1",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.79517,
+              1.45347
+            ],
+            [
+              103.79533,
+              1.45353
+            ],
+            [
+              103.79528,
+              1.45373
+            ],
+            [
+              103.79514,
+              1.45364
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "7 Woodlands Industrial Park E1",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.74986,
+              1.42002
+            ],
+            [
+              103.75038,
+              1.42011
+            ],
+            [
+              103.75043,
+              1.41967
+            ],
+            [
+              103.74994,
+              1.41959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "2 Sungei Kadut Street 4",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.9102972,
+              1.3391177
+            ],
+            [
+              103.9106871,
+              1.3382041
+            ],
+            [
+              103.9123678,
+              1.3389943
+            ],
+            [
+              103.9119746,
+              1.3398988
+            ],
+            [
+              103.9102972,
+              1.3391177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "13 Kaki Bukit Road 4",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
