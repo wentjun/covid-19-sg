@@ -7,6 +7,8 @@
 ----
 This is a website that tracks COVID-19 cases and clusters in Singapore.
 
+Note: The data from `covid-sg.json` is stale as of mid-April, as the required data is no longer publicly available from MOH. However, `locations.json` will still be partially updated.
+
 Built with React, TypeScript, Redux, Redux Observable, RxJS, Styled Components, and Mapbox. Data is scraped from Singapore's <a href="https://www.moh.gov.sg/covid-19" title="MOH">Ministry of Health</a>, and <a href="https://www.gov.sg/article/covid-19-cases-in-singapore" title="gov.sg">Gov.sg</a> using Cheerio, pdfreader, andd NodeJS. Polygon data is obtained from [nominatim](https://nominatim.openstreetmap.org/) and [openstreetmap](http://polygons.openstreetmap.fr/).
 
 <h4>Data on this website is <a href="https://github.com/wentjun/covid-19-sg/tree/master/src/data" title="data">publicly available</a> (also accessible via `src/data`) for your usage.</h4>
