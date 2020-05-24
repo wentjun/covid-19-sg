@@ -19425,6 +19425,78 @@
         "coordinates": [
           [
             [
+              103.6927567,
+              1.3294043
+            ],
+            [
+              103.6929068,
+              1.3294047
+            ],
+            [
+              103.692911,
+              1.3297723
+            ],
+            [
+              103.6927615,
+              1.3297846
+            ],
+            [
+              103.6927567,
+              1.3294043
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "28 Kian Teck Road",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6280719,
+              1.3006084
+            ],
+            [
+              103.628208,
+              1.3005579
+            ],
+            [
+              103.6283166,
+              1.3008505
+            ],
+            [
+              103.6281806,
+              1.300901
+            ],
+            [
+              103.6280719,
+              1.3006084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "121 Tuas View Walk 1",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
