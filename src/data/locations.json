@@ -19601,6 +19601,78 @@
         "coordinates": [
           [
             [
+              103.9033399,
+              1.3342902
+            ],
+            [
+              103.9034567,
+              1.3341764
+            ],
+            [
+              103.9035381,
+              1.3342598
+            ],
+            [
+              103.9034212,
+              1.3343736
+            ],
+            [
+              103.9033399,
+              1.3342902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "35 Kaki Bukit Place",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.9020608,
+              1.3360361
+            ],
+            [
+              103.9021179,
+              1.3359813
+            ],
+            [
+              103.9022139,
+              1.3360812
+            ],
+            [
+              103.9021568,
+              1.336136
+            ],
+            [
+              103.9020608,
+              1.3360361
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "40 Kaki Bukit Industrial Terrace",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
