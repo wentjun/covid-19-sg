@@ -19533,6 +19533,74 @@
         "coordinates": [
           [
             [
+              103.9102972,
+              1.3391177
+            ],
+            [
+              103.9106871,
+              1.3382041
+            ],
+            [
+              103.9123678,
+              1.3389943
+            ],
+            [
+              103.9119746,
+              1.3398988
+            ],
+            [
+              103.9102972,
+              1.3391177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "15 Kaki Bukit Road 4",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.75015,
+              1.43209
+            ],
+            [
+              103.75042,
+              1.43211
+            ],
+            [
+              103.75047,
+              1.43157
+            ],
+            [
+              103.75019,
+              1.43154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "31 Kranji Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
