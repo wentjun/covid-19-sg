@@ -19853,6 +19853,118 @@
         "coordinates": [
           [
             [
+              103.98658,
+              1.32060
+            ],
+            [
+              103.98750,
+              1.32017
+            ],
+            [
+              103.98712,
+              1.31938
+            ],
+            [
+              103.98628,
+              1.31981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "HSJV Dormitory (33A Tanah Merah Coast Road)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.630758,
+              1.2729636
+            ],
+            [
+              103.6312318,
+              1.2729196
+            ],
+            [
+              103.6312217,
+              1.2728109
+            ],
+            [
+              103.6313822,
+              1.272796
+            ],
+            [
+              103.6314809,
+              1.2738584
+            ],
+            [
+              103.6308466,
+              1.2739173
+            ],
+            [
+              103.630758,
+              1.2729636
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "10 Tuas South Street 12",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6272555,
+              1.3009113
+            ],
+            [
+              103.6273916,
+              1.3008608
+            ],
+            [
+              103.6275002,
+              1.3011534
+            ],
+            [
+              103.6273642,
+              1.3012039
+            ],
+            [
+              103.6272555,
+              1.3009113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "109 Tuas View Walk 1",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
