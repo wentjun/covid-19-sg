@@ -20173,6 +20173,138 @@
         "coordinates": [
           [
             [
+              103.86431,
+              1.30816
+            ],
+            [
+              103.86576,
+              1.30846
+            ],
+            [
+              103.86589,
+              1.30793
+            ],
+            [
+              103.86448,
+              1.30746
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Kampong Bugis",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.83016,
+              1.38745
+            ],
+            [
+              103.83031,
+              1.38737
+            ],
+            [
+              103.82980,
+              1.38654
+            ],
+            [
+              103.82967,
+              1.38664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "212 Tagore Lane",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.62793,
+              1.31577
+            ],
+            [
+              103.62850,
+              1.31558
+            ],
+            [
+              103.62838,
+              1.31518
+            ],
+            [
+              103.62780,
+              1.31539
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "63 Tuas South Avenue 1",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.8945599,
+              1.3350246
+            ],
+            [
+              103.8946004,
+              1.3349494
+            ],
+            [
+              103.89476,
+              1.3350353
+            ],
+            [
+              103.8947195,
+              1.3351105
+            ],
+            [
+              103.8945599,
+              1.3350246
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "109 Ubi Avenue 4",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
