@@ -20365,6 +20365,70 @@
         "coordinates": [
           [
             [
+              103.61582,
+              1.23471
+            ],
+            [
+              103.61770,
+              1.23471
+            ],
+            [
+              103.61775,
+              1.23366
+            ],
+            [
+              103.61585,
+              1.23370
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Beyond Tuas South Boulevard",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.70184,
+              1.33125
+            ],
+            [
+              103.70265,
+              1.33123
+            ],
+            [
+              103.70266,
+              1.33104
+            ],
+            [
+              103.70184,
+              1.33104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "10 Kwong Min Road",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
