@@ -20205,20 +20205,20 @@
         "coordinates": [
           [
             [
+              103.82999,
+              1.38717
+            ],
+            [
               103.83016,
-              1.38745
+              1.38709
             ],
             [
-              103.83031,
-              1.38737
+              103.83007,
+              1.38695
             ],
             [
-              103.82980,
-              1.38654
-            ],
-            [
-              103.82967,
-              1.38664
+              103.82991,
+              1.38703
             ]
           ]
         ]
@@ -20456,6 +20456,142 @@
         "type": "cluster",
         "cases": [],
         "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.83011,
+              1.38734
+            ],
+            [
+              103.83027,
+              1.38726
+            ],
+            [
+              103.83020,
+              1.38716
+            ],
+            [
+              103.83006,
+              1.38728
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "216 Tagore Lane",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.63087,
+              1.31102
+            ],
+            [
+              103.63109,
+              1.31095
+            ],
+            [
+              103.63103,
+              1.31081
+            ],
+            [
+              103.63082,
+              1.31089
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "9B Tech Park Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.630288,
+              1.3104299
+            ],
+            [
+              103.6304575,
+              1.3103677
+            ],
+            [
+              103.6305799,
+              1.3107005
+            ],
+            [
+              103.6304104,
+              1.3107628
+            ],
+            [
+              103.630288,
+              1.3104299
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "16 Tech Park Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6276637,
+              1.3007598
+            ],
+            [
+              103.6277998,
+              1.3007093
+            ],
+            [
+              103.6279084,
+              1.301002
+            ],
+            [
+              103.6277724,
+              1.3010525
+            ],
+            [
+              103.6276637,
+              1.3007598
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "115 Tuas View Walk 1",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 25
       }
     },
     {
