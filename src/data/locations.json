@@ -21237,6 +21237,74 @@
         "coordinates": [
           [
             [
+              103.902018,
+              1.3349353
+            ],
+            [
+              103.9022898,
+              1.334675
+            ],
+            [
+              103.9033363,
+              1.3357674
+            ],
+            [
+              103.9030645,
+              1.3360276
+            ],
+            [
+              103.902018,
+              1.3349353
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "10 Kaki Bukit Road 1 #03-32",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.69207,
+              1.33229
+            ],
+            [
+              103.69114,
+              1.33204
+            ],
+            [
+              103.69080,
+              1.33156
+            ],
+            [
+              103.69055,
+              1.33170
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "6 Kian Teck Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
