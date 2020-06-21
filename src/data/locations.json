@@ -21305,6 +21305,42 @@
         "coordinates": [
           [
             [
+              103.7920898,
+              1.4518414
+            ],
+            [
+              103.7924718,
+              1.4506752
+            ],
+            [
+              103.7926433,
+              1.4507313
+            ],
+            [
+              103.7922612,
+              1.4518975
+            ],
+            [
+              103.7920898,
+              1.4518414
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "242 Woodlands Industrial Park E5",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
