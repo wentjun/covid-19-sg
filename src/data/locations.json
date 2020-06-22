@@ -21331,7 +21331,39 @@
         "location": "242 Woodlands Industrial Park E5",
         "type": "cluster",
         "cases": [],
-        "caseCount": 0
+        "caseCount": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.82976,
+              1.38677
+            ],
+            [
+              103.82982,
+              1.38689
+            ],
+            [
+              103.82997,
+              1.38680
+            ],
+            [
+              103.82991,
+              1.38670
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "204 Tagore Lane",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 8
       }
     },
     {
