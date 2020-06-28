@@ -21733,6 +21733,42 @@
         "coordinates": [
           [
             [
+              103.9033063,
+              1.3368827
+            ],
+            [
+              103.9034371,
+              1.3367662
+            ],
+            [
+              103.9034866,
+              1.3368218
+            ],
+            [
+              103.9033558,
+              1.3369383
+            ],
+            [
+              103.9033063,
+              1.3368827
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "5 Kaki Bukit Industrial Terrace",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
