@@ -22323,6 +22323,37 @@
         "coordinates": [
           [
             [
+              103.69218, 1.33340
+            ],
+            [
+              103.69243, 1.33341
+            ],
+            [
+             103.69247, 1.33334
+            ],
+            [
+              103.69248, 1.33290
+            ],
+            [
+              103.69217, 1.33290
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "12 Kian Teck Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
