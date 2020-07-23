@@ -22583,6 +22583,110 @@
         "coordinates": [
           [
             [
+              103.69069,
+              1.33333
+            ],
+            [
+              103.69107,
+              1.33306
+            ],
+            [
+              103.69077,
+              1.33265
+            ],
+            [
+              103.69039,
+              1.33293
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "7 Kian Teck Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6285574,
+              1.311062
+            ],
+            [
+              103.6287295,
+              1.3109987
+            ],
+            [
+              103.6288521,
+              1.3113321
+            ],
+            [
+              103.62868,
+              1.3113954
+            ],
+            [
+              103.6285574,
+              1.311062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "2 Tech Park Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.6297315,
+              1.3106239
+            ],
+            [
+              103.6299014,
+              1.3105605
+            ],
+            [
+              103.6300252,
+              1.3108917
+            ],
+            [
+              103.6298554,
+              1.3109552
+            ],
+            [
+              103.6297315,
+              1.3106239
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "12 Tech Park Crescent",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
