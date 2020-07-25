@@ -22687,6 +22687,42 @@
         "coordinates": [
           [
             [
+              103.7626143,
+              1.3787493
+            ],
+            [
+              103.7628198,
+              1.3782363
+            ],
+            [
+              103.7632632,
+              1.3783389
+            ],
+            [
+              103.7631377,
+              1.3788651
+            ],
+            [
+              103.7626143,
+              1.3787493
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Bukit Panjang Integrated Transport Hub (15 Petir Road)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
