@@ -22763,6 +22763,74 @@
         "coordinates": [
           [
             [
+              103.901718,
+              1.3363649
+            ],
+            [
+              103.9017751,
+              1.3363101
+            ],
+            [
+              103.9018711,
+              1.3364101
+            ],
+            [
+              103.901814,
+              1.3364649
+            ],
+            [
+              103.901718,
+              1.3363649
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "52 Kaki Bukit Industrial Terrace",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.69281,
+              1.33101
+            ],
+            [
+              103.69320,
+              1.33098
+            ],
+            [
+              103.69320,
+              1.33090
+            ],
+            [
+              103.69280,
+              1.33090
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "19 Kian Teck Avenue",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
