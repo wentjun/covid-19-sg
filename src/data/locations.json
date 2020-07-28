@@ -22831,6 +22831,38 @@
         "coordinates": [
           [
             [
+              103.75057,
+              1.41338
+            ],
+            [
+              103.75073,
+              1.41342
+            ],
+            [
+              103.75085,
+              1.41280
+            ],
+            [
+              103.75068,
+              1.41279
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "6 Sungei Kadut Street 2",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
