@@ -22899,6 +22899,38 @@
         "coordinates": [
           [
             [
+              103.69129,
+              1.33213
+            ],
+            [
+              103.69153,
+              1.33206
+            ],
+            [
+              103.69153,
+              1.33206
+            ],
+            [
+              103.69090,
+              1.33163
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "35 Kian Teck Way",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
