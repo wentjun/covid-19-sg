@@ -22931,6 +22931,42 @@
         "coordinates": [
           [
             [
+              103.8496573,
+              1.2919231
+            ],
+            [
+              103.8497994,
+              1.2918424
+            ],
+            [
+              103.8499737,
+              1.2921491
+            ],
+            [
+              103.8498316,
+              1.2922299
+            ],
+            [
+              103.8496573,
+              1.2919231
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "SLR Revolution at Excelsior Shopping Centre (5 Coleman Street)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               103.860409,
               1.354065
             ],
