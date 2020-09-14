@@ -9627,7 +9627,7 @@
         ]
       },
       "properties": {
-        "location": "Jurong Penjuru Dormitory (58 Penjuru Place)",
+        "location": "Jurong Penjuru Dormitory 1 (58 Penjuru Place)",
         "type": "cluster",
         "cases": [
           3314,
@@ -22958,6 +22958,50 @@
         "type": "cluster",
         "cases": [],
         "caseCount": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.7314754,
+              1.3161655
+            ],
+            [
+              103.7318218,
+              1.3160858
+            ],
+            [
+              103.731969,
+              1.3158626
+            ],
+            [
+              103.7325363,
+              1.3157323
+            ],
+            [
+              103.7327909,
+              1.3168773
+            ],
+            [
+              103.7317033,
+              1.3171363
+            ],
+            [
+              103.7314754,
+              1.3161655
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "location": "Jurong Penjuru Dormitory 2 (36 Penjuru Place)",
+        "type": "cluster",
+        "cases": [],
+        "caseCount": 9
       }
     },
     {
